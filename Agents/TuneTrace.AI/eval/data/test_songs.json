@@ -1,0 +1,41 @@
+[
+  {
+    "input": "Bohemian Rhapsody by Queen",
+    "expected_genre": "Rock",
+    "expected_era": "1970s",
+    "description": "Classic rock opera with complex structure"
+  },
+  {
+    "input": "Lose Yourself by Eminem",
+    "expected_genre": "Hip-Hop",
+    "expected_era": "2000s",
+    "description": "High-energy motivational rap"
+  },
+  {
+    "input": "Billie Jean by Michael Jackson",
+    "expected_genre": "Pop",
+    "expected_era": "1980s",
+    "description": "Iconic pop with distinctive bassline"
+  },
+  {
+    "input": "Smells Like Teen Spirit by Nirvana",
+    "expected_genre": "Grunge",
+    "expected_era": "1990s",
+    "description": "Defining grunge rock anthem"
+  },
+  {
+    "input": "Shape of You by Ed Sheeran",
+    "expected_genre": "Pop",
+    "expected_era": "2010s",
+    "description": "Modern pop with tropical house elements"
+  },
+  {
+    "input": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "expected_genre": "Pop",
+    "expected_era": "1980s",
+    "description": "URL input test - Rick Astley Never Gonna Give You Up"
+  }
+]
+
+
+
