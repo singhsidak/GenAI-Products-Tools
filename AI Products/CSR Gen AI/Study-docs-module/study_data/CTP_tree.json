@@ -1,0 +1,1517 @@
+[
+  {
+    "node_id": "document_title",
+    "title": "A PHASE 1/2/3, PLACEBO-CONTROLLED, RANDOMIZED, OBSERVER-BLIND, DOSE-FINDING STUDY TO EVALUATE THE SAFETY, TOLERABILITY, IMMUNOGENICITY, AND EFFICACY OF SARS-COV-2 RNA VACCINE CANDIDATES AGAINST COVID-19 IN HEALTHY INDIVIDUALS",
+    "level": 1,
+    "start_page": 1,
+    "end_page": 1,
+    "summary": "This document outlines the protocol for a multi-phase clinical trial (C4591001) evaluating the safety, tolerability, immunogenicity, and efficacy of PF-07302048 (BNT162 RNA-Based COVID-19 Vaccines) in healthy individuals.",
+    "children": []
+  },
+  {
+    "node_id": "toc",
+    "title": "TABLE OF CONTENTS",
+    "level": 1,
+    "start_page": 2,
+    "end_page": 7,
+    "summary": "This section provides a structured overview of the entire protocol document, listing all major sections and subsections with their corresponding starting page numbers for easy navigation.",
+    "children": []
+  },
+  {
+    "node_id": "list_of_tables",
+    "title": "LIST OF TABLES",
+    "level": 1,
+    "start_page": 8,
+    "end_page": 8,
+    "summary": "This section presents an index of all tables contained within the protocol, specifying their titles and the pages where they can be found.",
+    "children": []
+  },
+  {
+    "node_id": "1",
+    "title": "PROTOCOL SUMMARY",
+    "level": 1,
+    "start_page": 9,
+    "end_page": 25,
+    "summary": "This section provides an executive summary of the study protocol, including the rationale, objectives, overall design, participant numbers, intervention groups, and statistical methods.",
+    "children": [
+      {
+        "node_id": "1.1",
+        "title": "Synopsis",
+        "level": 2,
+        "start_page": 9,
+        "end_page": 16,
+        "summary": "The synopsis outlines the study's short title, rationale for rapid vaccine development against COVID-19, describes the two RNA vaccine candidates (BNT162b1 and BNT162b2), and states the primary objectives of evaluating safety, immunogenicity, and efficacy.",
+        "children": []
+      },
+      {
+        "node_id": "1.2",
+        "title": "Schema",
+        "level": 2,
+        "start_page": 17,
+        "end_page": 17,
+        "summary": "This section refers to a visual diagram that illustrates the overall design and progression of the study's phases.",
+        "children": []
+      },
+      {
+        "node_id": "1.3",
+        "title": "Schedule of Activities",
+        "level": 2,
+        "start_page": 18,
+        "end_page": 25,
+        "summary": "This section presents a comprehensive overview of all protocol visits and required procedures for participants, detailing the timing and sequence of assessments throughout the study.",
+        "children": [
+          {
+            "node_id": "1.3.1",
+            "title": "Phase 1",
+            "level": 3,
+            "start_page": 18,
+            "end_page": 22,
+            "summary": "This subsection details the specific schedule of activities and visits for participants enrolled in Phase 1 of the study, including screening, vaccination, and follow-up visits, as well as unplanned COVID-19 illness visits.",
+            "children": []
+          },
+          {
+            "node_id": "1.3.2",
+            "title": "Phase 2/3",
+            "level": 3,
+            "start_page": 23,
+            "end_page": 25,
+            "summary": "This subsection outlines the schedule of activities for participants in Phase 2/3, covering vaccination visits, follow-up appointments, and procedures for potential COVID-19 illness, including rare events like MIS-C.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "node_id": "2",
+    "title": "INTRODUCTION",
+    "level": 1,
+    "start_page": 26,
+    "end_page": 30,
+    "summary": "This section provides background information on the COVID-19 pandemic, the urgent need for a vaccine, and the scientific basis for RNA-based vaccine candidates.",
+    "children": [
+      {
+        "node_id": "2.1",
+        "title": "Study Rationale",
+        "level": 2,
+        "start_page": 26,
+        "end_page": 26,
+        "summary": "This section explains the critical need for a rapidly developed, effective vaccine against SARS-CoV-2 given the global COVID-19 pandemic.",
+        "children": []
+      },
+      {
+        "node_id": "2.2",
+        "title": "Background",
+        "level": 2,
+        "start_page": 26,
+        "end_page": 28,
+        "summary": "This section describes the emergence of COVID-19, its global spread as a pandemic, and the advantages of prophylactic RNA-based vaccines for rapid response to emerging viruses.",
+        "children": [
+          {
+            "node_id": "2.2.1",
+            "title": "Clinical Overview",
+            "level": 3,
+            "start_page": 27,
+            "end_page": 28,
+            "summary": "This subsection provides an overview of the expected favorable safety profile of BNT162 vaccines, based on prior clinical data from similar RNA liposomal vaccines and published results, and notes initial safety and immunogenicity data from ongoing studies.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "2.3",
+        "title": "Benefit/Risk Assessment",
+        "level": 2,
+        "start_page": 27,
+        "end_page": 30,
+        "summary": "This section discusses the balance of potential benefits and risks associated with participating in the study, considering the lack of existing preventative options for COVID-19 and the expected safety profile of the vaccine candidates.",
+        "children": [
+          {
+            "node_id": "2.3.1",
+            "title": "Risk Assessment",
+            "level": 3,
+            "start_page": 29,
+            "end_page": 30,
+            "summary": "This subsection would typically detail the identified risks associated with the study intervention and participation, though the content provided refers to a table for specifics.",
+            "children": []
+          },
+          {
+            "node_id": "2.3.2",
+            "title": "Benefit Assessment",
+            "level": 3,
+            "start_page": 31,
+            "end_page": 31,
+            "summary": "This subsection outlines the potential benefits for individual participants, including receiving a potentially efficacious COVID-19 vaccine, access to diagnostic testing, and contributing to global research efforts.",
+            "children": []
+          },
+          {
+            "node_id": "2.3.3",
+            "title": "Overall Benefit/Risk Conclusion",
+            "level": 3,
+            "start_page": 31,
+            "end_page": 31,
+            "summary": "This subsection concludes that the potential risks of the BNT162 RNA-based COVID-19 vaccine are justified by the anticipated benefits for healthy participants, given measures taken to minimize risk.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "node_id": "3",
+    "title": "OBJECTIVES, ESTIMANDS, AND ENDPOINTS",
+    "level": 1,
+    "start_page": 31,
+    "end_page": 35,
+    "summary": "This section details the specific goals of the study, defining the estimands (what is being measured) and endpoints (the outcomes used to measure objectives) for both Phase 1 and Phase 2/3.",
+    "children": [
+      {
+        "node_id": "3.1",
+        "title": "For Phase 1",
+        "level": 2,
+        "start_page": 31,
+        "end_page": 32,
+        "summary": "This subsection outlines the primary, secondary, and exploratory objectives, estimands, and endpoints specifically for Phase 1 of the study, focusing on safety, tolerability, and immunogenicity to identify optimal vaccine candidates and dose levels.",
+        "children": []
+      },
+      {
+        "node_id": "3.2",
+        "title": "For Phase 2/3",
+        "level": 2,
+        "start_page": 33,
+        "end_page": 35,
+        "summary": "This subsection details the objectives, estimands, and endpoints for Phase 2/3, which expand to include vaccine efficacy against confirmed COVID-19 and severe COVID-19, in addition to continued safety and immunogenicity evaluations across broader age groups.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "4",
+    "title": "STUDY DESIGN",
+    "level": 1,
+    "start_page": 36,
+    "end_page": 40,
+    "summary": "This section describes the overarching structure of the clinical trial, including its phases, randomization, blinding, and the criteria for study completion.",
+    "children": [
+      {
+        "node_id": "4.1",
+        "title": "Overall Design",
+        "level": 2,
+        "start_page": 36,
+        "end_page": 38,
+        "summary": "This subsection describes the study as a multicenter, multinational, Phase 1/2/3, randomized, placebo-controlled, observer-blind, dose-finding, vaccine candidate-selection, and efficacy study in healthy individuals.",
+        "children": [
+          {
+            "node_id": "4.1.1",
+            "title": "Phase 1",
+            "level": 3,
+            "start_page": 36,
+            "end_page": 37,
+            "summary": "This subsection details Phase 1, including participant allocation (12 active, 3 placebo), additional safety assessments, controlled enrollment for initial vaccinations, application of stopping rules, and review by an internal review committee (IRC) for dose escalation and candidate selection.",
+            "children": []
+          },
+          {
+            "node_id": "4.1.2",
+            "title": "Phase 2/3",
+            "level": 3,
+            "start_page": 37,
+            "end_page": 38,
+            "summary": "This subsection outlines the expanded Phase 2/3, where BNT162b2 at a 30 µg dose was selected for evaluation in participants ≥12 years, with specific age strata and sample size considerations for efficacy and noninferiority assessments.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "4.2",
+        "title": "Scientific Rationale for Study Design",
+        "level": 2,
+        "start_page": 39,
+        "end_page": 39,
+        "summary": "This section explains the scientific justification for the study design, including the importance of COVID-19 surveillance for disease enhancement and the requirement for effective contraception due to unknown human reproductive safety data for BNT162 RNA-based vaccines.",
+        "children": []
+      },
+      {
+        "node_id": "4.3",
+        "title": "Justification for Dose",
+        "level": 2,
+        "start_page": 39,
+        "end_page": 40,
+        "summary": "This section explains the rationale for dose selection, initially based on nonclinical experience and prior RNA platform trials, and details amendments made to dose levels and vaccine candidates (BNT162b1 and BNT162b2) during the study's progression, ultimately selecting BNT162b2 at 30 µg for Phase 2/3.",
+        "children": []
+      },
+      {
+        "node_id": "4.4",
+        "title": "End of Study Definition",
+        "level": 2,
+        "start_page": 40,
+        "end_page": 40,
+        "summary": "This section defines the criteria for a participant completing the study and the overall end of the study, noting that Phase 1 participants in non-progressing groups may have shorter follow-up durations.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "5",
+    "title": "STUDY POPULATION",
+    "level": 1,
+    "start_page": 40,
+    "end_page": 44,
+    "summary": "This section details the criteria for selecting eligible participants, including inclusion and exclusion factors, lifestyle considerations, and procedures for screen failures or temporary enrollment delays.",
+    "children": [
+      {
+        "node_id": "5.1",
+        "title": "Inclusion Criteria",
+        "level": 2,
+        "start_page": 40,
+        "end_page": 41,
+        "summary": "This subsection lists the specific requirements participants must meet to be included in the study, such as age ranges for different phases, willingness to comply with study procedures, healthy status, and in Phase 2/3, being at higher risk for COVID-19, and providing informed consent.",
+        "children": []
+      },
+      {
+        "node_id": "5.2",
+        "title": "Exclusion Criteria",
+        "level": 2,
+        "start_page": 41,
+        "end_page": 43,
+        "summary": "This subsection details the conditions that disqualify individuals from participating in the study, including various medical conditions, prior/concomitant therapies, clinical study experience, diagnostic findings, and specific occupational risks.",
+        "children": []
+      },
+      {
+        "node_id": "5.3",
+        "title": "Lifestyle Considerations",
+        "level": 2,
+        "start_page": 44,
+        "end_page": 44,
+        "summary": "This subsection addresses specific lifestyle factors relevant to study participation, primarily focusing on contraception requirements.",
+        "children": [
+          {
+            "node_id": "5.3.1",
+            "title": "Contraception",
+            "level": 3,
+            "start_page": 44,
+            "end_page": 44,
+            "summary": "This subsection outlines the requirements for participants to use appropriate and highly effective methods of contraception throughout the study, with guidance on discussion and documentation by the investigator.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "5.4",
+        "title": "Screen Failures",
+        "level": 2,
+        "start_page": 44,
+        "end_page": 44,
+        "summary": "This subsection defines screen failures as participants who consent but are not randomized, requiring minimal data collection for transparent reporting and allowing for potential rescreening under a new participant number.",
+        "children": []
+      },
+      {
+        "node_id": "5.5",
+        "title": "Criteria for Temporarily Delaying Enrollment/Randomization/Study Intervention Administration",
+        "level": 2,
+        "start_page": 44,
+        "end_page": 45,
+        "summary": "This subsection lists temporary or self-limiting conditions, such as acute illnesses, recent vaccinations, or systemic corticosteroid use, that require delaying a participant's enrollment or vaccination until the condition resolves.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "6",
+    "title": "STUDY INTERVENTION",
+    "level": 1,
+    "start_page": 45,
+    "end_page": 52,
+    "summary": "This section describes the investigational products, including the RNA vaccine candidates and placebo, detailing their administration, handling, storage, and procedures to minimize bias through randomization and blinding.",
+    "children": [
+      {
+        "node_id": "6.1",
+        "title": "Study Intervention(s) Administered",
+        "level": 2,
+        "start_page": 46,
+        "end_page": 47,
+        "summary": "This subsection identifies the two investigational RNA vaccine candidates (BNT162b1 and BNT162b2) and normal saline placebo, along with their dose levels, administered in a two-dose schedule across different age groups, with BNT162b2 at 30 µg selected for Phase 2/3.",
+        "children": [
+          {
+            "node_id": "6.1.1",
+            "title": "Manufacturing Process",
+            "level": 3,
+            "start_page": 46,
+            "end_page": 46,
+            "summary": "This subsection explains that the BNT162b2 manufacturing process was scaled up ('Process 2') to support increased supply, and its safety and immunogenicity will be descriptively compared to material from the existing 'Process 1' in a subset of participants.",
+            "children": []
+          },
+          {
+            "node_id": "6.1.2",
+            "title": "Administration",
+            "level": 3,
+            "start_page": 46,
+            "end_page": 47,
+            "summary": "This subsection specifies that study interventions are administered intramuscularly into the deltoid muscle, preferably of the nondominant arm, by unblinded, qualified staff, with strict adherence to standard vaccination practices and immediate availability of hypersensitivity reaction management.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "6.2",
+        "title": "Preparation/Handling/Storage/Accountability",
+        "level": 2,
+        "start_page": 47,
+        "end_page": 48,
+        "summary": "This subsection outlines the procedures for ensuring proper temperature conditions, secure storage, and accountability of all study interventions, including reporting discrepancies or product complaints.",
+        "children": [
+          {
+            "node_id": "6.2.1",
+            "title": "Preparation and Dispensing",
+            "level": 3,
+            "start_page": 48,
+            "end_page": 48,
+            "summary": "This subsection describes the process for preparing and dispensing study intervention and placebo by qualified unblinded site personnel, with a second staff member verifying the dispensing to ensure participants remain blinded.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "6.3",
+        "title": "Measures to Minimize Bias: Randomization and Blinding",
+        "level": 2,
+        "start_page": 48,
+        "end_page": 50,
+        "summary": "This subsection details the strategies employed to prevent bias, including participant randomization to study intervention groups, careful blinding of site personnel and the sponsor, and procedures for emergency unblinding.",
+        "children": [
+          {
+            "node_id": "6.3.1",
+            "title": "Allocation to Study Intervention",
+            "level": 3,
+            "start_page": 48,
+            "end_page": 48,
+            "summary": "This subsection explains that participants are allocated to vaccine groups via an Interactive Response Technology (IRT) system, which provides a unique randomization number and study intervention assignment, with confirmation reports stored in site files.",
+            "children": []
+          },
+          {
+            "node_id": "6.3.2",
+            "title": "Blinding of Site Personnel",
+            "level": 3,
+            "start_page": 48,
+            "end_page": 49,
+            "summary": "This subsection specifies that while dispenser/administrator staff are unblinded, all other site personnel, including the investigator and participants, remain blinded to study intervention assignments, with measures taken to prevent identification of vaccine type based on physical appearance.",
+            "children": []
+          },
+          {
+            "node_id": "6.3.3",
+            "title": "Blinding of the Sponsor",
+            "level": 3,
+            "start_page": 49,
+            "end_page": 50,
+            "summary": "This subsection outlines that sponsor staff are unblinded for Phase 1 data review to facilitate rapid decisions, but the majority remain blinded for Phase 2/3, with specific unblinded teams supporting the DMC and regulatory submissions.",
+            "children": []
+          },
+          {
+            "node_id": "6.3.4",
+            "title": "Breaking the Blind",
+            "level": 3,
+            "start_page": 50,
+            "end_page": 50,
+            "summary": "This subsection describes the procedures for emergency unblinding of a participant's study intervention assignment, emphasizing investigator responsibility for participant safety and immediate notification of the sponsor, with documentation of the reason.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "6.4",
+        "title": "Study Intervention Compliance",
+        "level": 2,
+        "start_page": 50,
+        "end_page": 50,
+        "summary": "This subsection explains that compliance is ensured as participants are dosed directly under medical supervision at the site, with dose and participant identification confirmed by a second staff member and recorded in source documents and CRFs.",
+        "children": []
+      },
+      {
+        "node_id": "6.5",
+        "title": "Concomitant Therapy",
+        "level": 2,
+        "start_page": 50,
+        "end_page": 51,
+        "summary": "This section outlines the rules for concurrent medications and vaccinations during the study, distinguishing between those that are prohibited and those that are permitted.",
+        "children": [
+          {
+            "node_id": "6.5.1",
+            "title": "Prohibited During the Study",
+            "level": 3,
+            "start_page": 50,
+            "end_page": 51,
+            "summary": "This subsection lists medications and vaccinations that are prohibited during specific periods of the study, such as other vaccines within 28 days of study vaccination (with influenza vaccine as an exception), chronic immunosuppressant therapy, and certain systemic corticosteroids.",
+            "children": []
+          },
+          {
+            "node_id": "6.5.2",
+            "title": "Permitted During the Study",
+            "level": 3,
+            "start_page": 51,
+            "end_page": 51,
+            "summary": "This subsection specifies medications and therapies that are allowed during the study, including antipyretics and pain medication for symptom treatment, and therapies for preexisting stable conditions not otherwise prohibited.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "6.6",
+        "title": "Dose Modification",
+        "level": 2,
+        "start_page": 51,
+        "end_page": 52,
+        "summary": "This subsection allows for alterations to vaccine dose or interval based on reactogenicity, tolerability, or safety, as recommended by the IRC; it also provides specific guidance for addressing medication errors involving incorrect dosing.",
+        "children": []
+      },
+      {
+        "node_id": "6.7",
+        "title": "Intervention After the End of the Study",
+        "level": 2,
+        "start_page": 52,
+        "end_page": 52,
+        "summary": "This subsection clarifies that no study intervention or treatment will be provided to participants once their participation in the study has concluded.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "7",
+    "title": "DISCONTINUATION OF STUDY INTERVENTION AND PARTICIPANT DISCONTINUATION/WITHDRAWAL",
+    "level": 1,
+    "start_page": 52,
+    "end_page": 54,
+    "summary": "This section outlines the procedures and reasons for permanently discontinuing study intervention, as well as for participants discontinuing or withdrawing from the study, including withdrawal of consent and handling of lost to follow-up cases.",
+    "children": [
+      {
+        "node_id": "7.1",
+        "title": "Discontinuation of Study Intervention",
+        "level": 2,
+        "start_page": 52,
+        "end_page": 53,
+        "summary": "This subsection describes the reasons for permanent discontinuation of study intervention (e.g., AEs, participant request, pregnancy) and clarifies that discontinuation of intervention does not equate to withdrawal from the study, with participants remaining for safety, immunogenicity, and efficacy evaluations.",
+        "children": []
+      },
+      {
+        "node_id": "7.2",
+        "title": "Participant Discontinuation/Withdrawal From the Study",
+        "level": 2,
+        "start_page": 53,
+        "end_page": 54,
+        "summary": "This subsection details various reasons for a participant's withdrawal from the study, such as refusal of follow-up, death, or sponsor termination, and emphasizes efforts to document outcomes and the reason for withdrawal in the CRF.",
+        "children": [
+          {
+            "node_id": "7.2.1",
+            "title": "Withdrawal of Consent",
+            "level": 3,
+            "start_page": 53,
+            "end_page": 54,
+            "summary": "This subsection clarifies that participants who withdraw consent for receiving study intervention must still be followed, but if consent for future contact or information disclosure is withdrawn, no further data collection will occur, though previously collected data may be retained.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "7.3",
+        "title": "Lost to Follow-up",
+        "level": 2,
+        "start_page": 54,
+        "end_page": 54,
+        "summary": "This subsection defines a participant as lost to follow-up if they repeatedly miss visits and cannot be contacted, outlining the required actions by the site to re-establish contact before classifying them as withdrawn.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "8",
+    "title": "STUDY ASSESSMENTS AND PROCEDURES",
+    "level": 1,
+    "start_page": 54,
+    "end_page": 97,
+    "summary": "This comprehensive section details all assessments and procedures performed throughout the study, covering efficacy, immunogenicity, and safety, including visit schedules, sample collection, adverse event monitoring, and specific operational protocols.",
+    "children": [
+      {
+        "node_id": "8.1",
+        "title": "Efficacy and/or Immunogenicity Assessments",
+        "level": 2,
+        "start_page": 55,
+        "end_page": 58,
+        "summary": "This subsection describes how efficacy will be assessed through COVID-19 surveillance and confirmed case definitions, and how immunogenicity will be measured using various serum assays (neutralization, S1/RBD-binding IgG, N-binding antibody) at specified visits.",
+        "children": [
+          {
+            "node_id": "8.1.1",
+            "title": "Biological Samples",
+            "level": 3,
+            "start_page": 58,
+            "end_page": 58,
+            "summary": "This subsection details the collection and use of blood and nasal swab samples for scientific research, outlining labeling protocols, storage duration, potential for additional testing, and participant rights regarding sample destruction and data confidentiality.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "8.2",
+        "title": "Safety Assessments",
+        "level": 2,
+        "start_page": 58,
+        "end_page": 65,
+        "summary": "This section outlines the methods for monitoring participant safety, including clinical assessments, acute reaction monitoring, and the use of electronic diaries for self-reporting local reactions, systemic events, and fever, along with specific stopping rules and pregnancy testing protocols.",
+        "children": [
+          {
+            "node_id": "8.2.1",
+            "title": "Clinical Safety Laboratory Assessments (Phase 1 Participants Only)",
+            "level": 3,
+            "start_page": 59,
+            "end_page": 59,
+            "summary": "This subsection specifies that clinical safety laboratory tests, including hematology and chemistry, will be performed only for Phase 1 participants, with details provided in Appendix 2 regarding timing, frequency, and management of clinically significant abnormal findings.",
+            "children": []
+          },
+          {
+            "node_id": "8.2.2",
+            "title": "Electronic Diary",
+            "level": 3,
+            "start_page": 59,
+            "end_page": 62,
+            "summary": "This subsection describes the use of an electronic diary (e-diary) by participants in Phase 1 and a subset of Phase 2/3 to self-monitor and record local reactions, systemic events, and antipyretic medication usage for 7 days post-vaccination, with investigator review of the data.",
+            "children": [
+              {
+                "node_id": "8.2.2.1",
+                "title": "Grading Scales",
+                "level": 4,
+                "start_page": 60,
+                "end_page": 60,
+                "summary": "This subsection explains that local reactions and systemic events are assessed using grading scales derived from FDA CBER guidelines for preventive vaccine clinical trials.",
+                "children": []
+              },
+              {
+                "node_id": "8.2.2.2",
+                "title": "Local Reactions",
+                "level": 4,
+                "start_page": 60,
+                "end_page": 60,
+                "summary": "This subsection details how participants record redness, swelling, and pain at the injection site in the e-diary, with symptoms categorized and managed according to a specified grading scale, including immediate sponsor notification for confirmed Grade 4 reactions.",
+                "children": []
+              },
+              {
+                "node_id": "8.2.2.3",
+                "title": "Systemic Events",
+                "level": 4,
+                "start_page": 61,
+                "end_page": 61,
+                "summary": "This subsection describes participants' self-assessment and recording of systemic events (e.g., vomiting, headache, fatigue) in the e-diary, with symptoms graded as absent, mild, moderate, or severe, and procedures for managing Grade 3 or confirmed Grade 4 events.",
+                "children": []
+              },
+              {
+                "node_id": "8.2.2.4",
+                "title": "Fever",
+                "level": 4,
+                "start_page": 62,
+                "end_page": 62,
+                "summary": "This subsection explains that participants are provided thermometers to record oral temperature daily in the e-diary, defining fever as ≥38.0°C (100.4°F) and outlining procedures for reporting and managing fevers, especially those ≥39.0°C or >40.0°C.",
+                "children": []
+              },
+              {
+                "node_id": "8.2.2.5",
+                "title": "Antipyretic Medication",
+                "level": 4,
+                "start_page": 62,
+                "end_page": 62,
+                "summary": "This subsection states that the use of antipyretic medication to treat symptoms related to study intervention administration will be recorded daily in the reactogenicity e-diary during the 7-day reporting period.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "8.2.3",
+            "title": "Phase 1 Stopping Rules",
+            "level": 3,
+            "start_page": 62,
+            "end_page": 64,
+            "summary": "This subsection details the specific criteria for pausing randomization and study intervention administration in Phase 1, based on the occurrence of SAEs, Grade 4 local or systemic events, high fevers, similar severe AEs in multiple participants, or ICU admission/death due to SARS-CoV-2 infection, all reviewed by the IRC and DMC.",
+            "children": []
+          },
+          {
+            "node_id": "8.2.4",
+            "title": "Surveillance of Events That Could Represent Enhanced COVID-19 and Phase 2/3 Stopping Rule",
+            "level": 3,
+            "start_page": 64,
+            "end_page": 64,
+            "summary": "This subsection describes the ongoing surveillance of participants for potential COVID-19 illness and severe cases across all study phases, outlining how unblinded teams and the DMC will review data for adverse imbalances between vaccine and placebo groups to identify enhanced COVID-19 risks and trigger stopping or alert rules.",
+            "children": []
+          },
+          {
+            "node_id": "8.2.5",
+            "title": "Randomization and Vaccination After a Stopping Rule Is Met",
+            "level": 3,
+            "start_page": 64,
+            "end_page": 65,
+            "summary": "This subsection clarifies that once a stopping rule is met and the IRC/DMC has reviewed safety data and provided guidance, the sponsor will issue a notification to sites with instructions on how to proceed with randomization and vaccination.",
+            "children": []
+          },
+          {
+            "node_id": "8.2.6",
+            "title": "Pregnancy Testing",
+            "level": 3,
+            "start_page": 65,
+            "end_page": 65,
+            "summary": "This subsection mandates pregnancy testing for Women of Childbearing Potential (WOCBP) before each vaccine dose, requiring a negative result for administration, and outlines that positive confirmed pregnancies lead to withdrawal from study intervention but not from the study.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "8.3",
+        "title": "Adverse Events and Serious Adverse Events",
+        "level": 2,
+        "start_page": 65,
+        "end_page": 71,
+        "summary": "This section details the definitions, collection, recording, reporting, and follow-up procedures for both adverse events (AEs) and serious adverse events (SAEs), including specific timeframes and regulatory requirements.",
+        "children": [
+          {
+            "node_id": "8.3.1",
+            "title": "Time Period and Frequency for Collecting AE and SAE Information",
+            "level": 3,
+            "start_page": 65,
+            "end_page": 66,
+            "summary": "This subsection specifies the 'active collection period' for AEs and SAEs, beginning from informed consent until 1 month post-last dose for AEs in main phases, and up to 6 months post-last dose for SAEs, with ongoing follow-up until resolution or stabilization.",
+            "children": [
+              {
+                "node_id": "8.3.1.1",
+                "title": "Reporting SAEs to Pfizer Safety",
+                "level": 4,
+                "start_page": 66,
+                "end_page": 66,
+                "summary": "This subsection mandates immediate reporting of all SAEs to Pfizer Safety via the Vaccine SAE Report Form, within 24 hours of investigator awareness, with any updated data also submitted within 24 hours.",
+                "children": []
+              },
+              {
+                "node_id": "8.3.1.2",
+                "title": "Recording Nonserious AEs and SAEs on the CRF",
+                "level": 4,
+                "start_page": 66,
+                "end_page": 66,
+                "summary": "This subsection requires that all nonserious AEs and SAEs occurring during the active collection period be recorded on the AE section of the Case Report Form (CRF) by the investigator, capturing both directly observed and spontaneously reported events.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "8.3.2",
+            "title": "Method of Detecting AEs and SAEs",
+            "level": 3,
+            "start_page": 66,
+            "end_page": 66,
+            "summary": "This subsection refers to Appendix 3 for detailed methods of recording, evaluating, and assessing causality for AEs and SAEs, emphasizing nonleading verbal questioning to detect events without bias.",
+            "children": []
+          },
+          {
+            "node_id": "8.3.3",
+            "title": "Follow-up of AEs and SAEs",
+            "level": 3,
+            "start_page": 66,
+            "end_page": 67,
+            "summary": "This subsection outlines the investigator's responsibility to proactively follow each AE/SAE until resolution or stabilization, obtaining adequate information and submitting any relevant details, including autopsy findings for deaths, to Pfizer Safety.",
+            "children": []
+          },
+          {
+            "node_id": "8.3.4",
+            "title": "Regulatory Reporting Requirements for SAEs",
+            "level": 3,
+            "start_page": 67,
+            "end_page": 67,
+            "summary": "This subsection stresses the importance of prompt SAE notification to the sponsor to meet legal and ethical obligations for participant safety, with the sponsor responsible for reporting to regulatory authorities and investigators reviewing and filing SUSARs.",
+            "children": []
+          },
+          {
+            "node_id": "8.3.5",
+            "title": "Exposure During Pregnancy or Breastfeeding, and Occupational Exposure",
+            "level": 3,
+            "start_page": 67,
+            "end_page": 70,
+            "summary": "This subsection mandates reporting of any exposure to the study intervention during pregnancy or breastfeeding, or through occupational contact, within 24 hours of investigator awareness, regardless of SAE occurrence, with specific follow-up procedures for pregnancy outcomes.",
+            "children": [
+              {
+                "node_id": "8.3.5.1",
+                "title": "Exposure During Pregnancy",
+                "level": 4,
+                "start_page": 67,
+                "end_page": 69,
+                "summary": "This subsection defines various scenarios of exposure during pregnancy (EDP), requiring investigator reporting to Pfizer Safety within 24 hours with an EDP Supplemental Form, and outlines follow-up procedures for pregnancy outcomes, classifying abnormal outcomes as SAEs.",
+                "children": []
+              },
+              {
+                "node_id": "8.3.5.2",
+                "title": "Exposure During Breastfeeding",
+                "level": 4,
+                "start_page": 69,
+                "end_page": 69,
+                "summary": "This subsection defines exposure during breastfeeding, requiring investigators to report such instances to Pfizer Safety within 24 hours using the Vaccine SAE Report Form, irrespective of SAE occurrence, with clarification that routine use of approved drugs is not considered exposure.",
+                "children": []
+              },
+              {
+                "node_id": "8.3.5.3",
+                "title": "Occupational Exposure",
+                "level": 4,
+                "start_page": 69,
+                "end_page": 70,
+                "summary": "This subsection defines occupational exposure as unplanned direct contact with the study intervention by personnel like healthcare providers or family members, requiring investigator reporting to Pfizer Safety within 24 hours via the Vaccine SAE Report Form.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "8.3.6",
+            "title": "Cardiovascular and Death Events",
+            "level": 3,
+            "start_page": 70,
+            "end_page": 70,
+            "summary": "This subsection states that specific cardiovascular and death events are 'not applicable' for separate listing here, implying they are covered under general SAE reporting procedures.",
+            "children": []
+          },
+          {
+            "node_id": "8.3.7",
+            "title": "Disease-Related Events and/or Disease-Related Outcomes Not Qualifying as AEs or SAEs",
+            "level": 3,
+            "start_page": 70,
+            "end_page": 70,
+            "summary": "This subsection clarifies that expected potential COVID-19 illnesses consistent with endpoint definitions are captured as efficacy data, not AEs/SAEs, unless they are of unexpected intensity, frequency, or duration, or are reasonably related to the study intervention, in which case they must be reported as SAEs.",
+            "children": []
+          },
+          {
+            "node_id": "8.3.8",
+            "title": "Adverse Events of Special Interest",
+            "level": 3,
+            "start_page": 70,
+            "end_page": 70,
+            "summary": "This subsection states that specific adverse events of special interest are 'not applicable' for separate listing here, implying they are covered under general AE/SAE reporting procedures or specific efficacy endpoints.",
+            "children": [
+              {
+                "node_id": "8.3.8.1",
+                "title": "Lack of Efficacy",
+                "level": 4,
+                "start_page": 70,
+                "end_page": 70,
+                "summary": "This subsection states that lack of efficacy is only reportable to Pfizer Safety if it is associated with a serious adverse event.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "8.3.9",
+            "title": "Medical Device Deficiencies",
+            "level": 3,
+            "start_page": 70,
+            "end_page": 70,
+            "summary": "This subsection indicates that medical device deficiencies are 'not applicable' to this study, suggesting no medical devices that could cause reportable deficiencies are a primary focus.",
+            "children": []
+          },
+          {
+            "node_id": "8.3.10",
+            "title": "Medication Errors",
+            "level": 3,
+            "start_page": 70,
+            "end_page": 71,
+            "summary": "This subsection defines medication errors, including incorrect administration or dosage, and mandates their capture on a specific CRF page, requiring sponsor notification within 24 hours, and reporting to Safety only if associated with an SAE.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "8.4",
+        "title": "Treatment of Overdose",
+        "level": 2,
+        "start_page": 71,
+        "end_page": 72,
+        "summary": "This subsection defines overdose as more than one study intervention dose within 24 hours, instructing the investigator to contact the medical monitor, closely monitor the participant for AEs/SAEs, document the overdose, and report it to Safety only if associated with an SAE.",
+        "children": []
+      },
+      {
+        "node_id": "8.5",
+        "title": "Pharmacokinetics",
+        "level": 2,
+        "start_page": 72,
+        "end_page": 72,
+        "summary": "This subsection explicitly states that pharmacokinetic parameters are not evaluated in this study.",
+        "children": []
+      },
+      {
+        "node_id": "8.6",
+        "title": "Pharmacodynamics",
+        "level": 2,
+        "start_page": 72,
+        "end_page": 72,
+        "summary": "This subsection explicitly states that pharmacodynamic parameters are not evaluated in this study.",
+        "children": []
+      },
+      {
+        "node_id": "8.7",
+        "title": "Genetics",
+        "level": 2,
+        "start_page": 72,
+        "end_page": 72,
+        "summary": "This subsection states that specified genetic analyses are not evaluated in this study, aligning with the ethical guidelines for biological samples.",
+        "children": []
+      },
+      {
+        "node_id": "8.8",
+        "title": "Biomarkers",
+        "level": 2,
+        "start_page": 72,
+        "end_page": 72,
+        "summary": "This subsection explicitly states that biomarkers are not evaluated in this study.",
+        "children": []
+      },
+      {
+        "node_id": "8.9",
+        "title": "Immunogenicity Assessments",
+        "level": 2,
+        "start_page": 72,
+        "end_page": 72,
+        "summary": "This subsection directs readers to Section 8.1 for details on how immunogenicity assessments are conducted within the study.",
+        "children": []
+      },
+      {
+        "node_id": "8.10",
+        "title": "Health Economics",
+        "level": 2,
+        "start_page": 72,
+        "end_page": 72,
+        "summary": "This subsection explicitly states that health economics or medical resource utilization parameters are not evaluated in this study.",
+        "children": []
+      },
+      {
+        "node_id": "8.11",
+        "title": "Study Procedures",
+        "level": 2,
+        "start_page": 72,
+        "end_page": 92,
+        "summary": "This section provides detailed, step-by-step instructions for all study visits and procedures, separated by Phase 1 and Phase 2/3, from screening through final follow-up visits.",
+        "children": [
+          {
+            "node_id": "8.11.1",
+            "title": "Phase 1",
+            "level": 3,
+            "start_page": 72,
+            "end_page": 85,
+            "summary": "This subsection outlines the detailed schedule of all visits and specific procedures for Phase 1 participants, from screening to the 24-month follow-up, ensuring adherence to protocol for safety and data collection.",
+            "children": [
+              {
+                "node_id": "8.11.1.1",
+                "title": "Screening: (0 to 28 Days Before Visit 1)",
+                "level": 4,
+                "start_page": 72,
+                "end_page": 73,
+                "summary": "This subsection details the screening procedures, including obtaining informed consent, collecting demography and medical history, performing physical examinations, collecting various blood samples for tests, conducting pregnancy tests for WOCBP, discussing contraception, and confirming eligibility within 0 to 28 days before Visit 1.",
+                "children": []
+              },
+              {
+                "node_id": "8.11.1.2",
+                "title": "Visit 1 - Vaccination 1: (Day 1)",
+                "level": 4,
+                "start_page": 74,
+                "end_page": 76,
+                "summary": "This subsection outlines the procedures for the first vaccination visit, including recording AEs, vital signs, pregnancy test, reviewing lab results, collecting nasal swabs, ensuring eligibility, obtaining randomization details, collecting blood for immunogenicity, administering vaccine, observing for acute reactions, issuing e-diary devices, and providing instructions for daily symptom monitoring.",
+                "children": []
+              },
+              {
+                "node_id": "8.11.1.3",
+                "title": "Visit 2 - Next-Day Follow-up Visit (Vaccination 1): (1 to 3 Days After Visit 1)",
+                "level": 4,
+                "start_page": 76,
+                "end_page": 77,
+                "summary": "This subsection describes the follow-up visit one to three days after the first vaccination, including recording AEs, vital signs, physical examination if indicated, collecting blood for hematology and chemistry, recording non-study vaccinations and prohibited medications, discussing contraception, and reiterating instructions for contacting the site for severe reactions or respiratory symptoms.",
+                "children": []
+              },
+              {
+                "node_id": "8.11.1.4",
+                "title": "Visit 3 - 1-Week Follow-up Visit (Vaccination 1): (6 to 8 Days After Visit 1)",
+                "level": 4,
+                "start_page": 78,
+                "end_page": 79,
+                "summary": "This subsection details the procedures for the 1-week follow-up visit after the first vaccination, including recording AEs, reviewing lab results, vital signs, physical examination, collecting blood for hematology, chemistry, and immunogenicity, and reminding participants about e-diary completion and contacting the site for urgent symptoms.",
+                "children": []
+              },
+              {
+                "node_id": "8.11.1.5",
+                "title": "Visit 4 - Vaccination 2: (19 to 23 Days After Visit 1)",
+                "level": 4,
+                "start_page": 79,
+                "end_page": 81,
+                "summary": "This subsection describes procedures for the second vaccination visit, including recording AEs, reviewing e-diary data, lab results, vital signs, pregnancy tests, collecting nasal swabs for SARS-CoV-2 NAAT, confirming eligibility, collecting blood for labs and immunogenicity, administering vaccine, observing for acute reactions, and reinforcing e-diary use for post-vaccination monitoring.",
+                "children": []
+              },
+              {
+                "node_id": "8.11.1.6",
+                "title": "Visit 5 - 1-Week Follow-up Visit (Vaccination 2): (6 to 8 Days After Visit 4)",
+                "level": 4,
+                "start_page": 81,
+                "end_page": 82,
+                "summary": "This subsection details the procedures for the 1-week follow-up visit after the second vaccination, including recording AEs, reviewing lab results, vital signs, physical examination, collecting blood for labs and immunogenicity, with an optional additional sample for exploratory COVID-19 research, and reiterating contact instructions for severe reactions or respiratory symptoms.",
+                "children": []
+              },
+              {
+                "node_id": "8.11.1.7",
+                "title": "Visit 6 - 2-Week Follow-up Visit (Vaccination 2): (12 to 16 Days After Visit 4)",
+                "level": 4,
+                "start_page": 82,
+                "end_page": 83,
+                "summary": "This subsection outlines the procedures for the 2-week follow-up visit after the second vaccination, including recording AEs, reviewing e-diary data and lab results, vital signs, physical examination, collecting blood for immunogenicity (with an optional additional sample for exploratory research if not collected at Visit 5), and advising on contacting the site for medically attended events or respiratory symptoms.",
+                "children": []
+              },
+              {
+                "node_id": "8.11.1.8",
+                "title": "Visit 7 - 1-Month Follow-up Visit: (28 to 35 Days After Visit 4)",
+                "level": 4,
+                "start_page": 83,
+                "end_page": 84,
+                "summary": "This subsection details procedures for the 1-month follow-up visit, including recording AEs, non-study vaccinations, prohibited medications, discussing contraception, collecting blood for immunogenicity (with an optional additional sample for exploratory research if not collected previously), and providing instructions for contacting the site for medically attended events or respiratory symptoms.",
+                "children": []
+              },
+              {
+                "node_id": "8.11.1.9",
+                "title": "Visit 8 - 6-Month Follow-up Visit: (175 to 189 Days After Visit 4)",
+                "level": 4,
+                "start_page": 84,
+                "end_page": 84,
+                "summary": "This subsection outlines procedures for the 6-month follow-up visit, including recording SAEs, non-study vaccinations, prohibited medications, collecting blood for immunogenicity, and providing instructions for contacting the site for medically attended events or respiratory symptoms, with AEs within 48 hours post-blood draw also recorded.",
+                "children": []
+              },
+              {
+                "node_id": "8.11.1.10",
+                "title": "Visit 9 - 12-Month Follow-up Visit: (350 to 378 Days After Visit 4)",
+                "level": 4,
+                "start_page": 84,
+                "end_page": 85,
+                "summary": "This subsection details procedures for the 12-month follow-up visit, including collecting blood for immunogenicity, recording prohibited medications, and providing instructions for contacting the site for respiratory symptoms, with AEs within 48 hours post-blood draw also recorded.",
+                "children": []
+              },
+              {
+                "node_id": "8.11.1.11",
+                "title": "Visit 10 - 24-Month Follow-up Visit: (714 to 742 Days After Visit 4)",
+                "level": 4,
+                "start_page": 85,
+                "end_page": 85,
+                "summary": "This subsection outlines the final procedures for the 24-month follow-up visit, including collecting blood for immunogenicity, recording prohibited medications, collecting or removing the participant's e-diary, and recording any AEs occurring within 48 hours post-blood draw.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "8.11.2",
+            "title": "Phase 2/3",
+            "level": 3,
+            "start_page": 85,
+            "end_page": 92,
+            "summary": "This subsection details the schedule of all visits and specific procedures for Phase 2/3 participants, from screening to the 24-month follow-up, ensuring adherence to protocol for safety and data collection.",
+            "children": [
+              {
+                "node_id": "8.11.2.1",
+                "title": "Visit 1 - Vaccination 1: (Day 1)",
+                "level": 4,
+                "start_page": 85,
+                "end_page": 88,
+                "summary": "This subsection details the procedures for the first vaccination visit in Phase 2/3, including obtaining informed consent, collecting demography and medical history, performing clinical assessments, pregnancy tests for WOCBP, collecting blood for immunogenicity and nasal swabs, administering vaccine, observing for acute reactions, and setting up e-diaries for symptom monitoring.",
+                "children": []
+              },
+              {
+                "node_id": "8.11.2.2",
+                "title": "Visit 2 - Vaccination 2: (19 to 23 Days After Visit 1)",
+                "level": 4,
+                "start_page": 88,
+                "end_page": 90,
+                "summary": "This subsection outlines the procedures for the second vaccination visit in Phase 2/3, including recording AEs, reviewing e-diary data, pregnancy tests, confirming eligibility, measuring body temperature, collecting nasal swabs, administering vaccine, observing for acute reactions, reinforcing e-diary use, and advising on contacting the site for severe reactions or respiratory symptoms.",
+                "children": []
+              },
+              {
+                "node_id": "8.11.2.3",
+                "title": "Visit 3 - 1-Month Follow-up Visit (After Vaccination 2): (28 to 35 Days After Visit 2)",
+                "level": 4,
+                "start_page": 90,
+                "end_page": 91,
+                "summary": "This subsection details procedures for the 1-month follow-up visit after the second vaccination, including recording AEs, reviewing e-diary data, non-study vaccinations, prohibited medications, HIV viral load/CD4 count (if applicable), discussing contraception, collecting blood for immunogenicity, and providing instructions for contacting the site for medically attended events or respiratory symptoms.",
+                "children": []
+              },
+              {
+                "node_id": "8.11.2.4",
+                "title": "Visit 4 - 6-Month Follow-up Visit: (175 to 189 Days After Visit 2)",
+                "level": 4,
+                "start_page": 91,
+                "end_page": 91,
+                "summary": "This subsection outlines procedures for the 6-month follow-up visit, including recording SAEs, non-study vaccinations, HIV viral load/CD4 count (if applicable), collecting blood for immunogenicity, recording prohibited medications, and providing instructions for contacting the site for respiratory symptoms, with AEs within 48 hours post-blood draw also recorded.",
+                "children": []
+              },
+              {
+                "node_id": "8.11.2.5",
+                "title": "Visit 5 - 12-Month Follow-up Visit: (350 to 378 Days After Visit 2)",
+                "level": 4,
+                "start_page": 91,
+                "end_page": 92,
+                "summary": "This subsection details procedures for the 12-month follow-up visit, including collecting blood for immunogenicity, recording prohibited medications, HIV viral load/CD4 count (if applicable), and providing instructions for contacting the site for respiratory symptoms, with AEs within 48 hours post-blood draw also recorded.",
+                "children": []
+              },
+              {
+                "node_id": "8.11.2.6",
+                "title": "Visit 6 - 24-Month Follow-up Visit: (714 to 742 Days After Visit 2)",
+                "level": 4,
+                "start_page": 92,
+                "end_page": 92,
+                "summary": "This subsection outlines the final procedures for the 24-month follow-up visit, including collecting blood for immunogenicity, recording prohibited medications, HIV viral load/CD4 count (if applicable), collecting or removing the participant's e-diary, and recording any AEs occurring within 48 hours post-blood draw.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "8.12",
+        "title": "Unscheduled Visit for a Grade 3 or Suspected Grade 4 Reaction",
+        "level": 2,
+        "start_page": 92,
+        "end_page": 93,
+        "summary": "This subsection details the protocol for unscheduled visits triggered by Grade 3 or suspected Grade 4 local reactions, systemic events, or fever reported in the e-diary, outlining the required telephone contact and subsequent site visit procedures for assessment.",
+        "children": []
+      },
+      {
+        "node_id": "8.13",
+        "title": "COVID-19 Surveillance (All Participants)",
+        "level": 2,
+        "start_page": 93,
+        "end_page": 96,
+        "summary": "This subsection describes the ongoing surveillance for potential COVID-19 illness in all participants, instructing them to contact the site for specific symptoms to trigger in-person or telehealth visits for assessment and data collection.",
+        "children": [
+          {
+            "node_id": "8.13.1",
+            "title": "Potential COVID-19 Illness Visit: (Optimally Within 3 Days After Potential COVID-19 Illness Onset)",
+            "level": 3,
+            "start_page": 95,
+            "end_page": 96,
+            "summary": "This subsection outlines the procedures for a potential COVID-19 illness visit, which can be in-person or telehealth, to record AEs, prohibited medications, collect nasal swabs for NAAT, gather COVID-19-related clinical and laboratory information, and schedule a convalescent visit.",
+            "children": []
+          },
+          {
+            "node_id": "8.13.2",
+            "title": "Potential COVID-19 Convalescent Visit: (28 to 35 Days After Potential COVID-19 Illness Visit)",
+            "level": 3,
+            "start_page": 96,
+            "end_page": 96,
+            "summary": "This subsection details the procedures for the convalescent visit, including recording AEs and prohibited medications, collecting blood for immunogenicity testing, and updating COVID-19-related clinical and laboratory information, with AEs within 48 hours post-blood draw also recorded.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "8.14",
+        "title": "Communication and Use of Technology",
+        "level": 2,
+        "start_page": 96,
+        "end_page": 97,
+        "summary": "This subsection emphasizes the importance of maintaining communication between the study site and participants using various methods, including a study application on personal or provisioned devices, to report symptoms, receive reminders, and ensure endpoint events are not missed.",
+        "children": []
+      },
+      {
+        "node_id": "8.15",
+        "title": "SARS-CoV-2 NAAT Results From Visits 1 and 2 and Potential COVID-19 Illness Visits",
+        "level": 2,
+        "start_page": 97,
+        "end_page": 98,
+        "summary": "This subsection explains the collection of nasal swabs for SARS-CoV-2 NAAT at Visits 1, 2, and potential COVID-19 illness visits to determine eligibility for efficacy analyses and confirm case definitions, noting that positive results in asymptomatic participants do not prevent Vaccination 2, but confirmed COVID-19 does.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "9",
+    "title": "STATISTICAL CONSIDERATIONS",
+    "level": 1,
+    "start_page": 98,
+    "end_page": 115,
+    "summary": "This section outlines the statistical methodology for analyzing the collected data, including estimands, hypotheses, sample size determination, analysis sets, statistical analyses for immunogenicity, efficacy, and safety, interim analyses, and the role of the Data Monitoring Committee.",
+    "children": [
+      {
+        "node_id": "9.1",
+        "title": "Estimands and Statistical Hypotheses",
+        "level": 2,
+        "start_page": 98,
+        "end_page": 99,
+        "summary": "This subsection defines the estimands for primary, secondary, and exploratory objectives and details the statistical hypotheses that will be evaluated for efficacy and immunogenicity assessments, including specific calculations for vaccine efficacy (VE) and geometric mean ratios (GMR).",
+        "children": [
+          {
+            "node_id": "9.1.1",
+            "title": "Estimands",
+            "level": 3,
+            "start_page": 98,
+            "end_page": 98,
+            "summary": "This subsection describes the estimands for evaluating safety, immunogenicity, and efficacy objectives, specifying how missing data will be handled (e.g., no imputation for reactogenicity or antibody results, setting LLOQ values, imputation for efficacy sensitivity analysis).",
+            "children": []
+          },
+          {
+            "node_id": "9.1.2",
+            "title": "Statistical Hypotheses",
+            "level": 3,
+            "start_page": 99,
+            "end_page": 99,
+            "summary": "This subsection outlines the statistical hypotheses for evaluating efficacy and immunogenicity, including sequential assessment of vaccine efficacy against confirmed COVID-19 and noninferiority of immune response in different age groups based on geometric mean ratios.",
+            "children": [
+              {
+                "node_id": "9.1.2.1",
+                "title": "Statistical Hypothesis Evaluation for Efficacy",
+                "level": 4,
+                "start_page": 99,
+                "end_page": 99,
+                "summary": "This subsection details the primary efficacy endpoints of vaccine efficacy (VE) against confirmed COVID-19, which is defined as VE = 100 × (1 - IRR), and will be assessed based on posterior probabilities of VE > 30% for two specific definitions (VE1 and VE2).",
+                "children": []
+              },
+              {
+                "node_id": "9.1.2.2",
+                "title": "Statistical Hypothesis Evaluation for Immunogenicity",
+                "level": 4,
+                "start_page": 99,
+                "end_page": 99,
+                "summary": "This subsection outlines the secondary objective to evaluate the noninferiority of immune response in 12- to 15-year-olds compared to 16- to 25-year-olds, based on the geometric mean ratio of SARS-CoV-2 neutralizing titers, using a 1.5-fold margin.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "9.2",
+        "title": "Sample Size Determination",
+        "level": 2,
+        "start_page": 99,
+        "end_page": 101,
+        "summary": "This subsection details the sample size calculations for each study phase, noting that Phase 1 is not based on hypothesis testing, while Phase 2/3 aims for 43,998 participants to achieve 90% power for efficacy, and 200 evaluable participants per age group for immunogenicity noninferiority.",
+        "children": []
+      },
+      {
+        "node_id": "9.3",
+        "title": "Analysis Sets",
+        "level": 2,
+        "start_page": 101,
+        "end_page": 102,
+        "summary": "This subsection defines the specific participant populations that will be used for different analyses (e.g., evaluable immunogenicity, all-available efficacy), ensuring clarity in how data subsets are utilized for statistical evaluation.",
+        "children": []
+      },
+      {
+        "node_id": "9.4",
+        "title": "Statistical Analyses",
+        "level": 2,
+        "start_page": 102,
+        "end_page": 111,
+        "summary": "This section summarizes the planned statistical analyses for immunogenicity, efficacy, and safety, outlining the methods and populations used for each type of assessment, with further details provided in a statistical analysis plan (SAP).",
+        "children": [
+          {
+            "node_id": "9.4.1",
+            "title": "Immunogenicity Analyses",
+            "level": 3,
+            "start_page": 102,
+            "end_page": 106,
+            "summary": "This subsection describes the statistical analysis of immunogenicity results, primarily based on evaluable immunogenicity populations, with additional analyses for all-available populations, summarizing participants by vaccine group and defining how serology data will be handled.",
+            "children": []
+          },
+          {
+            "node_id": "9.4.2",
+            "title": "Efficacy Analyses",
+            "level": 3,
+            "start_page": 107,
+            "end_page": 108,
+            "summary": "This subsection specifies that efficacy analyses will primarily use the evaluable efficacy population, with additional analyses performed on the all-available efficacy population, to assess vaccine efficacy against COVID-19.",
+            "children": []
+          },
+          {
+            "node_id": "9.4.3",
+            "title": "Safety Analyses",
+            "level": 3,
+            "start_page": 109,
+            "end_page": 110,
+            "summary": "This subsection describes how safety analyses will be conducted, including descriptive summary statistics for local reactions, systemic events, AEs/SAEs, and laboratory parameters, with a 3-tier approach for summarizing AEs in Phase 2/3.",
+            "children": []
+          },
+          {
+            "node_id": "9.4.4",
+            "title": "Other Analyses",
+            "level": 3,
+            "start_page": 110,
+            "end_page": 111,
+            "summary": "This subsection briefly outlines additional exploratory analyses, such as ratios of geometric mean fold rises, descriptive summaries of safety and immunogenicity for participants with chronic stable HIV, and assessments of different manufacturing processes (Process 1 vs. Process 2).",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "9.5",
+        "title": "Interim Analyses",
+        "level": 2,
+        "start_page": 111,
+        "end_page": 114,
+        "summary": "This subsection details the plan for interim analyses, including unblinded reviews for safety and dose escalation in Phase 1, and planned interim analyses in Phase 2/3 for efficacy and futility, using Bayesian models and specific success thresholds.",
+        "children": [
+          {
+            "node_id": "9.5.1",
+            "title": "Analysis Timing",
+            "level": 3,
+            "start_page": 114,
+            "end_page": 114,
+            "summary": "This subsection specifies the timing for various statistical analyses, including complete safety and immunogenicity analyses for different phases and participant subsets, interim efficacy analyses, and descriptive analyses of different manufacturing processes, with all ongoing Phase 2/3 analyses performed by an unblinded statistical team.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "9.6",
+        "title": "Data Monitoring Committee or Other Independent Oversight Committee",
+        "level": 2,
+        "start_page": 114,
+        "end_page": 115,
+        "summary": "This subsection describes the roles and responsibilities of the Internal Review Committee (IRC), Data Monitoring Committee (DMC), and internal case reviewers in overseeing study safety, dose escalations, candidate selection, and reviewing COVID-19 cases, ensuring independent oversight throughout the trial.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "10",
+    "title": "SUPPORTING DOCUMENTATION AND OPERATIONAL CONSIDERATIONS",
+    "level": 1,
+    "start_page": 116,
+    "end_page": 145,
+    "summary": "This section compiles essential supplementary information and operational guidelines, covering regulatory and ethical considerations, data protection, quality assurance, and various appendices detailing specific study procedures and definitions.",
+    "children": [
+      {
+        "node_id": "10.1",
+        "title": "Appendix 1: Regulatory, Ethical, and Study Oversight Considerations",
+        "level": 2,
+        "start_page": 116,
+        "end_page": 122,
+        "summary": "This appendix outlines the regulatory and ethical framework governing the study, including adherence to international guidelines, IRB/EC approval, informed consent processes, data protection, dissemination of results, data quality assurance, and roles of sponsor medical personnel.",
+        "children": [
+          {
+            "node_id": "10.1.1",
+            "title": "Regulatory and Ethical Considerations",
+            "level": 3,
+            "start_page": 116,
+            "end_page": 116,
+            "summary": "This subsection outlines the study's commitment to conducting the research in accordance with ethical principles, ICH GCP guidelines, and applicable laws, emphasizing the need for IRB/EC approval of all study documents and investigator responsibility for site oversight.",
+            "children": [
+              {
+                "node_id": "10.1.1.1",
+                "title": "Reporting of Safety Issues and Serious Breaches of the Protocol or ICH GCP",
+                "level": 4,
+                "start_page": 116,
+                "end_page": 116,
+                "summary": "This subsection mandates immediate reporting to Pfizer of any regulatory prohibitions, new information influencing benefit/risk evaluation, urgent safety measures, or serious breaches of the protocol or ICH GCP by the investigator.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "10.1.2",
+            "title": "Informed Consent Process",
+            "level": 3,
+            "start_page": 117,
+            "end_page": 117,
+            "summary": "This subsection details the informed consent process, ensuring participants or their legal guardians are fully informed about the study's nature, risks, data sharing, and rights, with signed documentation and opportunities for questions, and reconsenting for updated ICDs.",
+            "children": []
+          },
+          {
+            "node_id": "10.1.3",
+            "title": "Data Protection",
+            "level": 3,
+            "start_page": 118,
+            "end_page": 118,
+            "summary": "This subsection addresses data protection, outlining compliance with privacy laws, secure storage of participant data at the site, assignment of a unique numerical code for transferred data to maintain confidentiality, and responsibilities for data breaches.",
+            "children": []
+          },
+          {
+            "node_id": "10.1.4",
+            "title": "Dissemination of Clinical Study Data",
+            "level": 3,
+            "start_page": 118,
+            "end_page": 119,
+            "summary": "This subsection details Pfizer's commitment to publicly disclosing clinical study results on platforms like ClinicalTrials.gov, EudraCT, and pfizer.com, in accordance with regulations and SOPs, ensuring objective, accurate, balanced, and complete reporting regardless of outcome, and offering secure access to patient-level data for bona-fide scientific research.",
+            "children": []
+          },
+          {
+            "node_id": "10.1.5",
+            "title": "Data Quality Assurance",
+            "level": 3,
+            "start_page": 119,
+            "end_page": 121,
+            "summary": "This subsection outlines measures for data quality assurance, including investigator responsibility for accurate CRF entries supported by source documents, secure storage of CRFs, permitting monitoring/audits, and prompt resolution of discrepancies, with records retained for 15 years post-study.",
+            "children": []
+          },
+          {
+            "node_id": "10.1.6",
+            "title": "Source Documents",
+            "level": 3,
+            "start_page": 120,
+            "end_page": 121,
+            "summary": "This subsection defines source documents as evidence supporting participant existence and data integrity, requiring consistency between CRF data and source documents, and accessibility for monitoring and audits.",
+            "children": []
+          },
+          {
+            "node_id": "10.1.7",
+            "title": "Study and Site Start and Closure",
+            "level": 3,
+            "start_page": 121,
+            "end_page": 121,
+            "summary": "This subsection defines study start and closure dates, outlining the sponsor's right to close study sites or terminate the study prematurely for various reasons, and detailing the investigator's responsibilities in such events.",
+            "children": []
+          },
+          {
+            "node_id": "10.1.8",
+            "title": "Sponsor's Qualified Medical Personnel",
+            "level": 3,
+            "start_page": 121,
+            "end_page": 122,
+            "summary": "This subsection ensures participants have access to contact information for the sponsor's medical personnel for study-related medical questions or problems via a contact card, augmenting established communication pathways with the investigator site.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "10.2",
+        "title": "Appendix 2: Clinical Laboratory Tests",
+        "level": 2,
+        "start_page": 123,
+        "end_page": 124,
+        "summary": "This appendix lists the specific clinical safety laboratory tests to be performed at defined times, providing a grading scale for assessing clinically significant abnormal findings and outlining documentation requirements for investigator review.",
+        "children": []
+      },
+      {
+        "node_id": "10.3",
+        "title": "Appendix 3: Adverse Events: Definitions and Procedures for Recording, Evaluating, Follow-up, and Reporting",
+        "level": 2,
+        "start_page": 125,
+        "end_page": 131,
+        "summary": "This appendix provides comprehensive definitions of Adverse Events (AEs) and Serious Adverse Events (SAEs), along with detailed procedures for their recording, evaluation, causality assessment, follow-up, and expedited reporting to Pfizer Safety.",
+        "children": [
+          {
+            "node_id": "10.3.1",
+            "title": "Definition of AE",
+            "level": 3,
+            "start_page": 125,
+            "end_page": 126,
+            "summary": "This subsection provides the formal definition of an Adverse Event (AE) as any untoward medical occurrence in a participant administered a pharmaceutical product, regardless of causal relationship, encompassing any unfavorable or unintended sign, symptom, or disease temporally associated with the product.",
+            "children": []
+          },
+          {
+            "node_id": "10.3.2",
+            "title": "Definition of SAE",
+            "level": 3,
+            "start_page": 126,
+            "end_page": 127,
+            "summary": "This subsection provides the formal definition of a Serious Adverse Event (SAE) as an AE that results in death, is life-threatening, requires inpatient hospitalization or prolongation of existing hospitalization, results in persistent or significant disability/incapacity, or is a congenital anomaly/birth defect.",
+            "children": []
+          },
+          {
+            "node_id": "10.3.3",
+            "title": "Recording/Reporting and Follow-up of AEs and/or SAEs",
+            "level": 3,
+            "start_page": 128,
+            "end_page": 130,
+            "summary": "This subsection summarizes the requirements for recording AEs and SAEs on the CRF, reporting SAEs to Pfizer Safety, and details the investigator's responsibilities for reviewing documentation, assessing causality (including alternative causes and temporal relationship), and conducting follow-up to elucidate the nature and outcome of events.",
+            "children": []
+          },
+          {
+            "node_id": "10.3.4",
+            "title": "Reporting of SAEs",
+            "level": 3,
+            "start_page": 131,
+            "end_page": 131,
+            "summary": "This subsection specifies that SAEs should be reported to Pfizer Safety via facsimile transmission of the Vaccine SAE Report Form as the preferred method, with telephone notification acceptable in emergencies, and emphasizes the need for timely completion and signing of the form.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "10.4",
+        "title": "Appendix 4: Contraceptive Guidance",
+        "level": 2,
+        "start_page": 132,
+        "end_page": 135,
+        "summary": "This appendix provides detailed guidance on contraception requirements for male and female participants, including reproductive inclusion criteria, definitions of a Woman of Childbearing Potential (WOCBP), and a comprehensive list of acceptable highly effective contraception methods.",
+        "children": [
+          {
+            "node_id": "10.4.1",
+            "title": "Male Participant Reproductive Inclusion Criteria",
+            "level": 3,
+            "start_page": 132,
+            "end_page": 132,
+            "summary": "This subsection specifies the reproductive inclusion criteria for male participants, requiring them to refrain from sperm donation and either practice abstinence or consistently use a male condom when engaging in heterosexual intercourse with a female of childbearing potential, for at least 28 days post-study intervention.",
+            "children": []
+          },
+          {
+            "node_id": "10.4.2",
+            "title": "Female Participant Reproductive Inclusion Criteria",
+            "level": 3,
+            "start_page": 132,
+            "end_page": 133,
+            "summary": "This subsection outlines the reproductive inclusion criteria for female participants, requiring them to not be pregnant or breastfeeding and either be not a Woman of Childbearing Potential (WOCBP) or be a WOCBP using an acceptable, highly effective contraceptive method during the intervention period and for at least 28 days after the last study intervention dose.",
+            "children": []
+          },
+          {
+            "node_id": "10.4.3",
+            "title": "Woman of Childbearing Potential",
+            "level": 3,
+            "start_page": 133,
+            "end_page": 134,
+            "summary": "This subsection defines a Woman of Childbearing Potential (WOCBP) and specifies categories of women not considered WOCBP, such as premenarchal, permanently sterile, or postmenopausal women confirmed by specific criteria, with investigator discretion for alternate medical causes of infertility.",
+            "children": []
+          },
+          {
+            "node_id": "10.4.4",
+            "title": "Contraception Methods",
+            "level": 3,
+            "start_page": 134,
+            "end_page": 135,
+            "summary": "This subsection provides a comprehensive list of acceptable highly effective contraception methods for male and female participants, including hormonal, intrauterine, surgical, and behavioral methods like sexual abstinence, emphasizing consistency with local regulations and availability.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "10.5",
+        "title": "Appendix 5: Liver Safety: Suggested Actions and Follow-up Assessments",
+        "level": 2,
+        "start_page": 136,
+        "end_page": 137,
+        "summary": "This appendix provides guidance for assessing potential Drug-Induced Liver Injury (DILI), outlining criteria for identifying 'potential DILI' cases based on AST/ALT and TBili elevations, and detailing the necessary follow-up assessments and laboratory tests to determine etiology and confirm cases.",
+        "children": []
+      },
+      {
+        "node_id": "10.6",
+        "title": "Appendix 6: Abbreviations",
+        "level": 2,
+        "start_page": 138,
+        "end_page": 141,
+        "summary": "This appendix provides an alphabetical list of all abbreviations used throughout the protocol, aiding in comprehension of the document's terminology.",
+        "children": []
+      },
+      {
+        "node_id": "10.7",
+        "title": "Appendix 7: Stopping and Alert Rules for Enhanced COVID-19",
+        "level": 2,
+        "start_page": 142,
+        "end_page": 144,
+        "summary": "This appendix details the specific stopping and alert rules for Phase 2/3, to identify adverse imbalances of severe COVID-19 cases between vaccine and placebo groups, outlining the probability thresholds and case splits that trigger reviews by the DMC for potential study modification or termination.",
+        "children": []
+      },
+      {
+        "node_id": "10.8",
+        "title": "Appendix 8: Criteria for Allowing Inclusion of Participants With Chronic Stable HIV, HCV, or HBV Infection",
+        "level": 2,
+        "start_page": 145,
+        "end_page": 145,
+        "summary": "This appendix outlines the specific criteria that must be met for participants with known chronic stable HIV, HCV, or HBV infection to be included in the study, ensuring their condition is well-managed and poses no undue risk.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "11",
+    "title": "REFERENCES",
+    "level": 1,
+    "start_page": 146,
+    "end_page": 146,
+    "summary": "This section provides a list of all scientific and regulatory sources cited throughout the protocol document.",
+    "children": []
+  }
+]

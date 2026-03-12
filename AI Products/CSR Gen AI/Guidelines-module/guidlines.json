@@ -1,0 +1,1372 @@
+{
+  "Clinical_Definitions": [
+    {
+      "term": "drug or treatment",
+      "definition": "any therapeutic, prophylactic or diagnostic agent"
+    },
+    {
+      "term": "integrated full report",
+      "definition": "an individual study of any therapeutic, prophylactic or diagnostic agent conducted in patients, in which the clinical and statistical description, presentations, and analyses are integrated into a single report, incorporating tables and figures into the main text of the report, or at the end of the text, and with appendices containing the protocol, sample case report forms, investigator related information, information related to the test drugs/investigational products including active control/comparators, technical statistical documentation, related publications, patient data listings, and technical statistical details such as derivations, computations, analyses, and computer output etc."
+    },
+    {
+      "term": "serious adverse event (experience) or reaction",
+      "definition": "any untoward medical occurrence that at any dose: results in death, is life-threatening, requires inpatient hospitalisation or prolongation of existing hospitalisation, results in persistent or significant disability/incapacity, or is a congenital anomaly/birth defect."
+    },
+    {
+      "term": "other significant adverse events",
+      "definition": "marked haematological and other laboratory abnormalities and any adverse events that led to an intervention, including withdrawal of drug treatment, dose reduction or significant additional concomitant therapy."
+    },
+    {
+      "term": "treatment emergent signs and symptoms (TESS)",
+      "definition": "those not seen at baseline and those that worsened even if present at baseline."
+    },
+    {
+      "term": "surrogate end point",
+      "definition": "a laboratory measurement or physical measurement or sign that is not a direct measure of clinical benefit"
+    },
+    {
+      "term": "multicentre study",
+      "definition": "a single study under a common protocol, involving several centres (e.g., clinics, practices, hospitals) where the data collected are intended to be analysed as a whole (as opposed to a post-hoc decision to combine data or results from separate studies)."
+    },
+    {
+      "term": "delta value",
+      "definition": "the degree of inferiority of the therapy the study was intended to show was not exceeded."
+    },
+    {
+      "term": "IEC",
+      "definition": "Independent Ethics Committee"
+    },
+    {
+      "term": "IRB",
+      "definition": "Institutional Review Board"
+    },
+    {
+      "term": "GCP",
+      "definition": "Good Clinical Practices"
+    },
+    {
+      "term": "CRF",
+      "definition": "Case Report Form"
+    },
+    {
+      "term": "ICH",
+      "definition": "International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use"
+    },
+    {
+      "term": "C.R.O.",
+      "definition": "Contract Research Organisation"
+    },
+    {
+      "term": "Adverse Event (AE)",
+      "definition": "Any unfavourable medical occurrence in a trial participant administered the investigational product. The adverse event does not necessarily have a causal relationship with the treatment."
+    },
+    {
+      "term": "Adverse Drug Reaction (ADR)",
+      "definition": "In the pre-approval clinical experience with a new investigational product or its new usages (particularly as the therapeutic dose(s) may not be established): unfavourable and unintended responses, such as a sign (e.g., laboratory results), symptom or disease related to any dose of a medicinal product where a causal relationship between a medicinal product and an adverse event is a reasonable possibility. The level of certainty about the relatedness of the adverse drug reaction to an investigational product will vary. If the ADR is suspected to be medicinal product-related with a high level of certainty, it should be included in the reference safety information (RSI) and/or the Investigator’s Brochure (IB). For marketed medicinal products: a response to a drug that is noxious and unintended and that occurs at doses normally used in humans for prophylaxis, diagnosis or therapy of diseases or for modification of physiological function."
+    },
+    {
+      "term": "Serious Adverse Event (SAE)",
+      "definition": "Any unfavourable medical occurrence that is considered serious at any dose if it: Results in death, Is life-threatening, Requires inpatient hospitalisation or prolongation of existing hospitalisation, Results in persistent or significant disability/incapacity, or Is a congenital anomaly/birth defect. An important medical event that may not be immediately life-threatening or result in death or hospitalisation, that may jeopardise the participant or that may require intervention to prevent serious outcomes (see ICH E2A and E19) should generally be considered as serious."
+    },
+    {
+      "term": "Suspected Unexpected Serious Adverse Reaction (SUSAR)",
+      "definition": "an adverse reaction that meets three criteria: suspected, unexpected and serious. Suspected: There is a reasonable possibility that the drug caused the adverse drug reaction. Unexpected: An adverse reaction, the nature or severity of which is not consistent with the applicable product information (e.g., Investigator’s Brochure or alternative documents according to applicable regulatory requirements; see RSI). Serious: See above for SAE."
+    },
+    {
+      "term": "Agreement",
+      "definition": "A document or set of documents describing the details of any arrangements on delegation or transfer, distribution and/or sharing of activities and, if appropriate, on financial matters between two or more parties. This could be in the form of a contract. The protocol may serve as the basis of an agreement."
+    },
+    {
+      "term": "Applicable Regulatory Requirement(s)",
+      "definition": "Any law(s) and regulation(s) addressing the conduct of clinical trials of investigational products."
+    },
+    {
+      "term": "Assent",
+      "definition": "Affirmative agreement of a minor to participate in clinical trial. The absence of expression of agreement or disagreement should not be interpreted as assent."
+    },
+    {
+      "term": "Audit",
+      "definition": "A systematic and independent examination of trial-related activities and records performed by the sponsor, service provider (including contract research organisation (CRO)) or institution to determine whether the evaluated trial-related activities were conducted and the data were recorded, analysed and accurately reported according to the protocol, applicable standard operating procedures (SOPs), Good Clinical Practice (GCP) and the applicable regulatory requirement(s)."
+    },
+    {
+      "term": "Audit Certificate",
+      "definition": "A declaration of confirmation by the auditor that an audit has taken place."
+    },
+    {
+      "term": "Audit Report",
+      "definition": "A record describing the conduct and outcome of the audit."
+    },
+    {
+      "term": "Audit Trail",
+      "definition": "Metadata records that allow the appropriate evaluation of the course of events by capturing details on actions (manual or automated) performed relating to information and data collection and, where applicable, to activities in computerised systems. The audit trail should show activities, initial entry and changes to data fields or records, by whom, when and, where applicable, why. In computerised systems, the audit trail should be secure, computer-generated and time stamped."
+    },
+    {
+      "term": "Blinding/Masking",
+      "definition": "A procedure in which one or more parties to the trial are kept unaware of the treatment assignment(s). Single-blinding usually refers to the participant(s) being unaware, and double-blinding usually refers to the participant(s) and investigator(s) and, if appropriate, other investigator site staff or sponsor staff being unaware of the treatment assignment(s)."
+    },
+    {
+      "term": "Case Report Form (CRF)",
+      "definition": "A data acquisition tool designed to record protocol-required information to be reported by the investigator to the sponsor on each trial participant (see Data Acquisition Tool)."
+    },
+    {
+      "term": "Certified Copy",
+      "definition": "A copy (irrespective of the type of media used) of the original record that has been verified (i.e., by a dated signature or by generation through a validated process) to have the same information as the original, including relevant metadata, where applicable."
+    },
+    {
+      "term": "Clinical Trial",
+      "definition": "Any interventional investigation in human participants intended to discover or verify the clinical, pharmacological and/or other pharmacodynamic effects of an investigational product(s); and/or to identify any adverse reactions to an investigational product(s); and/or to study absorption, distribution, metabolism and excretion of an investigational product(s) with the object of ascertaining its safety and/or efficacy."
+    },
+    {
+      "term": "Clinical Trial/Study Report (CSR)",
+      "definition": "A documented description of a trial of any investigational product conducted in human participants, in which the clinical and statistical description, presentations and analyses are fully integrated into a single report (see ICH E3 Structure and Content of Clinical Study Reports)."
+    },
+    {
+      "term": "Comparator",
+      "definition": "An investigational or authorised medicinal product (i.e., active control), placebo or standard of care used as a reference in a clinical trial."
+    },
+    {
+      "term": "Compliance (in relation to trials)",
+      "definition": "Adherence to the trial-related requirements, GCP requirements and the applicable regulatory requirements."
+    },
+    {
+      "term": "Confidentiality",
+      "definition": "Prevention of disclosure to other than authorised individuals of a sponsor's proprietary information or of a participant's identity or their confidential information."
+    },
+    {
+      "term": "Coordinating Investigator",
+      "definition": "An investigator assigned the responsibility for the coordination of investigators at different investigator sites participating in a multicentre trial."
+    },
+    {
+      "term": "Computerised Systems Validation",
+      "definition": "A process of establishing and documenting that the specified requirements of a computerised system can be consistently fulfilled from design until decommissioning of the system or transition to a new system. The approach to validation should be based on a risk assessment that takes into consideration the intended use of the system and the potential of the system to affect trial participant protection and the reliability of trial results."
+    },
+    {
+      "term": "Contract Research Organisation (CRO)",
+      "definition": "See Service Provider."
+    },
+    {
+      "term": "Data Acquisition Tool (DAT)",
+      "definition": "A paper or electronic tool designed to collect data and associated metadata from a data originator in a clinical trial according to the protocol and to report the data to the sponsor. The data originator may be a human (e.g., the participant or trial staff), a machine (e.g., wearables and sensors) or a computer system from which the electronic transfer of data from one system to another has been undertaken (e.g., extraction of data from an electronic health record or laboratory system). Examples of DATs include but are not limited to CRFs, interactive response technologies (IRTs), clinical outcome assessments (COAs), including patient-reported outcomes (PROs) and wearable devices, irrespective of the media used."
+    },
+    {
+      "term": "Data Integrity",
+      "definition": "Data integrity includes the degree to which data fulfil key criteria of being attributable, legible, contemporaneous, original, accurate, complete, secure and reliable such that data are fit for purpose."
+    },
+    {
+      "term": "Direct Access",
+      "definition": "Permission to examine, analyse and verify records that are important to the evaluation of a clinical trial and may be performed on-site or remotely. Any party (e.g., domestic and foreign regulatory authorities, sponsor's monitors and auditors) with direct access should take reasonable precautions within the constraints of the applicable regulatory requirement(s) to maintain the confidentiality of participants' identities and their data and sponsor's proprietary information."
+    },
+    {
+      "term": "Essential Records",
+      "definition": "Essential records are the documents and data (and relevant metadata), in any format, associated with a clinical trial that facilitate the ongoing management of the trial and collectively allow the evaluation of the methods used, the factors affecting a trial and the actions taken during the trial conduct to determine the reliability of the trial results produced and the verification that the trial was conducted in accordance with GCP and applicable regulatory requirements (see Appendix C)."
+    },
+    {
+      "term": "Good Clinical Practice (GCP)",
+      "definition": "A standard for the planning, initiating, performing, recording, oversight, evaluation, analysis and reporting of clinical trials that provides assurance that the data and reported results are reliable and that the rights, safety and well-being of trial participants are protected."
+    },
+    {
+      "term": "Impartial Witness",
+      "definition": "A person who is independent of the trial who cannot be unfairly influenced by people involved with the trial, who attends the informed consent process if the participant or the participant's legally acceptable representative cannot read, and who reads the informed consent form and any other documented information supplied or read to the participant and/or their legally acceptable representative."
+    },
+    {
+      "term": "Independent Data Monitoring Committee (IDMC)",
+      "definition": "An independent data monitoring committee (e.g., data safety monitoring board) that may be established by the sponsor to assess at intervals the progress of a clinical trial, the safety and relevant efficacy data, and to recommend to the sponsor whether to continue, modify or stop a trial."
+    },
+    {
+      "term": "Informed Consent",
+      "definition": "A process by which a participant or their legally acceptable representative voluntarily confirms their willingness to participate in a trial after having been informed and been provided with the opportunity to discuss all aspects of the trial that are relevant to the participant's decision to participate. Varied approaches to the provision of information and the discussion about the trial can be used. This may include, for example, providing text in different formats, images and videos and using telephone or video conferencing with investigator site staff. Informed consent is documented by means of a written (paper or electronic), signed and dated informed consent form. Obtaining consent remotely may be considered when appropriate."
+    },
+    {
+      "term": "Inspection",
+      "definition": "The act by a regulatory authority(ies) of conducting an official review of documents, facilities, records and any other resources that are deemed by the authority(ies) to be related to the clinical trial and that may be accessed at the investigator site, at the sponsor's and/or service provider's (including CRO's) facilities, or at other establishments deemed appropriate by the regulatory authority(ies). Some aspects of the inspection may be conducted remotely."
+    },
+    {
+      "term": "Institution",
+      "definition": "Any public or private entity or agency or medical or dental organisation in whose remit clinical trials are conducted."
+    },
+    {
+      "term": "Institutional Review Board (IRB)/Independent Ethics Committee (IEC)",
+      "definition": "An independent body (a review board or a committee, institutional, regional, national or supranational) constituted of medical professionals and non-medical members whose responsibility it is to ensure the protection of the rights, safety and well-being of human participants involved in a trial and to provide public assurance of that protection by, among other things, reviewing and approving/providing favourable opinion on the trial protocol, the suitability of the investigator(s), the facilities, and the methods and material to be used in obtaining and documenting informed consent of the trial participants. The legal status, composition, function, operations and regulatory requirements pertaining to IRBs/IECs may differ among countries but should allow the IRB/IEC to act in agreement with GCP as described in this guideline."
+    },
+    {
+      "term": "Interim Clinical Trial/Study Report",
+      "definition": "A report of intermediate results and their evaluation based on analyses performed during the course of a trial."
+    },
+    {
+      "term": "Investigational Product",
+      "definition": "A pharmaceutical form of an active ingredient or placebo being tested or used as a reference in a clinical trial, including a product with a marketing authorisation when used or assembled (formulated or packaged) in a way different from the approved form, or when used for an unapproved indication, or when used to gain further information about an approved use. Investigational products should be considered synonymous with drugs, medicines, medicinal products, vaccines and biological products."
+    },
+    {
+      "term": "Investigator",
+      "definition": "A person responsible for the conduct of the clinical trial, including the trial participants for whom that person has responsibility during the conduct of the trial. If a trial is conducted by a team of individuals, the investigator is the responsible leader of the team and may be called the principal investigator. Where an investigator/institution is referenced in this guideline, it describes expectations that may be applicable to the investigator and/or the institution in some regions. Where required by the applicable regulatory requirements, the \"investigator\" should be read as \"investigator and/or the institution.\""
+    },
+    {
+      "term": "Investigator's Brochure (IB)",
+      "definition": "A compilation of the clinical and nonclinical data on the investigational product(s) that is relevant to the study of the investigational product(s) in human participants (see Appendix A)."
+    },
+    {
+      "term": "Investigator Site",
+      "definition": "The location(s) where trial-related activities are conducted and/or coordinated under the investigator's/institution's oversight."
+    },
+    {
+      "term": "Legally Acceptable Representative",
+      "definition": "An individual or juridical or other body authorised under applicable law to consent, on behalf of a prospective participant, to the participant’s participation in the clinical trial. When a legally acceptable representative provides consent on behalf of a prospective participant, activities related to the consenting process (and re-consent, if applicable) and, where relevant, activities associated with the withdrawal of consent described in this guideline are applicable to the participant’s legally acceptable representative."
+    },
+    {
+      "term": "Metadata",
+      "definition": "The contextual information required to understand a given data element. Metadata is structured information that describes, explains or otherwise makes it easier to retrieve, use or manage data. For the purpose of this guideline, relevant metadata are those needed to allow the appropriate evaluation of the trial conduct."
+    },
+    {
+      "term": "Monitoring",
+      "definition": "The act of overseeing the progress of a clinical trial and of ensuring that the clinical trial is conducted, recorded and reported in accordance with the protocol, SOPs, GCP and the applicable regulatory requirement(s)."
+    },
+    {
+      "term": "Monitoring Plan",
+      "definition": "A document that describes the strategy, methods, responsibilities and requirements for monitoring the trial."
+    },
+    {
+      "term": "Monitoring Report",
+      "definition": "A documented report following site and/or centralised monitoring activities."
+    },
+    {
+      "term": "Multicentre Trial",
+      "definition": "A clinical trial conducted according to a single protocol but at more than one investigator site."
+    },
+    {
+      "term": "Nonclinical Study",
+      "definition": "Biomedical studies not performed on human participants."
+    },
+    {
+      "term": "Protocol",
+      "definition": "A document that describes the objective(s), design, methodology, statistical considerations and organisation of a trial. The protocol usually also gives the background and rationale for the trial, but these could be provided in other protocol referenced documents. Throughout the ICH GCP Guideline, the term “protocol” refers to protocol and protocol amendments."
+    },
+    {
+      "term": "Protocol Amendment",
+      "definition": "A documented description of a change(s) to a protocol."
+    },
+    {
+      "term": "Quality Assurance (QA)",
+      "definition": "All those planned and systematic actions that are established to ensure that the trial is performed and the data are generated, documented (recorded) and reported in compliance with GCP and the applicable regulatory requirement(s)."
+    },
+    {
+      "term": "Quality Control (QC)",
+      "definition": "The operational techniques and activities undertaken to verify that the requirements for quality of the trial-related activities have been fulfilled."
+    },
+    {
+      "term": "Randomisation",
+      "definition": "The process of deliberately including an element of chance when assigning participants to groups that receive different treatments in order to reduce bias."
+    },
+    {
+      "term": "Reference Safety Information (RSI)",
+      "definition": "Contains a cumulative list of ADRs that are expected for the investigational product being administered to participants in a clinical trial. The RSI is included in the Investigator’s Brochure or alternative documents according to applicable regulatory requirements. Refer to ICH E2F Development Safety Update Report for more information about RSI."
+    },
+    {
+      "term": "Regulatory Authorities",
+      "definition": "Bodies having the power to regulate, including those that review submitted protocols and clinical data and those that conduct inspections. These bodies are sometimes referred to as competent authorities."
+    },
+    {
+      "term": "Service Provider",
+      "definition": "A person or organisation (commercial, academic or other) providing a service used by either the sponsor or the investigator to fulfil trial-related activities."
+    },
+    {
+      "term": "Signature",
+      "definition": "A unique mark, symbol or entry executed, adopted or authorised by an individual, in accordance with applicable regulatory requirements and/or practice to show expression of will and allow authentication of the signatory (i.e., establish a high degree of certainty that a record was signed by the claimed signatory). A signature may be physical or electronic."
+    },
+    {
+      "term": "Source Records",
+      "definition": "Original documents or data (which includes relevant metadata) or certified copies of the original documents or data, irrespective of the media used. This may include trial participants’ medical/health records/notes/charts; data provided/entered by trial participants (e.g., electronic patient-reported outcomes (ePROs)); healthcare professionals’ records from pharmacies, laboratories and other facilities involved in the clinical trial; and data from automated instruments, such as wearables and sensors."
+    },
+    {
+      "term": "Sponsor",
+      "definition": "An individual, company, institution or organisation that takes responsibility for the initiation, management and arrangement of the financing of a clinical trial. A clinical trial may have one or several sponsors where permitted under regulatory requirements. All sponsors have the responsibilities of a sponsor set out in this guideline. In accordance with applicable regulatory requirements, sponsors may decide in a documented agreement setting out their respective responsibilities. Where the documented agreement does not specify to which sponsor a given responsibility is attributed, that responsibility lies with all sponsors."
+    },
+    {
+      "term": "Sponsor-Investigator",
+      "definition": "An individual who both initiates and conducts, alone or with others, a clinical trial, and under whose immediate direction the investigational product is administered to, dispensed to or used by a participant. The term does not include any person other than an individual (e.g., the term does not include a corporation or an agency). The obligations of a sponsor-investigator include both those of a sponsor and those of an investigator."
+    },
+    {
+      "term": "Standard Operating Procedures (SOPs)",
+      "definition": "Detailed, documented instructions to achieve uniformity of the performance of a specific activity."
+    },
+    {
+      "term": "Sub-Investigator",
+      "definition": "Any individual member of the clinical trial team designated and under the oversight of the investigator to perform significant trial-related procedures and/or to make important trial-related decisions (e.g., associates, residents, research fellows)."
+    },
+    {
+      "term": "Trial Participant",
+      "definition": "An individual who participates in a clinical trial who is expected to receive the investigational product(s) or as a control. In this guideline, trial participant and participant are used interchangeably."
+    },
+    {
+      "term": "Trial Participant Identification Code",
+      "definition": "A unique identifier assigned to each trial participant to protect the participant's identity and used in lieu of the participant's name when the investigator reports adverse events and/or other trial-related data."
+    },
+    {
+      "term": "Vulnerable Participants",
+      "definition": "Individuals whose willingness to volunteer in a clinical trial may be unduly influenced by the expectation, whether justified or not, of benefits associated with participation or of a retaliatory response from senior members of a hierarchy in case of refusal to participate. Examples are members of a group with a hierarchical structure, such as medical, pharmacy, dental and nursing students; subordinate hospital and laboratory personnel; employees of the pharmaceutical industry; members of the armed forces; and persons kept in detention. Other vulnerable participants may include persons in nursing homes, unemployed or impoverished persons, patients in emergency situations, ethnic minority groups, homeless persons, nomads, refugees, minors and those incapable of giving consent."
+    }
+  ],
+  "Global_Writing_Constraints": [
+    "The objective of this guideline is to allow the compilation of a single core clinical study report acceptable to all regulatory authorities of the ICH regions.",
+    "Regulatory authority specific additions will consist of modules to be considered as appendices, available upon request according to regional regulatory requirements.",
+    "The clinical and statistical description, presentations, and analyses must be integrated into a single report.",
+    "Tables and figures must be incorporated into the main text of the report or at the end of the text.",
+    "The integrated full report of a study should not be derived by simply joining a separate clinical and statistical report.",
+    "The report must be complete, free from ambiguity, well organised, and easy to review.",
+    "Provide a clear explanation of how the critical design features of the study were chosen.",
+    "Provide enough information on the plan, methods, and conduct of the study so that there is no ambiguity in how the study was carried out.",
+    "The report with its appendices must provide enough individual patient data, including demographic and baseline data, and details of analytical methods, to allow replication of critical analyses by authorities.",
+    "All analyses, tables, and figures must carry, in text or as part of the table, clear identification of the set of patients from which they were generated.",
+    "If an abbreviated report is submitted, a full description of safety aspects must be included.",
+    "If an abbreviated report is submitted, it must contain enough detail of design and results to allow the regulatory authority to determine whether a full report is needed.",
+    "Clarify features of the study that are not well-described in the protocol.",
+    "Identify ways in which the study as conducted differed from the protocol.",
+    "Discuss the statistical methods and analyses used to account for deviations from the planned protocol.",
+    "The full integrated report of the individual study should include the most detailed discussion of individual adverse events or laboratory abnormalities, but these should usually be reexamined as part of an overall safety analysis of all available data in any application.",
+    "Describe demographic and other potentially predictive characteristics of the study population.",
+    "Present data for demographic (e.g., age, sex, race, weight) and other (e.g., renal or hepatic function) subgroups so that possible differences in efficacy or safety can be identified, where the study is large enough.",
+    "Subgroup responses should usually be examined in the larger database used in the overall analysis.",
+    "Data listings that are part of the report must be readily usable by the reviewer.",
+    "If a single listing sacrifices clarity due to an excess of data, overuse of symbols, or too small displays, it is preferable to produce several listings.",
+    "Data must be presented at different levels of detail: overall summary figures and tables for important demographic, efficacy, and safety variables may be placed in the text; other summary figures, tables, and listings for demographic, efficacy, and safety variables should be provided in Section 14; individual patient data for specified groups of patients should be provided as listings in Appendix 16.2; and all individual patient data (archival listings requested only in the US) should be provided in Appendix 16.4.",
+    "In any table, figure, or data listing, estimated or derived values, if used, must be identified in a conspicuous fashion.",
+    "Detailed explanations must be provided as to how estimated or derived values were obtained and what underlying assumptions were made.",
+    "Each report should consider all described topics unless clearly not relevant.",
+    "The specific sequence and grouping of topics may be changed if alternatives are more logical for a particular study.",
+    "The numbering of appendices should be adapted accordingly if some data are specific requirements of individual regulatory authorities and submitted as appropriate.",
+    "For very large trials, contact with regulatory authorities to discuss an appropriate report format is encouraged.",
+    "The provisions of this guideline should be used in conjunction with other ICH guidelines.",
+    "The synopsis must include numerical data to illustrate results, not just text or p-values.",
+    "Abbreviated terms must be spelled out and the abbreviation indicated in parentheses at first appearance in the text.",
+    "In every section of the report, a clear distinction between conditions (procedures) planned in the protocol and amendments or additions must be made.",
+    "The timing of changes relative to blind breaking and availability of outcome results must be well characterised.",
+    "Even if the applicant's proposed primary analysis is based on a reduced subset of patients with data, an additional analysis using all randomised (or otherwise entered) patients with any on-treatment data must be performed for any trial intended to establish efficacy.",
+    "The analysis must show the size (point estimate) of the difference between treatments, the associated confidence interval, and, where utilized, the results of hypothesis testing.",
+    "If categories are newly created (i.e., not in the statistical plan), the basis for them must be explained.",
+    "If critical measurements or assessments of efficacy or safety outcomes were made by more than one party, overall differences between the ratings must be shown, and each patient having disparate assessments must be identified.",
+    "The assessments used must be clear in all analyses.",
+    "The statistical analysis used must be described for clinical and statistical reviewers in the text of the report.",
+    "Any changes in the analysis made after blind-breaking must be identified.",
+    "If covariates or methods used in analyses differed from those planned in the protocol, the differences must be explained, and where possible and relevant, the results of planned analyses should also be presented.",
+    "Procedures for dealing with missing data, e.g., use of estimated or derived data, must be described.",
+    "Detailed explanation must be provided as to how such estimations or derivations were done and what underlying assumptions were made.",
+    "All interim analyses, formal or informal, pre-planned or ad hoc, by any study participant, sponsor staff member, or data monitoring group must be described in full, even if the treatment groups were not identified.",
+    "The need for statistical adjustment because of interim analyses must be addressed.",
+    "Any operating instructions or procedures used for interim analyses must be described.",
+    "Data monitoring without code-breaking should also be described, even if this kind of monitoring is considered to cause no increase in type I error.",
+    "Individual centre results should be presented where appropriate, e.g., when centres have sufficient numbers of patients to make such analysis potentially valuable.",
+    "The possibility of qualitative or quantitative treatment-by-centre interaction should be explored.",
+    "Any extreme or opposite results among centres must be noted and discussed, considering such possibilities as differences in study conduct, patient characteristics, or clinical settings.",
+    "Treatment comparison must include analyses that allow for centre differences with respect to response.",
+    "If appropriate, demographic, baseline, and post-baseline data, as well as efficacy data, should be presented by centre, even though the combined analysis is the primary one.",
+    "If there was more than one primary endpoint, more than one analysis of a particular endpoint, multiple treatment groups, or subsets of the patient population being examined, the statistical analysis must reflect awareness of this and either explain the statistical adjustment used for type I error criteria or give reasons why it was considered unnecessary.",
+    "It is generally advantageous to demonstrate robustness of the principal trial conclusions with respect to alternative choices of patient populations for analysis.",
+    "Any substantial differences resulting from the choice of patient population for analysis must be the subject of explicit discussion.",
+    "If an active control study is intended to show equivalence, the analysis must show the confidence interval for the comparison between the two agents for critical end points and the relation of that interval to the prespecified degree of inferiority that would be considered unacceptable.",
+    "If the study size permits, important demographic or baseline value-defined subgroups should be examined for unusually large or small responses, and the results presented.",
+    "If subgroup analyses were not carried out because the study was too small, this must be noted.",
+    "Where there is a prior hypothesis of a differential effect in a particular subgroup, this hypothesis and its assessment must be part of the planned statistical analysis.",
+    "The study report must indicate what material is included as an appendix, what is in the more extensive archival case report tabulations (if required), and what is available on request.",
+    "When the dose in each patient can vary, the actual doses received by patients must be shown, and individual patient's doses must be tabulated.",
+    "Drug concentration information, if available, must be tabulated, analysed in pharmacokinetic terms, and, if possible, related to response.",
+    "In all tabulations and analyses, events associated with both test drug and control treatment must be displayed.",
+    "In presenting adverse events, it is important both to display the original terms used by the investigator and to attempt to group related events (i.e., events that probably represent the same phenomena) so that the true occurrence rate is not obscured.",
+    "A standard adverse reaction/events dictionary can be used to group related events.",
+    "It is assumed that all patients entered into treatment who received at least one dose of the treatment are included in the safety analysis; if not, an explanation must be provided.",
+    "Summary tables of adverse events must include changes in vital signs and any laboratory changes considered serious adverse events or other significant adverse events.",
+    "Even when a causality assessment is used, adverse event tables must include all adverse events, whether or not considered drug related, including events thought to represent intercurrent illnesses.",
+    "To enable analysis and evaluation of data in adverse event tables, each patient having each adverse event must be identified.",
+    "Any abbreviations and codes in listings must be clearly explained at the beginning of the listing or, preferably, on each page.",
+    "The significance of deaths, other serious adverse events, and other significant adverse events leading to withdrawal, dose reduction, or institution of concomitant therapy must be assessed with respect to the safety of the test drug/investigational product.",
+    "Particular attention must be paid to whether any deaths, serious adverse events, or significant adverse events may represent a previously unsuspected important adverse effect of the test drug/investigational product.",
+    "For serious adverse events of particular importance, life table or similar analyses may be used to show their relation to time on test drug/investigational product and to assess their risk over time.",
+    "For each laboratory analysis, comparison of treatment and control groups must be carried out, as appropriate and compatible with study size.",
+    "Normal laboratory ranges must be given for each laboratory analysis.",
+    "Any decisions to exclude certain abnormal laboratory values from further analysis must be clearly explained.",
+    "The complete list of laboratory values (provided or available on request) must identify every abnormal value.",
+    "Clinically significant changes (defined by the applicant) must be discussed.",
+    "When toxicity grading scales are used (e.g., WHO, NCI), changes graded as severe must be discussed regardless of seriousness.",
+    "An analysis of clinically significant changes, together with a recapitulation of discontinuations due to laboratory measurements, must be provided for each parameter.",
+    "The significance of laboratory changes and likely relation to treatment must be assessed, e.g., by analysis of relationship to dose, drug concentration, disappearance on continued therapy, positive dechallenge, positive rechallenge, and nature of concomitant therapy.",
+    "Vital signs, other physical findings, and other observations related to safety must be analysed and presented similarly to laboratory variables.",
+    "If there is evidence of a drug effect, any dose-response or drug concentration-response relationship or relationship to patient variables must be identified, and the clinical relevance of the observation described.",
+    "Particular attention must be given to changes not evaluated as efficacy variables and to those considered to be adverse events.",
+    "The overall safety evaluation of the test drug(s)/investigational product(s) must be reviewed, with particular attention to events resulting in changes of dose or need for concomitant medication, serious adverse events, events resulting in withdrawal, and deaths.",
+    "Any patients or patient groups at increased risk must be identified, with particular attention to potentially vulnerable patients (e.g., children, pregnant women, frail elderly, people with marked abnormalities of drug metabolism or excretion).",
+    "The implication of the safety evaluation for the possible uses of the drug must be described.",
+    "The efficacy and safety results of the study and the relationship of risks and benefit must be briefly summarised and discussed, referring to tables, figures, and sections as needed.",
+    "The presentation should not simply repeat the description of results nor introduce new results.",
+    "The discussion and conclusions must clearly identify any new or unexpected findings, comment on their significance, and discuss any potential problems such as inconsistencies between related measures.",
+    "The clinical relevance and importance of the results must also be discussed in light of other existing data.",
+    "Any specific benefits or special precautions required for individual subjects or at-risk groups and any implications for the conduct of future studies must be identified.",
+    "Alternatively, such discussions may be reserved for summaries of safety and efficacy referring to the entire dossier (integrated summaries).",
+    "Figures should be used to visually summarise important results or clarify results not easily understood from tables.",
+    "Important demographic, efficacy, and safety data should be presented in summary figures or tables in the text of the report.",
+    "If important demographic, efficacy, and safety data become obtrusive due to size or number, they should be presented in Section 14, cross-referenced to the text, along with supportive or additional figures, tables, or listings.",
+    "References must be given in accordance with the internationally accepted standards of the 1979 Vancouver Declaration on 'Uniform Requirements for Manuscripts Submitted to Biomedical Journals' or the system used in 'Chemical Abstracts'.",
+    "Section 16 must be prefaced by a full list of all appendices available for the study report.",
+    "The applicant must clearly indicate those appendices that are submitted with the report.",
+    "Appendices available on request must be finalised by the time of filing of the submission.",
+    "The statistical model underlying the analysis must be presented precisely and completely, using references if necessary.",
+    "A statement of the clinical claim tested in precise statistical terms (e.g., null and alternative hypotheses) must be provided.",
+    "The statistical methods applied to estimate effects, construct confidence intervals, etc., must be included, with literature references where appropriate.",
+    "The assumptions underlying the statistical methods must be stated.",
+    "It must be shown, insofar as statistically reasonable, that the data satisfy crucial assumptions, especially when necessary to confirm the validity of an inference.",
+    "When extensive statistical analyses have been performed, it is essential to consider the extent to which analyses were planned prior to data availability and how bias was avoided in choosing the particular analysis used for conclusions.",
+    "If data transformation was performed, a rationale for the choice of data transformation along with interpretation of treatment effects based on transformed data must be provided.",
+    "A discussion of the appropriateness of the choice of statistical procedure and the validity of statistical conclusions will guide the regulatory authority's statistical reviewer in determining whether reanalysis of data is needed.",
+    "The test statistic, its sampling distribution under the null hypothesis, its value, significance level (p-value), and intermediate summary data must be provided in a format that enables verification of results.",
+    "P-values must be designated as one- or two-tailed.",
+    "The rationale for using a one-tailed test must be provided.",
+    "Documentation of a two-sample t-test must consist of the t-statistic value, associated degrees of freedom, p-value, two sample sizes, mean and variance for each sample, and pooled estimate of variance.",
+    "Documentation of multi-centre studies analysed by analysis of variance techniques must include, at a minimum, an analysis of variance table with terms for centres, treatments, their interaction, error, and total.",
+    "For crossover designs, documentation must include information regarding sequences, patients within sequences, baselines at the start of each period, washouts and length of washouts, dropouts during each period, treatments, periods, treatment by period interaction, error, and total.",
+    "For each source of variation (aside from total), the table must contain degrees of freedom, sum of squares, mean square, appropriate F-test, p-value, and expected mean square.",
+    "Intermediate summary data must display demographic and response data, averaged or otherwise summarised, for each centre-by-treatment combination (or other design characteristic) at each observation time.",
+    "Data listings (tabulations) of patient data utilized by the sponsor for statistical analyses and tables supporting conclusions and major findings must be included in the report of each controlled clinical study.",
+    "These data listings are necessary for the regulatory authority's statistical review, and the sponsor may be asked to supply these patient data listings in a computer-readable form.",
+    "Clinical trial results must be reliable.",
+    "Communication of trial results to participants should be objective and non-promotional.",
+    "The clinical trial report must describe the quality management approach implemented in the trial (see ICH E3 Structure and Content of Clinical Study Reports).",
+    "The clinical trial report must summarise and report important quality issues (including instances in which acceptable ranges are exceeded) and the remedial actions taken.",
+    "The sponsor must ensure the integrity and confidentiality of data generated and managed.",
+    "Quality control must be applied to relevant stages of data handling to ensure data are of sufficient quality to generate reliable results.",
+    "Quality assurance and quality control activities, including data review, must focus on data of higher criticality and relevant metadata.",
+    "Documented processes must be implemented to ensure data integrity for the full data life cycle.",
+    "Data changes made by the sponsor to data entered by the investigator or trial participants must be justified, agreed upon in advance by the investigator, and documented.",
+    "The sponsor must ensure the traceability of data transformations and derivations during data processing and analysis.",
+    "The rationale for exclusion of any participant (or particular data point) from any analysis set must be clearly described and documented.",
+    "Deviations from the planned statistical analysis or changes made to data after unblinding must be clearly documented and justified, occurring only in exceptional circumstances.",
+    "Post-unblinding data changes and deviations from planned statistical analyses must be reported in the clinical trial report.",
+    "Statistical programming records related to trial results reports, including quality control/validation activities, must be retained.",
+    "Statistical programming outputs must be traceable to statistical software programs, dated, time stamped, protected against changes, and have access controls to avoid inappropriate viewing of information that may introduce bias.",
+    "Clinical trial reports in marketing applications must meet ICH E3 standards or applicable regulatory requirements.",
+    "Consideration should be given to the coordinating investigator being a signatory on the clinical trial report (see ICH E3).",
+    "Summaries of trial results provided to participants must use non-technical, understandable, and non-promotional language.",
+    "The quality and amount of information generated in a clinical trial must be sufficient to address trial objectives, provide confidence in results, and support good decision making.",
+    "Systems and processes ensuring quality must be designed and implemented proportionately to risks to participants and reliability of trial results.",
+    "Any unplanned unblinding must be assessed for its impact on trial results, and appropriate actions taken.",
+    "Acquired data from any source, including directly captured data, must be accompanied by relevant metadata.",
+    "Audit trails, reports, and logs must be interpretable and support review.",
+    "Automatic capture of date and time of data entries or transfer must be unambiguous (e.g., coordinated universal time (UTC)).",
+    "Data corrections must be attributed, justified, supported by source records around the time of original entry, and performed in a timely manner.",
+    "Validated processes for electronic data transfer, exchange, and migration must ensure data integrity and confidentiality.",
+    "Data exchange/transfer or system migration processes must be documented for traceability, and data reconciliation implemented to avoid loss and unintended modifications.",
+    "Activities to finalise data sets prior to analysis must be confirmed and documented per pre-specified procedures.",
+    "Data extraction and determination of data analysis sets must follow planned statistical analysis and be documented.",
+    "Trial data and relevant metadata must be archived for retrieval and readability, protected from unauthorised access and alterations throughout retention.",
+    "Records must be identifiable and version controlled (when appropriate), including authors, reviewers, approvers, date, and signature (electronic or physical) where necessary.",
+    "The sponsor and investigator/institution must maintain a record of where essential records, including source records, are located.",
+    "Storage systems for trial records must provide appropriate identification, version history, search, and retrieval.",
+    "Essential records must be collected and filed in a timely manner.",
+    "Essential records must be retained in a way that ensures they remain complete, readable, readily available, and directly accessible upon request.",
+    "Alterations to essential records must be traceable.",
+    "Original records should generally be retained by the responsible party who generated them.",
+    "When a copy permanently replaces an original essential record, it must fulfill certified copy requirements.",
+    "The Investigator's Brochure (IB) must be reviewed at least annually and revised as necessary in compliance with sponsor's documented procedures.",
+    "IB information must be presented in a concise, simple, objective, balanced, and non-promotional form to enable unbiased risk-benefit assessment.",
+    "Submitted PDF files should be readable by Adobe Acrobat X.",
+    "Submitted PDF files should not require additional software or plug-ins to be read and navigated.",
+    "Submitted PDF files should be text searchable.",
+    "If plug-ins are used during the creation of a PDF document, prior to submitting the document, ensure that a plug-in is not needed for review or archive.",
+    "Ensure that all hypertext links in documents remain active after conversion to PDF/A.",
+    "The reviewer should be able to print, select text and graphics, and make changes to text, notes and form fields using the provided copy of the files, unless it's an FDA Form with inherent security.",
+    "Fully embed all non-standard fonts.",
+    "When fonts are embedded, all characters for the font should be included, not just a subset of the fonts being used in the document.",
+    "Inspect documents to make sure all non-standard fonts are fully embedded prior to submission.",
+    "When creating documents which include scanned images, ensure that any resizing of the image does not reduce the effective font size below the recommended size.",
+    "Any colors used should be tested prior to submission by printing sample pages from the document using a grayscale printer.",
+    "Save the page orientation for proper viewing and printing within the document.",
+    "Avoid image-based PDF files whenever possible.",
+    "If scanned files must be submitted, they should be made text searchable where possible.",
+    "If optical character recognition software is used, verify that imaged text is converted completely and accurately.",
+    "The use of grayscale and color should be used only when these features improve the reviewability of the material.",
+    "Compress files using either Zip/Plate or CCITT Group 4.",
+    "Create files from source documents using the “Optimize the PDF for fast web view” option to reduce file sizes and file opening times.",
+    "For printing, use CMYK (Cyan, Magenta, Yellow, Black) color model as opposed to the RGB model.",
+    "Pantone Matching using the color profile provided by CMYK ensure color consistency for printing.",
+    "The International Color Consortium (ICC) color profile specification is used when PDF documents are printed.",
+    "Include a hypertext linked Table of Contents (TOC) and bookmarks in documents 5 pages or longer.",
+    "Use hypertext links throughout the body of all documents to link to supporting annotations, related sections, references, appendices, tables or figures that are not located on the same page as the narrative text.",
+    "Hypertext links in text can be designated by rectangles using thin lines or by blue text.",
+    "A consistent method of designating links in a document avoids confusion.",
+    "Hypertext links that open a file or document should be set to open the file or document in a new window.",
+    "Using relative paths when creating hypertext links minimizes the loss of hyperlink functionality when submissions are loaded onto network servers.",
+    "The document TOC helps the reviewer navigate to the information of interest within the document that is not provided in the submission table of contents.",
+    "For documents with a table of contents, provide bookmarks and hypertext links for each item listed in the table of contents including all tables, figures, publications, other references, and appendices that are essential for navigation through documents.",
+    "The use of invisible rectangles and blue text in the table of contents for hypertext links avoids obscuring text.",
+    "Other help for navigation includes a bookmark hierarchy identical to the table of contents; up to four levels deep in the hierarchy.",
+    "When creating bookmarks and hyperlinks, set the magnification setting to \"Inherit Zoom\" so the destination page displays at the same magnification level used in the primary document.",
+    "Set the Navigation Tab to open to \"Bookmarks Panel and Page\" for initial document view.",
+    "If there are no bookmarks, set the Navigation Tab to \"Page Only\" for initial document view.",
+    "Page Layout and Magnification should be set to \"Default\" for initial document view.",
+    "It is easier to navigate through an electronic document if the page numbers for the document and the PDF file are the same, with the initial page of the document numbered as page one (with an exception for split documents).",
+    "For promotional materials, provide images at the highest resolution and depth practical.",
+    "For photographs in promotional materials, the image should be obtained with a resolution of at least 600 dpi.",
+    "For promotional materials, documents that are available only in paper should be scanned at resolutions that will ensure the pages are legible both on the computer monitor and when printed; at least 600 dpi is recommended.",
+    "Promotional material should be submitted according to its actual size when practical.",
+    "For promotional materials, when an image size is altered, the original dimensions must be stated.",
+    "For promotional materials, images of three-dimensional promotional pieces must show all sides and components.",
+    "For promotional materials, screenshots of websites submitted in PDF format should contain links that allow the reviewer to click on them to simulate navigation in the actual website.",
+    "For promotional materials, dynamic content such as audio, video, special effects, animations, attachments or 3D content are permitted if embedded in the PDF and playable via Adobe Acrobat X without the need for plug-ins or other special software."
+  ],
+  "Forbidden_Actions": [
+    "Do not derive the integrated full report of a study by simply joining a separate clinical and statistical report.",
+    "Do not allow an excess of data to lead to overuse of symbols instead of words or easily understood abbreviations or to too small displays.",
+    "Do not simply repeat the description of results nor introduce new results in the Discussion and Overall Conclusions section.",
+    "Do not draw conclusions based only on patients who completed the study, ignoring dropouts.",
+    "Do not ignore potential bias introduced by a large number of dropouts, particularly if there are more early dropouts in one treatment group or the reasons for dropping out are treatment or outcome related.",
+    "Do not omit adverse events from tables based on causality assessment, even if considered not drug related or representing intercurrent illnesses.",
+    "Do not include persons with only an occasional role (e.g., an on-call physician, temporary substitute) in the list of investigators and important participants.",
+    "Do not unnecessarily exclude particular participant populations when designing a clinical trial.",
+    "Do not interpret the absence of expression of agreement or disagreement from a minor as assent.",
+    "Do not coerce or unduly influence a participant to participate or to continue their participation in the trial.",
+    "Do not include any language in the informed consent process that causes the participant to waive or to appear to waive any legal rights, or that releases or appears to release the investigator, the institution, the sponsor or their service providers from liability for negligence.",
+    "Do not interfere with the participant’s decision to refuse or withdraw participation at any time.",
+    "Do not place unnecessary burden on participants and investigators.",
+    "Do not have exclusive control of data captured in data acquisition tools in order to prevent undetectable changes.",
+    "Do not make changes to data entered by the investigator or trial participants unless justified, agreed upon in advance by the investigator and documented.",
+    "Do not routinely request audit reports from regulatory authorities to preserve the independence and value of the audit function.",
+    "Do not disable audit trails, reports and logs.",
+    "Do not modify audit trails except in rare circumstances (e.g., when a participant’s personal information is inadvertently included in the data) and only if a log of such action and justification is maintained.",
+    "Do not allow inappropriate viewing of information that may introduce bias in statistical programming records.",
+    "Do not allow data loss and unintended modifications during data transfer, exchange and migration.",
+    "Do not allow unauthorised access and alterations to archived trial data and relevant metadata throughout the retention period.",
+    "Do not allow unauthorised access, disclosure, dissemination or alteration and from inappropriate destruction or accidental loss of trial data.",
+    "Do not share data that may unblind the investigator.",
+    "Do not include JavaScript in PDF files.",
+    "Do not include dynamic content (audio, video, special effects, animations) in PDF files, with an exception for promotional materials.",
+    "Do not include attachments in PDF files, with an exception for promotional materials.",
+    "Do not include 3D content in PDF files, with an exception for promotional materials.",
+    "Do not include PDF annotations in documents, with an exception for promotional materials.",
+    "Do not activate security settings or password protection.",
+    "Do not add additional security to FDA Forms downloaded from the FDA Forms website.",
+    "Do not remove provided security settings from FDA Forms downloaded from the FDA Forms website.",
+    "Do not use font substitution if it can affect a document's appearance and structure, or the information conveyed by a document.",
+    "Do not use smaller point sizes than 9-10 for tables.",
+    "Do not use light font colors that do not print well on grayscale printers.",
+    "Do not allow header and footer information to invade the specified margins (i.e., header and footer information should not appear within 3/8 of an inch of the edge of the 8.5 by 11 inch page).",
+    "Do not resample scanned images to a lower resolution after scanning.",
+    "Do not subject a captured image to non-uniform scaling (i.e., sizing).",
+    "Do not embed thumbnails in PDF documents.",
+    "Do not use absolute links that reference specific drives when creating hypertext links.",
+    "Do not use links to root directories when creating hypertext links.",
+    "Do not use special characters in file names except hyphens and underscores.",
+    "Do not use punctuation, spaces, or other non-alphanumeric symbols in file names."
+  ],
+  "Formatting_Rules": [
+    "Use charts and diagrams as needed.",
+    "Display the overall study design graphically with a flow chart, including timing of assessments.",
+    "Display graphically in a flow chart the frequency and timing of efficacy and safety measurements; visit numbers and times should be shown, or times alone can be used.",
+    "Abnormal laboratory values should be identified, e.g., by underlining, bracketing etc.",
+    "Graphs may be used for laboratory values over time.",
+    "A graph comparing the initial value and the on-treatment values of a laboratory measurement for each patient should locate the point defined by the initial value on the abscissa and a subsequent value on the ordinate.",
+    "Include patient identifiers for outliers in laboratory value graphs.",
+    "Individual patient profiles can be constructed in other formats, such as graphic displays.",
+    "Figures should be used to visually summarise important results or to clarify results that are not easily understood from tables.",
+    "References must be given in accordance with the internationally accepted standards of the 1979 Vancouver Declaration on 'Uniform Requirements for Manuscripts Submitted to Biomedical Journals' or the system used in 'Chemical Abstracts'.",
+    "P-values must be designated as one- or two-tailed.",
+    "PDF versions 1.4 through 1.7, PDF/A-1 and PDF/A-2 are acceptable for documents.",
+    "All non-standard fonts must be fully embedded.",
+    "Fonts should be restricted to the standard fonts listed in Table 1.",
+    "Use font sizes ranging from 9 to 12 point, with an exception for promotional materials.",
+    "Times New Roman 12-point font is recommended for narrative text.",
+    "Point sizes 9-10 are recommended for tables.",
+    "Ten point fonts are recommended for footnotes.",
+    "Black is the recommended font color, with an exception for promotional materials.",
+    "Blue can be used for hypertext links.",
+    "The page orientation must be saved for proper viewing and printing within the document.",
+    "Set up the print area for pages to fit on a sheet of paper that is 8.5 inches by 11 inches.",
+    "A margin of at least 3/4 of an inch on the left side of page is required.",
+    "A margin of at least 3/8 of an inch on the other sides (right, top, bottom) is sufficient.",
+    "For pages in landscape orientation, a margin of 3/4 of an inch at the top is required.",
+    "Oversized documents (e.g., CAD drawings or other specialized documents) and promotional materials submitted in PDF format should be created according to their actual page size.",
+    "Use 300 dots per inch (dpi) for scanning documents.",
+    "For photographs in promotional materials, the image should be obtained with a resolution of at least 600 dpi.",
+    "For promotional materials, documents that are available only in paper should be scanned at resolutions of at least 600 dpi.",
+    "File compression must use Zip/Plate or CCITT Group 4.",
+    "PDF documents do not need embedded thumbnails.",
+    "Documents 5 pages or longer must include a hypertext linked Table of Contents (TOC) and bookmarks.",
+    "Hypertext links in text can be designated by rectangles using thin lines or by blue text.",
+    "The bookmark hierarchy must be identical to the table of contents, up to four levels deep.",
+    "The magnification setting for bookmarks and hyperlinks must be set to \"Inherit Zoom\".",
+    "The Navigation Tab for initial document view must be set to \"Bookmarks Panel and Page\" (or \"Page Only\" if no bookmarks).",
+    "Page Layout and Magnification for initial document view must be set to \"Default\".",
+    "File names must use lower case characters.",
+    "File names must use hyphens and underscores.",
+    "For promotional materials, PDF restrictions for font size, color, and annotations stated in this document are not applicable."
+  ],
+  "Sections": {
+    "Section_1": {
+      "section_title": "Title Page",
+      "date_format_rule": "ALL dates MUST use 'DD Month YYYY' (e.g., '29 April 2020', '02 September 2021'). Zero-pad single-digit days (e.g., '02' not '2'). Never use 'April 29, 2020', '2020-04-29', 'Apr 29, 2020', or '29/04/2020'.",
+      "output_format_description": "The title page is a structured form. Each entry has a LABEL on the left and a VALUE on the right. In markdown, render each entry as: '**Label:**\\nValue'. Separate entries with a blank line. Multi-line values (e.g., investigator address, multiple signatories) use line breaks within the value. Do NOT use bullet lists, numbered lists, or tables.",
+      "data_not_available_handling": "If a field's data cannot be found via reasoning_search after at least 2 different search queries, write '[Data Not Available]'. Never invent or guess.",
+      "required_fields_in_order": [
+        {
+          "label": "Vaccine Name and\\nCompound Number",
+          "description": "The investigational product name and compound number. Use the exact product name and compound ID from the study documents.",
+          "example": "BNT162 RNA-Based COVID-19 Vaccines, Compound Number: PF-07302048",
+          "search_query": "What is the investigational product name and compound number?"
+        },
+        {
+          "label": "Report Title",
+          "description": "The full report title: report type (Interim Report/Final Report), any update qualifier, the complete study title from the protocol including phase, design descriptors, objectives, product, and population.",
+          "example": "Interim Report – Adolescent 6-Month Update: A Phase 1/2/3, Placebo-Controlled, Randomized, Observer-Blind, Dose-Finding Study to Evaluate the Safety, Tolerability, Immunogenicity, and Efficacy of SARS-CoV-2 RNA Vaccine Candidates Against COVID-19 in Healthy Individuals",
+          "search_query": "What is the full study title from the protocol?"
+        },
+        {
+          "label": "Protocol Number",
+          "description": "The protocol identification code, prefixed with the word 'Protocol'.",
+          "example": "Protocol C4591001",
+          "search_query": "What is the protocol number?"
+        },
+        {
+          "label": "Sponsor",
+          "description": "The primary sponsor organization's full legal name.",
+          "example": "BioNTech SE",
+          "search_query": "Who is the sponsor of this clinical study?"
+        },
+        {
+          "label": "Sponsor Agent",
+          "description": "The sponsor agent or CRO, if applicable. If not applicable, omit this field.",
+          "example": "Pfizer Inc",
+          "search_query": "Who is the sponsor agent or CRO for this study?"
+        },
+        {
+          "label": "Phase of Development",
+          "description": "The clinical trial phase.",
+          "example": "Phase 1/2/3",
+          "search_query": "What phase is this clinical trial?"
+        },
+        {
+          "label": "First Subject First Visit",
+          "description": "Date of first subject enrolled in DD Month YYYY format. If distinct sub-populations have different start dates, list each with a parenthetical label separated by semicolon.",
+          "example": "29 April 2020 (study start); 15 October 2020 (adolescent)",
+          "search_query": "When was the first subject first visit or first patient enrolled?"
+        },
+        {
+          "label": "Primary Completion Date",
+          "description": "The primary completion date in DD Month YYYY format, or 'Not applicable' if not yet reached.",
+          "example": "Not applicable",
+          "search_query": "What is the primary completion date of this study?"
+        },
+        {
+          "label": "Data Cutoff Date",
+          "description": "The data cutoff date for this report in DD Month YYYY format.",
+          "example": "02 September 2021",
+          "search_query": "What is the data cutoff date for this report?"
+        },
+        {
+          "label": "Name and Affiliation of\\nCoordinating/Leading\\nInvestigator",
+          "description": "Full name with credentials (e.g., MD, PhD), institution name, complete postal address (street, suite, city, state, zip). Then a separate paragraph noting where the full investigator list is provided (e.g., Appendix 16.1.4).",
+          "example": "Stephen Thomas, MD\\nSUNY Upstate Medical University\\n725 Irving Ave, Ste. 311\\nSyracuse, NY 13210\\n\\nThe names of the principal investigators, site addresses, and number of participants enrolled at each site are provided in the appendix titled List and Description of Investigators and Other Service Providers, Appendix 16.1.4.",
+          "search_query": "Who is the coordinating investigator or principal investigator and what is their institution and address?"
+        },
+        {
+          "label": "Sponsor's Signatories",
+          "description": "All sponsor signatories, each on their own line(s). For each: full name with degree(s), then title and organization on the next line. If multiple sponsors, group signatories by organization.",
+          "example": "John L. Perez, MD, MBA, MA\\nVice President, Vaccines Clinical Research and Development, Pfizer Inc\\n\\nKenneth Koury, PhD\\nClinical Biostatistics Head, Vaccines Clinical Research and Development, Pfizer Inc\\n\\nEleni Lagkadinou, MD, PhD\\nVice President, Clinical Development, BioNTech SE",
+          "search_query": "Who are the sponsor signatories for this clinical study report with their titles and degrees?"
+        },
+        {
+          "label": "Internal Reports\\nReferenced",
+          "description": "List all prior CSR reports from the same study protocol. Each on its own line: protocol number + report type, then 'dated DD Month YYYY'. If no prior reports exist, omit this field.",
+          "example": "C4591001 Booster Interim CSR:\\ndated 23 August 2021\\n\\nC4591001 6-Month Update Interim CSR:\\ndated 29 April 2021",
+          "search_query": "What earlier interim or final clinical study reports have been issued for this protocol?"
+        },
+        {
+          "label": "Date of Current Version",
+          "description": "Date of the current report version in DD Month YYYY format.",
+          "example": "12 December 2021",
+          "search_query": "What is the date of this clinical study report?"
+        },
+        {
+          "label": "Date(s) of Previous\\nReport(s)",
+          "description": "Date(s) of any previous version(s) of this report in DD Month YYYY format. If no previous versions, omit this field.",
+          "example": "03 December 2021",
+          "search_query": "What are the dates of previous versions of this clinical study report?"
+        }
+      ],
+      "gcp_statement": {
+        "heading": "## GCP STATEMENT",
+        "template": "This study was conducted in compliance with Good Clinical Practice (GCP) guidelines and, where applicable, local country regulations relevant to the use of new therapeutic agents in the country/countries of conduct, including the archiving of essential documents."
+      },
+      "data_dependencies": [
+        {
+          "reference_id": "Title_Page_Fields",
+          "title": "Title page, protocol header, report cover page",
+          "content_summary": "Search for the title page, cover page, or first pages of the CSR and the protocol to extract: study title, product name, compound number, protocol number, sponsor, sponsor agent, phase, and all key dates."
+        },
+        {
+          "reference_id": "Investigator_Details",
+          "title": "Coordinating/Principal Investigator name, institution, address",
+          "content_summary": "Search for the coordinating investigator or principal investigator details including name, credentials, institution, and full postal address."
+        },
+        {
+          "reference_id": "Signatories_Details",
+          "title": "Sponsor signatories for the CSR",
+          "content_summary": "Search for the sponsor's signatories — the persons responsible for the study report within the sponsor company. Find their names, degrees, titles, and organizations."
+        },
+        {
+          "reference_id": "Prior_Reports",
+          "title": "Previously issued CSRs or interim reports for this protocol",
+          "content_summary": "Search for any internal reports referenced or earlier CSRs from the same protocol, with their types and dates."
+        }
+      ],
+      "critical_safety_checks": [
+        "ALL dates must use DD Month YYYY format with zero-padded day. No exceptions.",
+        "The GCP STATEMENT section must be present at the end.",
+        "Do NOT invent or hallucinate any data. Use '[Data Not Available]' if not found.",
+        "The study title and protocol number must exactly match the source documents.",
+        "Every required field must appear in the output in the specified order (unless explicitly conditional).",
+        "Signatories must include full name, degree(s), and title — do not abbreviate or omit credentials."
+      ]
+    },
+    "Section_2": {
+      "section_title": "Synopsis",
+      "required_content": [
+        "Provide a brief synopsis (usually limited to 3 pages) that summarises the study.",
+        "The synopsis must include numerical data to illustrate results, not just text or p-values."
+      ],
+      "data_dependencies": [
+        {
+          "reference_id": "Annex I",
+          "title": "Synopsis (Example)",
+          "content_summary": "An example of a synopsis format used in Europe, illustrating the expected structure and content for a synopsis."
+        }
+      ],
+      "critical_safety_checks": []
+    },
+    "Section_3": {
+      "section_title": "Table of Contents for the Individual Clinical Study Report",
+      "required_content": [
+        "Include the page number or other locating information of each section, including summary tables, figures and graphs.",
+        "Include a list and the locations of appendices, tabulations and any case report forms provided."
+      ],
+      "data_dependencies": [],
+      "critical_safety_checks": []
+    },
+    "Section_4": {
+      "section_title": "List of Abbreviations and Definition of Terms",
+      "required_content": [
+        "Provide a list of the abbreviations, and lists and definitions of specialised or unusual terms or measurements units used in the report.",
+        "Abbreviated terms must be spelled out and the abbreviation indicated in parentheses at first appearance in the text."
+      ],
+      "data_dependencies": [],
+      "critical_safety_checks": []
+    },
+    "Section_5": {
+      "section_title": "Ethics",
+      "required_content": [
+        "Confirm that the study and any amendments were reviewed by an Independent Ethics Committee or Institutional Review Board.",
+        "Confirm that the study was conducted in accordance with the ethical principles that have their origins in the Declaration of Helsinki.",
+        "Describe how and when informed consent was obtained in relation to patient enrolment (e.g., at allocation, pre-screening)."
+      ],
+      "data_dependencies": [
+        {
+          "reference_id": "Appendix 16.1.3",
+          "title": "List of IECs or IRBs (plus the name of the committee Chair if required by the regulatory authority) - Representative written information for patient and sample consent forms",
+          "content_summary": "A list of all IECs or IRBs consulted, and if required by the regulatory authority, the name of the committee Chair. Also, representative written information for the patient (if any) and a sample patient consent form."
+        }
+      ],
+      "critical_safety_checks": [
+        "Confirm that the study and any amendments were reviewed by an Independent Ethics Committee or Institutional Review Board.",
+        "Confirm that the study was conducted in accordance with the ethical principles that have their origins in the Declaration of Helsinki."
+      ]
+    },
+    "Section_6": {
+      "section_title": "Investigators and Study Administrative Structure",
+      "required_content": [
+        "Describe briefly the administrative structure of the study (e.g., principal investigator, coordinating investigator, steering committee, administration, monitoring and evaluation committees, institutions, statistician, central laboratory facilities, contract research organisation (C.R.O.), clinical trial supply management) in the body of the report.",
+        "The listing should include: a) Investigators, b) Any other person carrying out observations of primary or other major efficacy variables, such as a nurse, physician's assistant, clinical psychologist, clinical pharmacist, or house staff physician, c) The author(s) of the report, including the responsible biostatistician(s)."
+      ],
+      "data_dependencies": [
+        {
+          "reference_id": "Appendix 16.1.4",
+          "title": "List and description of investigators and other important participants in the study, including brief (1 page) CVs or equivalent summaries of training and experience relevant to the performance of the clinical study",
+          "content_summary": "A list of the investigators with their affiliations, their role in the study and their qualifications (curriculum vitae or equivalent). A similar list for other persons whose participation materially affected the conduct of the study."
+        },
+        {
+          "reference_id": "Appendix 16.1.5",
+          "title": "Signatures of principal or coordinating investigator(s) or sponsor's responsible medical officer, depending on the regulatory authority's requirement",
+          "content_summary": "Signatures of the principal or coordinating investigators if required by regulatory authorities, or the signature of the sponsor's responsible medical officer if not required."
+        },
+        {
+          "reference_id": "Annex II",
+          "title": "Principal or Coordinating Investigator(s) Signature(s) or Sponsor's Responsible Medical Officer (Example)",
+          "content_summary": "A sample form for the signatures of principal or coordinating investigator(s) or sponsor's responsible medical officer."
+        }
+      ],
+      "critical_safety_checks": []
+    },
+    "Section_7": {
+      "section_title": "Introduction",
+      "required_content": [
+        "The introduction should contain a brief statement (maximum: 1 page) placing the study in the context of the development of the test drug/investigational product, relating the critical features of the study (e.g., rationale and aims, target population, treatment, duration, primary endpoints) to that development.",
+        "Identify or describe any guidelines that were followed in the development of the protocol or any other agreements/meetings between the sponsor/company and regulatory authorities that are relevant to the particular study."
+      ],
+      "data_dependencies": [],
+      "critical_safety_checks": []
+    },
+    "Section_8": {
+      "section_title": "Study Objectives",
+      "required_content": [
+        "Provide a statement describing the overall purpose(s) of the study."
+      ],
+      "data_dependencies": [],
+      "critical_safety_checks": []
+    },
+    "Section_9": {
+      "section_title": "Investigational Plan",
+      "required_content": [
+        "Describe briefly but clearly the overall study plan and design (configuration) of the study (e.g., parallel, cross-over), using charts and diagrams as needed.",
+        "If other studies used a very similar protocol, note this and describe any important differences.",
+        "If any information in this section comes from sources other than the protocol, these should be identified.",
+        "The information provided should include: treatments studied (specific drugs, doses and procedures); patient population studied and the number of patients to be included; level and method of blinding/masking (e.g., open, double-blind, single-blind, blinded evaluators and unblinded patients and/or investigators); kind of control(s) (e.g., placebo, no treatment, active drug, dose-response, historical) and study configuration (parallel, cross-over); method of assignment to treatment (randomisation, stratification); sequence and duration of all study periods, including pre-randomisation and post-treatment periods, therapy withdrawal periods and single- and double-blind treatment periods.",
+        "Specify when patients are randomised.",
+        "Include any safety, data monitoring or special steering or evaluation committees.",
+        "Include any interim analyses.",
+        "Discuss the specific control chosen and the study design used, as necessary.",
+        "If randomisation was not used, explain how other techniques, if any, guarded against systematic selection bias.",
+        "Discuss known or potential problems associated with the study design or control group chosen, in light of the specific disease and therapies being studied.",
+        "For a crossover design, consider, among other things, the likelihood of spontaneous change in the disease and of carry-over effects of treatment during the study.",
+        "If efficacy was to be demonstrated by showing equivalence, address problems associated with such study designs.",
+        "Provide a basis for considering the study capable of distinguishing active from inactive therapy.",
+        "Discuss how to assess the ability of the present study to distinguish effective from ineffective therapy.",
+        "Discuss the degree of inferiority of the therapy (often referred to as the delta value) the study was intended to show was not exceeded.",
+        "Give particular attention to the limitations of historical controls.",
+        "Discuss other specific features of the design, including presence or absence of washout periods and the duration of the treatment period, especially for a chronic illness.",
+        "Explain the rationale for dose and dose-interval selection, if it is not obvious.",
+        "Describe procedures used to seek evidence of 'escape' from drug effect at the end of the dose-interval, such as measurements of effect just prior to dosing.",
+        "In a parallel design dose-response study, explain the choice of doses.",
+        "Describe the patient population and the selection criteria used to enter the patients into the study, and discuss the suitability of the population for the purposes of the study.",
+        "Present specific diagnostic criteria used, as well as specific disease requirements (e.g., disease of a particular severity or duration, results of a particular test or rating scale(s) or physical examination, particular features of clinical history, such as failure or success on prior therapy, or other potential prognostic factors and any age, sex or ethnic factors).",
+        "Describe screening criteria and any additional criteria for randomisation or entry into the test drug/investigational product treatment part of the trial.",
+        "If there is reason to believe that there were additional entry criteria, not defined in the protocol, discuss the implications of these.",
+        "Specify the criteria for exclusion at entry into the study and provide the rationale (e.g., safety concerns, administrative reasons or lack of suitability for the trial).",
+        "Describe the predetermined reasons for removing patients from therapy or assessment observation, if any, as should the nature and duration of any planned follow-up observations in those patients.",
+        "Describe the precise treatments or diagnostic agents to be administered in each arm of the study, and for each period of the study, including route and mode of administration, dose and dosage schedule.",
+        "In the text of the report, give a brief description of the test drug(s)/investigational product(s) (formulation, strength, batch number(s)).",
+        "Provide the source of placebos and active control/comparator product(s).",
+        "Note any modification of comparator product(s) from their usual commercial state, and describe the steps taken to assure that their bioavailability was unaltered.",
+        "For long-duration trials of investigational products with limited shelf-lives or incomplete stability data, describe the logistics of resupply of the materials.",
+        "Note any use of test materials past their expiry date, and identify patients receiving them.",
+        "If there were specific storage requirements, these should also be described.",
+        "Describe the specific methods used to assign patients to treatment groups, e.g., centralised allocation, allocation within sites, adaptive allocation (that is, assignment on the basis of earlier assignment or outcome) in the text of the report, including any stratification or blocking procedures.",
+        "Explain any unusual features of assignment methods.",
+        "For a historically controlled trial, explain how the particular control was selected and what other historical experiences were examined, if any, and how their results compared to the control used.",
+        "Give the doses or dose ranges used in the study for all treatments and describe the basis for choosing them (e.g., prior experience in humans, animal data).",
+        "Describe procedures for selecting each patient's dose of test drug/investigational product and active control/comparator.",
+        "Describe procedures for back-titration, if any.",
+        "Describe the timing (time of day, interval) of dosing and the relation of dosing to meals, and note if it was not specified.",
+        "Describe any specific instructions to patients about when or how to take the dose(s).",
+        "Provide a description of the specific procedures used to carry out blinding (e.g., how bottles were labelled, labels that reveal blind-breakage, sealed code list/envelopes, double dummy techniques).",
+        "Include the circumstances in which the blind would be broken for an individual or for all patients, e.g., for serious adverse events, the procedures used and who had access to patient codes.",
+        "If the study allowed for some investigators to remain unblinded (e.g., to allow them to adjust medication), explain the means of shielding other investigators.",
+        "Describe measures taken to ensure that test drug/investigational product and placebo were indistinguishable and evidence that they were indistinguishable, as should the appearance, shape, smell, and taste of the test material.",
+        "Describe measures to prevent unblinding by laboratory measurements, if used.",
+        "If there was a data monitoring committee with access to unblinded data, describe procedures to ensure maintenance of overall study blinding.",
+        "Explain the procedure to maintain the blinding when interim analyses are performed.",
+        "If blinding was considered unnecessary to reduce bias for some or all of the observations, explain this.",
+        "If blinding was considered desirable but not feasible, discuss the reasons and implications.",
+        "Identify problems or potential problems with imperfect blinding (e.g., obvious drug effects) and describe any attempts to assess the magnitude of the problem or manage it.",
+        "Describe which drugs or procedures were allowed before and during the study, whether and how their use was recorded, and any other specific rules and procedures related to permitted or forbidden concomitant therapy.",
+        "Discuss how allowed concomitant therapy might affect the outcome due either to drug-drug interaction or to direct effects on the study endpoints.",
+        "Explain how the independent effects of concomitant and study therapies could be ascertained.",
+        "Describe the measures taken to ensure and document treatment compliance, e.g., drug accountability, diary cards, blood, urine or other body fluid drug level measurements, or medication event monitoring.",
+        "Describe the specific efficacy and safety variables to be assessed and laboratory tests to be conducted, their schedule (days of study, time of day, relation to meals, and the timing of critical measures in relation to test drug administration, e.g., just prior to next dose, two hours after dose), the methods for measuring them, and the persons responsible for the measurements.",
+        "Report any changes in personnel carrying out critical measurements.",
+        "Note any specific instructions (e.g., guidance or use of a diary) to the patients.",
+        "Explain in full any definitions used to characterise outcome (e.g., criteria for determining occurrence of acute myocardial infarction, designation of the location of the infarction, characterisation of a stroke as thrombotic or haemorrhagic, distinction between TIA and stroke, assignment of cause of death).",
+        "Describe any techniques used to standardise or compare results of laboratory tests or other clinical measurements (e.g., ECG, chest X-ray), especially in multicentre studies.",
+        "If anyone other than the investigator was responsible for evaluation of clinical outcomes (e.g., the sponsor or an external committee), identify the person or group.",
+        "Describe fully the procedures, including means of maintaining blindness, and centralising readings and measurements, for evaluation of clinical outcomes by parties other than the investigator.",
+        "Describe the means of obtaining adverse event data (volunteered, checklist, or, questioning), as should any specific rating scale(s) used and any specifically planned follow-up procedures for adverse events or any planned rechallenge procedure.",
+        "Describe any rating of adverse events by the investigator, sponsor or external group (e.g., rating by severity or, likelihood of drug causation).",
+        "Give the criteria for such ratings, if any, and clearly identify the parties responsible for the ratings.",
+        "If efficacy or safety was to be assessed in terms of categorical ratings, numerical scores etc., provide the criteria used for point assignment (e.g., definitions of point scores).",
+        "For multicentre studies, indicate how methods were standardised.",
+        "If any of the efficacy or safety assessments was not standard (i.e., widely used and generally recognised as reliable, accurate, and relevant), document its reliability, accuracy and relevance.",
+        "It may be helpful to describe alternatives considered but rejected for non-standard assessments.",
+        "If a surrogate end point (a laboratory measurement or physical measurement or sign that is not a direct measure of clinical benefit) was used as a study end point, justify this e.g., by reference to clinical data, publications, guidelines or previous actions by regulatory authorities.",
+        "Clearly specify the primary measurements and endpoints used to determine efficacy.",
+        "If the protocol did not identify the primary variables, the study report should explain how these critical variables were selected (e.g., by reference to publications, guidelines or previous actions by regulatory authorities) and when they were identified (i.e., before or after the study was completed and unblinded).",
+        "If an efficacy threshold was defined in the protocol, describe this.",
+        "Describe any drug concentrations to be measured, and the sample collection times and periods in relation to the timing of drug administration.",
+        "Address any relation of drug administration and sampling to ingestion of food, posture and the possible effects of concomitant medication/alcohol/caffeine/nicotine.",
+        "Describe the biological sample measured, the handling of samples and the method of measurement used, referring to published and/or internal assay validation documentation for methodological details.",
+        "Where other factors are believed important in assessing pharmacokinetics (e.g., soluble circulating receptors, renal or hepatic function), specify the timing and plans to measure these factors.",
+        "Describe in brief the quality assurance and quality control systems implemented to assure the quality of the data.",
+        "If no quality assurance and quality control systems were used, state this.",
+        "Describe any steps taken at the investigation site or centrally to ensure the use of standard terminology and the collection of accurate, consistent, complete, and reliable data, such as training sessions, monitoring of investigators by sponsor personnel, instruction manuals, data verification, cross-checking, use of a central laboratory for certain tests, centralised ECG reading, or data audits.",
+        "Note whether investigator meetings or other steps were taken to prepare investigators and standardise performance.",
+        "If the sponsor used an independent internal or external auditing procedure, mention it here and describe it in appendix 16.1.8.",
+        "Describe the statistical analyses planned in the protocol and any changes made before outcome results were available.",
+        "In this section, emphasize which analyses, comparisons and statistical tests were planned, not on which ones were actually used.",
+        "If critical measurements were made more than once, specify the particular measurements (e.g., average of several measurements over the entire study, values at particular times, values only from study completers, or last on-therapy value) planned as the basis for comparison of test drug/investigational product and control.",
+        "If more than one analytical approach is plausible, e.g., changes from baseline response, slope analysis, life table analysis, identify the planned approach.",
+        "Specify whether the primary analysis is to include adjustment for covariates.",
+        "If there were any planned reasons for excluding from analysis patients for whom data are available, describe these.",
+        "If there were any subgroups whose results were to be examined separately, identify these.",
+        "If categorical responses (global scales, severity scores, responses of a certain size) were to be used in analysing responses, clearly define them.",
+        "Describe planned monitoring of the results of the study.",
+        "If there was a data monitoring committee, either within or outside the sponsor's control, describe its composition and operating procedures and give procedures to maintain study blinding.",
+        "Describe the frequency and nature of any planned interim analysis, any specified circumstances in which the study would be terminated and any statistical adjustments to be employed because of interim analyses.",
+        "Provide the planned sample size and the basis for it, such as statistical considerations or practical limitations.",
+        "Give methods for sample size calculation together with their derivations or source of reference.",
+        "Give estimates used in the calculations and provide explanations as to how they were obtained.",
+        "For a study intended to show a difference between treatments, specify the difference the study is designed to detect.",
+        "For a positive control study intended to show that a new therapy is at least as effective as the standard therapy, the sample size determination should specify the difference between treatments that would be considered unacceptably large and therefore the difference the study is designed to be able to exclude.",
+        "Describe any change in the conduct of the study or planned analyses (e.g., dropping a treatment group, changing the entry criteria or drug dosages, adjusting the sample size etc.) instituted after the start of the study.",
+        "Describe the time(s) and reason(s) for the change(s), the procedure used to decide on the change(s), the person(s) or group(s) responsible for the change(s) and the nature and content of the data available (and to whom they were available) when the change was made, whether the change was documented as a formal protocol amendment or not (Personnel changes need not be included).",
+        "Discuss briefly any possible implications of the change(s) for the interpretation of the study in this section and more fully in other appropriate sections of the report.",
+        "In every section of the report, make a clear distinction between conditions (procedures) planned in the protocol and amendments or additions.",
+        "It is particularly critical that the timing of changes relative to blind breaking and availability of outcome results be well characterised."
+      ],
+      "data_dependencies": [
+        {
+          "reference_id": "Appendix 16.1.1",
+          "title": "Protocol and protocol amendments",
+          "content_summary": "The actual protocol and any changes made to it."
+        },
+        {
+          "reference_id": "Appendix 16.1.2",
+          "title": "Sample case report form (unique pages only)",
+          "content_summary": "Unique pages of a sample case report form; identical pages from forms for different evaluations or visits are not necessary."
+        },
+        {
+          "reference_id": "Annex IIIa",
+          "title": "Study Design and Schedule of Assessments (Example)",
+          "content_summary": "An example flow chart displaying the study design and timing of assessments."
+        },
+        {
+          "reference_id": "Annex IIIb",
+          "title": "Study Design and Schedule of Assessments (Example)",
+          "content_summary": "An example flow chart displaying the study design and timing of assessments."
+        },
+        {
+          "reference_id": "Appendix 16.1.6",
+          "title": "Listing of patients receiving test drug(s)/investigational product(s) from specific batches, where more than one batch was used",
+          "content_summary": "A listing identifying patients who received test drug(s)/investigational product(s) from specific batches, if more than one batch was used."
+        },
+        {
+          "reference_id": "Appendix 16.1.7",
+          "title": "Randomisation scheme and codes (patient identification and treatment assigned)",
+          "content_summary": "A detailed description of the randomisation method, including how it was executed, with references if necessary. A table exhibiting the randomisation codes, patient identifier, and treatment assigned, by centre for multicentre studies. Explanation of the method of generating random numbers."
+        },
+        {
+          "reference_id": "Annex III",
+          "title": "Study Design and Schedule of Assessments (Example)",
+          "content_summary": "An example flow chart displaying the frequency and timing of efficacy and safety measurements."
+        },
+        {
+          "reference_id": "Appendix 16.1.10",
+          "title": "Documentation of inter-laboratory standardisation methods and quality assurance procedures if used",
+          "content_summary": "Documentation of methods and procedures used for inter-laboratory standardisation and quality assurance."
+        },
+        {
+          "reference_id": "Appendix 16.1.8",
+          "title": "Audit certificates (if available) (see Annex IVa and IVb of the guideline)",
+          "content_summary": "Description of any independent internal or external auditing procedure used by the sponsor, and audit certificates if available."
+        },
+        {
+          "reference_id": "Appendix 16.1.9",
+          "title": "Documentation of statistical methods",
+          "content_summary": "Detailed documentation of statistical methods. Includes minutes of meetings of any data monitoring group and any data reports reviewed at those meetings, particularly a meeting that led to a change in the protocol or early termination of the study."
+        }
+      ],
+      "critical_safety_checks": [
+        "Specify the criteria for exclusion at entry into the study and provide the rationale (e.g., safety concerns, administrative reasons or lack of suitability for the trial).",
+        "Note any use of test materials past their expiry date, and identify patients receiving them.",
+        "If there was a data monitoring committee with access to unblinded data, describe procedures to ensure maintenance of overall study blinding.",
+        "Explain the procedure to maintain the blinding when interim analyses are performed.",
+        "Identify problems or potential problems with imperfect blinding (e.g., obvious drug effects) and describe any attempts to assess the magnitude of the problem or manage it.",
+        "Describe the specific efficacy and safety variables to be assessed and laboratory tests to be conducted.",
+        "Describe the means of obtaining adverse event data (volunteered, checklist, or, questioning), as should any specific rating scale(s) used and any specifically planned follow-up procedures for adverse events or any planned rechallenge procedure.",
+        "Describe any rating of adverse events by the investigator, sponsor or external group (e.g., rating by severity or, likelihood of drug causation).",
+        "Give the criteria for such ratings, if any, and clearly identify the parties responsible for the ratings."
+      ]
+    },
+    "Section_10": {
+      "section_title": "Study Patients",
+      "required_content": [
+        "Provide a clear accounting of all patients who entered the study, using figures or tables in the text of the report.",
+        "Provide the numbers of patients who were randomised, and who entered and completed each phase of the study (or each week/month of the study).",
+        "Provide the reasons for all post-randomisation discontinuations, grouped by treatment and by major reason (lost to follow-up, adverse event, poor compliance etc.).",
+        "It may also be relevant to provide the number of patients screened for inclusion and a breakdown of the reasons for excluding patients during screening, if this could help clarify the appropriate patient population for eventual drug use.",
+        "Make clear whether patients are followed for the duration of the study, even if drug is discontinued.",
+        "Describe all important deviations related to study inclusion or exclusion criteria, conduct of the trial, patient management or patient assessment.",
+        "In the body of the text, protocol deviations should be appropriately summarised by centre and grouped into different categories, such as: those who entered the study even though they did not satisfy the entry criteria; those who developed withdrawal criteria during the study but were not withdrawn; those who received the wrong treatment or incorrect dose; those who received an excluded concomitant treatment."
+      ],
+      "data_dependencies": [
+        {
+          "reference_id": "Annex IVa",
+          "title": "Disposition of Patients (Example)",
+          "content_summary": "An example flow chart illustrating the disposition of patients in a study, including numbers randomized, completed, and withdrawn with reasons."
+        },
+        {
+          "reference_id": "Annex IVb",
+          "title": "Disposition of Patients (Example)",
+          "content_summary": "An example flow chart illustrating the disposition of patients in a study, including numbers randomized, completed, and withdrawn with reasons."
+        },
+        {
+          "reference_id": "Appendix 16.2.1",
+          "title": "Discontinued patients",
+          "content_summary": "A listing of all patients discontinued from the study after enrolment, broken down by centre and treatment group, giving a patient identifier, the specific reason for discontinuation, the treatment (drug and dose), cumulative dose (where appropriate), and the duration of treatment before discontinuation. It should also note whether or not the blind for the patient was broken at the time of discontinuation. May include critical demographic data, concomitant medication, and major response variable(s) at termination."
+        },
+        {
+          "reference_id": "Annex V",
+          "title": "Listing of Patients Who Discontinued Therapy (Example)",
+          "content_summary": "An example listing format for patients who discontinued therapy, including patient identifier, reason for discontinuation, treatment, cumulative dose, duration of treatment, and whether the blind was broken."
+        },
+        {
+          "reference_id": "Appendix 16.2.2",
+          "title": "Protocol deviations",
+          "content_summary": "A listing of individual patients with protocol deviations, broken down by centre for multicentre studies."
+        }
+      ],
+      "critical_safety_checks": [
+        "Note whether or not the blind for the patient was broken at the time of discontinuation."
+      ]
+    },
+    "Section_11": {
+      "section_title": "Efficacy Evaluation",
+      "required_content": [
+        "Precisely define which patients were included in each efficacy analysis (e.g., all patients receiving any test drugs/investigational products, all patients with any efficacy observation or with a certain minimum number of observations, only patients completing the trial, all patients with an observation during a particular time window, only patients with a specified degree of compliance etc.).",
+        "If not defined in the study protocol, clearly state when (relative to study unblinding) and how inclusion/exclusion criteria for the data sets analysed were developed.",
+        "Generally, even if the applicant's proposed primary analysis is based on a reduced subset of the patients with data, there should also be for any trial intended to establish efficacy an additional analysis using all randomised (or otherwise entered) patients with any on-treatment data.",
+        "Present group data for the critical demographic and baseline characteristics of the patients, as well as other factors arising during the study that could affect response, in this section.",
+        "The data for the patient sample included in the 'all patients with data' analysis should be given first.",
+        "This can then be followed by data on other groups used in principal analyses, such as the 'per-protocol' analysis or other analyses, e.g., groups defined by compliance, concomitant disease/therapy, or demographic/baseline characteristics.",
+        "When such groups are used, data for the complementary excluded group should also be shown.",
+        "In a multicentre study where appropriate, comparability should be assessed by centre, and centres should be compared.",
+        "Provide a diagram showing the relationship between the entire sample and any other analysis groups.",
+        "The critical variables will usually include: demographic variables (age, sex, race), disease factors (specific entry criteria, duration, stage and severity of disease and other clinical classifications and sub-groupings in common usage or of known prognostic significance, baseline values for critical clinical measurements, concomitant illness at trial initiation, relevant previous illness, relevant previous treatment for illness treated in the study, concomitant treatment maintained or stopped at entry), other factors that might affect response to therapy (e.g., weight, renin status, antibody levels, metabolic status), and other possibly relevant variables (e.g., smoking, alcohol intake, special diets, and, for women, menstrual status and date of last menstrual period, if pertinent).",
+        "Summarise any measurements of compliance of individual patients with the treatment regimen under study and drug concentrations in body fluids, analysed by treatment group and time interval.",
+        "Compare treatment groups for all critical measures of efficacy (primary and secondary end-points; any pharmacodynamic end points studied), as well as benefit/risk assessment(s) in each patient where these are utilised.",
+        "In general, the results of all analyses contemplated in the protocol and an analysis including all patients with on-study data should be performed in studies intended to establish efficacy.",
+        "The analysis must show the size (point estimate) of the difference between the treatments, the associated confidence interval, and where utilised, the results of hypothesis testing.",
+        "Present analyses based on continuous variables (e.g., mean blood pressure or depression scale score) and categorical responses (e.g., cure of an infection) if both were planned and are available.",
+        "If categories are newly created (i.e., not in the statistical plan), explain the basis for them.",
+        "Even if one variable receives primary attention, other reasonable measures should be assessed, at least briefly.",
+        "Describe the time course of response, if possible.",
+        "For a multicentre study, where appropriate, include data display and analysis of individual centres for critical variables to give a clear picture of the results at each site, especially the larger sites.",
+        "If any critical measurements or assessments of efficacy or safety outcomes were made by more than one party, overall differences between the ratings must be shown, and each patient having disparate assessments must be identified.",
+        "The assessments used must be clear in all analyses.",
+        "Describe the statistical analysis used for clinical and statistical reviewers in the text of the report.",
+        "Discuss important features of the analysis including the particular methods used, adjustments made for demographic or baseline measurements or concomitant therapy, handling of drop-outs and missing data, adjustments for multiple comparisons, special analyses of multicentre studies, and adjustments for interim analyses.",
+        "Identify any changes in the analysis made after blind-breaking.",
+        "Explain the selection of, and adjustments for, demographic or baseline measurements, concomitant therapy, or any other covariate or prognostic factor in the report.",
+        "If the covariates or methods used in these analyses differed from those planned in the protocol, explain the differences and where possible and relevant, present the results of planned analyses.",
+        "Assess the results of a clinical trial not only for the subset of patients who completed the study, but also for the entire patient population as randomised or at least for all those with any on-study measurements.",
+        "Consider and compare several factors for the treatment groups in analysing the effects of dropouts: the reasons for the dropouts, the time to dropout, and the proportion of dropouts among treatment groups at various time points.",
+        "Describe procedures for dealing with missing data, e.g., use of estimated or derived data.",
+        "Provide detailed explanation as to how such estimations or derivations were done and what underlying assumptions were made.",
+        "Describe in full all interim analyses, formal or informal, pre-planned or ad hoc, by any study participant, sponsor staff member, or data monitoring group, even if the treatment groups were not identified.",
+        "Address the need for statistical adjustment because of such analyses.",
+        "Describe any operating instructions or procedures used for such analyses.",
+        "Describe data monitoring without code-breaking, even if this kind of monitoring is considered to cause no increase in type I error.",
+        "Present individual centre results where appropriate, e.g., when the centres have sufficient numbers of patients to make such analysis potentially valuable.",
+        "Explore the possibility of qualitative or quantitative treatment-by-centre interaction.",
+        "Note and discuss any extreme or opposite results among centres, considering such possibilities as differences in study conduct, patient characteristics, or clinical settings.",
+        "Treatment comparison must include analyses that allow for centre differences with respect to response.",
+        "If appropriate, present demographic, baseline, and post-baseline data, as well as efficacy data, by centre, even though the combined analysis is the primary one.",
+        "If there was more than one primary endpoint (outcome variable), more than one analysis of particular endpoint, or if there were multiple treatment groups, or subsets of the patient population being examined, the statistical analysis must reflect awareness of this and either explain the statistical adjustment used for type I error criteria or give reasons why it was considered unnecessary.",
+        "Devote particular attention to the effects of dropping patients with available data from analyses because of poor compliance, missed visits, ineligibility, or any other reason.",
+        "Carry out an analysis using all available data for all studies intended to establish efficacy, even if it is not the analysis proposed as the primary analysis by the applicant.",
+        "Any substantial differences resulting from the choice of patient population for analysis must be the subject of explicit discussion.",
+        "If an active control study is intended to show equivalence (i.e., lack of a difference greater than a specified size) between the test drug/investigational product and the active control/comparator, the analysis must show the confidence interval for the comparison between the two agents for critical end points and the relation of that interval to the prespecified degree of inferiority that would be considered unacceptable.",
+        "If the size of the study permits, examine important demographic or baseline value-defined subgroups for unusually large or small responses and present the results (e.g., comparison of effects by age, sex, or race, by severity or prognostic groups, by history of prior treatment with a drug of the same class etc.).",
+        "If these analyses were not carried out because the study was too small, this must be noted.",
+        "Where there is a prior hypothesis of a differential effect in a particular subgroup, this hypothesis and its assessment must be part of the planned statistical analysis.",
+        "In addition to tables and graphs representing group data, present individual response data and other relevant study information in tables.",
+        "The study report must indicate what material is included as an appendix, what is in the more extensive archival case report tabulations, if required by the regulatory authority, and what is available on request.",
+        "For a controlled study in which critical efficacy measurements or assessments (e.g., blood or urine cultures, pulmonary function tests, angina frequency, or global evaluations) are repeated at intervals, the data listings accompanying the report should include, for each patient, a patient identifier, all measured or observed values of critical measurements, including baseline measurements, with notation of the time during the study (e.g., days on therapy and time of day, if relevant) when the measurements were made, the drug/dose at the time (if useful, given as mg/kg), any measurements of compliance, and any concomitant medications at the time of, or close to the time of, measurement or assessment.",
+        "If, aside from repeated assessments, the study included some overall responder vs non-responder evaluation(s) (bacteriologic cure or failure), it should also be included.",
+        "In addition to critical measurements, the tabulation should note whether the patient was included in the efficacy evaluation (and which evaluation, if more than one), provide patient compliance information, if collected, and a reference to the location of the case report form, if included.",
+        "Critical baseline information such as age, sex, weight, disease being treated (if more than one in study), and disease stage or severity, is also helpful.",
+        "The baseline values for critical measurements would ordinarily be included as zero time values for each efficacy measurement.",
+        "When the dose in each patient can vary, the actual doses received by patients must be shown and individual patient's doses must be tabulated.",
+        "Although studies not designed as dose-response studies may have limited ability to contribute dose-response information, the available data should be examined for whatever information they can yield.",
+        "In examining the dose response, it may be helpful to calculate dose as mg/kg body weight or mg/m² body surface.",
+        "Any apparent relationship between response and concomitant therapy and between response and past and/or concurrent illness should be described.",
+        "While individual patient data ordinarily can be displayed in tabular listings, it has on occasion been helpful to construct individual patient profiles in other formats, such as graphic displays.",
+        "These might, for example, show the value of (a) particular parameter(s) over time, the drug dose over the same period, and the times of particular events (e.g., an adverse event or change in concomitant therapy).",
+        "It may be helpful to use individual patient profiles if overall evaluation of individual responses is a critical part of the analysis.",
+        "Concise description of the important conclusions concerning efficacy, considering primary and secondary end points, pre-specified and alternative statistical approaches and results of exploratory analyses."
+      ],
+      "data_dependencies": [
+        {
+          "reference_id": "Appendix 16.2.3",
+          "title": "Patients excluded from the efficacy analysis",
+          "content_summary": "A tabular listing of all patients, visits and observations excluded from the efficacy analysis. The reasons for exclusions should also be analysed for the whole treatment group over time."
+        },
+        {
+          "reference_id": "Annex VI",
+          "title": "Listing of Patients and Observations Excluded from Efficacy Analysis",
+          "content_summary": "An example listing format for patients and observations excluded from efficacy analysis, including patient identifier, reason for exclusion, and treatment group."
+        },
+        {
+          "reference_id": "Annex VII",
+          "title": "Number of Patients Excluded from Efficacy Analysis (Example)",
+          "content_summary": "An example table showing the number of patients excluded from efficacy analysis over time for a treatment group, with similar tables to be prepared for other treatment groups."
+        },
+        {
+          "reference_id": "Section 14.1",
+          "title": "Demographic Data",
+          "content_summary": "Summary figures and tables of demographic data."
+        },
+        {
+          "reference_id": "Appendix 16.2.4",
+          "title": "Demographic data",
+          "content_summary": "Relevant individual patient demographic and baseline data, including laboratory values, and all concomitant medication for all individual patients randomised, broken down by treatment and by centre for multicentre studies."
+        },
+        {
+          "reference_id": "Appendix 16.2.5",
+          "title": "Compliance and/or drug concentration data (if available)",
+          "content_summary": "Summarised and tabulated measurements of compliance of individual patients with the treatment regimen and drug concentrations in body fluids, analysed by treatment group and time interval."
+        },
+        {
+          "reference_id": "Appendix 16.1.9",
+          "title": "Documentation of statistical methods",
+          "content_summary": "Detailed documentation of statistical methods. Includes minutes of meetings of any data monitoring group and any data reports reviewed at those meetings, particularly a meeting that led to a change in the protocol or early termination of the study."
+        },
+        {
+          "reference_id": "Appendix 16.2.6",
+          "title": "Individual efficacy response data",
+          "content_summary": "Individual response data and other relevant study information, including patient identifier, all measured or observed values of critical measurements (including baseline), time during study, drug/dose at time, compliance measurements, concomitant medications, and overall responder evaluation if applicable."
+        }
+      ],
+      "critical_safety_checks": [
+        "If any critical measurements or assessments of efficacy or safety outcomes were made by more than one party, overall differences between the ratings must be shown, and each patient having disparate assessments must be identified.",
+        "The assessments used must be clear in all analyses."
+      ]
+    },
+    "Section_12": {
+      "section_title": "Safety Evaluation",
+      "required_content": [
+        "Examine the extent of exposure (dose, duration, number of patients) to determine the degree to which safety can be assessed from the study.",
+        "Identify, classify, compare for treatment groups, and analyse common adverse events and laboratory test changes for factors that may affect frequency of adverse reactions/events (e.g., time dependence, relation to demographic characteristics, relation to dose or drug concentration).",
+        "Identify serious adverse events and other significant adverse events, usually by close examination of patients who left the study prematurely because of an adverse event (whether or not identified as drug related) or who died.",
+        "Present summarised data, often using tables and graphical presentations in the main body of the report.",
+        "Present listings of individual patient data.",
+        "Present narrative statements of events of particular interest.",
+        "In all tabulations and analyses, events associated with both test drug and control treatment must be displayed.",
+        "Characterise the extent of exposure to test drugs/investigational products (and to active control and placebo) according to the number of patients exposed, the duration of exposure, and the dose to which they were exposed.",
+        "Duration of exposure to any dose can be expressed as a median or mean, but also describe the number of patients exposed for specified periods of time (e.g., one day or less, 2 days to one week, more than one week to one month, more than one month to 6 months etc.).",
+        "Break down the numbers exposed to test drug(s)/investigational product(s) for the various durations into age, sex, and racial subgroups, and any other pertinent subgroups (e.g., disease, disease severity, concurrent illness).",
+        "Give the mean or median dose used and the number of patients exposed to specified daily dose levels; the daily dose levels used could be the maximum dose for each patient, the dose with longest exposure for each patient, or the mean daily dose.",
+        "Provide combined dose-duration information, such as the numbers exposed for a given duration (e.g., at least one month) to the most common dose, the highest dose, the maximum recommended dose etc.",
+        "In some cases, cumulative dose might be pertinent.",
+        "Dosage may be given as the actual daily dose or on a mg/kg or mg/m² basis as appropriate.",
+        "Break down the numbers of patients exposed to various doses into age, sex, and racial subgroups, and any other pertinent subgroups.",
+        "Describe the overall adverse event experience in the study in a brief narrative, supported by more detailed tabulations and analyses.",
+        "In these tabulations and analyses, events associated with both the test drug and control treatment must be displayed.",
+        "Display all adverse events occurring after initiation of study treatments (including events likely to be related to the underlying disease or likely to represent concomitant illness, unless there is a prior agreement with the regulatory authority to consider specified events as disease related) in summary tables.",
+        "In most cases, it will also be useful to identify in such tables 'treatment emergent signs and symptoms' (TESS; those not seen at baseline and those that worsened even if present at baseline).",
+        "The tables must list each adverse event, the number of patients in each treatment group in whom the event occurred, and the rate of occurrence.",
+        "When treatments are cyclical, e.g., cancer chemotherapy, it may also be helpful to list results separately for each cycle.",
+        "Adverse events must be grouped by body system.",
+        "Each event may then be divided into defined severity categories (e.g., mild, moderate, severe) if these were used.",
+        "The tables may also divide the adverse events into those considered at least possibly related to drug use and those considered not related, or use some other causality scheme (e.g., unrelated or possibly, probably, or definitely related).",
+        "In addition to these complete tables provided in 14.3.1, an additional summary table comparing treatment and control groups, without the patient identifying numbers limited to relatively common adverse events (e.g., those in at least 1% of the treated group), should be provided in the body of the report.",
+        "In presenting adverse events, display both the original terms used by the investigator and attempt to group related events (i.e., events that probably represent the same phenomena) so that the true occurrence rate is not obscured.",
+        "Use the basic display of adverse event rates described in section 12.2.2 (and located in section 14.3.1) of the report, to compare rates in treatment and control groups.",
+        "For this analysis it may be helpful to combine the event severity categories and the causality categories, leading to a simpler side-by-side comparison of treatment groups.",
+        "If study size and design permit, it may be useful to examine the more common adverse events that seem to be drug related for relationship to dosage and to mg/kg or mg/m² dose, to dose regimen, to duration of treatment, to total dose, to demographic characteristics such as age, sex, race, to other baseline features such as renal status, to efficacy outcomes, and to drug concentration.",
+        "It may also be useful to examine time of onset and duration of adverse events.",
+        "A variety of additional analyses may be suggested by the study results or by the pharmacology of the test drug/investigational product.",
+        "If the studies are small and if the number of events is relatively small, it may be sufficient to limit analyses to a comparison of treatment and control.",
+        "Under certain circumstances, life table or similar analyses may be more informative than reporting of crude adverse event rates.",
+        "When treatments are cyclical, e.g., cancer chemotherapy, it may also be helpful to analyse results separately for each cycle.",
+        "List all adverse events for each patient, including the same event on several occasions, giving both preferred term and the original term used by the investigator.",
+        "The listing should be by investigator and by treatment group and should include: Patient identifier, Age, race, sex, weight (height, if relevant), Location of CRFs, if provided, The adverse event (preferred term, reported term), Duration of the adverse event, Severity (e.g., mild, moderate, severe), Seriousness (serious/non-serious), Action taken (none, dose reduced, treatment stopped, specific treatment instituted etc.), Outcome (e.g., CIOMS format), Causality assessment (e.g., related/not related), Date of onset or date of clinic visit at which the event was discovered, Timing of onset of the adverse event in relation to last dose of test drug/investigational product (when applicable), Study treatment at time of event or most recent study treatment taken, Test drug/investigational product dose in absolute amount, mg/kg or mg/m² at time of event, Drug concentration (if known), Duration of test drug/investigational product treatment, Concomitant treatment during study.",
+        "Clearly explain any abbreviations and codes at the beginning of the listing or, preferably, on each page.",
+        "List all deaths during the study, including the post treatment follow-up period, and deaths that resulted from a process that began during the study, by patient.",
+        "List all serious adverse events (other than death but including the serious adverse events temporally associated with or preceding the deaths).",
+        "The listing of serious adverse events should include laboratory abnormalities, abnormal vital signs and abnormal physical observations that were considered serious adverse events.",
+        "List marked haematological and other laboratory abnormalities (other than those meeting the definition of serious) and any events that led to an intervention, including withdrawal of test drug/investigational product treatment, dose reduction, or significant additional concomitant therapy, other than those reported as serious adverse events.",
+        "Provide brief narratives describing each death, each other serious adverse event, and those of the other significant adverse events that are judged to be of special interest because of clinical importance.",
+        "These narratives can be placed either in the text of the report or in section 14.3.3, depending on their number.",
+        "Events that were clearly unrelated to the test drug/investigational product may be omitted or described very briefly.",
+        "In general, the narrative should describe the following: the nature and intensity of event, the clinical course leading up to event, with an indication of timing relevant to test drug/investigational product administration; relevant laboratory measurements, whether the drug was stopped, and when; countermeasures; post mortem findings; investigator's opinion on causality, and sponsor's opinion on causality, if appropriate.",
+        "In addition, the following information should be included in narratives: Patient identifier, Age and sex of patient; general clinical condition of patient, if appropriate, Disease being treated (if the same for all patients this is not required) with duration (of current episode) of illness, Relevant concomitant/previous illnesses with details of occurrence/duration, Relevant concomitant/previous medication with details of dosage, Test drug/investigational product administered, drug dose, if this varied among patients, and length of time administered.",
+        "Assess the significance of the deaths, other serious adverse events and other significant adverse events leading to withdrawal, dose reduction or institution of concomitant therapy with respect to the safety of the test drug/investigational product.",
+        "When required by regulatory authorities, the results of all safety-related laboratory tests should be available in tabular listings, using a display where each row represents a patient visit at which a laboratory study was done, with patients grouped by investigator (if more than one) and treatment group, and columns include critical demographic data, drug dose data, and the results of the laboratory tests.",
+        "As not all tests can be displayed in a single table, they should be grouped logically (haematological tests, liver chemistries, electrolytes, urinalysis etc.).",
+        "For all regulatory authorities, there should be a by-patient listing of all abnormal laboratory values in section 14.3.4, using the format described above.",
+        "For laboratory abnormalities of special interest (abnormal laboratory values of potential clinical importance), it may also be useful to provide additional data, such as normal values before and after the abnormal value, and values of related laboratory tests.",
+        "In some cases, it may be desirable to exclude certain abnormal values from further analysis.",
+        "The necessary evaluation of laboratory values must in part be determined by the results seen, but, in general, the following analyses should be provided.",
+        "For each parameter at each time over the course of the study (e.g., at each visit) describe: the group mean or median values, the range of values, and the number of patients with abnormal values, or with abnormal values that are of a certain size (e.g., twice the upper limit of normal, 5 times the upper limit; choices should be explained).",
+        "Provide an analysis of individual patient changes by treatment group.",
+        "A variety of approaches may be used for individual patient changes, including: I. 'Shift tables' showing the number of patients who are low, normal, or high at baseline and then at selected time intervals. II. Tables showing the number or fraction of patients who had a change in parameter of a predetermined size at selected time intervals. III. A graph comparing the initial value and the on-treatment values of a laboratory measurement for each patient by locating the point defined by the initial value on the abscissa and a subsequent value on the ordinate.",
+        "Discuss clinically significant changes (defined by the applicant).",
+        "When toxicity grading scales are used (e.g., WHO, NCI), changes graded as severe should be discussed regardless of seriousness.",
+        "Provide an analysis of the clinically significant changes, together with a recapitulation of discontinuations due to laboratory measurements, for each parameter.",
+        "Vital signs, other physical findings, and other observations related to safety should be analysed and presented in a way similar to laboratory variables.",
+        "If there is evidence of a drug effect, identify any dose-response or drug concentration-response relationship or relationship to patient variables (e.g., disease, demographics, concomitant therapy) and describe the clinical relevance of the observation.",
+        "Review the overall safety evaluation of the test drug(s)/investigational product(s), with particular attention to events resulting in changes of dose or need for concomitant medication, serious adverse events, events resulting in withdrawal, and deaths.",
+        "Identify any patients or patient groups at increased risk and pay particular attention to potentially vulnerable patients who may be present in small numbers, e.g., children, pregnant women, frail elderly, people with marked abnormalities of drug metabolism or excretion etc.",
+        "Describe the implication of the safety evaluation for the possible uses of the drug."
+      ],
+      "data_dependencies": [
+        {
+          "reference_id": "Appendix 16.2.5",
+          "title": "Compliance and/or drug concentration data (if available)",
+          "content_summary": "Summarised and tabulated measurements of compliance of individual patients with the treatment regimen and drug concentrations in body fluids, analysed by treatment group and time interval. May include drug concentration data helpful for correlation with adverse events or changes in laboratory variables."
+        },
+        {
+          "reference_id": "Section 14.3.1",
+          "title": "Displays of Adverse Events",
+          "content_summary": "Summary tables displaying all adverse events occurring after initiation of study treatments, including changes in vital signs and laboratory changes considered serious or significant adverse events. Tables should list each adverse event, number of patients, rate of occurrence, grouped by body system, and potentially by severity and causality. Patient identification for each event is important."
+        },
+        {
+          "reference_id": "Appendix 16.2.7",
+          "title": "Adverse event listings (each patient)",
+          "content_summary": "A listing of all adverse events for each patient, including the same event on several occasions, giving both preferred term and the original term used by the investigator. The listing should be by investigator and by treatment group and include detailed information about the event, patient, treatment, and causality."
+        },
+        {
+          "reference_id": "Section 14.3.2",
+          "title": "Listings of Deaths, Other Serious and Significant Adverse Events",
+          "content_summary": "Listings of all deaths, other serious adverse events (including those preceding deaths, laboratory abnormalities, abnormal vital signs, and physical observations considered serious), and other significant adverse events (marked haematological/laboratory abnormalities, events leading to intervention)."
+        },
+        {
+          "reference_id": "Section 14.3.3",
+          "title": "Narratives of Deaths, Other Serious and Certain Other Significant Adverse Events",
+          "content_summary": "Brief narratives describing each death, each other serious adverse event, and other significant adverse events of special clinical importance. Narratives should detail the event, clinical course, timing, relevant measurements, actions taken, outcome, causality, and patient/treatment information."
+        },
+        {
+          "reference_id": "Appendix 16.2.8",
+          "title": "Listing of individual laboratory measurements by patient, when required by regulatory authorities",
+          "content_summary": "Tabular listings of all safety-related laboratory tests, where each row represents a patient visit, with patients grouped by investigator and treatment group, and columns include critical demographic data, drug dose data, and laboratory test results. Abnormal values should be identified."
+        },
+        {
+          "reference_id": "Section 14.3.4",
+          "title": "Abnormal Laboratory Value Listing (Each Patient)",
+          "content_summary": "A by-patient listing of all abnormal laboratory values, using a format similar to the individual laboratory measurements listing. May include additional data for abnormalities of special interest."
+        }
+      ],
+      "critical_safety_checks": [
+        "It is assumed that all patients entered into treatment who received at least one dose of the treatment are included in the safety analysis; if not, an explanation must be provided.",
+        "Summary tables of adverse events must include changes in vital signs and any laboratory changes considered serious adverse events or other significant adverse events.",
+        "Even when a causality assessment is used, adverse event tables must include all adverse events, whether or not considered drug related, including events thought to represent intercurrent illnesses.",
+        "To enable analysis and evaluation of data in adverse event tables, each patient having each adverse event must be identified.",
+        "All deaths during the study, including the post treatment follow-up period, and deaths that resulted from a process that began during the study, must be listed by patient.",
+        "All serious adverse events (other than death but including the serious adverse events temporally associated with or preceding the deaths) must be listed.",
+        "The listing of serious adverse events must include laboratory abnormalities, abnormal vital signs and abnormal physical observations that were considered serious adverse events.",
+        "Marked haematological and other laboratory abnormalities (other than those meeting the definition of serious) and any events that led to an intervention (including withdrawal of test drug/investigational product treatment, dose reduction, or significant additional concomitant therapy) must be listed.",
+        "Provide brief narratives describing each death, each other serious adverse event, and those of the other significant adverse events that are judged to be of special interest because of clinical importance.",
+        "The significance of the deaths, other serious adverse events and other significant adverse events leading to withdrawal, dose reduction or institution of concomitant therapy must be assessed with respect to the safety of the test drug/investigational product.",
+        "Particular attention must be paid to whether any of these events may represent a previously unsuspected important adverse effect of the test drug/investigational product.",
+        "For serious adverse events that appear of particular importance, it may be useful to use life table or similar analyses to show their relation to time on test drug/investigational product and to assess their risk over time.",
+        "Abnormal laboratory values should be identified, e.g., by underlining, bracketing etc.",
+        "Any decisions to exclude certain abnormal laboratory values from further analysis must be clearly explained, and the complete list of values provided (or available to authorities on request) must identify every abnormal value.",
+        "Clinically significant changes (defined by the applicant) must be discussed.",
+        "When toxicity grading scales are used (e.g., WHO, NCI), changes graded as severe must be discussed regardless of seriousness.",
+        "An analysis of the clinically significant changes, together with a recapitulation of discontinuations due to laboratory measurements, must be provided for each parameter.",
+        "The significance of the changes and likely relation to the treatment must be assessed, e.g., by analysis of such features as relationship to dose, relationship to drug concentration, disappearance on continued therapy, positive dechallenge, positive rechallenge, and the nature of concomitant therapy.",
+        "Particular attention must be given to changes not evaluated as efficacy variables and to those considered to be adverse events.",
+        "The overall safety evaluation of the test drug(s)/investigational product(s) must be reviewed, with particular attention to events resulting in changes of dose or need for concomitant medication, serious adverse events, events resulting in withdrawal, and deaths.",
+        "Any patients or patient groups at increased risk must be identified and particular attention paid to potentially vulnerable patients who may be present in small numbers, e.g., children, pregnant women, frail elderly, people with marked abnormalities of drug metabolism or excretion etc."
+      ]
+    },
+    "Section_13": {
+      "section_title": "Discussion and Overall Conclusions",
+      "required_content": [
+        "Briefly summarise and discuss the efficacy and safety results of the study and the relationship of risks and benefit, referring to the tables, figures, and sections above as needed.",
+        "The presentation should not simply repeat the description of results nor introduce new results.",
+        "Clearly identify any new or unexpected findings, comment on their significance and discuss any potential problems such as inconsistencies between related measures.",
+        "Discuss the clinical relevance and importance of the results in the light of other existing data.",
+        "Identify any specific benefits or special precautions required for individual subjects or at-risk groups and any implications for the conduct of future studies.",
+        "Alternatively, such discussions may be reserved for summaries of safety and efficacy referring to the entire dossier (integrated summaries).",
+        "Discuss the impact of exclusions on the generalisability of the study (as per Section 9.3.2)."
+      ],
+      "data_dependencies": [],
+      "critical_safety_checks": [
+        "Identify any specific benefits or special precautions required for individual subjects or at-risk groups and any implications for the conduct of future studies."
+      ]
+    },
+    "Section_14": {
+      "section_title": "Tables, Figures and Graphs Referred to But Not Included in the Text",
+      "required_content": [
+        "Figures should be used to visually summarise the important results, or to clarify results that are not easily understood from tables.",
+        "Important demographic, efficacy and safety data should be presented in summary figures or tables in the text of the report.",
+        "If important demographic, efficacy and safety data become obtrusive because of size or number, they should be presented here, cross-referenced to the text, along with supportive, or additional, figures, tables or listings.",
+        "Summary figures and tables for demographic data may be presented in this section.",
+        "Summary figures and tables for efficacy data may be presented in this section.",
+        "Summary figures and tables for safety data may be presented in this section.",
+        "Displays of Adverse Events may be presented in this section.",
+        "Listings of Deaths, Other Serious and Significant Adverse Events may be presented in this section.",
+        "Narratives of Deaths, Other Serious and Certain Other Significant Adverse Events may be presented in this section.",
+        "Abnormal Laboratory Value Listing (Each Patient) may be presented in this section."
+      ],
+      "data_dependencies": [],
+      "critical_safety_checks": []
+    },
+    "Section_15": {
+      "section_title": "Reference List",
+      "required_content": [
+        "Provide a list of articles from the literature pertinent to the evaluation of the study.",
+        "References must be given in accordance with the internationally accepted standards of the 1979 Vancouver Declaration on 'Uniform Requirements for Manuscripts Submitted to Biomedical Journals' or the system used in 'Chemical Abstracts'."
+      ],
+      "data_dependencies": [
+        {
+          "reference_id": "Appendix 16.1.11",
+          "title": "Publications based on the study",
+          "content_summary": "Copies of publications based on the study."
+        },
+        {
+          "reference_id": "Appendix 16.1.12",
+          "title": "Important publications referenced in the report",
+          "content_summary": "Copies of important publications referenced in the report."
+        }
+      ],
+      "critical_safety_checks": []
+    },
+    "Section_16": {
+      "section_title": "Appendices",
+      "required_content": [
+        "Preface this section by a full list of all appendices available for the study report.",
+        "Clearly indicate those appendices that are submitted with the report.",
+        "Appendices available on request must be finalised by the time of filing of the submission.",
+        "Include the Protocol and protocol amendments.",
+        "Include a Sample case report form (unique pages only).",
+        "Include a List of IECs or IRBs (plus the name of the committee Chair if required by the regulatory authority) and Representative written information for patient and sample consent forms.",
+        "Include a List and description of investigators and other important participants in the study, including brief (1 page) CVs or equivalent summaries of training and experience relevant to the performance of the clinical study.",
+        "Include Signatures of principal or coordinating investigator(s) or sponsor's responsible medical officer, depending on the regulatory authority's requirement.",
+        "Include a Listing of patients receiving test drug(s)/investigational product(s) from specific batches, where more than one batch was used.",
+        "Include the Randomisation scheme and codes (patient identification and treatment assigned).",
+        "Include Audit certificates (if available).",
+        "Include Documentation of statistical methods.",
+        "Include Documentation of inter-laboratory standardisation methods and quality assurance procedures if used.",
+        "Include Publications based on the study.",
+        "Include Important publications referenced in the report.",
+        "Include a listing of Discontinued patients.",
+        "Include a listing of Protocol deviations.",
+        "Include a listing of Patients excluded from the efficacy analysis.",
+        "Include Demographic data.",
+        "Include Compliance and/or drug concentration data (if available).",
+        "Include Individual efficacy response data.",
+        "Include Adverse event listings (each patient).",
+        "Include a Listing of individual laboratory measurements by patient, when required by regulatory authorities.",
+        "Include CRFs for deaths, other serious adverse events and withdrawals for AE.",
+        "Include Other CRFs submitted.",
+        "Include Individual Patient Data Listings (US Archival Listings)."
+      ],
+      "data_dependencies": [
+        {
+          "reference_id": "Annex IVa",
+          "title": "Disposition of Patients (Example)",
+          "content_summary": "An example flow chart illustrating the disposition of patients in a study, including numbers randomized, completed, and withdrawn with reasons. Referenced for audit certificates."
+        },
+        {
+          "reference_id": "Annex IVb",
+          "title": "Disposition of Patients (Example)",
+          "content_summary": "An example flow chart illustrating the disposition of patients in a study, including numbers randomized, completed, and withdrawn with reasons. Referenced for audit certificates."
+        }
+      ],
+      "critical_safety_checks": []
+    }
+  }
+}

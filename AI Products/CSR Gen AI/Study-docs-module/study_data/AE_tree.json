@@ -1,0 +1,175 @@
+[
+  {
+    "node_id": "section_1_introduction",
+    "title": "1. Introduction",
+    "level": 1,
+    "start_page": 2,
+    "end_page": 3,
+    "summary": "This section introduces the Brighton Collaboration's priority list of adverse events of special interest (AESIs) for COVID-19 vaccine trials, endorsed by the WHO. It outlines the study's objective to apply this list to serious adverse events observed in randomized trial data of FDA-authorized mRNA COVID-19 vaccines.",
+    "children": []
+  },
+  {
+    "node_id": "section_methods",
+    "title": "Methods",
+    "level": 1,
+    "start_page": 3,
+    "end_page": 3,
+    "summary": "This section details the study's methodology, including a secondary analysis of serious adverse events from Pfizer and Moderna phase III trial data. It describes the process of identifying serious AESIs using the adapted Brighton Collaboration list and the statistical methods employed for risk calculation.",
+    "children": []
+  },
+  {
+    "node_id": "section_results",
+    "title": "Results",
+    "level": 1,
+    "start_page": 3,
+    "end_page": 4,
+    "summary": "This section presents the study's findings, indicating an excess risk of serious AESIs and SAEs in both Pfizer and Moderna vaccine groups compared to placebo. It includes subsections that delve into specific adverse event categories and sensitivity analyses, further detailing the observed risks.",
+    "children": [
+      {
+        "node_id": "section_results_reporting_windows",
+        "title": "Reporting windows and serious adverse events",
+        "level": 2,
+        "start_page": 3,
+        "end_page": 4,
+        "summary": "This subsection compares the SAE reporting windows for Moderna and Pfizer trials, noting adjustments made for efficacy endpoints. It reports a 36% higher risk of serious adverse events in Pfizer's vaccinated participants and a combined 16% higher risk across both mRNA vaccine recipients.",
+        "children": []
+      },
+      {
+        "node_id": "section_results_aes_special_interest",
+        "title": "3.2. Serious adverse events of special interest",
+        "level": 2,
+        "start_page": 4,
+        "end_page": 4,
+        "summary": "This subsection focuses on the core finding of a higher risk of serious AESIs in both Pfizer and Moderna vaccine groups, with a combined 43% higher risk. It highlights that coagulation disorders were a significant contributor to this excess risk across both trials.",
+        "children": []
+      },
+      {
+        "node_id": "section_results_sensitivity_analysis",
+        "title": "3.3. Sensitivity analysis",
+        "level": 2,
+        "start_page": 4,
+        "end_page": 4,
+        "summary": "This subsection describes a sensitivity analysis that restricted the serious AESI analysis to a more specific list of AESIs. While this reduced the total number of identified AESIs, the analysis still demonstrated a higher risk, albeit of a smaller magnitude, in the vaccinated groups.",
+        "children": []
+      },
+      {
+        "node_id": "section_results_harm_benefit",
+        "title": "3.4. Harm-benefit considerations",
+        "level": 2,
+        "start_page": 4,
+        "end_page": 4,
+        "summary": "This subsection evaluates the balance between potential harms and benefits by comparing the excess risk of serious AESIs against reductions in COVID-19 hospitalization. It concludes that the excess risk of serious AESIs was higher than the observed reduction in COVID-19 hospitalizations in both Pfizer and Moderna trials.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "section_4_comparison_fda",
+    "title": "4. Comparison with FDA reviews",
+    "level": 1,
+    "start_page": 4,
+    "end_page": 6,
+    "summary": "This section compares the study's findings on serious adverse events (SAEs) with those reported in FDA reviews for vaccine authorization. It highlights discrepancies, particularly for the Pfizer trial, attributed to differences in analysis populations and metrics, and also draws comparisons with post-authorization observational studies.",
+    "children": [
+      {
+        "node_id": "section_4.1_comparison_post_auth",
+        "title": "4.1. Comparison with post-authorization studies",
+        "level": 2,
+        "start_page": 5,
+        "end_page": 6,
+        "summary": "This subsection extends the comparison to post-authorization observational safety studies, noting that real-world data from pharmacovigilance systems like VAERS and EudraVigilance have also reported excess risks for similar AESI types. It specifically mentions coagulation disorders as a consistent concern across trial and observational data.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "section_5_discussion",
+    "title": "5. Discussion",
+    "level": 1,
+    "start_page": 6,
+    "end_page": 7,
+    "summary": "This section discusses the implications of the observed higher risk of serious AESIs and SAEs in mRNA vaccine trials, emphasizing the critical need for formal harm-benefit analyses stratified by COVID-19 risk. It also acknowledges the study's limitations, primarily due to the lack of access to individual participant-level data.",
+    "children": []
+  },
+  {
+    "node_id": "section_author_contributions",
+    "title": "Author contributions",
+    "level": 1,
+    "start_page": 8,
+    "end_page": 8,
+    "summary": "This section outlines the specific roles and contributions of each author to the study, covering various aspects from study concept and design to data acquisition, statistical analysis, and the drafting and critical revision of the manuscript.",
+    "children": []
+  },
+  {
+    "node_id": "section_data_availability",
+    "title": "Data availability",
+    "level": 1,
+    "start_page": 8,
+    "end_page": 8,
+    "summary": "This section states that all data used in the study are publicly available. A Zenodo DOI link is provided for readers to access the complete dataset, ensuring transparency and enabling reproducibility of the findings.",
+    "children": []
+  },
+  {
+    "node_id": "section_declaration_competing_interest",
+    "title": "Declaration of Competing Interest",
+    "level": 1,
+    "start_page": 8,
+    "end_page": 8,
+    "summary": "The authors declare that they have no known competing financial interests or personal relationships that could be perceived as influencing the reported work. This statement assures readers of the impartiality of the research presented.",
+    "children": []
+  },
+  {
+    "node_id": "section_acknowledgements",
+    "title": "Acknowledgements",
+    "level": 1,
+    "start_page": 8,
+    "end_page": 8,
+    "summary": "This section expresses gratitude to Jean Rees for her valuable assistance in identifying relevant data sources for the study. This acknowledgement highlights the collaborative effort in the research process.",
+    "children": []
+  },
+  {
+    "node_id": "section_funding",
+    "title": "Funding",
+    "level": 1,
+    "start_page": 8,
+    "end_page": 8,
+    "summary": "This section explicitly states that the study did not receive any external funding support. This information confirms the independent nature of the research presented.",
+    "children": []
+  },
+  {
+    "node_id": "section_ethical_review",
+    "title": "Ethical review statement",
+    "level": 1,
+    "start_page": 8,
+    "end_page": 8,
+    "summary": "This section confirms that the research underwent formal review and was classified as Not Human Subjects Research (NHSR) by the University of Maryland, Baltimore (HP-00102561). This ensures compliance with ethical guidelines.",
+    "children": []
+  },
+  {
+    "node_id": "section_conflicts_interest",
+    "title": "Conflicts of interest",
+    "level": 1,
+    "start_page": 8,
+    "end_page": 8,
+    "summary": "This section discloses potential conflicts of interest for the authors, detailing specific travel funds and grants received by Peter Doshi from various organizations. It clarifies that the views expressed in the paper are solely those of the authors and do not necessarily reflect those of their employers.",
+    "children": []
+  },
+  {
+    "node_id": "section_appendix_supplementary_data",
+    "title": "Appendix A Supplementary data",
+    "level": 1,
+    "start_page": 8,
+    "end_page": 8,
+    "summary": "This section provides information on where supplementary data related to the article can be found online. A DOI link is included to direct readers to these additional resources.",
+    "children": []
+  },
+  {
+    "node_id": "section_references",
+    "title": "References",
+    "level": 1,
+    "start_page": 8,
+    "end_page": 9,
+    "summary": "This section contains a comprehensive list of all scientific literature, reports, and other sources cited throughout the research paper. It provides the foundational academic and regulatory context for the study's claims and findings.",
+    "children": []
+  }
+]

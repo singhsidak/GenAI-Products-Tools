@@ -1,0 +1,1113 @@
+[
+  {
+    "node_id": "table_of_contents",
+    "title": "TABLE OF CONTENTS",
+    "level": 1,
+    "start_page": 2,
+    "end_page": 2,
+    "summary": "This section lists all major headings, subheadings, tables, figures, appendices, and abbreviations included in the briefing document for easy navigation.",
+    "children": []
+  },
+  {
+    "node_id": "list_of_tables",
+    "title": "LIST OF TABLES",
+    "level": 1,
+    "start_page": 3,
+    "end_page": 3,
+    "summary": "This section provides a comprehensive list of all tables presented within the document, along with their corresponding page numbers.",
+    "children": []
+  },
+  {
+    "node_id": "list_of_figures",
+    "title": "LIST OF FIGURES",
+    "level": 1,
+    "start_page": 4,
+    "end_page": 5,
+    "summary": "This section enumerates all figures included in the document, offering a quick reference to visual data and illustrations.",
+    "children": []
+  },
+  {
+    "node_id": "appendices_list",
+    "title": "APPENDICES",
+    "level": 1,
+    "start_page": 5,
+    "end_page": 5,
+    "summary": "This section lists the appendices that contain supplementary information, definitions, and additional data supporting the main document.",
+    "children": []
+  },
+  {
+    "node_id": "abbreviations",
+    "title": "ABBREVIATIONS",
+    "level": 1,
+    "start_page": 6,
+    "end_page": 7,
+    "summary": "This section defines all abbreviations used throughout the document, ensuring clarity and understanding of technical terms.",
+    "children": []
+  },
+  {
+    "node_id": "executive_summary",
+    "title": "EXECUTIVE SUMMARY",
+    "level": 1,
+    "start_page": 8,
+    "end_page": 9,
+    "summary": "This summary provides an overview of the Emergency Use Authorization (EUA) application for the Pfizer-BioNTech COVID-19 Vaccine, detailing key safety, immunogenicity, and efficacy findings from clinical studies. It concludes with a positive risk-benefit assessment supporting the vaccine's use.",
+    "children": [
+      {
+        "node_id": "executive_summary_safety",
+        "title": "Safety Summary",
+        "level": 2,
+        "start_page": 8,
+        "end_page": 8,
+        "summary": "The safety summary indicates the BNT162b2 vaccine was safe and well-tolerated in participants ≥16 years, with reactogenicity generally mild, moderate, and short-lived. Serious adverse events and deaths were low and comparable between vaccine and placebo groups.",
+        "children": []
+      },
+      {
+        "node_id": "executive_summary_immunogenicity",
+        "title": "Immunogenicity Summary",
+        "level": 2,
+        "start_page": 9,
+        "end_page": 9,
+        "summary": "The two-dose BNT162b2 regimen elicited robust SARS-CoV-2 neutralization titers and S1-binding IgG levels in both younger and older adults, comparable to or higher than human convalescent serum. It also generated strong Th1-biased CD4+ and CD8+ T cell responses.",
+        "children": []
+      },
+      {
+        "node_id": "executive_summary_efficacy",
+        "title": "Efficacy Summary",
+        "level": 2,
+        "start_page": 9,
+        "end_page": 9,
+        "summary": "The vaccine demonstrated 95.0% efficacy against confirmed COVID-19 at least 7 days after Dose 2 in participants without prior infection, and 94.6% efficacy including those with prior infection. Protection was observed across diverse subgroups and showed an early onset after Dose 1.",
+        "children": []
+      },
+      {
+        "node_id": "executive_summary_risk_benefit",
+        "title": "Risk/Benefit Assessment",
+        "level": 2,
+        "start_page": 9,
+        "end_page": 10,
+        "summary": "The assessment concludes that the vaccine's high efficacy, favorable safety profile, and robust immunogenicity data support a positive risk-benefit for the Pfizer-BioNTech COVID-19 Vaccine, fulfilling FDA EUA requirements.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "section_1",
+    "title": "1. BACKGROUND INFORMATION AND UNMET MEDICAL NEED",
+    "level": 1,
+    "start_page": 10,
+    "end_page": 10,
+    "summary": "This section describes the global spread of COVID-19, caused by SARS-CoV-2, highlighting the significant public health impact and the urgent unmet medical need for effective prevention and treatment, especially an effective vaccine.",
+    "children": [
+      {
+        "node_id": "section_1_1",
+        "title": "1.1. Regulatory Considerations",
+        "level": 2,
+        "start_page": 10,
+        "end_page": 10,
+        "summary": "This subsection outlines that the Pfizer-BioNTech COVID-19 Vaccine was developed in close consultation with regulatory bodies like the FDA and WHO, adhering to all applicable guidance for Emergency Use Authorization.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "section_2",
+    "title": "2. GENERAL PRODUCT INFORMATION",
+    "level": 1,
+    "start_page": 10,
+    "end_page": 11,
+    "summary": "This section details the Pfizer-BioNTech COVID-19 Vaccine (BNT162b2), a prophylactic vaccine for COVID-19, including its recommended two-dose intramuscular administration schedule and storage/dilution instructions.",
+    "children": [
+      {
+        "node_id": "section_2_1",
+        "title": "2.1. Coronavirus Spike Glycoprotein as Vaccine Target",
+        "level": 2,
+        "start_page": 11,
+        "end_page": 11,
+        "summary": "This subsection explains that the SARS-CoV-2 spike (S) glycoprotein, crucial for viral entry into host cells, is the key target antigen for vaccine development. The vaccine encodes a full-length S protein designed for optimal antigenic presentation.",
+        "children": []
+      },
+      {
+        "node_id": "section_2_2",
+        "title": "2.2. RNA-Lipid Nanoparticle Formulation",
+        "level": 2,
+        "start_page": 11,
+        "end_page": 12,
+        "summary": "This subsection describes the vaccine's RNA-Lipid Nanoparticle (LNP) platform, where nucleoside-modified RNA encoding the P2 S antigen is encapsulated in LNPs to enable delivery into host cells and induce adaptive immune responses.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "section_3",
+    "title": "3. PROPOSED EUA INDICATION",
+    "level": 1,
+    "start_page": 12,
+    "end_page": 12,
+    "summary": "This section states that the Pfizer-BioNTech COVID-19 Vaccine is authorized under an EUA for active immunization to prevent COVID-19 caused by SARS-CoV-2 in individuals 16 years of age and older.",
+    "children": []
+  },
+  {
+    "node_id": "section_4",
+    "title": "4. SUMMARY OF KEY NONCLINICAL DATA",
+    "level": 1,
+    "start_page": 12,
+    "end_page": 13,
+    "summary": "This section summarizes nonclinical studies of BNT162b2, showing the vaccine was well-tolerated in rats and elicited rapid, robust, Th1-biased antibody and T cell responses in mice and nonhuman primates, providing complete protection from lung infection in a SARS-CoV-2 challenge model.",
+    "children": []
+  },
+  {
+    "node_id": "section_5",
+    "title": "5. OVERVIEW OF CLINICAL STUDIES",
+    "level": 1,
+    "start_page": 13,
+    "end_page": 14,
+    "summary": "This section provides an overview of the clinical studies contributing data to the EUA application, primarily focusing on the first-in-human Phase 1/2 Study BNT162-01 and the pivotal Phase 1/2/3 Study C4591001.",
+    "children": [
+      {
+        "node_id": "section_5_1",
+        "title": "5.1. First-in-Human Phase 1/2 Study BNT162-01",
+        "level": 2,
+        "start_page": 14,
+        "end_page": 14,
+        "summary": "This subsection describes Study BNT162-01 as an ongoing Phase 1 dose level-finding study in healthy adults (18-55 years), evaluating safety and immunogenicity of various vaccine candidates, with available Phase 1 data supporting the EUA application.",
+        "children": []
+      },
+      {
+        "node_id": "section_5_2",
+        "title": "5.2. Registration Phase 1/2/3 Study C4591001",
+        "level": 2,
+        "start_page": 14,
+        "end_page": 16,
+        "summary": "This subsection details Study C4591001, an ongoing randomized, placebo-controlled Phase 1/2/3 pivotal registration study expanded globally to enroll approximately 44,000 participants. It assesses safety, immunogenicity, and efficacy for licensure and includes adolescents 12 to 17 years of age.",
+        "children": [
+          {
+            "node_id": "section_5_2_1",
+            "title": "5.2.1. Rationale for Vaccine Candidate and Dose Selection for Phase 2/3 Development",
+            "level": 3,
+            "start_page": 16,
+            "end_page": 16,
+            "summary": "This subsection explains that BNT162b2 at 30 µg was selected for Phase 2/3 development based on favorable reactogenicity, robust immunogenicity, and nonclinical studies showing earlier virus clearance and no disease enhancement.",
+            "children": []
+          },
+          {
+            "node_id": "section_5_2_2",
+            "title": "5.2.2. Continuation of Blinded Phase 3 Registration Study",
+            "level": 3,
+            "start_page": 16,
+            "end_page": 17,
+            "summary": "Pfizer and BioNTech intend to continue the blinded Phase 3 study to gather long-term data for licensure, while also addressing ethical responsibilities to unblind placebo recipients for vaccination under an EUA.",
+            "children": []
+          },
+          {
+            "node_id": "section_5_2_3",
+            "title": "5.2.3. Evaluation of Safety, Immunogenicity, and Efficacy in Study C4591001",
+            "level": 3,
+            "start_page": 17,
+            "end_page": 17,
+            "summary": "This subsection outlines the methods for evaluating safety, immunogenicity, and efficacy in Study C4591001, including reactogenicity monitoring, AE recording, serology, and confirmed COVID-19 case assessment.",
+            "children": [
+              {
+                "node_id": "section_5_2_3_1",
+                "title": "5.2.3.1. Safety Analyses",
+                "level": 4,
+                "start_page": 17,
+                "end_page": 19,
+                "summary": "Safety analyses involved collecting reactogenicity and adverse event data for 7 days post-dose, with SAEs tracked for up to 6 months and ongoing, across various participant populations and subgroups, including specific targeted medical events.",
+                "children": []
+              },
+              {
+                "node_id": "section_5_2_3_2",
+                "title": "5.2.3.2. Immunogenicity Analyses",
+                "level": 4,
+                "start_page": 19,
+                "end_page": 19,
+                "summary": "Immunogenicity was assessed in Phase 1 using SARS-CoV-2 serum neutralization and S1 binding IgG assays, with data interpreted relative to a human convalescent serum (HCS) panel.",
+                "children": []
+              },
+              {
+                "node_id": "section_5_2_3_3",
+                "title": "5.2.3.3. Vaccine Efficacy Analyses",
+                "level": 4,
+                "start_page": 20,
+                "end_page": 21,
+                "summary": "Efficacy was based on confirmed COVID-19 cases, evaluated against primary and secondary endpoints. Vaccine efficacy (VE) was calculated using illness rate ratios, aiming for compelling evidence that true VE exceeds 30%.",
+                "children": [
+                  {
+                    "node_id": "section_5_2_3_3_primary_endpoints",
+                    "title": "Primary Efficacy Endpoints",
+                    "level": 5,
+                    "start_page": 20,
+                    "end_page": 20,
+                    "summary": "Study C4591001 has two primary endpoints, assessing COVID-19 incidence in participants both without, and with and without, evidence of past SARS-CoV-2 infection, with cases confirmed at least 7 days after Dose 2.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "section_5_2_3_3_secondary_endpoints",
+                    "title": "Secondary Efficacy Endpoints",
+                    "level": 5,
+                    "start_page": 20,
+                    "end_page": 21,
+                    "summary": "Secondary endpoints examine COVID-19 incidence confirmed at least 14 days after Dose 2, as well as severe and CDC-defined COVID-19 cases, in participants with varying prior infection statuses.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "section_5_2_3_3_1",
+                    "title": "5.2.3.3.1. Interim and Final Analyses of Efficacy",
+                    "level": 5,
+                    "start_page": 21,
+                    "end_page": 21,
+                    "summary": "Interim analyses were prespecified to evaluate the first primary efficacy endpoint after accumulating a certain number of COVID-19 cases, with the final analysis planned after 164 cases to assess all primary and secondary endpoints.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "node_id": "section_6",
+    "title": "6. SUMMARY OF CLINICAL DATA",
+    "level": 1,
+    "start_page": 21,
+    "end_page": 21,
+    "summary": "This section provides a summary of the clinical data collected from studies BNT162-01 Phase 1 and C4591001 (Phase 1 and Phase 2/3), covering demographics, disposition, immunogenicity, and safety outcomes.",
+    "children": [
+      {
+        "node_id": "section_6_1",
+        "title": "6.1. Study BNT162-01 Phase 1",
+        "level": 2,
+        "start_page": 21,
+        "end_page": 21,
+        "summary": "This subsection presents findings from the Phase 1 dose level-finding study BNT162-01, evaluating the safety and immunogenicity of BNT162b2 at 30 µg in healthy adults aged 18 to 55.",
+        "children": [
+          {
+            "node_id": "section_6_1_1",
+            "title": "6.1.1. Demographics and Disposition in Study BNT162-01 Phase 1",
+            "level": 3,
+            "start_page": 21,
+            "end_page": 22,
+            "summary": "In Study BNT162-01 Phase 1, 60 participants (median age 42, predominantly White) received BNT162b2; most completed both doses, with only two discontinuations due to an AE and participant withdrawal.",
+            "children": []
+          },
+          {
+            "node_id": "section_6_1_2",
+            "title": "6.1.2. Immunogenicity in Study BNT162-01 Phase 1",
+            "level": 3,
+            "start_page": 22,
+            "end_page": 25,
+            "summary": "Immunogenicity data from BNT162-01 Phase 1, including T cell responses and SARS-CoV-2 neutralizing titers, demonstrated robust immune activation post-vaccination.",
+            "children": [
+              {
+                "node_id": "section_6_1_2_1",
+                "title": "6.1.2.1. T Cell Responses",
+                "level": 4,
+                "start_page": 22,
+                "end_page": 24,
+                "summary": "Most BNT162b2 recipients showed strong S protein-specific CD4+ and CD8+ T cell responses, which were polyfunctional and Th1-polarized, substantially higher than those observed in COVID-19 recovered individuals.",
+                "children": []
+              },
+              {
+                "node_id": "section_6_1_2_2",
+                "title": "6.1.2.2. SARS-CoV-2 Neutralizing Titers",
+                "level": 4,
+                "start_page": 24,
+                "end_page": 25,
+                "summary": "BNT162b2 induced modest increases in neutralizing GMTs after Dose 1, with a pronounced boost after Dose 2, remaining above HCS levels at Day 50, and showing broad neutralization against SARS-CoV-2 spike variants.",
+                "children": []
+              },
+              {
+                "node_id": "section_6_1_2_3",
+                "title": "6.1.2.3. Immunogenicity Conclusions in BNT162-01 Phase 1",
+                "level": 4,
+                "start_page": 25,
+                "end_page": 25,
+                "summary": "Immunogenicity results from Phase 1 of Study BNT162-01 confirmed that BNT162b2 elicited robust antibody-mediated SARS-CoV-2 neutralization and T cell-mediated cellular immune responses in healthy adults aged 18 to 55.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "section_6_2",
+        "title": "6.2. Study C4591001 Phase 1",
+        "level": 2,
+        "start_page": 25,
+        "end_page": 25,
+        "summary": "This subsection presents immunogenicity and safety data from the Phase 1 portion of Study C4591001, focusing on BNT162b2 in younger (18-55 years) and older (65-85 years) healthy adults.",
+        "children": [
+          {
+            "node_id": "section_6_2_1",
+            "title": "6.2.1. Demographics and Disposition in Study C4591001 Phase 1",
+            "level": 3,
+            "start_page": 25,
+            "end_page": 26,
+            "summary": "Phase 1 of Study C4591001 included 45 younger (median age 37) and 45 older (median age 68) participants receiving BNT162b2. All participants received both doses and remained in the study, with minimal discontinuations.",
+            "children": []
+          },
+          {
+            "node_id": "section_6_2_2",
+            "title": "6.2.2. Immunogenicity in Study C4591001 Phase 1",
+            "level": 3,
+            "start_page": 26,
+            "end_page": 27,
+            "summary": "Immunogenicity results from Phase 1 of Study C4591001 showed that BNT162b2 induced robust SARS-CoV-2 neutralization and S1-binding IgG levels, with stronger responses generally observed in younger adults.",
+            "children": [
+              {
+                "node_id": "section_6_2_2_1",
+                "title": "6.2.2.1. SARS-CoV-2 50% Neutralizing Titers",
+                "level": 4,
+                "start_page": 26,
+                "end_page": 27,
+                "summary": "BNT162b2 elicited increased SARS-CoV-2 neutralizing GMTs post-Dose 1 and a significant boost post-Dose 2, especially at the 30 µg dose. GMTs were higher in younger participants and above HCS levels.",
+                "children": []
+              },
+              {
+                "node_id": "section_6_2_2_2",
+                "title": "6.2.2.2. S1-Binding IgG Levels",
+                "level": 4,
+                "start_page": 27,
+                "end_page": 27,
+                "summary": "In Phase 1 of Study C4591001, S1-binding IgG levels generally showed a dose-level response between 10 µg and 20 µg of BNT162b2, but this response was inconsistent across age groups for higher doses.",
+                "children": []
+              },
+              {
+                "node_id": "section_6_2_2_3",
+                "title": "6.2.2.3. Immunogenicity Conclusions in Study C4591001 Phase 1",
+                "level": 4,
+                "start_page": 27,
+                "end_page": 27,
+                "summary": "Study C4591001 Phase 1 demonstrated that BNT162b2 robustly induced SARS-CoV-2 neutralization and S1-binding IgG antibody levels in both younger and older healthy adults, with stronger responses in the younger group and a clear boost after the second dose.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "section_6_2_3",
+            "title": "6.2.3. Safety in Study C4591001 Phase 1",
+            "level": 3,
+            "start_page": 27,
+            "end_page": 29,
+            "summary": "Safety data from Study C4591001 Phase 1 showed BNT162b2 was safe and well-tolerated, with reactogenicity and AEs generally milder and less frequent in older participants and tending to increase with dose.",
+            "children": [
+              {
+                "node_id": "section_6_2_3_1",
+                "title": "6.2.3.1. Reactogenicity in Study C4591001 Phase 1",
+                "level": 4,
+                "start_page": 27,
+                "end_page": 28,
+                "summary": "Reactogenicity, including local reactions and systemic events, was generally mild to moderate, short-lived, and less frequent in older participants. Pain at injection site, fatigue, headache, chills, and muscle pain were the most common events.",
+                "children": []
+              },
+              {
+                "node_id": "section_6_2_3_2",
+                "title": "6.2.3.2. Overview of AEs in Study C4591001 Phase 1",
+                "level": 4,
+                "start_page": 28,
+                "end_page": 28,
+                "summary": "Fewer than half of Phase 1 participants reported AEs, mostly mild to moderate and not related to the vaccine. Incidences were higher in younger BNT162b2 recipients compared to placebo, with no discontinuations, deaths, or serious safety concerns.",
+                "children": []
+              },
+              {
+                "node_id": "section_6_2_3_3",
+                "title": "6.2.3.3. Analysis of Adverse Events in Study C4591001 Phase 1",
+                "level": 4,
+                "start_page": 28,
+                "end_page": 29,
+                "summary": "The most common AEs in younger participants were injection site pain and erythema, while older participants reported nervous system disorders. One severe migraine and one severe muscle spasm were reported, but not related to the vaccine.",
+                "children": []
+              },
+              {
+                "node_id": "section_6_2_3_4",
+                "title": "6.2.3.4. Clinical Laboratory Assessments in Study C4591001 Phase 1",
+                "level": 4,
+                "start_page": 29,
+                "end_page": 29,
+                "summary": "Clinical laboratory tests in Phase 1 showed infrequent chemistry abnormalities and a transient, clinically irrelevant decrease in lymphocytes after Dose 1 that resolved within approximately one week.",
+                "children": []
+              },
+              {
+                "node_id": "section_6_2_3_5",
+                "title": "6.2.3.5. Safety Conclusions in Study C4591001 Phase 1",
+                "level": 4,
+                "start_page": 29,
+                "end_page": 30,
+                "summary": "Phase 1 data from Study C4591001 concluded BNT162b2 was safe and well-tolerated in healthy adults across age groups, with no unanticipated safety findings. Reactogenicity was mostly mild to moderate, and no new safety signals were observed with extended follow-up.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "section_6_3",
+        "title": "6.3. Study C4591001 Phase 2/3",
+        "level": 2,
+        "start_page": 30,
+        "end_page": 30,
+        "summary": "This subsection presents the safety, immunogenicity, and efficacy data derived from the combined Phase 2/3 portion of Study C4591001, providing a comprehensive clinical overview.",
+        "children": [
+          {
+            "node_id": "section_6_3_1",
+            "title": "6.3.1. Study Population in Study C4591001 Phase 2/3",
+            "level": 3,
+            "start_page": 30,
+            "end_page": 34,
+            "summary": "This subsection details the demographics, disposition, and follow-up duration for the 37,706 participants in the Phase 2/3 safety population, noting similarities between BNT162b2 and placebo groups.",
+            "children": [
+              {
+                "node_id": "section_6_3_1_1",
+                "title": "6.3.1.1. Duration of Follow-Up in Study C4591001 Phase 2/3",
+                "level": 4,
+                "start_page": 30,
+                "end_page": 31,
+                "summary": "For the ~38,000 participants in the Phase 2/3 safety analysis, 50.6% had at least 2 months and 91.6% had at least 1 month of follow-up after Dose 2.",
+                "children": []
+              },
+              {
+                "node_id": "section_6_3_1_2",
+                "title": "6.3.1.2. Demographics and Disposition in Study C4591001 Phase 2/3",
+                "level": 4,
+                "start_page": 31,
+                "end_page": 34,
+                "summary": "The ~38,000 Phase 2/3 participants had similar demographics across treatment groups (median age 52, 82.9% White, 28% Hispanic/Latino, 35.1% obese). Discontinuations were low and comparable between vaccine and placebo groups.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "section_6_3_2",
+            "title": "6.3.2. Immunogenicity in Study C4591001 Phase 2",
+            "level": 3,
+            "start_page": 34,
+            "end_page": 35,
+            "summary": "Immunogenicity results from the Phase 2 portion (360 participants) showed BNT162b2 elicited robust SARS-CoV-2 neutralizing titers at 1 month post-Dose 2, with GMTs comparable to HCS, and higher in younger participants.",
+            "children": []
+          },
+          {
+            "node_id": "section_6_3_3",
+            "title": "6.3.3. Safety in Study C4591001 Phase 2/3",
+            "level": 3,
+            "start_page": 35,
+            "end_page": 53,
+            "summary": "This section provides an extensive overview of safety data from Study C4591001 Phase 2/3, covering reactogenicity, adverse events, deaths, and serious adverse events in vaccinated participants and placebo recipients.",
+            "children": [
+              {
+                "node_id": "section_6_3_3_1",
+                "title": "6.3.3.1. Reactogenicity in Study C4591001 Phase 2/3",
+                "level": 4,
+                "start_page": 35,
+                "end_page": 42,
+                "summary": "Reactogenicity data from 8183 participants showed that local reactions (mainly injection site pain) and systemic events (fatigue, headache, myalgia) were generally mild to moderate, more frequent in younger adults, and increased after Dose 2.",
+                "children": [
+                  {
+                    "node_id": "section_6_3_3_1_local_reactions",
+                    "title": "Local Reactions",
+                    "level": 5,
+                    "start_page": 35,
+                    "end_page": 37,
+                    "summary": "Local reactions, primarily injection site pain, were more frequent in younger participants, similar after Dose 1 and Dose 2, mostly mild/moderate, and resolved within 1-2 days. Redness and swelling were infrequent.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "section_6_3_3_1_local_reactions_adolescents",
+                    "title": "Local Reactions in Younger Adolescents",
+                    "level": 5,
+                    "start_page": 37,
+                    "end_page": 37,
+                    "summary": "In younger adolescents (12-15 years), injection site pain was the most frequent local reaction in the BNT162b2 group, reported in 71.4% after Dose 1, and was mostly mild to moderate, with a few severe cases.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "section_6_3_3_1_systemic_events",
+                    "title": "Systemic Events",
+                    "level": 5,
+                    "start_page": 37,
+                    "end_page": 39,
+                    "summary": "Systemic events were more frequent and severe in younger adults, increasing after Dose 2, with fatigue, headache, muscle pain, and chills being most common. Most were mild/moderate and resolved within a day.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "section_6_3_3_1_systemic_events_adolescents",
+                    "title": "Systemic Reactions in Younger Adolescents",
+                    "level": 5,
+                    "start_page": 42,
+                    "end_page": 42,
+                    "summary": "In younger adolescents, systemic events were more common in the BNT162b2 group but showed no clear trend of increasing incidence or severity after Dose 2 compared to Dose 1, remaining mostly mild to moderate.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "section_6_3_3_2",
+                "title": "6.3.3.2. Adverse Events",
+                "level": 4,
+                "start_page": 42,
+                "end_page": 53,
+                "summary": "This subsection provides an in-depth analysis of adverse events (AEs) across various follow-up durations for participants in Study C4591001 Phase 2/3, examining overall incidences, severity, and relatedness.",
+                "children": [
+                  {
+                    "node_id": "section_6_3_3_2_1",
+                    "title": "6.3.3.2.1. Overview of AEs in Study C4591001 Phase 2/3",
+                    "level": 5,
+                    "start_page": 42,
+                    "end_page": 46,
+                    "summary": "An overview of AEs in Phase 2/3 showed higher incidences of any and related AEs in the BNT162b2 group compared to placebo, but severe AEs, SAEs, and deaths were low and comparable.",
+                    "children": [
+                      {
+                        "node_id": "section_6_3_3_2_1_1",
+                        "title": "6.3.3.2.1.1. Participants with Median 2 Months of Follow-Up After Dose 2",
+                        "level": 6,
+                        "start_page": 43,
+                        "end_page": 44,
+                        "summary": "Among 37,586 participants with a median of 2 months follow-up, BNT162b2 recipients had more AEs and related AEs than placebo, but severe AEs, SAEs, and deaths were low and similar across groups.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "section_6_3_3_2_1_2",
+                        "title": "Participants with At Least 2 Months of Follow-Up After Dose 2",
+                        "level": 6,
+                        "start_page": 44,
+                        "end_page": 45,
+                        "summary": "For the subset of 19,067 participants with at least 2 months of follow-up, AE results were consistent with the broader 37,586-participant group, showing low incidences of severe AEs, SAEs, discontinuations, and deaths in both vaccine and placebo groups.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "section_6_3_3_2_1_3",
+                        "title": "6.3.3.2.1.2. All Enrolled Participants",
+                        "level": 6,
+                        "start_page": 45,
+                        "end_page": 46,
+                        "summary": "Data from all 43,252 enrolled participants, regardless of follow-up duration, showed a similar AE profile, with higher overall and related AEs in the BNT162b2 group, but low and comparable incidences of severe AEs, SAEs, and deaths.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "section_6_3_3_2_2",
+                    "title": "6.3.3.2.2. Analysis of Adverse Events",
+                    "level": 5,
+                    "start_page": 46,
+                    "end_page": 50,
+                    "summary": "This subsection presents a detailed analysis of adverse events, categorizing them by System Organ Class (SOC) and Preferred Term (PT), and differentiating by follow-up duration, severity, relatedness, and immediacy.",
+                    "children": [
+                      {
+                        "node_id": "section_6_3_3_2_2_1",
+                        "title": "6.3.3.2.2.1. Participants with Median 2 Months of Follow-Up After Dose 2",
+                        "level": 6,
+                        "start_page": 46,
+                        "end_page": 48,
+                        "summary": "Among 37,586 participants, most AEs were reactogenicity events, predominantly in general disorders and administration site conditions, musculoskeletal, and nervous system disorders, with higher incidences in younger BNT162b2 recipients.",
+                        "children": [
+                          {
+                            "node_id": "section_6_3_3_2_2_1_ae_gt_1percent",
+                            "title": "Adverse Events Reported in >1% of Participants in Either Treatment Group",
+                            "level": 7,
+                            "start_page": 47,
+                            "end_page": 48,
+                            "summary": "Common AEs reported in >1% of participants in either treatment group included injection site pain, pyrexia, fatigue, chills, pain, myalgia, arthralgia, nausea, and headache.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "node_id": "section_6_3_3_2_2_2",
+                        "title": "Participants with At Least 2 Months of Follow-Up After Dose 2",
+                        "level": 6,
+                        "start_page": 48,
+                        "end_page": 49,
+                        "summary": "For the 19,067 participants with at least 2 months of follow-up, AEs remained primarily reactogenicity events in similar SOCs, with injection site pain, pyrexia, chills, fatigue, headache, and myalgia as most frequent.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "section_6_3_3_2_2_3",
+                        "title": "Severe or Life-Threatening Adverse Events – Participants with Median 2 Months of Follow-Up After Dose 2",
+                        "level": 6,
+                        "start_page": 49,
+                        "end_page": 49,
+                        "summary": "Severe AEs were low in frequency (1.2% in BNT162b2, 0.6% in placebo), mostly reactogenicity, and life-threatening AEs were reported by 0.1% in both groups, with no clinical concerns.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "section_6_3_3_2_2_4",
+                        "title": "Related Adverse Events - Participants with Median 2 Months of Follow-Up After Dose 2",
+                        "level": 6,
+                        "start_page": 49,
+                        "end_page": 49,
+                        "summary": "Related AEs were reported by 20.8% of BNT162b2 recipients (vs 5.1% placebo), primarily reactogenicity events, with 47 of 64 lymphadenopathy cases deemed related to study intervention.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "section_6_3_3_2_2_5",
+                        "title": "Immediate Adverse Events - Participants with Median 2 Months of Follow-Up After Dose 2",
+                        "level": 6,
+                        "start_page": 49,
+                        "end_page": 50,
+                        "summary": "Immediate AEs after either dose were low in frequency (≤0.4%), mainly injection site reactions, and no participant reported an immediate allergic reaction to the vaccine.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "section_6_3_3_2_2_6",
+                        "title": "6.3.3.2.2.2. All Enrolled Participants",
+                        "level": 6,
+                        "start_page": 50,
+                        "end_page": 50,
+                        "summary": "For all 43,252 enrolled participants, AEs were predominantly reactogenicity events, similar to the 2-month follow-up group, with higher incidences in the BNT162b2 group, including adolescents aged 16-17.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "section_6_3_3_2_3",
+                    "title": "6.3.3.2.3. Deaths in Study C4591001 Phase 2/3",
+                    "level": 5,
+                    "start_page": 50,
+                    "end_page": 51,
+                    "summary": "A total of 6 deaths occurred during the study through the data cutoff date (2 in BNT162b2 group, 4 in placebo group), none of which were assessed as related to the study intervention by investigators.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "section_6_3_3_2_4",
+                    "title": "6.3.3.2.4. Serious Adverse Events in Study C4591001 Phase 2/3",
+                    "level": 5,
+                    "start_page": 51,
+                    "end_page": 52,
+                    "summary": "This subsection provides an overview of Serious Adverse Events (SAEs) reported in Phase 2/3 of Study C4591001, distinguishing between participants with median 2 months of follow-up and all enrolled participants.",
+                    "children": [
+                      {
+                        "node_id": "section_6_3_3_2_4_1",
+                        "title": "6.3.3.2.4.1. Participants with Median 2 Months of Follow-Up After Dose 2",
+                        "level": 6,
+                        "start_page": 51,
+                        "end_page": 51,
+                        "summary": "Among 37,586 participants, SAE proportions were similar between BNT162b2 (0.5%) and placebo (0.4%). Three SAEs in the vaccine group were deemed related (shoulder injury, ventricular arrhythmia, lymphadenopathy); 12 appendicitis cases were observed, unrelated to intervention.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "section_6_3_3_2_4_2",
+                        "title": "6.3.3.2.4.2. All Enrolled Participants",
+                        "level": 6,
+                        "start_page": 51,
+                        "end_page": 52,
+                        "summary": "SAE proportions for all 43,448 enrolled participants remained similar between vaccine (0.6%) and placebo (0.5%) groups, with no additional vaccine-related SAEs reported.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "section_6_3_3_2_5",
+                    "title": "6.3.3.2.5. Adverse Events Leading to Study Withdrawal",
+                    "level": 5,
+                    "start_page": 52,
+                    "end_page": 52,
+                    "summary": "This subsection details the infrequent occurrences of adverse events leading to participant withdrawal from Study C4591001 Phase 2/3, examining both the 2-month follow-up group and all enrolled participants.",
+                    "children": [
+                      {
+                        "node_id": "section_6_3_3_2_5_1",
+                        "title": "6.3.3.2.5.1. Participants with Median 2 Months of Follow-Up After Dose 2",
+                        "level": 6,
+                        "start_page": 52,
+                        "end_page": 52,
+                        "summary": "Few participants (0.2% in BNT162b2, 0.1% in placebo) withdrew due to AEs, with gastrointestinal disorders, general disorders, injury, musculoskeletal disorders, and nervous system disorders being the most frequent reasons.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "section_6_3_3_2_5_2",
+                        "title": "6.3.3.2.5.2. All Enrolled Participants",
+                        "level": 6,
+                        "start_page": 52,
+                        "end_page": 52,
+                        "summary": "The rate of withdrawals due to AEs among all 43,448 enrolled participants remained low and similar to the 2-month follow-up group, with no adolescents (16-17 years) withdrawing for this reason.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "section_6_3_3_2_6",
+                    "title": "6.3.3.2.6. Adverse Events of Clinical Interest in Study C4591001 Phase 2/3",
+                    "level": 5,
+                    "start_page": 52,
+                    "end_page": 53,
+                    "summary": "This subsection examines specific adverse events of clinical interest in Phase 2/3, highlighting lymphadenopathy (64 participants in BNT162b2, mostly related and resolving in ~10 days) and rare, unrelated angioedema/hypersensitivity events.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "section_6_3_3_2_7",
+                    "title": "6.3.3.2.7. Severe COVID-19 Cases in Study C4591001 Phase 2/3",
+                    "level": 5,
+                    "start_page": 53,
+                    "end_page": 53,
+                    "summary": "Monitoring for severe COVID-19 cases confirmed that stopping criteria for vaccine-associated enhanced disease (VAED) were not met, with the majority of severe cases confined to the placebo groups.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "section_6_3_3_2_8",
+                    "title": "6.3.3.2.8. Pregnancies",
+                    "level": 5,
+                    "start_page": 53,
+                    "end_page": 53,
+                    "summary": "As of the data cutoff, 23 pregnancies were reported in the safety database, with 9 participants withdrawing due to pregnancy; these participants continue to be followed for outcomes.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "section_6_3_3_3",
+                "title": "6.3.3.3. Safety Conclusions in Study C4591001 Phase 2/3",
+                "level": 4,
+                "start_page": 53,
+                "end_page": 53,
+                "summary": "Phase 2/3 data from ~38,000 participants show BNT162b2 was safe and well-tolerated (≥16 years), with mild-to-moderate reactogenicity, low SAEs/deaths comparable to placebo, and no serious safety concerns, even with variable follow-up durations up to ~44,000 participants.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "section_6_3_4",
+            "title": "6.3.4. Efficacy in Study C4591001 Phase 2/3",
+            "level": 3,
+            "start_page": 53,
+            "end_page": 72,
+            "summary": "This subsection summarizes the efficacy data from Study C4591001 Phase 2/3, presenting results from both the interim and final analyses for primary and secondary endpoints, including detailed subgroup analyses.",
+            "children": [
+              {
+                "node_id": "section_6_3_4_1",
+                "title": "6.3.4.1. Interim Analysis of Efficacy in Study C4591001",
+                "level": 4,
+                "start_page": 54,
+                "end_page": 54,
+                "summary": "The interim analysis, performed after 94 COVID-19 cases, showed BNT162b2 had 95.5% vaccine efficacy against confirmed COVID-19 in participants without prior infection, overwhelmingly meeting the success criterion.",
+                "children": []
+              },
+              {
+                "node_id": "section_6_3_4_2",
+                "title": "6.3.4.2. Final Analysis of Efficacy in Study C4591001",
+                "level": 4,
+                "start_page": 54,
+                "end_page": 71,
+                "summary": "This subsection presents the comprehensive final efficacy analysis for Study C4591001, covering primary and secondary endpoints, vaccine efficacy across subgroups, and specific efficacy against severe and CDC-defined COVID-19 cases.",
+                "children": [
+                  {
+                    "node_id": "section_6_3_4_2_1",
+                    "title": "6.3.4.2.1. Final Analysis of Primary Efficacy Endpoints",
+                    "level": 5,
+                    "start_page": 54,
+                    "end_page": 57,
+                    "summary": "The final analysis confirmed high vaccine efficacy for both primary endpoints: 95.0% for participants without prior infection and 94.6% for those with and without prior infection, against COVID-19 occurring 7 days after Dose 2.",
+                    "children": [
+                      {
+                        "node_id": "section_6_3_4_2_1_1",
+                        "title": "6.3.4.2.1.1. Vaccine Efficacy Without Prior Evidence of SARS-CoV-2 Infection – 7 Days After Dose 2 – Final Analysis",
+                        "level": 6,
+                        "start_page": 54,
+                        "end_page": 55,
+                        "summary": "In the final analysis, BNT162b2 demonstrated 95.0% vaccine efficacy against confirmed COVID-19 occurring at least 7 days after Dose 2 in participants without prior SARS-CoV-2 infection, with 8 cases in the vaccine group vs 162 in placebo.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "section_6_3_4_2_1_2",
+                        "title": "6.3.4.2.1.2. Vaccine Efficacy With and Without Prior Evidence of SARS-CoV-2 Infection – 7 Days After Dose 2 – Final Analysis",
+                        "level": 6,
+                        "start_page": 55,
+                        "end_page": 56,
+                        "summary": "The final analysis confirmed 94.6% vaccine efficacy against confirmed COVID-19 occurring at least 7 days after Dose 2 in participants with and without prior SARS-CoV-2 infection, with 9 cases in the vaccine group vs 169 in placebo.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "section_6_3_4_2_1_3",
+                        "title": "All Confirmed Cases of COVID-19 After Dose 1",
+                        "level": 6,
+                        "start_page": 56,
+                        "end_page": 58,
+                        "summary": "Across all participants, 50 COVID-19 cases occurred after Dose 1 in the BNT162b2 group vs 275 in placebo, showing an estimated 82% VE after Dose 1, and 52.4% VE between Dose 1 and Dose 2, with protection evident around 14 days post-Dose 1.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "section_6_3_4_2_2",
+                    "title": "6.3.4.2.2. Vaccine Efficacy by Subgroup - Final Analysis",
+                    "level": 5,
+                    "start_page": 59,
+                    "end_page": 62,
+                    "summary": "This subsection provides a detailed breakdown of vaccine efficacy across various demographic and risk subgroups based on the final analysis, highlighting consistent high efficacy.",
+                    "children": [
+                      {
+                        "node_id": "section_6_3_4_2_2_1",
+                        "title": "6.3.4.2.2.1. Subgroups of Age, Sex, Race/Ethnicity, Geographic Location",
+                        "level": 6,
+                        "start_page": 59,
+                        "end_page": 61,
+                        "summary": "Vaccine efficacy was >93% across subgroups of age, sex, race/ethnicity, and geographic location (except 'all others' race group and Brazil), notably 94.7% in participants ≥65 years of age.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "section_6_3_4_2_2_2",
+                        "title": "6.3.4.2.2.2. Subgroups of Risk Status",
+                        "level": 6,
+                        "start_page": 61,
+                        "end_page": 63,
+                        "summary": "Among participants without prior SARS-CoV-2 infection, observed vaccine efficacy was >91% in all analyzed subgroups defined by risk status, including those with comorbidities or obesity.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "section_6_3_4_2_3",
+                    "title": "6.3.4.2.3. Final Analysis of Secondary Efficacy Endpoints",
+                    "level": 5,
+                    "start_page": 63,
+                    "end_page": 71,
+                    "summary": "This subsection details the final analysis results for secondary efficacy endpoints, including vaccine efficacy against confirmed COVID-19 occurring at least 14 days after Dose 2, severe COVID-19 cases, and CDC-defined COVID-19 cases.",
+                    "children": [
+                      {
+                        "node_id": "section_6_3_4_2_3_1",
+                        "title": "6.3.4.2.3.1. Vaccine Efficacy Without Prior Evidence of SARS-CoV-2 Infection – 14 Days After Dose 2 – Final Analysis",
+                        "level": 6,
+                        "start_page": 63,
+                        "end_page": 63,
+                        "summary": "For participants without prior SARS-CoV-2 infection, vaccine efficacy against confirmed COVID-19 occurring at least 14 days after Dose 2 was 94.2%, with 8 cases in BNT162b2 vs 139 in placebo.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "section_6_3_4_2_3_2",
+                        "title": "6.3.4.2.3.2. Vaccine Efficacy With and Without Prior Evidence of SARS-CoV-2 Infection – 14 Days After Dose 2 – Final Analysis",
+                        "level": 6,
+                        "start_page": 63,
+                        "end_page": 64,
+                        "summary": "Including participants with or without prior SARS-CoV-2 infection, vaccine efficacy against confirmed COVID-19 occurring at least 14 days after Dose 2 was 94.4%, with 8 cases in BNT162b2 vs 144 in placebo.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "section_6_3_4_2_3_3",
+                        "title": "6.3.4.2.3.3. Vaccine Efficacy for Severe COVID-19 Cases – Final Analysis",
+                        "level": 6,
+                        "start_page": 64,
+                        "end_page": 67,
+                        "summary": "The final analysis of severe COVID-19 cases showed an estimated vaccine efficacy of 66.4% against severe COVID-19 occurring at least 7 days after Dose 2 (1 case in BNT162b2 vs 3 in placebo), not meeting the prespecified success criterion due to small case numbers.",
+                        "children": [
+                          {
+                            "node_id": "section_6_3_4_2_3_3_7days",
+                            "title": "Efficacy Against Severe COVID-19 (≥7 Days After Dose 2)",
+                            "level": 7,
+                            "start_page": 64,
+                            "end_page": 65,
+                            "summary": "Vaccine efficacy against severe COVID-19 occurring at least 7 days after Dose 2 was estimated at 66.4% in participants without prior infection and 66.3% in those with or without prior infection, though with small numbers of cases.",
+                            "children": []
+                          },
+                          {
+                            "node_id": "section_6_3_4_2_3_3_7days_no_prior_infection",
+                            "title": "Participants Without Evidence of Infection Before and During Vaccination Regimen",
+                            "level": 7,
+                            "start_page": 64,
+                            "end_page": 65,
+                            "summary": "For participants without prior severe SARS-CoV-2 infection, vaccine efficacy against severe COVID-19 occurring at least 7 days after Dose 2 was 66.4%, with 1 case in the BNT162b2 group compared to 3 in the placebo group.",
+                            "children": []
+                          },
+                          {
+                            "node_id": "section_6_3_4_2_3_3_7days_with_without_prior_infection",
+                            "title": "Participants With and Without Evidence of Infection Before and During Vaccination Regimen",
+                            "level": 7,
+                            "start_page": 65,
+                            "end_page": 66,
+                            "summary": "In participants with and without prior severe SARS-CoV-2 infection, vaccine efficacy against severe COVID-19 occurring at least 7 days after Dose 2 was 66.3%, with 1 case in the BNT162b2 group compared to 3 in the placebo group.",
+                            "children": []
+                          },
+                          {
+                            "node_id": "section_6_3_4_2_3_3_after_dose_1",
+                            "title": "All Confirmed Cases of Severe COVID-19 After Dose 1 – All-Available Population",
+                            "level": 7,
+                            "start_page": 66,
+                            "end_page": 67,
+                            "summary": "Among all participants, 1 case of severe COVID-19 occurred after Dose 1 in the BNT162b2 group versus 9 in placebo, resulting in an estimated 88.9% vaccine efficacy against severe COVID-19 after Dose 1.",
+                            "children": []
+                          },
+                          {
+                            "node_id": "section_6_3_4_2_3_3_14days",
+                            "title": "Efficacy Against Severe COVID-19 (≥14 Days After Dose 2)",
+                            "level": 7,
+                            "start_page": 67,
+                            "end_page": 69,
+                            "summary": "Vaccine efficacy against severe COVID-19 occurring at least 14 days after Dose 2 was estimated at 66.4% for participants without prior infection and 66.3% for those with or without prior infection, with very few cases observed.",
+                            "children": []
+                          },
+                          {
+                            "node_id": "section_6_3_4_2_3_3_14days_no_prior_infection",
+                            "title": "Participants Without Evidence of Infection Before and During Vaccination Regimen (14 Days) – Severe",
+                            "level": 7,
+                            "start_page": 67,
+                            "end_page": 68,
+                            "summary": "For participants without prior SARS-CoV-2 infection, estimated vaccine efficacy against severe COVID-19 occurring at least 14 days after Dose 2 was 66.4%, based on 1 case in the BNT162b2 group and 3 in the placebo group.",
+                            "children": []
+                          },
+                          {
+                            "node_id": "section_6_3_4_2_3_3_14days_with_without_prior_infection",
+                            "title": "Participants With or Without Evidence of Infection Before and During Vaccination Regimen (14 Days) – Severe",
+                            "level": 7,
+                            "start_page": 68,
+                            "end_page": 69,
+                            "summary": "In participants with or without prior SARS-CoV-2 infection, estimated vaccine efficacy against severe COVID-19 occurring at least 14 days after Dose 2 was 66.3%, with 1 case in the BNT162b2 group and 3 in the placebo group.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "node_id": "section_6_3_4_2_3_4",
+                        "title": "6.3.4.2.3.4. Vaccine Efficacy for COVID-19 Cases Based on CDC Definition – Final Analysis",
+                        "level": 6,
+                        "start_page": 69,
+                        "end_page": 71,
+                        "summary": "This subsection presents the final analysis of vaccine efficacy against COVID-19 cases based on CDC-defined symptoms, showing high efficacy at least 7 days after Dose 2, regardless of prior infection status.",
+                        "children": [
+                          {
+                            "node_id": "section_6_3_4_2_3_4_cdc_7days",
+                            "title": "Efficacy Against COVID-19 Based on CDC-Defined Symptoms (≥7 Days After Dose 2)",
+                            "level": 7,
+                            "start_page": 69,
+                            "end_page": 70,
+                            "summary": "Vaccine efficacy against CDC-defined COVID-19 occurring at least 7 days after Dose 2 was 95.1% in participants without prior infection and 94.7% in those with or without prior infection.",
+                            "children": []
+                          },
+                          {
+                            "node_id": "section_6_3_4_2_3_4_cdc_7days_no_prior_infection",
+                            "title": "Participants Without Evidence of Infection Before and During Vaccination Regimen - CDC Defined - 7 Days",
+                            "level": 7,
+                            "start_page": 69,
+                            "end_page": 70,
+                            "summary": "For participants without prior SARS-CoV-2 infection, vaccine efficacy against CDC-defined COVID-19 occurring at least 7 days after Dose 2 was 95.1%, with 8 cases in the BNT162b2 group and 165 in the placebo group.",
+                            "children": []
+                          },
+                          {
+                            "node_id": "section_6_3_4_2_3_4_cdc_7days_with_without_prior_infection",
+                            "title": "Participants With and Without Evidence of Infection Before and During Vaccination Regimen - CDC Defined - 7 Days",
+                            "level": 7,
+                            "start_page": 70,
+                            "end_page": 71,
+                            "summary": "In participants with and without prior SARS-CoV-2 infection, vaccine efficacy against CDC-defined COVID-19 occurring at least 7 days after Dose 2 was 94.7%, with 9 cases in the BNT162b2 group and 172 in the placebo group.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "node_id": "section_6_3_4_3",
+                "title": "6.3.4.3. Efficacy Conclusions from Study C4591001",
+                "level": 4,
+                "start_page": 71,
+                "end_page": 72,
+                "summary": "Study C4591001 demonstrated overwhelmingly high vaccine efficacy (VE) for BNT162b2 against confirmed COVID-19, consistently above 94% in primary endpoints and various subgroups, with early onset of protection and severe cases predominantly in the placebo group.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "node_id": "section_7",
+    "title": "7. PHARMACOVIGILANCE AND PHARMACOEPIDEMIOLOGY PLAN",
+    "level": 1,
+    "start_page": 72,
+    "end_page": 74,
+    "summary": "This section outlines Pfizer and BioNTech's comprehensive plan for active long-term safety surveillance and pharmacovigilance post-EUA, including epidemiologic studies, data collection, signal detection, and risk minimization strategies.",
+    "children": [
+      {
+        "node_id": "section_7_pharmacovigilance",
+        "title": "Pharmacovigilance",
+        "level": 2,
+        "start_page": 73,
+        "end_page": 73,
+        "summary": "Pfizer will collect and analyze all reported AEs, utilizing a web-based tool, and share data with CDC’s VAERS, aiming to identify safety signals through patterns of events and conduct further evaluations.",
+        "children": []
+      },
+      {
+        "node_id": "section_7_pharmacoepidemiology",
+        "title": "Pharmacoepidemiology",
+        "level": 2,
+        "start_page": 73,
+        "end_page": 73,
+        "summary": "Multiple long-term pharmacoepidemiology safety studies are planned, including secondary data analysis of large healthcare databases and a primary data collection study among healthcare workers, to characterize the incidence of AEs in diverse vaccinated populations.",
+        "children": []
+      },
+      {
+        "node_id": "section_7_risk_minimization",
+        "title": "Proactive Risk Minimization",
+        "level": 2,
+        "start_page": 73,
+        "end_page": 74,
+        "summary": "Pfizer is implementing enhanced measures beyond routine labeling, such as EUA Fact Sheets, educational materials for providers on vaccine handling, and near real-time monitoring of distribution, to proactively mitigate risks and ensure safe administration.",
+        "children": []
+      },
+      {
+        "node_id": "section_7_collaboration",
+        "title": "Collaboration with Vaccine Safety Stakeholders",
+        "level": 2,
+        "start_page": 74,
+        "end_page": 74,
+        "summary": "Pfizer plans to collaborate with external vaccine policy experts, including the CDC, to ensure transparency, share results with a vaccine safety subcommittee, and follow up on emerging safety signals.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "section_8",
+    "title": "8. RISK/BENEFIT ASSESSMENT",
+    "level": 1,
+    "start_page": 74,
+    "end_page": 75,
+    "summary": "This section concludes that the Pfizer-BioNTech COVID-19 Vaccine presents a positive risk/benefit assessment given its high efficacy, favorable safety profile with mostly mild reactogenicity, and low incidence of serious events, fulfilling FDA EUA requirements amidst the ongoing pandemic.",
+    "children": []
+  },
+  {
+    "node_id": "section_9",
+    "title": "9. REFERENCES",
+    "level": 1,
+    "start_page": 75,
+    "end_page": 77,
+    "summary": "This section lists all references cited throughout the briefing document, providing sources for the data, guidelines, and background information presented.",
+    "children": []
+  },
+  {
+    "node_id": "appendix_1",
+    "title": "Appendix 1. COVID-19 Case Definition",
+    "level": 1,
+    "start_page": 78,
+    "end_page": 79,
+    "summary": "This appendix provides detailed definitions for COVID-19 cases used in the study, including criteria for confirmed cases (positive test + symptoms), CDC-defined symptoms, and severe COVID-19, based on FDA guidance.",
+    "children": []
+  },
+  {
+    "node_id": "appendix_2",
+    "title": "Appendix 2. Targeted Medical Events of Potential Clinical Interest for Safety Review",
+    "level": 1,
+    "start_page": 80,
+    "end_page": 80,
+    "summary": "This appendix lists the targeted medical events (TMEs) that received special attention during the safety data review, chosen for their potential association with COVID-19 or general vaccine surveillance interest.",
+    "children": []
+  },
+  {
+    "node_id": "appendix_3",
+    "title": "Appendix 3. Supplemental Figures - Study C4591001 Phase 1",
+    "level": 1,
+    "start_page": 81,
+    "end_page": 86,
+    "summary": "This appendix contains supplemental figures from Study C4591001 Phase 1, illustrating additional immunogenicity and reactogenicity data, such as S1-binding IgG levels and detailed local/systemic reactions.",
+    "children": []
+  },
+  {
+    "node_id": "appendix_4",
+    "title": "Appendix 4. Supplemental Tables",
+    "level": 1,
+    "start_page": 87,
+    "end_page": 92,
+    "summary": "This appendix provides supplemental tables, including a detailed breakdown of Serious Adverse Events (SAEs) from Dose 1 to 1 month after Dose 2 by System Organ Class and Preferred Term for the ~38,000 subjects in the Phase 2/3 analysis.",
+    "children": []
+  }
+]

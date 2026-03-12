@@ -1,0 +1,93 @@
+[
+  {
+    "node_id": "doc_1",
+    "title": "Pfizer and BioNTech Submit COVID-19 Vaccine Stability Data at Standard Freezer Temperature to the U.S. FDA",
+    "level": 1,
+    "start_page": 1,
+    "end_page": 6,
+    "summary": "This press release details Pfizer and BioNTech's submission of new data to the U.S. FDA, proposing an update to their COVID-19 vaccine's Emergency Use Authorization to allow storage at standard freezer temperatures (-25°C to -15°C) for two weeks, enhancing distribution flexibility. The document also includes authorized use, safety information, company profiles, and forward-looking statements.",
+    "children": [
+      {
+        "node_id": "doc_1.1",
+        "title": "Submission of Stability Data and Storage Flexibility",
+        "level": 2,
+        "start_page": 1,
+        "end_page": 2,
+        "summary": "Pfizer and BioNTech announced submitting new data to the FDA to support storing their COVID-19 vaccine at -25°C to -15°C for two weeks, a temperature range commonly found in pharmaceutical freezers. This proposed label update aims to provide greater flexibility for pharmacies and vaccination centers in managing vaccine supply, complementing existing ultra-cold and refrigerated storage options.",
+        "children": []
+      },
+      {
+        "node_id": "doc_1.2",
+        "title": "AUTHORIZED USE:",
+        "level": 2,
+        "start_page": 2,
+        "end_page": 2,
+        "summary": "The Pfizer-BioNTech COVID-19 Vaccine is authorized under an Emergency Use Authorization (EUA) for active immunization against COVID-19 in individuals 16 years of age and older. It explicitly states that the vaccine has not been approved or licensed by the FDA, and its emergency use is conditional upon the duration of the relevant public health declaration.",
+        "children": []
+      },
+      {
+        "node_id": "doc_1.3",
+        "title": "IMPORTANT SAFETY INFORMATION:",
+        "level": 2,
+        "start_page": 2,
+        "end_page": 3,
+        "summary": "This section provides crucial safety details for the Pfizer-BioNTech COVID-19 Vaccine, including contraindications for severe allergic reactions, the necessity of immediate medical response for anaphylaxis, and monitoring guidelines post-administration. It lists common adverse reactions from clinical studies, warns about potential diminished immune response in immunocompromised individuals, and outlines requirements for reporting adverse events.",
+        "children": []
+      },
+      {
+        "node_id": "doc_1.4",
+        "title": "About Pfizer: Breakthroughs That Change Patients' Lives",
+        "level": 2,
+        "start_page": 3,
+        "end_page": 3,
+        "summary": "Pfizer is a leading biopharmaceutical company committed to applying science and global resources to deliver innovative therapies and vaccines that extend and significantly improve lives. They prioritize quality, safety, and value in healthcare product development, working globally to advance wellness, prevention, and access to affordable healthcare.",
+        "children": []
+      },
+      {
+        "node_id": "doc_1.5",
+        "title": "Pfizer Disclosure Notice",
+        "level": 2,
+        "start_page": 3,
+        "end_page": 4,
+        "summary": "This notice states that the information is current as of February 19, 2021, and Pfizer explicitly disclaims any obligation to update forward-looking statements, which inherently contain substantial risks and uncertainties. It details various risks impacting the COVID-19 vaccine program, including potential unfavorable clinical data, regulatory challenges, manufacturing constraints, and the impact of widespread use.",
+        "children": []
+      },
+      {
+        "node_id": "doc_1.6",
+        "title": "About BioNTech",
+        "level": 2,
+        "start_page": 4,
+        "end_page": 5,
+        "summary": "BioNTech is a next-generation immunotherapy company leveraging computational discovery and therapeutic drug platforms to pioneer novel therapies for cancer and other serious diseases. Their broad portfolio includes mRNA-based therapies and other innovative biopharmaceuticals, with extensive collaborations for infectious disease vaccines alongside their oncology pipeline.",
+        "children": []
+      },
+      {
+        "node_id": "doc_1.7",
+        "title": "BioNTech Forward-looking Statements",
+        "level": 2,
+        "start_page": 5,
+        "end_page": 5,
+        "summary": "This section contains BioNTech's forward-looking statements regarding their COVID-19 vaccine, encompassing expectations for clinical trial results, potential label changes, storage plans, and production capabilities. It highlights inherent risks and uncertainties such as meeting predefined clinical endpoints, competitive landscape, and challenges in scaling production.",
+        "children": []
+      },
+      {
+        "node_id": "doc_1.8",
+        "title": "Pfizer Contacts:",
+        "level": 2,
+        "start_page": 5,
+        "end_page": 6,
+        "summary": "This section lists contact information for Pfizer's Media Relations, personified by Amy Rose, and Investor Relations, handled by Chuck Triano. It includes their respective phone numbers and email addresses for public and investor inquiries.",
+        "children": []
+      },
+      {
+        "node_id": "doc_1.9",
+        "title": "BioNTech Contacts:",
+        "level": 2,
+        "start_page": 6,
+        "end_page": 6,
+        "summary": "This section provides contact details for BioNTech's Media Relations, represented by Jasmina Alatovic, and Investor Relations, managed by Sylke Maas, Ph.D. It includes their phone numbers and email addresses for media and investor communications.",
+        "children": []
+      }
+    ]
+  }
+]

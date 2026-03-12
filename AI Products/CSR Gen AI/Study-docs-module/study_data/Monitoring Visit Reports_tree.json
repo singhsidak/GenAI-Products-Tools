@@ -1,0 +1,732 @@
+[
+  {
+    "node_id": "NCT04368728_root",
+    "title": "Study to Describe the Safety, Tolerability, Immunogenicity, and Efficacy of RNA Vaccine Candidates Against COVID-19 in Healthy Individuals",
+    "level": 0,
+    "start_page": 1,
+    "end_page": 49,
+    "summary": "This document details a completed Phase 1/2/3 randomized, placebo-controlled, observer-blind study (NCT04368728) evaluating the safety, tolerability, immunogenicity, and efficacy of SARS-CoV-2 RNA vaccine candidates, specifically BNT162b2, against COVID-19 in healthy individuals across various age groups and dose regimens, including booster doses and variant-specific candidates.",
+    "children": [
+      {
+        "node_id": "NCT04368728_1",
+        "title": "Study Details Tab",
+        "level": 1,
+        "start_page": 1,
+        "end_page": 2,
+        "summary": "This section provides an initial overview of the study, outlining its primary objective to evaluate vaccine candidates and details of its multi-phase design and target population.",
+        "children": [
+          {
+            "node_id": "NCT04368728_1.1",
+            "title": "Study Overview",
+            "level": 2,
+            "start_page": 1,
+            "end_page": 2,
+            "summary": "An overview of the Phase 1/2/3 randomized, placebo-controlled, observer-blind, dose-finding study design, outlining its aims to identify vaccine candidates and evaluate safety, tolerability, immunogenicity, and efficacy.",
+            "children": [
+              {
+                "node_id": "NCT04368728_1.1.1",
+                "title": "Brief Summary",
+                "level": 3,
+                "start_page": 1,
+                "end_page": 2,
+                "summary": "This section describes the study as a Phase 1/2/3, randomized, placebo-controlled trial to evaluate RNA vaccine candidates against COVID-19, including dose-finding, efficacy evaluation for BNT162b2, and boostability assessments across different age groups."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "NCT04368728_2",
+        "title": "Official Title",
+        "level": 1,
+        "start_page": 2,
+        "end_page": 2,
+        "summary": "The official title describes the study as a Phase 1/2/3, placebo-controlled, randomized, observer-blind, dose-finding study evaluating the safety, tolerability, immunogenicity, and efficacy of SARS-CoV-2 RNA vaccine candidates in healthy individuals.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_3",
+        "title": "Conditions",
+        "level": 1,
+        "start_page": 2,
+        "end_page": 2,
+        "summary": "This section lists the medical conditions relevant to the study, specifically SARS-CoV-2 Infection and COVID-19.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_4",
+        "title": "Intervention / Treatment",
+        "level": 1,
+        "start_page": 2,
+        "end_page": 2,
+        "summary": "Details the biological interventions used in the study, including vaccine candidates BNT162b1, BNT162b2, BNT162b2SA, and placebo.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_5",
+        "title": "Other Study ID Numbers",
+        "level": 1,
+        "start_page": 2,
+        "end_page": 3,
+        "summary": "Provides additional identifiers for the study, such as C4591001 and the EudraCT Number 2020-002641-42, along with key study dates and enrollment figures.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_6",
+        "title": "Contacts and Locations",
+        "level": 1,
+        "start_page": 3,
+        "end_page": 3,
+        "summary": "This section provides contact details for study inquiries and general information on how to interpret study record location sections.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_7",
+        "title": "United States",
+        "level": 1,
+        "start_page": 4,
+        "end_page": 6,
+        "summary": "Lists numerous study locations within the United States, detailing specific cities and research centers across multiple states.",
+        "children": [
+          {
+            "node_id": "NCT04368728_7.1",
+            "title": "Alabama Locations",
+            "level": 2,
+            "start_page": 4,
+            "end_page": 4,
+            "summary": "Identifies clinical research sites located in Alabama, United States, participating in the study."
+          },
+          {
+            "node_id": "NCT04368728_7.2",
+            "title": "Arizona Locations",
+            "level": 2,
+            "start_page": 4,
+            "end_page": 4,
+            "summary": "Identifies clinical research sites located in Arizona, United States, participating in the study."
+          },
+          {
+            "node_id": "NCT04368728_7.3",
+            "title": "California Locations",
+            "level": 2,
+            "start_page": 4,
+            "end_page": 5,
+            "summary": "Identifies clinical research sites located in California, United States, participating in the study."
+          },
+          {
+            "node_id": "NCT04368728_7.4",
+            "title": "Colorado Locations",
+            "level": 2,
+            "start_page": 5,
+            "end_page": 5,
+            "summary": "Identifies clinical research sites located in Colorado, United States, participating in the study."
+          },
+          {
+            "node_id": "NCT04368728_7.5",
+            "title": "Connecticut Locations",
+            "level": 2,
+            "start_page": 5,
+            "end_page": 5,
+            "summary": "Identifies clinical research sites located in Connecticut, United States, participating in the study."
+          },
+          {
+            "node_id": "NCT04368728_7.6",
+            "title": "Florida Locations",
+            "level": 2,
+            "start_page": 5,
+            "end_page": 6,
+            "summary": "Identifies clinical research sites located in Florida, United States, participating in the study."
+          }
+        ]
+      },
+      {
+        "node_id": "NCT04368728_8",
+        "title": "Georgia Locations",
+        "level": 1,
+        "start_page": 6,
+        "end_page": 6,
+        "summary": "Lists specific clinical research sites located in Georgia, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_9",
+        "title": "Hawaii Locations",
+        "level": 1,
+        "start_page": 6,
+        "end_page": 6,
+        "summary": "Lists specific clinical research sites located in Hawaii, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_10",
+        "title": "Idaho Locations",
+        "level": 1,
+        "start_page": 6,
+        "end_page": 6,
+        "summary": "Lists specific clinical research sites located in Idaho, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_11",
+        "title": "Illinois Locations",
+        "level": 1,
+        "start_page": 6,
+        "end_page": 6,
+        "summary": "Lists specific clinical research sites located in Illinois, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_12",
+        "title": "Iowa Locations",
+        "level": 1,
+        "start_page": 6,
+        "end_page": 7,
+        "summary": "Lists specific clinical research sites located in Iowa, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_13",
+        "title": "Kansas Locations",
+        "level": 1,
+        "start_page": 6,
+        "end_page": 7,
+        "summary": "Lists specific clinical research sites located in Kansas, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_14",
+        "title": "Kentucky Locations",
+        "level": 1,
+        "start_page": 7,
+        "end_page": 7,
+        "summary": "Lists specific clinical research sites located in Kentucky, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_15",
+        "title": "Louisiana Locations",
+        "level": 1,
+        "start_page": 7,
+        "end_page": 7,
+        "summary": "Lists specific clinical research sites located in Louisiana, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_16",
+        "title": "Maryland Locations",
+        "level": 1,
+        "start_page": 7,
+        "end_page": 7,
+        "summary": "Lists specific clinical research sites located in Maryland, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_17",
+        "title": "Massachusetts Locations",
+        "level": 1,
+        "start_page": 7,
+        "end_page": 7,
+        "summary": "Lists specific clinical research sites located in Massachusetts, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_18",
+        "title": "Michigan Locations",
+        "level": 1,
+        "start_page": 7,
+        "end_page": 8,
+        "summary": "Lists specific clinical research sites located in Michigan, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_19",
+        "title": "Mississippi Locations",
+        "level": 1,
+        "start_page": 8,
+        "end_page": 8,
+        "summary": "Lists specific clinical research sites located in Mississippi, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_20",
+        "title": "Missouri Locations",
+        "level": 1,
+        "start_page": 8,
+        "end_page": 8,
+        "summary": "Lists specific clinical research sites located in Missouri, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_21",
+        "title": "Montana Locations",
+        "level": 1,
+        "start_page": 8,
+        "end_page": 8,
+        "summary": "Lists specific clinical research sites located in Montana, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_22",
+        "title": "Nebraska Locations",
+        "level": 1,
+        "start_page": 8,
+        "end_page": 8,
+        "summary": "Lists specific clinical research sites located in Nebraska, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_23",
+        "title": "Nevada Locations",
+        "level": 1,
+        "start_page": 8,
+        "end_page": 8,
+        "summary": "Lists specific clinical research sites located in Nevada, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_24",
+        "title": "New Jersey Locations",
+        "level": 1,
+        "start_page": 8,
+        "end_page": 8,
+        "summary": "Lists specific clinical research sites located in New Jersey, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_25",
+        "title": "New Mexico Locations",
+        "level": 1,
+        "start_page": 8,
+        "end_page": 9,
+        "summary": "Lists specific clinical research sites located in New Mexico, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_26",
+        "title": "New York Locations",
+        "level": 1,
+        "start_page": 9,
+        "end_page": 9,
+        "summary": "Lists specific clinical research sites located in New York, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_27",
+        "title": "North Carolina Locations",
+        "level": 1,
+        "start_page": 9,
+        "end_page": 10,
+        "summary": "Lists specific clinical research sites located in North Carolina, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_28",
+        "title": "North Dakota Locations",
+        "level": 1,
+        "start_page": 10,
+        "end_page": 10,
+        "summary": "Lists specific clinical research sites located in North Dakota, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_29",
+        "title": "Ohio Locations",
+        "level": 1,
+        "start_page": 10,
+        "end_page": 11,
+        "summary": "Lists specific clinical research sites located in Ohio, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_30",
+        "title": "Oklahoma Locations",
+        "level": 1,
+        "start_page": 11,
+        "end_page": 11,
+        "summary": "Lists specific clinical research sites located in Oklahoma, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_31",
+        "title": "Oregon Locations",
+        "level": 1,
+        "start_page": 11,
+        "end_page": 11,
+        "summary": "Lists specific clinical research sites located in Oregon, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_32",
+        "title": "Pennsylvania Locations",
+        "level": 1,
+        "start_page": 11,
+        "end_page": 11,
+        "summary": "Lists specific clinical research sites located in Pennsylvania, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_33",
+        "title": "Rhode Island Locations",
+        "level": 1,
+        "start_page": 11,
+        "end_page": 11,
+        "summary": "Lists specific clinical research sites located in Rhode Island, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_34",
+        "title": "South Carolina Locations",
+        "level": 1,
+        "start_page": 11,
+        "end_page": 11,
+        "summary": "Lists specific clinical research sites located in South Carolina, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_35",
+        "title": "Tennessee Locations",
+        "level": 1,
+        "start_page": 11,
+        "end_page": 12,
+        "summary": "Lists specific clinical research sites located in Tennessee, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_36",
+        "title": "Texas Locations",
+        "level": 1,
+        "start_page": 11,
+        "end_page": 12,
+        "summary": "Lists specific clinical research sites located in Texas, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_37",
+        "title": "Utah Locations",
+        "level": 1,
+        "start_page": 12,
+        "end_page": 12,
+        "summary": "Lists specific clinical research sites located in Utah, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_38",
+        "title": "Virginia Locations",
+        "level": 1,
+        "start_page": 12,
+        "end_page": 13,
+        "summary": "Lists specific clinical research sites located in Virginia, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_39",
+        "title": "Washington Locations",
+        "level": 1,
+        "start_page": 13,
+        "end_page": 13,
+        "summary": "Lists specific clinical research sites located in Washington, United States, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_40",
+        "title": "Argentina",
+        "level": 1,
+        "start_page": 13,
+        "end_page": 13,
+        "summary": "Lists the clinical research site located in CABA, Argentina, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_41",
+        "title": "Brazil",
+        "level": 1,
+        "start_page": 13,
+        "end_page": 13,
+        "summary": "Lists the clinical research site located in São Paulo, Brazil, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_42",
+        "title": "Estado de Bahia Locations",
+        "level": 1,
+        "start_page": 13,
+        "end_page": 13,
+        "summary": "Lists the clinical research site located in Salvador, Estado de Bahia, Brazil, participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_43",
+        "title": "Germany",
+        "level": 1,
+        "start_page": 13,
+        "end_page": 13,
+        "summary": "Lists clinical research sites located across various cities in Germany participating in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_44",
+        "title": "South Africa",
+        "level": 1,
+        "start_page": 14,
+        "end_page": 14,
+        "summary": "Lists study locations within South Africa, detailing specific cities and research centers across various provinces.",
+        "children": [
+          {
+            "node_id": "NCT04368728_44.1",
+            "title": "Gauteng Locations",
+            "level": 2,
+            "start_page": 14,
+            "end_page": 14,
+            "summary": "Identifies clinical research centers situated in Gauteng, South Africa, participating in the study."
+          },
+          {
+            "node_id": "NCT04368728_44.2",
+            "title": "Limpopo Locations",
+            "level": 2,
+            "start_page": 14,
+            "end_page": 14,
+            "summary": "Identifies clinical research centers situated in Limpopo, South Africa, participating in the study."
+          },
+          {
+            "node_id": "NCT04368728_44.3",
+            "title": "Western Cape Locations",
+            "level": 2,
+            "start_page": 14,
+            "end_page": 14,
+            "summary": "Identifies clinical research centers situated in Western Cape, South Africa, participating in the study."
+          },
+          {
+            "node_id": "NCT04368728_44.4",
+            "title": "Turkey (Türkiye)",
+            "level": 2,
+            "start_page": 14,
+            "end_page": 14,
+            "summary": "Identifies numerous clinical research sites located across various cities in Turkey (Türkiye) participating in the study."
+          }
+        ]
+      },
+      {
+        "node_id": "NCT04368728_45",
+        "title": "Participation Criteria",
+        "level": 1,
+        "start_page": 15,
+        "end_page": 15,
+        "summary": "Outlines the general guidelines researchers use to select participants, emphasizing the importance of eligibility criteria for clinical research.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_46",
+        "title": "Eligibility Criteria",
+        "level": 1,
+        "start_page": 16,
+        "end_page": 17,
+        "summary": "Detailed criteria for study inclusion and exclusion, covering participant demographics, health status, medical history, and prior treatments relevant to the vaccine study.",
+        "children": [
+          {
+            "node_id": "NCT04368728_46.1",
+            "title": "Description",
+            "level": 2,
+            "start_page": 16,
+            "end_page": 17,
+            "summary": "Provides a detailed breakdown of both the specific conditions and characteristics required for participants to be included in the study and those that would lead to their exclusion.",
+            "children": [
+              {
+                "node_id": "NCT04368728_46.1.1",
+                "title": "Inclusion Criteria:",
+                "level": 3,
+                "start_page": 16,
+                "end_page": 17,
+                "summary": "Lists the specific requirements participants must meet to be enrolled in the study, including age ranges, willingness to comply with procedures, and being healthy or at risk for COVID-19."
+              },
+              {
+                "node_id": "NCT04368728_46.1.2",
+                "title": "Exclusion Criteria:",
+                "level": 3,
+                "start_page": 16,
+                "end_page": 17,
+                "summary": "Details conditions or characteristics that prevent individuals from participating in the study, such as specific medical conditions, prior infections, or receiving certain treatments."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "NCT04368728_47",
+        "title": "Ages Eligible for Study",
+        "level": 1,
+        "start_page": 17,
+        "end_page": 17,
+        "summary": "Specifies that participants eligible for the study must be 12 years and older, encompassing child, adult, and older adult age groups.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_48",
+        "title": "Sexes Eligible for Study",
+        "level": 1,
+        "start_page": 17,
+        "end_page": 18,
+        "summary": "Indicates that participants of all sexes are eligible to enroll in the study.",
+        "children": []
+      },
+      {
+        "node_id": "NCT04368728_49",
+        "title": "Study Plan",
+        "level": 1,
+        "start_page": 18,
+        "end_page": 46,
+        "summary": "Provides comprehensive details on the study's design, including how interventions are structured, what outcomes are measured, key collaborators, and relevant publications.",
+        "children": [
+          {
+            "node_id": "NCT04368728_49.1",
+            "title": "How is the study designed?",
+            "level": 2,
+            "start_page": 18,
+            "end_page": 22,
+            "summary": "Describes the fundamental aspects of the study design, including primary purpose, allocation, interventional model, and masking, along with information on arms and interventions.",
+            "children": [
+              {
+                "node_id": "NCT04368728_49.1.1",
+                "title": "Design Details",
+                "level": 3,
+                "start_page": 18,
+                "end_page": 19,
+                "summary": "Outlines the specific design elements of the study, such as its primary purpose of prevention, randomized allocation, parallel assignment model, and triple masking (participant, care provider, investigator)."
+              },
+              {
+                "node_id": "NCT04368728_49.1.2",
+                "title": "Arms and Interventions",
+                "level": 3,
+                "start_page": 19,
+                "end_page": 22,
+                "summary": "Details the different treatment arms and interventions used in the study, providing links to tables with specific information."
+              }
+            ]
+          },
+          {
+            "node_id": "NCT04368728_49.2",
+            "title": "What is the study measuring?",
+            "level": 2,
+            "start_page": 22,
+            "end_page": 43,
+            "summary": "Explains the primary and secondary outcome measures used to assess the vaccine candidates' safety, immunogenicity, and efficacy.",
+            "children": [
+              {
+                "node_id": "NCT04368728_49.2.1",
+                "title": "Primary Outcome Measures",
+                "level": 3,
+                "start_page": 22,
+                "end_page": 33,
+                "summary": "Lists the main objectives and endpoints the study is designed to measure, supported by links to detailed table data."
+              },
+              {
+                "node_id": "NCT04368728_49.2.2",
+                "title": "Secondary Outcome Measures",
+                "level": 3,
+                "start_page": 33,
+                "end_page": 43,
+                "summary": "Outlines additional endpoints and observations the study is designed to evaluate, supplementing the primary efficacy and safety assessments, supported by links to detailed table data."
+              }
+            ]
+          },
+          {
+            "node_id": "NCT04368728_49.3",
+            "title": "Collaborators and Investigators",
+            "level": 2,
+            "start_page": 44,
+            "end_page": 44,
+            "summary": "Identifies the sponsor (BioNTech SE), collaborators (Pfizer), and study director (Pfizer CT.gov Call Center) involved in the research.",
+            "children": []
+          },
+          {
+            "node_id": "NCT04368728_49.4",
+            "title": "Publications",
+            "level": 2,
+            "start_page": 44,
+            "end_page": 46,
+            "summary": "Lists scientific and medical articles from PubMed that are related to the study or vaccine research in general, automatically populated from the public database.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "NCT04368728_50",
+        "title": "Study Record Dates",
+        "level": 1,
+        "start_page": 47,
+        "end_page": 47,
+        "summary": "Tracks the submission and update history of the study record and summary results on ClinicalTrials.gov, ensuring adherence to quality control standards.",
+        "children": [
+          {
+            "node_id": "NCT04368728_50.1",
+            "title": "Study Registration Dates",
+            "level": 2,
+            "start_page": 47,
+            "end_page": 47,
+            "summary": "Provides information on the dates related to the initial registration of the study on ClinicalTrials.gov."
+          },
+          {
+            "node_id": "NCT04368728_50.2",
+            "title": "Study Record Updates",
+            "level": 2,
+            "start_page": 47,
+            "end_page": 47,
+            "summary": "Details the chronology of updates made to the study record on ClinicalTrials.gov, reflecting any changes or new information."
+          }
+        ]
+      },
+      {
+        "node_id": "NCT04368728_51",
+        "title": "More Information",
+        "level": 1,
+        "start_page": 47,
+        "end_page": 49,
+        "summary": "Offers additional resources and details related to the study, including keywords, MeSH terms, data sharing plans, regulatory information, and helpful external links.",
+        "children": [
+          {
+            "node_id": "NCT04368728_51.1",
+            "title": "Terms related to this study",
+            "level": 2,
+            "start_page": 47,
+            "end_page": 48,
+            "summary": "Provides keywords from BioNTech SE and relevant Medical Subject Headings (MeSH) to categorize the study's focus and content.",
+            "children": [
+              {
+                "node_id": "NCT04368728_51.1.1",
+                "title": "Keywords Provided by BioNTech SE",
+                "level": 3,
+                "start_page": 47,
+                "end_page": 47,
+                "summary": "Lists keywords used by the sponsor, BioNTech SE, to describe the study, such as COVID-19, Coronavirus, Vaccine, SARS-CoV-2, and RNA Vaccine."
+              },
+              {
+                "node_id": "NCT04368728_51.1.2",
+                "title": "Additional Relevant MeSH Terms",
+                "level": 3,
+                "start_page": 47,
+                "end_page": 48,
+                "summary": "Includes a comprehensive list of Medical Subject Headings (MeSH) that are relevant to the study's topics, providing standardized indexing for clinical research."
+              }
+            ]
+          },
+          {
+            "node_id": "NCT04368728_51.2",
+            "title": "Plan for Individual Participant Data (IPD)",
+            "level": 2,
+            "start_page": 48,
+            "end_page": 48,
+            "summary": "States whether there is a plan to share individual participant data from the study (indicated as 'No').",
+            "children": []
+          },
+          {
+            "node_id": "NCT04368728_51.3",
+            "title": "Drug and device information, study documents, and helpful links",
+            "level": 2,
+            "start_page": 48,
+            "end_page": 49,
+            "summary": "Provides information on whether the study involves a U.S. FDA-regulated drug product and includes helpful external links provided by BioNTech SE for further information.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

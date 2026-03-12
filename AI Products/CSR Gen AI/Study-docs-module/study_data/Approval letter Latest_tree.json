@@ -1,0 +1,75 @@
+[
+  {
+    "node_id": "approval_details",
+    "title": "Supplement Approval Letter Details",
+    "level": 1,
+    "start_page": 1,
+    "end_page": 1,
+    "summary": "This section outlines the FDA's approval of a supplement to BioNTech's Biologics License Application (BLA) for COVID-19 Vaccine, mRNA (COMIRNATY). The approval includes new 10 mcg and 30 mcg drug product formulations for specific age groups and risk profiles, manufactured at Pfizer facilities, with associated National Clinical Trial (NCT) numbers.",
+    "children": []
+  },
+  {
+    "node_id": "labeling",
+    "title": "LABELING",
+    "level": 1,
+    "start_page": 1,
+    "end_page": 3,
+    "summary": "This section outlines the regulatory requirements for patient and product labeling, approving submitted draft content for the Package Insert, Patient Package Insert, and carton/container labels. It also provides guidelines for advertising and promotional materials.",
+    "children": [
+      {
+        "node_id": "labeling_content_of_labeling",
+        "title": "CONTENT OF LABELING",
+        "level": 2,
+        "start_page": 2,
+        "end_page": 2,
+        "summary": "This subsection requires the electronic submission of the final content of labeling in Structured Product Labeling (SPL) format within 14 days, which must be identical to the approved Package Insert and Patient Package Insert and will be publicly accessible.",
+        "children": []
+      },
+      {
+        "node_id": "labeling_carton_container_labels",
+        "title": "CARTON AND CONTAINER LABELS",
+        "level": 2,
+        "start_page": 2,
+        "end_page": 2,
+        "summary": "This subsection instructs the electronic submission of final printed carton and container labels, matching previously submitted versions, according to eCTD specifications. All final labeling should be submitted as Product Correspondence to the BLA.",
+        "children": []
+      },
+      {
+        "node_id": "labeling_advertising_promotional_labeling",
+        "title": "ADVERTISING AND PROMOTIONAL LABELING",
+        "level": 2,
+        "start_page": 2,
+        "end_page": 3,
+        "summary": "This subsection provides instructions for submitting draft and final advertising and promotional labeling to the FDA. It emphasizes that all promotional claims must be consistent with approved labeling and supported by substantial evidence.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "fulfilled_postmarketing_requirements",
+    "title": "FULFILLED POSTMARKETING REQUIREMENTS",
+    "level": 1,
+    "start_page": 3,
+    "end_page": 4,
+    "summary": "This section confirms the fulfillment of Postmarketing Requirements (PMRs) #1 and #3, which involved deferred pediatric studies for COMIRNATY in children 5 through 11 years of age. It also reminds the applicant of other open PMRs/PMCs and the annual reporting requirements for all postmarketing studies.",
+    "children": []
+  },
+  {
+    "node_id": "pediatric_requirements",
+    "title": "PEDIATRIC REQUIREMENTS",
+    "level": 1,
+    "start_page": 4,
+    "end_page": 4,
+    "summary": "This section acknowledges that the pediatric study requirement for ages 5 through 11 years for this application, as mandated by the Pediatric Research Equity Act (PREA), has been fulfilled.",
+    "children": []
+  },
+  {
+    "node_id": "postmarketing_commitments_reporting_requirements",
+    "title": "POSTMARKETING COMMITMENTS SUBJECT TO REPORTING REQUIREMENTS UNDER SECTION 506B",
+    "level": 1,
+    "start_page": 4,
+    "end_page": 6,
+    "summary": "This section acknowledges four specific postmarketing commitments made by the applicant, detailing their study designs and key submission schedules. It provides instructions for submitting clinical protocols, interim reports, and annual status updates for these commitments, emphasizing specific labeling designators for submissions.",
+    "children": []
+  }
+]

@@ -1,0 +1,1007 @@
+[
+  {
+    "node_id": "1",
+    "title": "1 TABLE OF CONTENTS",
+    "level": 1,
+    "start_page": 2,
+    "end_page": 2,
+    "summary": "This section provides an organized list of all the main sections, subsections, tables, and figures within the Investigator's Brochure, along with their corresponding page numbers for easy navigation.",
+    "children": []
+  },
+  {
+    "node_id": "list_tables",
+    "title": "LIST OF TABLES",
+    "level": 1,
+    "start_page": 3,
+    "end_page": 3,
+    "summary": "This section enumerates all tables present in the document, providing their titles and page references for quick access to tabular data.",
+    "children": []
+  },
+  {
+    "node_id": "list_figures",
+    "title": "LIST OF FIGURES",
+    "level": 1,
+    "start_page": 4,
+    "end_page": 6,
+    "summary": "This section provides a complete list of all figures included in the document, along with their captions and page numbers for visual reference.",
+    "children": []
+  },
+  {
+    "node_id": "list_abbreviations",
+    "title": "LIST OF ABBREVIATIONS",
+    "level": 1,
+    "start_page": 7,
+    "end_page": 8,
+    "summary": "This section defines all abbreviations used throughout the document, ensuring clarity and understanding of technical terms for the reader.",
+    "children": []
+  },
+  {
+    "node_id": "2",
+    "title": "2 SUMMARY",
+    "level": 1,
+    "start_page": 9,
+    "end_page": 11,
+    "summary": "This section provides a high-level overview of the urgent need for a COVID-19 vaccine, BioNTech's RNA platforms, non-clinical safety and immunogenicity findings, and preliminary clinical trial results for BNT162 vaccine candidates, noting overall good tolerability and robust immune responses.",
+    "children": []
+  },
+  {
+    "node_id": "3",
+    "title": "3 INTRODUCTION",
+    "level": 1,
+    "start_page": 12,
+    "end_page": 19,
+    "summary": "This section introduces the critical global need for a SARS-CoV-2 vaccine, detailing BioNTech's RNA therapeutic expertise and the rationale behind their RNA-based vaccine platforms, including the use of the Coronavirus spike protein as a vaccine target.",
+    "children": [
+      {
+        "node_id": "3.1",
+        "title": "3.1 Background",
+        "level": 2,
+        "start_page": 12,
+        "end_page": 12,
+        "summary": "This subsection highlights the global pandemic status of COVID-19 and the urgent need for approved vaccines or antiviral treatments against SARS-CoV-2 infection.",
+        "children": []
+      },
+      {
+        "node_id": "3.2",
+        "title": "3.2 BioNTech's RNA therapeutics",
+        "level": 2,
+        "start_page": 12,
+        "end_page": 13,
+        "summary": "This subsection describes BioNTech's extensive experience and diverse portfolio in developing mRNA therapeutics, emphasizing their use as vaccines to induce immune responses and the inherent advantages of RNA as a vaccine platform.",
+        "children": []
+      },
+      {
+        "node_id": "3.3",
+        "title": "3.3 Introduction to BioNTech RNA-based vaccines",
+        "level": 2,
+        "start_page": 13,
+        "end_page": 18,
+        "summary": "This subsection explains the flexibility, scalability, and safety advantages of RNA-based vaccines, detailing BioNTech's three RNA platforms (uRNA, modRNA, saRNA) and their formulation with lipid nanoparticles (LNPs) to enhance antigen expression and immune response.",
+        "children": [
+          {
+            "node_id": "3.3.1",
+            "title": "Coronavirus spike (S) protein as vaccine target",
+            "level": 3,
+            "start_page": 15,
+            "end_page": 17,
+            "summary": "This subsection identifies the SARS-CoV-2 spike (S) protein as the primary target for vaccine development, explaining its role in viral entry and the induction of neutralizing antibodies, including strategies to enhance immune responses by stabilizing its pre-fusion conformation.",
+            "children": []
+          },
+          {
+            "node_id": "3.3.2",
+            "title": "Lipid nanoparticle (LNP) formulation",
+            "level": 3,
+            "start_page": 17,
+            "end_page": 18,
+            "summary": "This subsection describes the role of lipid nanoparticles (LNPs) in encapsulating BNT162 vaccine RNA, protecting it from degradation, and facilitating cellular transfection to enable antigen expression and subsequent immune response after intramuscular injection.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "3.4",
+        "title": "3.4 Clinical development",
+        "level": 2,
+        "start_page": 18,
+        "end_page": 19,
+        "summary": "This subsection outlines the ongoing and planned clinical trials for BNT162 vaccine candidates, specifying the different RNA formats under investigation and the expansion of trials to include healthy adults of various age groups.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "4",
+    "title": "4 PHYSICAL, CHEMICAL, AND PHARMACEUTICAL PROPERTIES AND FORMULATION",
+    "level": 1,
+    "start_page": 20,
+    "end_page": 23,
+    "summary": "This section details the physical, chemical, and pharmaceutical characteristics of the BNT162 family of RNA-based vaccine candidates, including the properties of the drug substance, drug product formulation, and handling instructions.",
+    "children": [
+      {
+        "node_id": "4.1",
+        "title": "4.1 Physical, chemical and pharmaceutical properties of the drug substance",
+        "level": 2,
+        "start_page": 20,
+        "end_page": 21,
+        "summary": "This subsection describes the highly purified single-stranded messenger RNA (mRNA) drug substances of BNT162 vaccine candidates, including their structural elements and optimized design for stability and translational efficiency across uRNA, modRNA, and saRNA platforms.",
+        "children": [
+          {
+            "node_id": "4.1.1",
+            "title": "Non-modified uridine mRNA (uRNA)",
+            "level": 3,
+            "start_page": 20,
+            "end_page": 20,
+            "summary": "This subsection details uRNA as an active principle, a 5'-capped mRNA that includes the SARS-CoV-2 antigen sequence and structural elements optimized for high stability and translational efficiency.",
+            "children": []
+          },
+          {
+            "node_id": "4.1.2",
+            "title": "Nucleoside modified mRNA (modRNA)",
+            "level": 3,
+            "start_page": 20,
+            "end_page": 20,
+            "summary": "This subsection describes modRNA as a 5'-capped mRNA, similar to uRNA but featuring 1-methyl-pseudouridine instead of uridine and a distinct 5'-cap structure for optimized efficacy.",
+            "children": []
+          },
+          {
+            "node_id": "4.1.3",
+            "title": "Self-amplifying mRNA (saRNA)",
+            "level": 3,
+            "start_page": 20,
+            "end_page": 21,
+            "summary": "This subsection explains saRNA as a 5'-capped RNA capable of self-amplification within the cell, containing additional vector elements that enable prolonged antigen expression.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "4.2",
+        "title": "4.2 Description of the drug product",
+        "level": 2,
+        "start_page": 21,
+        "end_page": 21,
+        "summary": "This subsection describes the BNT162 drug product as a preservative-free, sterile dispersion of RNA formulated in lipid nanoparticles (LNP), provided as a concentrate for intramuscular injection.",
+        "children": [
+          {
+            "node_id": "4.2.1",
+            "title": "4.2.1 Description of the excipients",
+            "level": 3,
+            "start_page": 21,
+            "end_page": 22,
+            "summary": "This subsection lists and describes the four lipid excipients used in the LNP formulation of the drug product, highlighting their physicochemical properties.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "4.3",
+        "title": "4.3 Description of the diluent",
+        "level": 2,
+        "start_page": 22,
+        "end_page": 22,
+        "summary": "This subsection specifies that isotonic NaCl solution (0.9%) is used as an approved medicinal product for diluting the drug products for intramuscular injection.",
+        "children": []
+      },
+      {
+        "node_id": "4.4",
+        "title": "4.4 Description of the IMP",
+        "level": 2,
+        "start_page": 22,
+        "end_page": 23,
+        "summary": "This subsection defines the Investigational Medicinal Product (IMP) as BNT162 vaccine candidates, which are anti-viral RNA vaccines for active immunization against COVID-19, delivered via intramuscular injection in single or prime/boost regimens.",
+        "children": []
+      },
+      {
+        "node_id": "4.5",
+        "title": "4.5 Storage and handling of the IMP",
+        "level": 2,
+        "start_page": 23,
+        "end_page": 23,
+        "summary": "This subsection provides instructions for the storage of BNT162 drug product as a frozen concentrate, its thawing and dilution with saline, and the timeframes for administration to ensure stability and minimize microbial contamination.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "5",
+    "title": "5 NON-CLINICAL STUDIES",
+    "level": 1,
+    "start_page": 24,
+    "end_page": 50,
+    "summary": "This section presents findings from non-clinical studies evaluating the immunogenicity and safety of BNT162 vaccine candidates in animal models, supporting their potential as protective anti-viral RNA vaccines.",
+    "children": [
+      {
+        "node_id": "5.1",
+        "title": "5.1 Non-clinical pharmacology",
+        "level": 2,
+        "start_page": 24,
+        "end_page": 35,
+        "summary": "This subsection details the primary pharmacology of BNT162 vaccine candidates through in vitro and in vivo studies in mice, rats, and non-human primates, demonstrating antigen expression and the induction of anti-SARS-CoV-2 immune responses.",
+        "children": [
+          {
+            "node_id": "5.1.1",
+            "title": "5.1.1 Primary pharmacodynamics",
+            "level": 3,
+            "start_page": 24,
+            "end_page": 25,
+            "summary": "This subsection briefly introduces the summary of primary pharmacodynamics studies, which are further detailed in Table 19.",
+            "children": []
+          },
+          {
+            "node_id": "5.1.2",
+            "title": "5.1.2 In vitro expression of BNT162 RNA encoded antigens",
+            "level": 3,
+            "start_page": 25,
+            "end_page": 26,
+            "summary": "This subsection confirms the robust in vitro translation and expression of SARS-CoV-2 antigens (V5 and V8/V9) from BNT162 RNA drug substances, showing proper processing within the endoplasmic reticulum essential for immune response.",
+            "children": []
+          },
+          {
+            "node_id": "5.1.3",
+            "title": "5.1.3 In vivo immunogenicity studies in mice",
+            "level": 3,
+            "start_page": 26,
+            "end_page": 31,
+            "summary": "This subsection reports on non-clinical immunogenicity studies in mice, demonstrating that BNT162 vaccine candidates induce dose-dependent antigen-binding IgG and neutralizing antibody responses, as well as T-cell specific responses.",
+            "children": [
+              {
+                "node_id": "5.1.3.1",
+                "title": "5.1.3.1 Immunogenicity of BNT162b1 (modRNA encoding V5)",
+                "level": 4,
+                "start_page": 26,
+                "end_page": 27,
+                "summary": "This subsection details the immunogenicity of BNT162b1 in mice, showing that it induced a dose-dependent generation of IgG antibodies against the S1 antigen and RBD, alongside an increase in SARS-CoV-2 neutralizing titers.",
+                "children": []
+              },
+              {
+                "node_id": "5.1.3.2",
+                "title": "5.1.3.2 Immunogenicity of BNT162b2 (modRNA encoding V9)",
+                "level": 4,
+                "start_page": 27,
+                "end_page": 29,
+                "summary": "This subsection presents immunogenicity data for BNT162b2 in mice, demonstrating a strong, dose-dependent immune response with robust IgG antibody generation against S1 and RBD, and the development of functional neutralizing antibodies.",
+                "children": []
+              },
+              {
+                "node_id": "5.1.3.3",
+                "title": "Immunogenicity of BNT162b3 (modRNA encoding V9)",
+                "level": 4,
+                "start_page": 29,
+                "end_page": 31,
+                "summary": "This subsection provides data on BNT162b3 immunogenicity in mice, showing robust antigen-binding IgG responses against S1 and RBD, and induction of neutralizing antibodies against SARS-CoV-2 pseudovirus.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "5.1.4",
+            "title": "5.1.4 In vivo immunogenicity in non-human primates",
+            "level": 3,
+            "start_page": 31,
+            "end_page": 33,
+            "summary": "This subsection evaluates BNT162b2 immunogenicity in rhesus macaques, demonstrating strong humoral and neutralizing antibody responses that exceed those observed in human COVID-19 convalescent sera after single and boost immunizations.",
+            "children": [
+              {
+                "node_id": "5.1.4.1",
+                "title": "5.1.4.1 Immunogenicity of BNT162b2 (modRNA encoding V9) and",
+                "level": 4,
+                "start_page": 31,
+                "end_page": 33,
+                "summary": "This subsection focuses on the immunogenicity of BNT162b2 (V9) in rhesus macaques, showing the presence of IgG antibodies binding to the SARS-CoV-2 S1-protein and detectable authentic SARS-CoV-2 50% serum neutralization GMTs.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "5.1.5",
+            "title": "5.1.5 In vivo immunogenicity in rats",
+            "level": 3,
+            "start_page": 33,
+            "end_page": 34,
+            "summary": "This subsection investigates the immunogenicity of BNT162 vaccine candidates in rats after repeated dosing, showing the formation of IgG antibodies against the S1 domain and RBD, and varying degrees of SARS-CoV-2 pseudovirus neutralization.",
+            "children": [
+              {
+                "node_id": "5.1.5.1",
+                "title": "5.1.5.1 In vivo immunogenicity of BNT162 vaccine candidates after repeated dosing",
+                "level": 4,
+                "start_page": 33,
+                "end_page": 34,
+                "summary": "This subsection details the immunogenicity of BNT162a1, BNT162b1, BNT162b2, and BNT162c1 in a GLP repeat-dose toxicity study in rats, observing antibody formation against the S1 and RBD proteins and protective neutralizing antibodies against pseudovirus infection.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "5.1.6",
+            "title": "5.1.6 Secondary pharmacodynamics",
+            "level": 3,
+            "start_page": 34,
+            "end_page": 34,
+            "summary": "This subsection states that no secondary pharmacodynamics studies were conducted for the BNT162 vaccine candidates.",
+            "children": []
+          },
+          {
+            "node_id": "5.1.7",
+            "title": "5.1.7 Safety pharmacology",
+            "level": 3,
+            "start_page": 34,
+            "end_page": 34,
+            "summary": "This subsection notes that safety pharmacology studies were not conducted for the BNT162 vaccine candidates, as they are not deemed necessary according to WHO guidelines for vaccines.",
+            "children": []
+          },
+          {
+            "node_id": "5.1.8",
+            "title": "5.1.8 Non-clinical pharmacology - Conclusions",
+            "level": 3,
+            "start_page": 34,
+            "end_page": 35,
+            "summary": "This subsection concludes that all tested BNT162 vaccine candidates were immunogenic to highly immunogenic in non-clinical models (mice, rats, NHPs), inducing robust antibody and neutralizing responses even at low doses.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "5.2",
+        "title": "5.2 Non-clinical pharmacokinetics and metabolism",
+        "level": 2,
+        "start_page": 35,
+        "end_page": 37,
+        "summary": "This subsection indicates that no traditional pharmacokinetic studies were conducted for BNT162 vaccine candidates, consistent with WHO guidelines for vaccines, but biodistribution of the LNP formulation was assessed using a luciferase reporter RNA.",
+        "children": [
+          {
+            "node_id": "5.2.1",
+            "title": "5.2.1 Methods of analysis",
+            "level": 3,
+            "start_page": 35,
+            "end_page": 36,
+            "summary": "This subsection states that methods of analysis are not applicable as no specific pharmacokinetic studies were conducted.",
+            "children": []
+          },
+          {
+            "node_id": "5.2.2",
+            "title": "5.2.2 Absorption",
+            "level": 3,
+            "start_page": 36,
+            "end_page": 36,
+            "summary": "This subsection clarifies that no absorption studies were conducted because the administration route for BNT162 vaccines is intramuscular.",
+            "children": []
+          },
+          {
+            "node_id": "5.2.3",
+            "title": "5.2.3 Distribution",
+            "level": 3,
+            "start_page": 36,
+            "end_page": 37,
+            "summary": "This subsection reports on biodistribution studies using a luciferase reporter RNA, demonstrating luciferase expression primarily at the injection site and to a lesser extent in the liver, indicating LNP distribution.",
+            "children": []
+          },
+          {
+            "node_id": "5.2.4",
+            "title": "5.2.4 Metabolism and excretion",
+            "level": 3,
+            "start_page": 37,
+            "end_page": 37,
+            "summary": "This subsection explains that RNA and encoded antigens are naturally degraded and metabolized, thus no specific metabolism or excretion studies were conducted for the BNT162 vaccine components, while novel lipid excipient pharmacokinetics are being characterized.",
+            "children": []
+          },
+          {
+            "node_id": "5.2.5",
+            "title": "5.2.5 Pharmacokinetic drug interactions",
+            "level": 3,
+            "start_page": 37,
+            "end_page": 37,
+            "summary": "This subsection states that no pharmacokinetic drug interaction studies were performed for BNT162 vaccine candidates.",
+            "children": []
+          },
+          {
+            "node_id": "5.2.6",
+            "title": "5.2.6 Non-clinical pharmacokinetics and metabolism - Conclusions",
+            "level": 3,
+            "start_page": 37,
+            "end_page": 37,
+            "summary": "This subsection concludes that pharmacokinetic studies using a luciferase reporter RNA demonstrated protein expression at the injection site and in the liver after intramuscular injection, with LNP distribution determining antigen biodistribution.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "5.3",
+        "title": "5.3 Toxicology",
+        "level": 2,
+        "start_page": 37,
+        "end_page": 50,
+        "summary": "This subsection covers the toxicology assessment of BNT162 vaccine candidates, primarily through a GLP-compliant repeat-dose study in rats, which evaluated potential toxicity related to RNA platform, vaccine dose, and encoded antigen.",
+        "children": [
+          {
+            "node_id": "5.3.1",
+            "title": "5.3.1 Repeat-dose toxicology to support the clinical evaluation of BNT162 vaccine candidates",
+            "level": 3,
+            "start_page": 37,
+            "end_page": 48,
+            "summary": "This subsection details a GLP-compliant repeat-dose toxicity study in Wistar Han rats, which assessed the safety and immunogenicity of different BNT162 RNA modalities (uRNA, modRNA, saRNA) formulated in LNPs and administered intramuscularly.",
+            "children": [
+              {
+                "node_id": "5.3.1.1",
+                "title": "5.3.1.1 Mortality and clinical signs",
+                "level": 4,
+                "start_page": 42,
+                "end_page": 42,
+                "summary": "This subsection reports no vaccine-related mortality or systemic clinical signs were observed during the main study or recovery phase of the repeat-dose toxicity study in rats.",
+                "children": []
+              },
+              {
+                "node_id": "5.3.1.2",
+                "title": "5.3.1.2 Local tolerance",
+                "level": 4,
+                "start_page": 42,
+                "end_page": 44,
+                "summary": "This subsection describes local tolerance findings at the injection sites in the repeat-dose toxicity study, noting dose-dependent oedema, erythema, and induration, which were consistent with an expected immune/inflammatory response and mostly resolved during recovery.",
+                "children": []
+              },
+              {
+                "node_id": "5.3.1.3",
+                "title": "5.3.1.3 Body weight and food consumption",
+                "level": 4,
+                "start_page": 44,
+                "end_page": 45,
+                "summary": "This subsection reports a transient decrease in body weight shortly after administration in all treatment groups, with comparable body weight gain to controls between administrations and during the recovery period.",
+                "children": []
+              },
+              {
+                "node_id": "5.3.1.4",
+                "title": "5.3.1.4 Hematology",
+                "level": 4,
+                "start_page": 45,
+                "end_page": 45,
+                "summary": "This subsection details hematological changes, including dose-related increases in neutrophils and leukocytes, and slight reductions in red cell mass and platelets, all considered related to the vaccines' pharmacodynamic activity and fully reversible during recovery.",
+                "children": []
+              },
+              {
+                "node_id": "5.3.1.5",
+                "title": "5.3.1.5 Clinical chemistry and acute phase proteins",
+                "level": 4,
+                "start_page": 45,
+                "end_page": 45,
+                "summary": "This subsection notes slight increases in GGT, decreased albumin, and increased globulin levels consistent with an acute phase response, but no changes indicating cholestasis or hepatobiliary injury, with all parameters returning to normal post-recovery.",
+                "children": []
+              },
+              {
+                "node_id": "5.3.1.6",
+                "title": "5.3.1.6 Cytokines",
+                "level": 4,
+                "start_page": 45,
+                "end_page": 46,
+                "summary": "This subsection indicates that no vaccine-related changes were observed in IFN-γ, TNF-α, IL-1-β, IL-6, or IL-10 levels, which remained comparable between control and vaccine-administered animals.",
+                "children": []
+              },
+              {
+                "node_id": "5.3.1.7",
+                "title": "5.3.1.7 Coagulation",
+                "level": 4,
+                "start_page": 46,
+                "end_page": 46,
+                "summary": "This subsection reports increases in fibrinogen levels in vaccinated animals, consistent with an acute phase response, while other coagulation parameters remained within normal laboratory values and resolved during the recovery phase.",
+                "children": []
+              },
+              {
+                "node_id": "5.3.1.8",
+                "title": "5.3.1.8 Ophthalmological and auditory assessments",
+                "level": 4,
+                "start_page": 46,
+                "end_page": 46,
+                "summary": "This subsection states that ophthalmological and auditory assessments conducted at various time points during the study revealed no vaccine-related changes.",
+                "children": []
+              },
+              {
+                "node_id": "5.3.1.9",
+                "title": "5.3.1.9 Urinalysis",
+                "level": 4,
+                "start_page": 46,
+                "end_page": 46,
+                "summary": "This subsection reports no vaccine-related changes in pH, relative urine volume, or specific gravity during urinalysis conducted at the end of the in-life and recovery periods.",
+                "children": []
+              },
+              {
+                "node_id": "5.3.1.10",
+                "title": "5.3.1.10 Macroscopic pathology",
+                "level": 4,
+                "start_page": 46,
+                "end_page": 47,
+                "summary": "This subsection describes macroscopic findings, including thickened injection sites, induration, and enlarged spleen and iliac lymph nodes in treated animals, all primarily linked to local inflammation and immune response and mostly reversible during recovery.",
+                "children": []
+              },
+              {
+                "node_id": "5.3.1.11",
+                "title": "5.3.1.11 Organ weight",
+                "level": 4,
+                "start_page": 47,
+                "end_page": 47,
+                "summary": "This subsection notes an increase in average spleen weight in vaccinated male and female animals, correlating with macroscopic observations, which fully reversed during the 3-week recovery period.",
+                "children": []
+              },
+              {
+                "node_id": "5.3.1.12",
+                "title": "5.3.1.12 Histopathology",
+                "level": 4,
+                "start_page": 47,
+                "end_page": 48,
+                "summary": "This subsection details microscopic findings at injection sites, draining lymph nodes, bone marrow, spleen, and liver, attributing them to immune activation and inflammation, with most changes partially or fully recovered by the end of the recovery period.",
+                "children": []
+              },
+              {
+                "node_id": "5.3.1.13",
+                "title": "5.3.1.13 Genotoxicity",
+                "level": 4,
+                "start_page": 48,
+                "end_page": 48,
+                "summary": "This subsection states that no genotoxicity studies were performed, as the components of BNT162 vaccines (lipids and RNA) are not suspected to have genotoxic potential, in accordance with WHO guidelines.",
+                "children": []
+              },
+              {
+                "node_id": "5.3.1.14",
+                "title": "5.3.1.14 Carcinogenicity",
+                "level": 4,
+                "start_page": 48,
+                "end_page": 48,
+                "summary": "This subsection confirms that no carcinogenicity studies were performed, as RNA and lipids lack carcinogenic potential, and such studies are not required for therapeutics not continuously administered, according to ICH S1A guidelines.",
+                "children": []
+              },
+              {
+                "node_id": "5.3.1.15",
+                "title": "5.3.1.15 Reproductive and developmental toxicity",
+                "level": 4,
+                "start_page": 48,
+                "end_page": 48,
+                "summary": "This subsection reports no changes in male and female reproductive tissues during the GLP repeat-dose toxicity study and notes that specific fertility and embryofetal development studies are currently ongoing.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "5.3.2",
+            "title": "5.3.2 Immunotoxicology",
+            "level": 3,
+            "start_page": 48,
+            "end_page": 49,
+            "summary": "This subsection summarizes the immunotoxicity assessment from the GLP repeat-dose toxicity study, noting no vaccine-related systemic intolerance, changes in blood counts, or persistent body weight reductions, but an expected transient increase in body temperature.",
+            "children": []
+          },
+          {
+            "node_id": "5.3.3",
+            "title": "5.3.3 Toxicology - Conclusions",
+            "level": 3,
+            "start_page": 49,
+            "end_page": 50,
+            "summary": "This subsection concludes that the repeat-dose toxicology study demonstrated tolerability of the tested vaccines without adverse findings, noting expected pro-inflammatory responses and reversible changes in clinical signs, clinical pathology, and macro/microscopic findings.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "node_id": "6",
+    "title": "6 EFFECTS IN HUMANS",
+    "level": 1,
+    "start_page": 51,
+    "end_page": 78,
+    "summary": "This section summarizes the preliminary clinical data from ongoing human trials of BNT162 vaccine candidates, focusing on safety, tolerability, and immunogenicity profiles observed in various adult age groups.",
+    "children": [
+      {
+        "node_id": "6.1",
+        "title": "6.1 Ongoing and planned clinical trials",
+        "level": 2,
+        "start_page": 51,
+        "end_page": 53,
+        "summary": "This subsection provides an overview and status of the ongoing and planned clinical trials for BNT162 vaccine candidates, outlining the phases, target populations, and trial identification numbers.",
+        "children": []
+      },
+      {
+        "node_id": "6.1.1",
+        "title": "6.1.1 BNT162-01 - Preliminary results",
+        "level": 3,
+        "start_page": 53,
+        "end_page": 62,
+        "summary": "This subsection presents preliminary and unaudited results from the BNT162-01 trial in younger adults, covering immunogenicity, T cell responses, and safety profiles for various BNT162 vaccine candidates.",
+        "children": [
+          {
+            "node_id": "6.1.1.1",
+            "title": "6.1.1.1 Summary of immunogenicity in trial BNT162-01",
+            "level": 4,
+            "start_page": 53,
+            "end_page": 59,
+            "summary": "This subsection provides a summary of immunogenicity data from the BNT162-01 trial, including T cell responses and IFNγ ELISpot analysis for BNT162b1 and BNT162b2.",
+            "children": [
+              {
+                "node_id": "6.1.1.1.1",
+                "title": "6.1.1.1.1 Summary of immunogenicity (status July 1st, 2020)",
+                "level": 5,
+                "start_page": 53,
+                "end_page": 53,
+                "summary": "This subsection indicates that immunogenicity data for older adults were not yet available, and refers to trial BNT162-02 for detailed immunogenicity results.",
+                "children": []
+              },
+              {
+                "node_id": "6.1.1.1.2",
+                "title": "6.1.1.1.2 T cell responses (status July 24th, 2020)",
+                "level": 5,
+                "start_page": 53,
+                "end_page": 53,
+                "summary": "This subsection describes the evaluation of T cell phenotypes elicited by BNT162b2 immunization in humans, performed using IFNγ ELISpot on peripheral blood mononuclear cells (PBMCs).",
+                "children": []
+              },
+              {
+                "node_id": "6.1.1.1.3",
+                "title": "6.1.1.1.3 IFNγ ELISpot analysis - BNT162b1",
+                "level": 5,
+                "start_page": 53,
+                "end_page": 56,
+                "summary": "This subsection presents results of vaccine-elicited T cell responses for BNT162b1, showing robust CD4+ and CD8+ T cell and IFNγ ELISpot data.",
+                "children": []
+              },
+              {
+                "node_id": "6.1.1.1.4",
+                "title": "6.1.1.1.4 IFNγ ELISpot analysis - BNT162b2",
+                "level": 5,
+                "start_page": 56,
+                "end_page": 59,
+                "summary": "This subsection details IFNγ ELISpot analysis for BNT162b2, indicating post-dose spike-specific CD4+ and CD8+ T cell responses in all subjects, comparable to or higher than memory responses against common viruses.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "6.1.1.2",
+            "title": "6.1.1.2 Summary of safety in trial BNT162-01 (status July 1st, 2020)",
+            "level": 4,
+            "start_page": 59,
+            "end_page": 62,
+            "summary": "This subsection summarizes preliminary safety data from the BNT162-01 trial in younger adults, covering local and systemic reactogenicity for BNT162b1, BNT162b2, and BNT162c2 vaccine candidates.",
+            "children": [
+              {
+                "node_id": "6.1.1.2.1",
+                "title": "BNT162b1 - Summary of safety",
+                "level": 5,
+                "start_page": 59,
+                "end_page": 61,
+                "summary": "This subsection details the safety profile of BNT162b1 in younger adults, highlighting expected reactogenicity events, dose-dependent local and systemic symptoms (like pain, fatigue, headache), and the decision not to administer the highest boost dose due to intensity.",
+                "children": []
+              },
+              {
+                "node_id": "6.1.1.2.2",
+                "title": "6.1.1.2.3 BNT162b2 - Summary of safety",
+                "level": 5,
+                "start_page": 61,
+                "end_page": 62,
+                "summary": "This subsection summarizes the safety of BNT162b2 in younger adults, noting good tolerability with expected reactogenicity events (injection site pain, headache, fatigue) that resolved spontaneously, and a more favorable reactogenicity profile compared to BNT162b1.",
+                "children": []
+              },
+              {
+                "node_id": "6.1.1.2.3_bnt162c2",
+                "title": "6.1.1.2.4 BNT162c2 - Summary of safety",
+                "level": 5,
+                "start_page": 62,
+                "end_page": 62,
+                "summary": "This subsection states that only initial reports are available for BNT162c2, with tolerability patterns consistent with other candidates, showing primarily expected reactogenicity.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "6.1.2",
+        "title": "6.1.2 BNT162-02 / C4591001 - Preliminary results",
+        "level": 3,
+        "start_page": 62,
+        "end_page": 77,
+        "summary": "This subsection provides preliminary results from the Phase I/II/III BNT162-02 trial, focusing on the safety, tolerability, and immunogenicity of SARS-CoV-2 RNA vaccine candidates in healthy adults, including dose-finding data.",
+        "children": [
+          {
+            "node_id": "6.1.2.1",
+            "title": "6.1.2.1 Summary of immunogenicity in BNT162-02 (status July 24th, 2020)",
+            "level": 4,
+            "start_page": 62,
+            "end_page": 69,
+            "summary": "This subsection details immunogenicity data from the BNT162-02 trial, showing substantial RBD/S1-binding IgG and SARS-CoV-2 neutralizing responses induced by BNT162b1 and BNT162b2 in younger and elderly adults, significantly boosted by the second dose.",
+            "children": [
+              {
+                "node_id": "6.1.2.1.1",
+                "title": "6.1.2.1.1 BNT162b1 - Summary of immunogenicity",
+                "level": 5,
+                "start_page": 62,
+                "end_page": 66,
+                "summary": "This subsection reports that BNT162b1 induced substantial RBD-binding IgG and SARS-CoV-2 neutralizing GMTs in younger and elderly adults, with responses exceeding those in COVID-19 human convalescent sera, especially after a second dose.",
+                "children": []
+              },
+              {
+                "node_id": "6.1.2.1.2",
+                "title": "6.1.2.1.2 BNT162b2 - Summary of immunogenicity",
+                "level": 5,
+                "start_page": 66,
+                "end_page": 69,
+                "summary": "This subsection describes BNT162b2's immunogenicity, showing substantial S1-binding IgG and SARS-CoV-2 neutralizing GMTs in younger and elderly adults, with significant booster responses after the second dose.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "6.1.2.2",
+            "title": "6.1.2.2 Summary of safety in BNT162-02 (status July 24th, 2020)",
+            "level": 4,
+            "start_page": 69,
+            "end_page": 76,
+            "summary": "This subsection summarizes the safety and tolerability data for BNT162b1 and BNT162b2 from the BNT162-02 trial, noting overall good tolerability, particularly in elderly adults, and expected reactogenicity events.",
+            "children": [
+              {
+                "node_id": "6.1.2.2.1",
+                "title": "6.1.2.2.1 BNT162b1 - Summary of safety",
+                "level": 5,
+                "start_page": 69,
+                "end_page": 72,
+                "summary": "This subsection details BNT162b1 safety, noting dose- and dose-number-dependent local pain, fatigue, headache, and chills as the most frequent reactions, generally mild to moderate, with some transient lymphocyte count decreases.",
+                "children": []
+              },
+              {
+                "node_id": "6.1.2.2.2",
+                "title": "6.1.2.2.2 BNT162b2 - Summary of safety",
+                "level": 5,
+                "start_page": 72,
+                "end_page": 76,
+                "summary": "This subsection describes BNT162b2 safety, reporting mild to moderate local injection site pain, fatigue, and headache as frequent reactions, with minimal dose-dependent increases in reactogenicity and generally few laboratory abnormalities.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "6.1.2.3",
+            "title": "6.1.2.3 Conclusions from Phase I data (BNT162-02)",
+            "level": 4,
+            "start_page": 77,
+            "end_page": 77,
+            "summary": "This subsection concludes that Phase I data from BNT162-02 show robust IgG-binding and neutralizing responses for BNT162b candidates, with generally mild, short-lived, and expected reactogenicity, supporting continued clinical development.",
+            "children": []
+          },
+          {
+            "node_id": "6.1.2.4",
+            "title": "6.1.2.4 Selection of the BNT162b2 candidate and dose for Phase II/III",
+            "level": 4,
+            "start_page": 77,
+            "end_page": 78,
+            "summary": "This subsection explains the selection of BNT162b2 at the 30 µg dose for Phase II/III, driven by its favorable systemic reactogenicity profile and robust immune response, particularly strong neutralizing antibody levels in elderly adults.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "6.1.3",
+        "title": "6.1.3 BNT162-03 in Chinese adults",
+        "level": 3,
+        "start_page": 78,
+        "end_page": 78,
+        "summary": "This subsection introduces the BNT162-03 Phase I trial in healthy Chinese adults, which is investigating the safety and immunogenicity of BNT162b1, with dosing having commenced after regulatory approval.",
+        "children": []
+      },
+      {
+        "node_id": "6.1.4",
+        "title": "6.1.4 BNT162-04 for BNT162b3",
+        "level": 3,
+        "start_page": 78,
+        "end_page": 78,
+        "summary": "This subsection describes the planned multi-site, Phase I/II BNT162-04 trial for BNT162b3, which will investigate its safety and immunogenicity using different dosing regimens in healthy adults.",
+        "children": []
+      },
+      {
+        "node_id": "6.2",
+        "title": "6.2 Marketing experience",
+        "level": 2,
+        "start_page": 78,
+        "end_page": 78,
+        "summary": "This subsection states that the BNT162 vaccine candidates have not yet received approval for use or been marketed in any country.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "7",
+    "title": "7 SUMMARY OF DATA AND GUIDANCE FOR THE INVESTIGATOR",
+    "level": 1,
+    "start_page": 79,
+    "end_page": 83,
+    "summary": "This section provides a concise summary of non-clinical and clinical data, offering guidance for investigators on the BNT162 vaccine candidates, including mode of action, posology, contraindications, and potential undesirable effects.",
+    "children": [
+      {
+        "node_id": "7.1",
+        "title": "7.1 Mode of action and intended indications",
+        "level": 2,
+        "start_page": 79,
+        "end_page": 79,
+        "summary": "This subsection describes the BNT162 vaccine's mode of action as delivering RNA to cells to express proteins for therapeutic effect, with the initial intended indication being prevention of COVID-19 in adults aged 18 years or older.",
+        "children": []
+      },
+      {
+        "node_id": "7.2",
+        "title": "7.2 Posology and method of administration",
+        "level": 2,
+        "start_page": 79,
+        "end_page": 79,
+        "summary": "This subsection specifies the intended intramuscular administration of BNT162 vaccines in the deltoid muscle, typically using two doses 21 days apart, with single-dose options also under investigation for BNT162c2.",
+        "children": []
+      },
+      {
+        "node_id": "7.3",
+        "title": "7.3 Contraindications",
+        "level": 2,
+        "start_page": 79,
+        "end_page": 79,
+        "summary": "This subsection lists hypersensitivity to the active substance or any excipients as a contraindication for the BNT162 vaccine.",
+        "children": []
+      },
+      {
+        "node_id": "7.4",
+        "title": "7.4 Special warnings and precautions for use",
+        "level": 2,
+        "start_page": 79,
+        "end_page": 80,
+        "summary": "This subsection outlines special warnings and precautions, including the need for anaphylactic reaction management, caution for individuals with bleeding disorders, awareness of syncope risk, and potential insufficient immune response in immunocompromised individuals.",
+        "children": []
+      },
+      {
+        "node_id": "7.5",
+        "title": "7.5 Interaction with other medicinal products and other forms of interaction",
+        "level": 2,
+        "start_page": 80,
+        "end_page": 80,
+        "summary": "This subsection states no data exists on concomitant administration with other vaccines, considers pharmacokinetic interactions unlikely due to the novel mode of action, and notes potential for insufficient immune response with immunosuppressant therapy.",
+        "children": []
+      },
+      {
+        "node_id": "7.6",
+        "title": "7.6 Fertility, pregnancy, and lactation",
+        "level": 2,
+        "start_page": 80,
+        "end_page": 80,
+        "summary": "This subsection indicates that no data are currently available on BNT162 vaccine use in pregnant or breastfeeding women, though reproductive tissues showed no changes in rat toxicity studies, and specific developmental studies are ongoing.",
+        "children": []
+      },
+      {
+        "node_id": "7.7",
+        "title": "7.7 Effects on ability to drive and use machines",
+        "level": 2,
+        "start_page": 80,
+        "end_page": 80,
+        "summary": "This subsection concludes that BNT162 vaccine candidates are expected to have negligible or no influence on the ability to drive and use machines.",
+        "children": []
+      },
+      {
+        "node_id": "7.8",
+        "title": "7.8 Undesirable effects",
+        "level": 2,
+        "start_page": 80,
+        "end_page": 81,
+        "summary": "This subsection addresses undesirable effects, defining adverse reactions as events where the vaccine is concluded to be the cause, and provides reference safety information for assessing expectedness of serious adverse reactions in clinical trials.",
+        "children": [
+          {
+            "node_id": "7.8.1",
+            "title": "7.8.1 Adverse reactions",
+            "level": 3,
+            "start_page": 80,
+            "end_page": 80,
+            "summary": "This subsection lists the adverse reactions identified for BNT162 vaccines to date, which include injection site pain, fever, fatigue, headache, chills, and muscle pain, determined through a thorough assessment of available evidence.",
+            "children": []
+          },
+          {
+            "node_id": "7.8.2",
+            "title": "7.8.2 Reference safety information for assessment of expectedness of serious adverse reactions",
+            "level": 3,
+            "start_page": 80,
+            "end_page": 81,
+            "summary": "This subsection clarifies that the Reference Safety Information is used for assessing expectedness of serious adverse reactions in clinical trials for regulatory reporting, and currently, no serious adverse reactions are considered expected by the sponsor.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "7.9",
+        "title": "7.9 Overdose",
+        "level": 2,
+        "start_page": 81,
+        "end_page": 81,
+        "summary": "This subsection states that there is currently no data available regarding overdose with BNT162 vaccine candidates, including accidental overdose in clinical trials.",
+        "children": []
+      },
+      {
+        "node_id": "7.10",
+        "title": "7.10 Drug abuse and dependence",
+        "level": 2,
+        "start_page": 81,
+        "end_page": 81,
+        "summary": "This subsection indicates that there is no data on drug abuse and dependence for BNT162 vaccine candidates, but they are not expected to cause either.",
+        "children": []
+      },
+      {
+        "node_id": "7.11",
+        "title": "7.11 Evolving safety information",
+        "level": 2,
+        "start_page": 81,
+        "end_page": 83,
+        "summary": "This subsection provides evolving safety information, including patient exposure data, specific adverse events, known drug class effects, and non-clinical findings of note related to the BNT162 vaccine candidates.",
+        "children": [
+          {
+            "node_id": "7.11.1",
+            "title": "7.11.1 Clinical safety",
+            "level": 3,
+            "start_page": 81,
+            "end_page": 81,
+            "summary": "This subsection covers clinical safety aspects, including subject exposure in trials, specific adverse events of note, and known drug class effects, noting that reported AEs are similar to anticipated reactogenicity for intramuscular vaccines.",
+            "children": [
+              {
+                "node_id": "7.11.1.1",
+                "title": "7.11.1.1 Patient exposure",
+                "level": 4,
+                "start_page": 81,
+                "end_page": 81,
+                "summary": "This subsection refers to Table 13 for a summary of patient exposure to BNT162 vaccine candidates in ongoing clinical trials.",
+                "children": []
+              },
+              {
+                "node_id": "7.11.1.2",
+                "title": "7.11.1.2 Specific adverse events of note",
+                "level": 4,
+                "start_page": 81,
+                "end_page": 81,
+                "summary": "This subsection directs to Section 7.8.1 for a list of specific adverse events of note identified for the BNT162 vaccines.",
+                "children": []
+              },
+              {
+                "node_id": "7.11.1.3",
+                "title": "7.11.1.3 Known drug class effects and other human experience",
+                "level": 4,
+                "start_page": 81,
+                "end_page": 81,
+                "summary": "This subsection discusses that AEs reported are similar to anticipated reactogenicity for intramuscular vaccines, and previous BioNTech RNA products suggest liver distribution does not pose a safety risk, while monitoring for enhanced disease is ongoing.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "7.11.2",
+            "title": "7.11.2 Non-clinical findings of note",
+            "level": 3,
+            "start_page": 81,
+            "end_page": 83,
+            "summary": "This subsection summarizes key non-clinical findings, highlighting that BNT162 vaccine candidates are immunogenic and well-tolerated in animal models, with expected inflammatory responses that were largely reversible.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "7.12",
+        "title": "7.12 Overall conclusions",
+        "level": 2,
+        "start_page": 83,
+        "end_page": 83,
+        "summary": "This subsection presents the overall conclusions, stating that all BNT162 vaccine candidates are immunogenic and well-tolerated in non-clinical models, and clinical trial results show an acceptable safety profile, supporting continued development given the urgent need for a COVID-19 vaccine.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "8",
+    "title": "8 REFERENCES",
+    "level": 1,
+    "start_page": 84,
+    "end_page": 85,
+    "summary": "This section lists all academic papers, guidelines, and reports cited throughout the Investigator's Brochure, providing the sources for the information presented.",
+    "children": []
+  },
+  {
+    "node_id": "9",
+    "title": "9 APPENDICES",
+    "level": 1,
+    "start_page": 86,
+    "end_page": 87,
+    "summary": "This section indicates the location of supplementary materials and detailed data that support the main content of the Investigator's Brochure.",
+    "children": []
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "num": "14.1",
+    "title": "Demographic Characteristics, by Baseline SARS-CoV-2 Status \u2013 Phase 2/3",
+    "label": "tbl-14-1"
+  },
+  {
+    "num": "14.2",
+    "title": "Demographic Characteristics, by Baseline SARS-CoV-2 Status \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Baseline SARS-CoV-2 Status: Negative",
+    "label": "tbl-14-2"
+  },
+  {
+    "num": "14.3",
+    "title": "Medical History \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-3"
+  },
+  {
+    "num": "14.4",
+    "title": "Baseline Charlson Comorbidities \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-4"
+  },
+  {
+    "num": "14.5",
+    "title": "Demographic Characteristics \u2013 Subjects With at Least 6 Months of Follow-up Time After Dose 2 \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age (Subjects Who Originally Received BNT162b2) \u2013 Safety Population",
+    "label": "tbl-14-5"
+  },
+  {
+    "num": "14.6",
+    "title": "Demographic Characteristics \u2013 Subjects Who Originally Received Placebo and Then Received BNT162b2 After Unblinding \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-6"
+  },
+  {
+    "num": "14.7",
+    "title": "Demographic Characteristics \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Subjects 12 Through 15 Years of Age and Without Evidence of Infection Prior to 7 Days After Dose 2 \u2013 Evaluable Efficacy (7 Days) Population",
+    "label": "tbl-14-7"
+  },
+  {
+    "num": "14.8",
+    "title": "Demographic Characteristics \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Subjects 12 Through 15 Years of Age \u2013 Dose 1 All-Available Efficacy Population",
+    "label": "tbl-14-8"
+  },
+  {
+    "num": "14.9",
+    "title": "Demographic Characteristics \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Subjects 12 Through 15 Years of Age and With or Without Evidence of Infection Prior to 7 Days After Dose 2 \u2013 Evaluable Efficacy (7 Days) Population",
+    "label": "tbl-14-9"
+  },
+  {
+    "num": "14.10",
+    "title": "Concomitant Vaccines Received After Dose 1 \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-10"
+  },
+  {
+    "num": "14.11",
+    "title": "Vaccine Efficacy \u2013 First COVID-19 Occurrence From 7 Days After Dose 2 \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Subjects 12 Through 15 Years of Age and Without Evidence of Infection Prior to 7 Days After Dose 2 \u2013 Dose 2 All-Available Efficacy Population",
+    "label": "tbl-14-11"
+  },
+  {
+    "num": "14.12",
+    "title": "Vaccine Efficacy \u2013 First COVID-19 Occurrence From 7 Days After Dose 2, by Subgroup \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Subjects 12 Through 15 Years of Age and With or Without Evidence of Infection Prior to 7 Days After Dose 2 \u2013 Evaluable Efficacy (7 Days) Population",
+    "label": "tbl-14-12"
+  },
+  {
+    "num": "14.13",
+    "title": "Vaccine Efficacy \u2013 First COVID-19 Occurrence After Dose 1, by Subgroup \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Subjects 12 Through 15 Years of Age \u2013 Dose 1 All-Available Efficacy Population",
+    "label": "tbl-14-13"
+  },
+  {
+    "num": "14.14",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by Baseline SARS-CoV-2 Status \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Baseline SARS-CoV-2 Status: Positive",
+    "label": "tbl-14-14"
+  },
+  {
+    "num": "14.15",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by Baseline SARS-CoV-2 Status \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Baseline SARS-CoV-2 Status: Negative",
+    "label": "tbl-14-15"
+  },
+  {
+    "num": "14.16",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by Ethnicity \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Ethnicity: Hispanic/Latino",
+    "label": "tbl-14-16"
+  },
+  {
+    "num": "14.17",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by Ethnicity \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Ethnicity: Non-Hispanic/Non-Latino",
+    "label": "tbl-14-17"
+  },
+  {
+    "num": "14.18",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by Race \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Race: White",
+    "label": "tbl-14-18"
+  },
+  {
+    "num": "14.19",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by Race \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Race: Black or African American",
+    "label": "tbl-14-19"
+  },
+  {
+    "num": "14.20",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by Race \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Race: All Others",
+    "label": "tbl-14-20"
+  },
+  {
+    "num": "14.21",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by Sex \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Sex: Male",
+    "label": "tbl-14-21"
+  },
+  {
+    "num": "14.22",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by Sex \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Sex: Female",
+    "label": "tbl-14-22"
+  },
+  {
+    "num": "14.23",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Baseline SARS-CoV-2 Status \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Baseline SARS-CoV-2 Status: Positive",
+    "label": "tbl-14-23"
+  },
+  {
+    "num": "14.24",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Baseline SARS-CoV-2 Status \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Baseline SARS-CoV-2 Status: Negative",
+    "label": "tbl-14-24"
+  },
+  {
+    "num": "14.25",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Ethnicity \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Ethnicity: Hispanic/Latino",
+    "label": "tbl-14-25"
+  },
+  {
+    "num": "14.26",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Ethnicity \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Ethnicity: Non-Hispanic/Non-Latino",
+    "label": "tbl-14-26"
+  },
+  {
+    "num": "14.27",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Race \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Race: White",
+    "label": "tbl-14-27"
+  },
+  {
+    "num": "14.28",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Race \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Race: Black or African American",
+    "label": "tbl-14-28"
+  },
+  {
+    "num": "14.29",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Race \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Race: All Others",
+    "label": "tbl-14-29"
+  },
+  {
+    "num": "14.30",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Sex \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Sex: Male",
+    "label": "tbl-14-30"
+  },
+  {
+    "num": "14.31",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Sex \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Sex: Female",
+    "label": "tbl-14-31"
+  },
+  {
+    "num": "14.32",
+    "title": "Incidence Rates of at Least 1 Related Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-32"
+  },
+  {
+    "num": "14.33",
+    "title": "Incidence Rates of at Least 1 Severe Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-33"
+  },
+  {
+    "num": "14.34",
+    "title": "Incidence Rates of at Least 1 Life-Threatening Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-34"
+  },
+  {
+    "num": "14.35",
+    "title": "Incidence Rates of at Least 1 Adverse Event From Unblinding Date to Data Cutoff Date (02SEP2021), by System Organ Class and Preferred Term \u2013 Open-Label Follow-up Period \u2013 Subjects Who Originally Received BNT162b2 \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-35"
+  },
+  {
+    "num": "14.36",
+    "title": "Incidence Rates of at Least 1 Related Adverse Event From Unblinding Date to Data Cutoff Date (02SEP2021), by System Organ Class and Preferred Term \u2013 Open-Label Follow-up Period \u2013 Subjects Who Originally Received BNT162b2 \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-36"
+  },
+  {
+    "num": "14.37",
+    "title": "Incidence Rates of at Least 1 Severe Adverse Event From Unblinding Date to Data Cutoff Date (02SEP2021), by System Organ Class and Preferred Term \u2013 Open-Label Follow-up Period \u2013 Subjects Who Originally Received BNT162b2 \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-37"
+  },
+  {
+    "num": "14.38",
+    "title": "Number  %  of Subjects Reporting at Least 1 Related Adverse Event From Dose 1 to 6 Months After Dose 2, by System Organ Class and Preferred Term - Subjects With at Least 6 Months of Follow-up Time After Dose 2 - Phase 2/3 Subjects 12 Through 15 Years of Age (Subjects Who Originally Received BNT162b2) - Safety Population",
+    "label": "tbl-14-38"
+  },
+  {
+    "num": "14.39",
+    "title": "Number (%) of Subjects Reporting at Least 1 Adverse Event From Dose 3 to 7 Days After Dose 3, by System Organ Class and Preferred Term \u2013 Open-Label Follow-up Period \u2013 Subjects Who Originally Received Placebo and Then Received BNT162b2 After Unblinding \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-39"
+  },
+  {
+    "num": "14.40",
+    "title": "Number (%) of Subjects Reporting at Least 1 Adverse Event From Dose 4 to 7 Days After Dose 4, by System Organ Class and Preferred Term \u2013 Open-Label Follow-up Period \u2013 Subjects Who Originally Received Placebo and Then Received BNT162b2 After Unblinding \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-40"
+  },
+  {
+    "num": "14.41",
+    "title": "Incidence Rates of at Least 1 Related Adverse Event From Dose 3 to Data Cutoff Date (02SEP2021), by System Organ Class and Preferred Term \u2013 Open-Label Follow-up Period \u2013 Subjects Who Originally Received Placebo and Then Received BNT162b2 After Unblinding \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-41"
+  },
+  {
+    "num": "14.42",
+    "title": "Number (%) of Subjects Reporting at Least 1 Immediate Adverse Event After Vaccination (Dose 3/4), by System Organ Class and Preferred Term \u2013 Open-Label Follow-up Period \u2013 Subjects Who Originally Received Placebo and Then Received BNT162b2 After Unblinding \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-42"
+  },
+  {
+    "num": "14.43",
+    "title": "Incidence Rates of at Least 1 Severe Adverse Event From Dose 3 to Data Cutoff Date (02SEP2021), by System Organ Class and Preferred Term \u2013 Open-Label Follow-up Period \u2013 Subjects Who Originally Received Placebo and Then Received BNT162b2 After Unblinding \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-43"
+  },
+  {
+    "num": "14.44",
+    "title": "Incidence Rates of at Least 1 Serious Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Baseline SARS-CoV-2 Status \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Baseline SARS-CoV-2 Status: Negative",
+    "label": "tbl-14-44"
+  },
+  {
+    "num": "14.45",
+    "title": "Incidence Rates of at Least 1 Serious Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Ethnicity \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Ethnicity: Hispanic/Latino",
+    "label": "tbl-14-45"
+  },
+  {
+    "num": "14.46",
+    "title": "Incidence Rates of at Least 1 Serious Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Ethnicity \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Ethnicity: Non-Hispanic/Non-Latino",
+    "label": "tbl-14-46"
+  },
+  {
+    "num": "14.47",
+    "title": "Incidence Rates of at Least 1 Serious Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Race \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Race: White",
+    "label": "tbl-14-47"
+  },
+  {
+    "num": "14.48",
+    "title": "Incidence Rates of at Least 1 Serious Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Race \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Race: Black or African American",
+    "label": "tbl-14-48"
+  },
+  {
+    "num": "14.49",
+    "title": "Incidence Rates of at Least 1 Serious Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Race \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Race: All Others",
+    "label": "tbl-14-49"
+  },
+  {
+    "num": "14.50",
+    "title": "Incidence Rates of at Least 1 Serious Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Sex \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Sex: Male",
+    "label": "tbl-14-50"
+  },
+  {
+    "num": "14.51",
+    "title": "Incidence Rates of at Least 1 Serious Adverse Event From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term, by Sex \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population Sex: Female",
+    "label": "tbl-14-51"
+  },
+  {
+    "num": "14.52",
+    "title": "Incidence Rates of at Least 1 Serious Adverse Event From Unblinding Date to Data Cutoff Date (02SEP2021), by System Organ Class and Preferred Term \u2013 Open-Label Follow-up Period \u2013 Subjects Who Originally Received BNT162b2 \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-52"
+  },
+  {
+    "num": "14.53",
+    "title": "Incidence Rates of Subjects Withdrawn Because of Adverse Events From Dose 1 to Unblinding Date, by System Organ Class and Preferred Term \u2013 Blinded Placebo-Controlled Follow-up Period \u2013 Phase 2/3 Subjects 12 Through 15 Years of Age \u2013 Safety Population",
+    "label": "tbl-14-53"
+  }
+]

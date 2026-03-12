@@ -1,0 +1,225 @@
+[
+  {
+    "node_id": "results_summary_1",
+    "title": "Clinical Study Results",
+    "level": 1,
+    "start_page": 1,
+    "end_page": 1,
+    "summary": "This section introduces the summary of one clinical study's results for the Comirnaty® (BNT162b2) COVID-19 Vaccine, administered as a booster to healthy young people aged 12 to 17. It provides essential study identification details, including sponsor, protocol number, study dates, and report date.",
+    "children": []
+  },
+  {
+    "node_id": "thank_you_2",
+    "title": "– Thank You –",
+    "level": 1,
+    "start_page": 2,
+    "end_page": 2,
+    "summary": "This section expresses gratitude to study participants and their families for their involvement. It also advises participants to contact their study site doctor or staff if they have any questions about the study or its results.",
+    "children": []
+  },
+  {
+    "node_id": "why_study_3",
+    "title": "Why was this study done?",
+    "level": 1,
+    "start_page": 2,
+    "end_page": 4,
+    "summary": "This section provides background on COVID-19 and details the specific objectives and questions that the researchers aimed to answer through this study.",
+    "children": [
+      {
+        "node_id": "why_study_3.covid19_1",
+        "title": "What is COVID-19?",
+        "level": 2,
+        "start_page": 2,
+        "end_page": 2,
+        "summary": "This subsection explains that COVID-19 is caused by the SARS-CoV-2 virus, detailing its easy transmission, potential for mild to severe illness, common symptoms, and the emergence of variants like Delta and Omicron.",
+        "children": []
+      },
+      {
+        "node_id": "why_study_3.purpose_1",
+        "title": "What was the purpose of this study?",
+        "level": 2,
+        "start_page": 3,
+        "end_page": 4,
+        "summary": "The main purpose was to assess the efficacy and safety of two different booster shot strengths of BNT in healthy teenagers aged 12-17. Researchers specifically aimed to determine immune response, local injection site reactions, and systemic symptoms, as well as monitor general medical problems.",
+        "children": [
+          {
+            "node_id": "why_study_3.purpose_1.research_questions_1",
+            "title": "Researchers wanted to know:",
+            "level": 3,
+            "start_page": 4,
+            "end_page": 4,
+            "summary": "Researchers sought to determine participants' immune response to the original COVID-19 strain after a BNT booster, quantify injection site reactions, and assess the prevalence of systemic symptoms and other medical problems within specific post-booster timeframes.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "node_id": "bnt_description_4",
+    "title": "What is BNT162b2 vaccine (BNT)?",
+    "level": 1,
+    "start_page": 3,
+    "end_page": 3,
+    "summary": "This section describes BNT162b2 (Comirnaty®) as an injectable, monovalent RNA-based COVID-19 vaccine designed to target the original virus strain. It clarifies that the vaccine does not contain a whole virus but uses a part of the virus's genetic code to stimulate antibody production.",
+    "children": []
+  },
+  {
+    "node_id": "study_execution_5",
+    "title": "What happened during the study?",
+    "level": 1,
+    "start_page": 5,
+    "end_page": 7,
+    "summary": "This section outlines the study's design and execution, including how participants were assigned booster doses, the blinding method used, and why the study plan was modified. It also specifies the study locations, timeline, and characteristics of the participants involved.",
+    "children": [
+      {
+        "node_id": "study_execution_5.methodology_1",
+        "title": "How was the study done?",
+        "level": 2,
+        "start_page": 5,
+        "end_page": 5,
+        "summary": "Participants were randomly assigned to receive either a 10 mcg or 30 mcg BNT booster shot, with blood samples and health checks conducted throughout the study period.",
+        "children": []
+      },
+      {
+        "node_id": "study_execution_5.type_2",
+        "title": "Type of study:",
+        "level": 2,
+        "start_page": 5,
+        "end_page": 6,
+        "summary": "The study was observer-blinded, meaning healthcare staff knew the dose administered, but participants and researchers were initially blinded, with unblinding permitted after three months. The plan to enroll adult participants was later changed due to widespread booster availability and prior safety data.",
+        "children": []
+      },
+      {
+        "node_id": "study_execution_5.location_3",
+        "title": "Where did this study take place?",
+        "level": 2,
+        "start_page": 6,
+        "end_page": 6,
+        "summary": "The study was conducted at 15 different sites within the United States.",
+        "children": []
+      },
+      {
+        "node_id": "study_execution_5.timing_4",
+        "title": "When did this study take place?",
+        "level": 2,
+        "start_page": 6,
+        "end_page": 6,
+        "summary": "The study commenced on December 20, 2021, and concluded on December 02, 2022.",
+        "children": []
+      },
+      {
+        "node_id": "study_execution_5.participants_5",
+        "title": "Who participated in this study?",
+        "level": 2,
+        "start_page": 6,
+        "end_page": 7,
+        "summary": "The study enrolled 140 healthy participants, equally split between boys and girls, all aged 12 to 17, who had previously received two primary doses of BNT. Of these, 127 completed the study.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "study_duration_6",
+    "title": "How long did the study last?",
+    "level": 1,
+    "start_page": 7,
+    "end_page": 7,
+    "summary": "Study participants were involved for approximately 6 months, while the overall study, including data review and report creation, spanned about 1 year.",
+    "children": []
+  },
+  {
+    "node_id": "study_results_7",
+    "title": "What were the results of the study?",
+    "level": 1,
+    "start_page": 7,
+    "end_page": 14,
+    "summary": "This comprehensive section presents the study's key findings, addressing participants' immune responses, reported local injection site reactions, systemic symptoms, and the occurrence of general and serious medical problems after receiving the BNT booster shot.",
+    "children": [
+      {
+        "node_id": "study_results_7.immune_response_1",
+        "title": "Did participants have an immune response against the original strain of the COVID-19 virus after they got a BNT booster shot?",
+        "level": 2,
+        "start_page": 7,
+        "end_page": 8,
+        "summary": "Participants demonstrated strong immune responses against the original COVID-19 strain one month after receiving either 10 mcg or 30 mcg BNT booster shots, suggesting protection for healthy teenagers. Antibody levels in teenagers were higher than those in adults from a comparative study, both before and after the booster.",
+        "children": []
+      },
+      {
+        "node_id": "study_results_7.injection_site_reactions_2",
+        "title": "How many participants had redness, swelling, or pain at the injection site within 7 days after the BNT booster shot?",
+        "level": 2,
+        "start_page": 9,
+        "end_page": 9,
+        "summary": "Within 7 days post-booster, more participants in the 30 mcg BNT group (6.3% to 78.1%) experienced injection site reactions like redness, swelling, or pain compared to the 10 mcg group (1.3% to 56.0%). All reactions were mild or moderate and typically resolved within 1 to 3 days, with pain being the most common.",
+        "children": []
+      },
+      {
+        "node_id": "study_results_7.systemic_symptoms_3",
+        "title": "How many participants had fever, tiredness, headache, chills, vomiting, diarrhea, muscle pain, or joint pain within 7 days after the BNT booster shot?",
+        "level": 2,
+        "start_page": 10,
+        "end_page": 10,
+        "summary": "More participants in the 30 mcg BNT group (3.1% to 54.7%) reported systemic symptoms like tiredness and headache within 7 days after the booster compared to the 10 mcg group (1.3% to 49.3%). Most symptoms were mild or moderate and lasted about one day.",
+        "children": []
+      },
+      {
+        "node_id": "study_results_7.medical_problems_4",
+        "title": "What medical problems did participants have during the study?",
+        "level": 2,
+        "start_page": 11,
+        "end_page": 13,
+        "summary": "Researchers recorded all medical problems experienced by participants, noting that no one left the study due to a medical issue. A comparison of medical problems within one month post-booster is presented, which includes common issues seen in teenagers.",
+        "children": [
+          {
+            "node_id": "study_results_7.medical_problems_4.one_month_problems_1",
+            "title": "How many participants had a medical problem within 1 month after the BNT booster shot?",
+            "level": 3,
+            "start_page": 11,
+            "end_page": 13,
+            "summary": "Within one month of the BNT booster, 4.0% of the 10 mcg group and 7.7% of the 30 mcg group reported at least one medical problem, with most issues being common among teenagers. Instructions are provided to help understand the detailed breakdown of these problems in Table 1.",
+            "children": [
+              {
+                "node_id": "study_results_7.medical_problems_4.one_month_problems_1.table_instructions_1",
+                "title": "Instructions for Understanding Table 1.",
+                "level": 4,
+                "start_page": 12,
+                "end_page": 13,
+                "summary": "This section provides clear instructions on how to interpret Table 1, detailing the medical problems reported, along with the counts and percentages of participants in both the 10 mcg and 30 mcg BNT booster groups who experienced them within one month.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "study_results_7.serious_medical_problems_5",
+        "title": "Did study participants have any serious medical problems?",
+        "level": 2,
+        "start_page": 14,
+        "end_page": 14,
+        "summary": "This section defines a serious medical problem and reports that no participant in the 10 mcg group, and only one in the 30 mcg group, experienced such an event within 6 months. The single serious medical problem (constipation) was not believed to be related to the booster shot, and no deaths occurred during the study.",
+        "children": [
+          {
+            "node_id": "study_results_7.serious_medical_problems_5.six_month_problems_1",
+            "title": "How many participants had a serious medical problem within 6 months after the BNT booster shot?",
+            "level": 3,
+            "start_page": 14,
+            "end_page": 14,
+            "summary": "Within 6 months of the BNT booster, no participants in the 10 mcg group and one participant (1.5%) in the 30 mcg group experienced a serious medical problem, which was identified as constipation and considered unrelated to the vaccine, with no deaths reported.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "node_id": "learn_more_8",
+    "title": "Where can I learn more about this study?",
+    "level": 1,
+    "start_page": 15,
+    "end_page": 15,
+    "summary": "This section directs participants with questions to contact their study site staff and provides external resources for further information. Links to Pfizer's clinical trials website, ClinicalTrials.gov, and clinicaltrialsregister.eu are included, along with relevant protocol and study identifiers.",
+    "children": []
+  }
+]

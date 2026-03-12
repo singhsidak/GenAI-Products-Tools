@@ -1,0 +1,2317 @@
+[
+  {
+    "node_id": "assessment_report",
+    "title": "Assessment report",
+    "level": 1,
+    "start_page": 1,
+    "end_page": 1,
+    "summary": "This document is an assessment report from the European Medicines Agency concerning Comirnaty, a COVID-19 mRNA vaccine. It includes two corrections made in February 2021 and October 2023 to clarify an ERA statement and update figures.",
+    "children": [
+      {
+        "node_id": "assessment_report_comirnaty",
+        "title": "Comirnaty",
+        "level": 2,
+        "start_page": 1,
+        "end_page": 1,
+        "summary": "Comirnaty is identified as a COVID-19 mRNA vaccine (nucleoside-modified), with a procedure number EMEA/H/C/005735/0000.",
+        "children": []
+      },
+      {
+        "node_id": "assessment_report_note",
+        "title": "Note",
+        "level": 2,
+        "start_page": 1,
+        "end_page": 1,
+        "summary": "This assessment report, adopted by the CHMP, has all commercially confidential information deleted and includes two corrections from 2021 and 2023.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "table_of_contents",
+    "title": "Table of contents",
+    "level": 1,
+    "start_page": 2,
+    "end_page": 3,
+    "summary": "This section provides a structured overview of the document's content, listing main sections and subsections with their corresponding page numbers.",
+    "children": []
+  },
+  {
+    "node_id": "list_of_abbreviations",
+    "title": "List of abbreviations",
+    "level": 1,
+    "start_page": 4,
+    "end_page": 7,
+    "summary": "This section presents a comprehensive list of abbreviations used throughout the assessment report, aiding in understanding the specialized terminology.",
+    "children": []
+  },
+  {
+    "node_id": "background_1",
+    "title": "1. Background information on the procedure",
+    "level": 1,
+    "start_page": 8,
+    "end_page": 10,
+    "summary": "This section outlines the procedural background of the Comirnaty marketing authorization application, including its submission, legal basis, and preliminary EMA activities.",
+    "children": [
+      {
+        "node_id": "background_1.1",
+        "title": "1.1. Submission of the dossier",
+        "level": 2,
+        "start_page": 8,
+        "end_page": 9,
+        "summary": "This subsection details the submission of the marketing authorization application for Comirnaty, specifying the applicant, procedure type, proposed indication, and legal basis.",
+        "children": [
+          {
+            "node_id": "background_1.1.1",
+            "title": "Information on Paediatric requirements",
+            "level": 3,
+            "start_page": 8,
+            "end_page": 8,
+            "summary": "The application included an EMA decision on a paediatric investigation plan (PIP), which was not yet completed at the time of submission as some measures were deferred.",
+            "children": []
+          },
+          {
+            "node_id": "background_1.1.2",
+            "title": "Similarity",
+            "level": 3,
+            "start_page": 8,
+            "end_page": 8,
+            "summary": "The applicant did not submit a critical report on similarity with authorized orphan medicinal products, as there are none for conditions related to the proposed indication.",
+            "children": []
+          },
+          {
+            "node_id": "background_1.1.3",
+            "title": "Conditional marketing authorisation",
+            "level": 3,
+            "start_page": 8,
+            "end_page": 8,
+            "summary": "The applicant requested consideration for a Conditional marketing authorisation, citing the product's intention for prophylaxis of a life-threatening disease and use in a public health emergency.",
+            "children": []
+          },
+          {
+            "node_id": "background_1.1.4",
+            "title": "New active Substance status",
+            "level": 3,
+            "start_page": 8,
+            "end_page": 9,
+            "summary": "The applicant requested new active substance status for the mRNA component, claiming it has not been part of a previously authorized medicinal product in the EU.",
+            "children": []
+          },
+          {
+            "node_id": "background_1.1.5",
+            "title": "Scientific advice",
+            "level": 3,
+            "start_page": 9,
+            "end_page": 9,
+            "summary": "The applicant did not seek scientific advice from the Committee for Medicinal Products for Human Use (CHMP).",
+            "children": []
+          },
+          {
+            "node_id": "background_1.1.6",
+            "title": "COVID-19 EMA pandemic Task Force (COVID-ETF)",
+            "level": 3,
+            "start_page": 9,
+            "end_page": 9,
+            "summary": "The COVID-ETF confirmed eligibility for rolling review and provided recommendations to the CHMP during the assessment process, aligning with their mandate for emerging health threats.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "background_1.2",
+        "title": "1.2. Steps taken for the assessment of the product",
+        "level": 2,
+        "start_page": 9,
+        "end_page": 10,
+        "summary": "This section outlines the key steps and timelines involved in the assessment of Comirnaty, including the appointment of Rapporteurs and the positive opinion from the CHMP.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "scientific_discussion_2",
+    "title": "2. Scientific discussion",
+    "level": 1,
+    "start_page": 11,
+    "end_page": 129,
+    "summary": "This extensive section covers the scientific evaluation of Comirnaty, encompassing problem statement, quality aspects, non-clinical findings, and comprehensive clinical aspects including efficacy and safety.",
+    "children": [
+      {
+        "node_id": "scientific_discussion_2.1",
+        "title": "2.1. Problem statement",
+        "level": 2,
+        "start_page": 11,
+        "end_page": 14,
+        "summary": "This section defines COVID-19 as a global health threat, detailing its etiology, epidemiology, clinical presentation, and current management, while highlighting the urgent unmet need for a prophylactic vaccine.",
+        "children": [
+          {
+            "node_id": "scientific_discussion_2.1.1",
+            "title": "2.1.1. Disease or condition",
+            "level": 3,
+            "start_page": 11,
+            "end_page": 11,
+            "summary": "COVID-19, caused by SARS-CoV-2, emerged in Wuhan in late 2019 and rapidly became a global pandemic, causing millions of cases and deaths worldwide.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.1.2",
+            "title": "2.1.2. Epidemiology and risk factors",
+            "level": 3,
+            "start_page": 11,
+            "end_page": 11,
+            "summary": "The entire population is at risk of SARS-CoV-2 infection due to lack of pre-existing immunity, with increasing age and underlying medical conditions identified as key risk factors for severe disease.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.1.3",
+            "title": "2.1.3. Aetiology and pathogenesis",
+            "level": 3,
+            "start_page": 11,
+            "end_page": 11,
+            "summary": "SARS-CoV-2 is an RNA virus with a Spike protein that binds to host ACE-2 receptors; antibodies against this Spike protein can neutralize the virus and prevent infection.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.1.4",
+            "title": "2.1.4. Clinical presentation and diagnosis",
+            "level": 3,
+            "start_page": 12,
+            "end_page": 12,
+            "summary": "COVID-19 presents with varied symptoms, from asymptomatic to severe acute respiratory distress syndrome, with diagnosis typically confirmed by RT-PCR testing of nasal/throat swabs.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.1.5",
+            "title": "2.1.5. Management",
+            "level": 3,
+            "start_page": 13,
+            "end_page": 13,
+            "summary": "Current COVID-19 management includes antivirals, antibodies, and anti-inflammatory agents, but there remains an urgent and unmet medical need for a prophylactic vaccine.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_about_product",
+            "title": "About the product",
+            "level": 3,
+            "start_page": 13,
+            "end_page": 13,
+            "summary": "BNT162b2 is an mRNA vaccine encoding the SARS-CoV-2 spike glycoprotein, encapsulated in lipid nanoparticles for intramuscular delivery to induce an adaptive immune response.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_type_application",
+            "title": "Type of Application and aspects on development",
+            "level": 3,
+            "start_page": 13,
+            "end_page": 14,
+            "summary": "The applicant sought Conditional Marketing Authorisation based on a positive benefit-risk balance, likely provision of comprehensive data, addressing unmet medical needs, and public health benefits outweighing data limitations.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "scientific_discussion_2.2",
+        "title": "2.2. Quality aspects",
+        "level": 2,
+        "start_page": 14,
+        "end_page": 40,
+        "summary": "This section meticulously evaluates the chemical, pharmaceutical, and biological attributes of Comirnaty, covering its active substance, finished product, manufacturing processes, and stability data.",
+        "children": [
+          {
+            "node_id": "scientific_discussion_2.2.1",
+            "title": "2.2.1. Introduction",
+            "level": 3,
+            "start_page": 14,
+            "end_page": 15,
+            "summary": "Comirnaty is a concentrate for injection containing BNT162b2 mRNA as the active substance, formulated in lipid nanoparticles with specific excipients, and supplied in multidose vials requiring dilution.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.2.2",
+            "title": "2.2.2. Active Substance",
+            "level": 3,
+            "start_page": 15,
+            "end_page": 22,
+            "summary": "This subsection details the active substance (BNT162b2 mRNA), its manufacturing, characterization, control strategies, and stability, noting modifications for RNA stability and translational efficiency.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.2.2.1",
+                "title": "General Information",
+                "level": 4,
+                "start_page": 15,
+                "end_page": 15,
+                "summary": "The active substance, BNT162b2, is a single-stranded, 5′-capped mRNA encoding the SARS-CoV-2 spike antigen, nucleoside-modified with N1-methylpseudouridine to enhance stability and translation.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.2.2",
+                "title": "Manufacture, process controls and characterisation",
+                "level": 4,
+                "start_page": 15,
+                "end_page": 15,
+                "summary": "The active substance is manufactured by multiple sites via in vitro transcription, followed by purification, filtration, and storage, with GMP status confirmed after initial objections were resolved.",
+                "children": [
+                  {
+                    "node_id": "scientific_discussion_2.2.2.2.1",
+                    "title": "Manufacturers",
+                    "level": 5,
+                    "start_page": 15,
+                    "end_page": 15,
+                    "summary": "The active substance is manufactured and controlled by Wyeth BioPharma Division, BioNTech Manufacturing GmbH, and Rentschler Biopharma SE, all with appropriate GMP certificates.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.2.2.2.2",
+                    "title": "Description of manufacturing process and process controls",
+                    "level": 5,
+                    "start_page": 15,
+                    "end_page": 16,
+                    "summary": "The manufacturing process involves five steps: RNA synthesis from linear DNA via in vitro transcription, purification, filtration, and frozen storage, with described process controls and parameters.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "scientific_discussion_2.2.2.3",
+                "title": "Control of materials",
+                "level": 4,
+                "start_page": 16,
+                "end_page": 17,
+                "summary": "Raw materials and solutions for active substance manufacturing are adequately controlled and sourced from approved suppliers, with recommendations for microbiological testing and enzyme activity assays.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.2.4",
+                "title": "Control of critical steps and intermediates",
+                "level": 4,
+                "start_page": 17,
+                "end_page": 17,
+                "summary": "Critical process parameters and in-process tests are defined with acceptance criteria, ensuring the active substance manufacturing process is monitored and controlled.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.2.5",
+                "title": "Process validation",
+                "level": 4,
+                "start_page": 17,
+                "end_page": 18,
+                "summary": "The BNT162b2 active substance manufacturing process has been validated, demonstrating consistent production of reproducible quality, with ongoing studies for robustness and filter qualification.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.2.6",
+                "title": "Manufacturing process development",
+                "level": 4,
+                "start_page": 18,
+                "end_page": 19,
+                "summary": "Process development involved changes from Process 1 (clinical trial material) to Process 2 (commercial process), demonstrating comparability in identity and structure, though further characterization of fragmented species is requested.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.2.7",
+                "title": "Characterisation",
+                "level": 4,
+                "start_page": 20,
+                "end_page": 20,
+                "summary": "Physico-chemical characterization confirmed the active substance's primary structure, 5' cap, poly(A) tail, and higher-order structure, though biological characterization and protein expression details require further data.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.2.8",
+                "title": "Specification",
+                "level": 4,
+                "start_page": 21,
+                "end_page": 21,
+                "summary": "The active substance specifications are acceptable for authorization, but specific obligations require re-assessment and revision of acceptance criteria for mRNA integrity, dsRNA, and poly(A) tail.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.2.9",
+                "title": "Analytical methods",
+                "level": 4,
+                "start_page": 21,
+                "end_page": 21,
+                "summary": "All analytical methods for active substance testing are adequately described, with non-compendial methods suitably validated, though the suitability of the poly(A) tail quantification method needs confirmation.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.2.10",
+                "title": "Batch analysis",
+                "level": 4,
+                "start_page": 21,
+                "end_page": 22,
+                "summary": "Batch analysis results for active substance batches, including clinical and commercial process batches, generally demonstrate consistency with some exceptions.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.2.11",
+                "title": "Reference materials",
+                "level": 4,
+                "start_page": 22,
+                "end_page": 22,
+                "summary": "The current clinical reference material is stable, and a future two-tiered system for commercial reference material (PRM and WRM) will be implemented with additional information provided.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.2.12",
+                "title": "Container closure",
+                "level": 4,
+                "start_page": 22,
+                "end_page": 22,
+                "summary": "Information on the container closure system is acceptable and complies with Ph. Eur. standards.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.2.13",
+                "title": "Stability",
+                "level": 4,
+                "start_page": 22,
+                "end_page": 22,
+                "summary": "Based on limited stability data, a shelf-life at -20 ± 5°C is approved for the active substance when stored in its commercial container closure system, with ongoing studies planned.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.2.3",
+            "title": "2.2.3. Finished Medicinal Product",
+            "level": 3,
+            "start_page": 22,
+            "end_page": 31,
+            "summary": "This section describes the finished product, including its formulation, development, manufacturing process, control strategies, and stability, noting aspects of novel excipients and potential medication errors.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.2.3.1",
+                "title": "Description of the product and pharmaceutical development",
+                "level": 4,
+                "start_page": 22,
+                "end_page": 23,
+                "summary": "The finished product is a sterile, preservative-free, 5-dose multidose concentrate containing RNA-lipid nanoparticles, supplied in a glass vial and requiring dilution before intramuscular injection.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.2",
+                "title": "Formulation development",
+                "level": 4,
+                "start_page": 23,
+                "end_page": 23,
+                "summary": "Formulation development studies thoroughly described the RNA-containing lipid nanoparticles, which consist of four lipids for functional or structural purposes, showing consistent manufacture regarding size and polydispersity.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.3",
+                "title": "Novel excipients",
+                "level": 4,
+                "start_page": 23,
+                "end_page": 24,
+                "summary": "Two novel excipients, ALC-0315 (cationic lipid) and ALC-0159 (PEGylated lipid), are included in the finished product formulation, with limited but acceptable information provided.",
+                "children": [
+                  {
+                    "node_id": "scientific_discussion_2.2.3.3.1",
+                    "title": "ALC-0315 (cationic lipid)",
+                    "level": 5,
+                    "start_page": 23,
+                    "end_page": 24,
+                    "summary": "ALC-0315, a novel cationic lipid, has a brief chemical synthesis description, defined suppliers, and acceptable stability, though additional information on its synthetic process and impurity control is required.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.2.3.3.2",
+                    "title": "ALC-0159 (PEGylated lipid)",
+                    "level": 5,
+                    "start_page": 24,
+                    "end_page": 25,
+                    "summary": "ALC-0159, a novel PEGylated lipid, has a consistent synthetic route and acceptable stability, but further information on its synthetic process and impurity control strategy is requested.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.4",
+                "title": "Manufacturing process development",
+                "level": 4,
+                "start_page": 25,
+                "end_page": 25,
+                "summary": "The manufacturing process development for the finished product is extensively described, showing sufficient comparability across phases and facilities, with ongoing concurrent validation due to urgent need.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.5",
+                "title": "Container closure system",
+                "level": 4,
+                "start_page": 26,
+                "end_page": 26,
+                "summary": "The container closure system, consisting of glass vials and rubber stoppers, is compliant with Ph. Eur. requirements; updated leachables study results are requested.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.6",
+                "title": "Microbiological attributes",
+                "level": 4,
+                "start_page": 26,
+                "end_page": 26,
+                "summary": "Container closure integrity testing confirmed the system's integrity, and validation results for an alternative rapid sterility test are requested to improve the control strategy.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.7",
+                "title": "Compatibility",
+                "level": 4,
+                "start_page": 26,
+                "end_page": 26,
+                "summary": "Compatibility studies demonstrated physicochemical stability of the diluted vaccine for up to 24 hours and a microbiological in-use period of up to 6 hours at ambient temperatures.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.8",
+                "title": "Manufacture of the product and process controls",
+                "level": 4,
+                "start_page": 27,
+                "end_page": 27,
+                "summary": "The finished product is batch released by Pfizer and BioNTech, with confirmed GMP status. The manufacturing process involves thawing, LNP formation, filtration, filling, and freezing.",
+                "children": [
+                  {
+                    "node_id": "scientific_discussion_2.2.3.8.1",
+                    "title": "Shipping validation",
+                    "level": 5,
+                    "start_page": 27,
+                    "end_page": 28,
+                    "summary": "Shipping validation ensures the maintenance of -90 to -60°C conditions for frozen product transport using passive thermal containers, allowing for controlled temperature excursions and a single thaw/refreeze cycle.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.9",
+                "title": "Media fills",
+                "level": 4,
+                "start_page": 28,
+                "end_page": 28,
+                "summary": "Media fills for the filling line were performed in accordance with guidelines, demonstrating that aseptic conditions are maintained during the filling process, with satisfactory results.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.10",
+                "title": "Verification of in-process test methods",
+                "level": 4,
+                "start_page": 28,
+                "end_page": 28,
+                "summary": "Data on verification of in-process test methods are pending and should be provided during Q2 2021 as a recommendation.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.11",
+                "title": "Hold times",
+                "level": 4,
+                "start_page": 28,
+                "end_page": 28,
+                "summary": "Established hold times are in place, and any future changes to this section must be submitted to the Agency via a variation application.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.12",
+                "title": "Process validation plan",
+                "level": 4,
+                "start_page": 28,
+                "end_page": 28,
+                "summary": "A concurrent validation approach, documented with interim and overall reports, is being used for the finished product manufacturing process due to urgent product need, pending additional validation data.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.13",
+                "title": "Filter validation",
+                "level": 4,
+                "start_page": 28,
+                "end_page": 29,
+                "summary": "Acceptable information on filter validation for sterile filtration has been provided, confirming filter appropriateness, and the MAH should provide results for assessment as they become available.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.14",
+                "title": "Control of excipients",
+                "level": 4,
+                "start_page": 28,
+                "end_page": 29,
+                "summary": "Novel excipients ALC-0315 and ALC-0159 require further information; other excipients and processing aids are controlled according to Ph. Eur. standards.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.15",
+                "title": "Product specification",
+                "level": 4,
+                "start_page": 29,
+                "end_page": 30,
+                "summary": "Finished product specifications include a comprehensive panel of tests with acceptance criteria for release and stability, though some criteria require re-assessment with further data.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.16",
+                "title": "Analytical methods",
+                "level": 4,
+                "start_page": 29,
+                "end_page": 30,
+                "summary": "The analytical methods used for finished product testing are adequately described and non-compendial methods are appropriately validated in accordance with ICH guidelines.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.17",
+                "title": "Batch analysis",
+                "level": 4,
+                "start_page": 29,
+                "end_page": 30,
+                "summary": "Batch analysis results for recently manufactured GMP-batches demonstrate comparability with clinical and emergency supply lots, with further characterization planned for future batches.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.18",
+                "title": "Reference materials",
+                "level": 4,
+                "start_page": 30,
+                "end_page": 30,
+                "summary": "The finished product uses the same reference materials as the active substance, ensuring consistent quality control.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.19",
+                "title": "Stability of the product",
+                "level": 4,
+                "start_page": 30,
+                "end_page": 31,
+                "summary": "A 6-month shelf-life at -90°C to -60°C is accepted based on presented stability data, with ongoing studies and recommendations to investigate increased storage temperatures and extended in-use periods.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.3.20",
+                "title": "Adventitious agents",
+                "level": 4,
+                "start_page": 31,
+                "end_page": 31,
+                "summary": "Adventitious agents' safety evaluation is provided for manufacturing sites, with reagents of animal origin deemed minimal risk and aseptic validation and testing confirming no additional concerns.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.2.4",
+            "title": "2.2.4. Discussion on chemical, pharmaceutical and biological aspects",
+            "level": 3,
+            "start_page": 31,
+            "end_page": 35,
+            "summary": "This discussion addresses initial GMP issues, comparability between clinical and commercial materials, and validation data, concluding that quality is satisfactory under emergency conditions, subject to specific obligations.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.2.4.1",
+                "title": "Active substance",
+                "level": 4,
+                "start_page": 32,
+                "end_page": 33,
+                "summary": "Information on the active substance manufacturing is satisfactory, despite some pending data; comparability between process versions (Process 1 and 2) is discussed, especially regarding mRNA integrity and truncated RNA species.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.4.2",
+                "title": "Finished product",
+                "level": 4,
+                "start_page": 33,
+                "end_page": 35,
+                "summary": "The finished product's quality, including formulation, manufacturing process, and specifications, is considered acceptable, with ongoing validation and characterization studies identified as specific obligations for comprehensive control.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.2.5",
+            "title": "2.2.5. Conclusions on the chemical, pharmaceutical and biological aspects",
+            "level": 3,
+            "start_page": 35,
+            "end_page": 39,
+            "summary": "The quality of Comirnaty is considered sufficiently consistent and acceptable, with identified specific obligations focusing on completing characterization data, enhancing control strategies, and ensuring batch-to-batch consistency for the active substance and finished product.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.2.6",
+            "title": "2.2.6. Recommendations for future quality development",
+            "level": 3,
+            "start_page": 39,
+            "end_page": 40,
+            "summary": "The CHMP recommends several investigations for future quality development, including enhancing microbiological control, implementing functional activity methods, reassessing specifications, and providing further validation and stability data.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.2.6.1",
+                "title": "Active substance",
+                "level": 4,
+                "start_page": 39,
+                "end_page": 40,
+                "summary": "Recommendations for active substance development include implementing better microbiological control, in-house functional activity assays for enzymes, reassessing DNA template purity, and providing comprehensive filter qualification and DNase digestion robustness data.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.2.6.2",
+                "title": "Finished Product",
+                "level": 4,
+                "start_page": 40,
+                "end_page": 41,
+                "summary": "Recommendations for finished product development cover providing updated leachables study results, expanding manufacturing process descriptions, verifying in-process test methods, and submitting photostability and long-term storage data.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "scientific_discussion_2.3",
+        "title": "2.3. Non-clinical aspects",
+        "level": 2,
+        "start_page": 41,
+        "end_page": 55,
+        "summary": "This section evaluates the non-clinical data for Comirnaty, covering GLP inspections, pharmacology, pharmacokinetics, and toxicology studies, and discusses the implications for human safety.",
+        "children": [
+          {
+            "node_id": "scientific_discussion_2.3.1",
+            "title": "GLP inspections",
+            "level": 3,
+            "start_page": 41,
+            "end_page": 41,
+            "summary": "Pivotal toxicological studies were GLP compliant; identified issues in repeat-dose toxicity studies were resolved following audits and additional information from the applicant.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.3.2",
+            "title": "2.3.1. Pharmacology",
+            "level": 3,
+            "start_page": 41,
+            "end_page": 45,
+            "summary": "The pharmacology dossier describes the vaccine's mechanism of action, protein expression, and immune responses in mice and nonhuman primates, supporting its intended function.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.3.2.1",
+                "title": "Mechanism of action",
+                "level": 4,
+                "start_page": 41,
+                "end_page": 42,
+                "summary": "BNT162b2 utilizes nucleoside-modified mRNA encoding the SARS-CoV-2 Spike protein, encapsulated in lipid nanoparticles (LNPs) to induce strong, Th1-biased humoral and cellular immune responses.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.3.2.2",
+                "title": "Primary pharmacodynamic studies",
+                "level": 4,
+                "start_page": 42,
+                "end_page": 45,
+                "summary": "In vitro studies confirmed correct Spike protein expression, while in vivo studies in mice and nonhuman primates demonstrated robust humoral and cellular immune responses, including neutralizing antibodies and T-cell activation.",
+                "children": [
+                  {
+                    "node_id": "scientific_discussion_2.3.2.2.1",
+                    "title": "Primary pharmacodynamic studies in vitro",
+                    "level": 5,
+                    "start_page": 42,
+                    "end_page": 42,
+                    "summary": "In vitro studies with BNT162b2 demonstrated correct cell surface expression of SARS-CoV-2 P2 S protein and authentic presentation of the ACE2 binding site, confirmed by flow cytometry and cryo-electron microscopy.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.3.2.2.2",
+                    "title": "Primary pharmacodynamic studies in vivo",
+                    "level": 5,
+                    "start_page": 43,
+                    "end_page": 45,
+                    "summary": "In vivo studies in mice and rhesus macaques showed BNT162b2 induced strong S1/RBD-binding IgG antibodies, SARS-CoV-2 neutralizing antibodies, and Th1-biased cellular immune responses, leading to reduced viral RNA in challenged macaques.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "scientific_discussion_2.3.2.3",
+                "title": "Secondary pharmacodynamic studies",
+                "level": 4,
+                "start_page": 45,
+                "end_page": 45,
+                "summary": "No secondary pharmacodynamics studies were conducted with BNT162b2, which is deemed acceptable by the CHMP.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.3.2.4",
+                "title": "Safety pharmacology studies",
+                "level": 4,
+                "start_page": 45,
+                "end_page": 45,
+                "summary": "No safety pharmacology studies were conducted as per WHO guidelines, and no findings on vital organ functions were recorded in repeat-dose toxicology studies, making their absence acceptable.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.3.2.5",
+                "title": "Pharmacodynamic drug interactions studies",
+                "level": 4,
+                "start_page": 45,
+                "end_page": 45,
+                "summary": "No pharmacodynamic drug interaction studies were performed, which is agreeable to the CHMP.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.3.3",
+            "title": "2.3.2. Pharmacokinetics",
+            "level": 3,
+            "start_page": 45,
+            "end_page": 48,
+            "summary": "This section details the pharmacokinetics of the novel LNP excipients ALC-0315 and ALC-0159 in rats, including their plasma clearance, tissue distribution, metabolism, and excretion.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.3.3.1",
+                "title": "PK studies with the two novel LNP-excipients ALC-0315 and ALC-0159:",
+                "level": 4,
+                "start_page": 45,
+                "end_page": 46,
+                "summary": "Pharmacokinetic studies in Wistar Han rats showed rapid plasma clearance for ALC-0315 and ALC-0159 within 24 hours, with the liver as the major distribution organ, and slower elimination from the liver for ALC-0315.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.3.3.2",
+                "title": "Biodistribution of a LNP-formulated luciferase surrogate reporter:",
+                "level": 4,
+                "start_page": 46,
+                "end_page": 47,
+                "summary": "Biodistribution studies in mice and rats using a luciferase-encoding modRNA formulated with LNPs showed transient luciferase expression at injection sites and in the liver, with low levels of radioactivity detected in most tissues.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.3.3.3",
+                "title": "Immunogenicity of a LNP formulated luciferase modRNA:",
+                "level": 4,
+                "start_page": 47,
+                "end_page": 47,
+                "summary": "A LNP-formulated luciferase modRNA injected into mice slightly increased levels of MCP-1, IL-6, and IP-10, induced IFN-γ T-cell responses, but did not induce luciferase-specific IgGs.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.3.3.4",
+                "title": "Metabolism of the two novel LNP-excipients ALC-0315 and ALC-0159:",
+                "level": 4,
+                "start_page": 47,
+                "end_page": 48,
+                "summary": "Metabolism studies indicated that ALC-0159 and ALC-0315 are primarily metabolized by hydrolytic reactions across various species, yielding respective breakdown products, with both lipids showing stability in liver microsomes and hepatocytes.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.3.3.5",
+                "title": "Excretion of the two novel LNP-excipients ALC-0315 and ALC-0159:",
+                "level": 4,
+                "start_page": 48,
+                "end_page": 48,
+                "summary": "Excretion studies in rats showed negligible excretion of either lipid in urine; ALC-0315 was minimally excreted in faeces (~1%), while ALC-0159 showed ~50% excretion in faeces.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.3.4",
+            "title": "2.3.3. Toxicology",
+            "level": 3,
+            "start_page": 48,
+            "end_page": 51,
+            "summary": "The toxicology dossier comprises repeat-dose toxicity studies in rats, genotoxicity assessment, reproduction toxicity, and local tolerance, using BNT162b2 variants.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.3.4.1",
+                "title": "Repeat dose toxicity",
+                "level": 4,
+                "start_page": 48,
+                "end_page": 50,
+                "summary": "Repeat-dose toxicity studies in rats showed reversible injection site reactions, enlarged spleen and lymph nodes, reduced reticulocytes, and transient liver vacuolation, all indicative of an immune response.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.3.4.2",
+                "title": "Genotoxicity",
+                "level": 4,
+                "start_page": 50,
+                "end_page": 50,
+                "summary": "No genotoxicity studies were provided as vaccine components (lipids and RNA) are not expected to have genotoxic potential; risk assessment for ALC-0159's acetamide moiety was deemed very low.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.3.4.3",
+                "title": "Reproduction Toxicity",
+                "level": 4,
+                "start_page": 50,
+                "end_page": 51,
+                "summary": "The DART study in rats showed transient reduced body weight gain and food consumption, an increase in pre-implantation loss within historical control data, and no adverse effects on postnatal pups, with SARS-CoV-2 neutralizing antibodies in females and offspring.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.3.4.4",
+                "title": "Local Tolerance",
+                "level": 4,
+                "start_page": 51,
+                "end_page": 51,
+                "summary": "Local tolerance was assessed in repeat-dose toxicity studies, revealing dose-dependent oedema at the injection site that increased in severity with subsequent injections.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.3.5",
+            "title": "2.3.4. Ecotoxicity/environmental risk assessment",
+            "level": 3,
+            "start_page": 51,
+            "end_page": 51,
+            "summary": "Ecotoxicity/environmental risk assessment studies were not provided, as vaccines and lipids are considered unlikely to pose a significant risk to the environment.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.3.6",
+            "title": "2.3.5. Discussion on non-clinical aspects",
+            "level": 3,
+            "start_page": 51,
+            "end_page": 55,
+            "summary": "This section discusses the pharmacology, pharmacokinetics, and toxicology findings, emphasizing the immune-activating mode of action, LNP distribution, and the strong, but reversible, immune responses observed in animal studies.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.3.6.1",
+                "title": "Pharmacology",
+                "level": 4,
+                "start_page": 51,
+                "end_page": 52,
+                "summary": "The LNP-formulated modRNA vaccine BNT162b2 acts by inducing transient local inflammation and APC recruitment, leading to LNP uptake, protein expression, and T cell priming in local lymph nodes, with no observed adverse pharmacological responses.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.3.6.2",
+                "title": "In-vivo pharmacodynamics:",
+                "level": 4,
+                "start_page": 52,
+                "end_page": 53,
+                "summary": "In vivo pharmacodynamics studies in mice and nonhuman primates demonstrated BNT162b2 induced SARS-CoV-2 S-specific neutralizing antibodies and a Th1-driven T-cell response, providing support for the vaccination approach, though species differences limit direct human translation.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.3.6.3",
+                "title": "Pharmacokinetic (regarding the two novel LNP excipients)",
+                "level": 4,
+                "start_page": 53,
+                "end_page": 54,
+                "summary": "The two novel LNP excipients, ALC-0315 and ALC-0159, exhibit distinct pharmacokinetic profiles; ALC-0315 has a persistent presence in the liver, but a large dose differential between toxicity studies and clinical efficacy suggests no significant accumulation with booster doses.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.3.6.4",
+                "title": "Biodistribution",
+                "level": 4,
+                "start_page": 54,
+                "end_page": 54,
+                "summary": "Biodistribution studies in rats showed low but measurable radioactivity in ovaries and testes, which, coupled with absence of gonad toxicity in other studies and a high safety margin, suggests a low risk for humans.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.3.6.5",
+                "title": "Toxicology",
+                "level": 4,
+                "start_page": 54,
+                "end_page": 55,
+                "summary": "Toxicology studies in rats showed reversible immune-linked responses, including injection site reactions and changes in immune cells, with some liver effects attributed to ALC-0315 accumulation; genotoxicity and carcinogenicity studies were deemed unnecessary.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.3.7",
+            "title": "2.3.6. Conclusion on the non-clinical aspects",
+            "level": 3,
+            "start_page": 55,
+            "end_page": 56,
+            "summary": "Non-clinical data indicate no special hazard for humans from repeat dose toxicity and reproductive/developmental toxicity, with observed effects being reversible; no genotoxicity or carcinogenicity studies were deemed necessary.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "scientific_discussion_2.4",
+        "title": "2.4. Clinical aspects",
+        "level": 2,
+        "start_page": 56,
+        "end_page": 67,
+        "summary": "This section introduces the clinical studies, including Phase 1/2 and Phase 1/2/3 trials, and details the pharmacokinetics and pharmacodynamics (immunogenicity) of Comirnaty.",
+        "children": [
+          {
+            "node_id": "scientific_discussion_2.4.1",
+            "title": "2.4.1. Introduction",
+            "level": 3,
+            "start_page": 56,
+            "end_page": 58,
+            "summary": "Pfizer and BioNTech initiated two main studies: the FIH Phase 1 study BNT162-01 in Germany and the pivotal Phase 1/2/3 study C4591001 globally, evaluating the vaccine's safety and immunogenicity.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.4.1.1",
+                "title": "Phase 1/2 Study BNT162-01",
+                "level": 4,
+                "start_page": 56,
+                "end_page": 56,
+                "summary": "Study BNT162-01 is an ongoing FIH Phase 1 dose-finding study in healthy adults, evaluating the safety and immunogenicity of various candidate vaccines at escalating dose levels.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.4.1.2",
+                "title": "Phase 1/2/3 Study C4591001",
+                "level": 4,
+                "start_page": 56,
+                "end_page": 57,
+                "summary": "Study C4591001 is an ongoing, randomized, placebo-controlled, pivotal Phase 1/2/3 study that expanded globally to enroll approximately 44,000 participants, including adolescents and older adults, to assess safety, immunogenicity, and efficacy.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.4.1.3",
+                "title": "GCP",
+                "level": 4,
+                "start_page": 57,
+                "end_page": 57,
+                "summary": "The clinical trials adhered to GCP and ethical standards; inspections by regulatory authorities confirmed compliance, negating the need for further GCP inspection by the CHMP.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.4.2",
+            "title": "2.4.2. Pharmacokinetics",
+            "level": 3,
+            "start_page": 58,
+            "end_page": 58,
+            "summary": "This section on pharmacokinetics is not applicable for this vaccine type, as traditional pharmacokinetic studies were not performed.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.4.3",
+            "title": "2.4.3. Pharmacodynamics",
+            "level": 3,
+            "start_page": 58,
+            "end_page": 66,
+            "summary": "This section evaluates vaccine immunogenicity in clinical studies, detailing the mechanism of action, candidate selection, assays used, and antibody/cellular responses in BNT162-01 and C4591001 trials.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.4.3.1",
+                "title": "Mechanism of action",
+                "level": 4,
+                "start_page": 58,
+                "end_page": 58,
+                "summary": "The vaccine's nucleoside-modified mRNA, formulated in lipid nanoparticles, delivers SARS-CoV-2 S antigen to host cells, eliciting neutralizing antibody and cellular immune responses against COVID-19.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.4.3.2",
+                "title": "Immunogenicity studies",
+                "level": 4,
+                "start_page": 58,
+                "end_page": 58,
+                "summary": "Immunogenicity data from Phase 1/2 studies BNT162-01 and C4591001 informed the selection of BNT162b2, encoding the full-length Spike glycoprotein, for further development.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.4.3.3",
+                "title": "Endpoints and Assays used to evaluate immunogenicity",
+                "level": 4,
+                "start_page": 59,
+                "end_page": 60,
+                "summary": "Immunogenicity was evaluated using SARS-CoV-2 serum neutralization assays, RBD- or S1-binding IgG immunoassays, ELISPOT, and intracellular cytokine staining, with data compared to human convalescent serum panels.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.4.3.4",
+                "title": "Study BNT162-01",
+                "level": 4,
+                "start_page": 60,
+                "end_page": 63,
+                "summary": "Study BNT162-01 assessed immunogenicity, showing dose-dependent neutralizing antibody responses and strong, Th1-biased cellular immunity after two doses of BNT162b1 and BNT162b2.",
+                "children": [
+                  {
+                    "node_id": "scientific_discussion_2.4.3.4.1",
+                    "title": "Immunogenicity - functional antibody responses (secondary objectives)",
+                    "level": 5,
+                    "start_page": 60,
+                    "end_page": 62,
+                    "summary": "Functional antibody titre data from BNT162b1 and BNT162b2 showed dose-dependent increases in virus neutralizing antibody GMTs, with a strong booster response after the second dose.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.4.3.4.2",
+                    "title": "Neutralisation of different spike protein mutants",
+                    "level": 5,
+                    "start_page": 62,
+                    "end_page": 63,
+                    "summary": "Sera from BNT162b1- and BNT162b2-immunized participants efficiently neutralized various SARS-CoV-2 spike protein mutants in a pseudovirus assay, demonstrating the breadth of vaccine-elicited polyclonal antibodies.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.4.3.4.3",
+                    "title": "Cell mediated immunity (CMI)",
+                    "level": 5,
+                    "start_page": 63,
+                    "end_page": 63,
+                    "summary": "Both vaccine candidates elicited clear IFNγ-producing CD4+ and CD8+ T cell responses, predominantly Th1-biased, as measured by ELISPOT and intracellular cytokine staining.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "scientific_discussion_2.4.3.5",
+                "title": "Study C4591001",
+                "level": 4,
+                "start_page": 63,
+                "end_page": 66,
+                "summary": "Study C4591001 evaluated two SARS-CoV-2 RNA vaccine candidates at different dose levels and age groups, selecting BNT162b2 (30 µg, 2-dose schedule) for further testing, with immunogenicity results showing substantial increases in neutralizing antibodies.",
+                "children": [
+                  {
+                    "node_id": "scientific_discussion_2.4.3.5.1",
+                    "title": "Methods",
+                    "level": 5,
+                    "start_page": 63,
+                    "end_page": 63,
+                    "summary": "Immunogenicity data from Study C4591001 Phase 1 and 2 were analyzed using evaluable and all-available immunogenicity populations, reporting GMTs/GMCs, GMFR, GMR, and proportions with ≥4-fold rise for neutralizing and binding antibodies.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.4.3.5.2",
+                    "title": "Results",
+                    "level": 5,
+                    "start_page": 63,
+                    "end_page": 63,
+                    "summary": "Immunogenicity results from Study C4591001 for both BNT162b1 and BNT162b2 vaccine candidates are available for adult age groups up to 1 month post-Dose 2.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.4.3.5.3",
+                    "title": "Immunogenicity results SARS-CoV-2 Neutralizing Titres",
+                    "level": 5,
+                    "start_page": 63,
+                    "end_page": 66,
+                    "summary": "SARS-CoV-2 neutralizing GMTs substantially increased after two doses of BNT162b1 and BNT162b2, with higher GMTs in younger adults compared to older adults, across different dose groups.",
+                    "children": [
+                      {
+                        "node_id": "scientific_discussion_2.4.3.5.3.1",
+                        "title": "BNT162b1",
+                        "level": 6,
+                        "start_page": 63,
+                        "end_page": 64,
+                        "summary": "BNT162b1 administration resulted in modest increases in SARS-CoV-2 neutralizing GMTs after Dose 1, with substantial increases 7 days after Dose 2, though GMTs were lower in older age groups.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "scientific_discussion_2.4.3.5.3.2",
+                        "title": "BNT162b2",
+                        "level": 6,
+                        "start_page": 65,
+                        "end_page": 66,
+                        "summary": "BNT162b2 administration led to increased SARS-CoV-2 neutralizing GMTs after Dose 1 and substantially higher levels 7 days after Dose 2, with similar trends but generally lower GMTs in older age groups.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.4.4",
+            "title": "2.4.4. Discussion on clinical pharmacology",
+            "level": 3,
+            "start_page": 66,
+            "end_page": 67,
+            "summary": "The discussion confirms that two doses of 30 µg BNT162b2 are justified by robust immune responses, including cross-neutralization of spike protein mutants and a Th1-polarised T-cell response, supporting protection against COVID-19.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.4.5",
+            "title": "2.4.5. Conclusions on clinical pharmacology",
+            "level": 3,
+            "start_page": 67,
+            "end_page": 67,
+            "summary": "Clinical pharmacology data support the selection of BNT162b2 and its 2-dose, 30 μg schedule, with long-term immune response data from study C4591001 still pending as a specific obligation.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "scientific_discussion_2.5",
+        "title": "2.5. Clinical efficacy",
+        "level": 2,
+        "start_page": 67,
+        "end_page": 97,
+        "summary": "This section evaluates the clinical efficacy of Comirnaty, detailing dose-response studies and the main pivotal study, including methods, objectives, endpoints, and results.",
+        "children": [
+          {
+            "node_id": "scientific_discussion_2.5.1",
+            "title": "2.5.1. Dose response study",
+            "level": 3,
+            "start_page": 67,
+            "end_page": 67,
+            "summary": "Information on the dose response study can be found in section 2.4.3.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.5.2",
+            "title": "2.5.2. Main study",
+            "level": 3,
+            "start_page": 67,
+            "end_page": 92,
+            "summary": "This subsection provides an in-depth look at Study C4951001, covering its design, participant criteria, treatment, objectives, endpoints, statistical methods, and key efficacy results.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.5.2.1",
+                "title": "Title of study",
+                "level": 4,
+                "start_page": 67,
+                "end_page": 67,
+                "summary": "The main study, C4951001, is a Phase 1/2/3, placebo-controlled, randomized, observer-blind, dose-finding study evaluating the safety, tolerability, immunogenicity, and efficacy of SARS-COV-2 RNA Vaccine Candidates.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.5.2.2",
+                "title": "Methods",
+                "level": 4,
+                "start_page": 67,
+                "end_page": 69,
+                "summary": "The study methods involved randomized participants, specific inclusion/exclusion criteria, and administration of BNT162b2 or placebo, with ongoing updates for expanded supply.",
+                "children": [
+                  {
+                    "node_id": "scientific_discussion_2.5.2.2.1",
+                    "title": "Study Participants",
+                    "level": 5,
+                    "start_page": 67,
+                    "end_page": 68,
+                    "summary": "Main inclusion criteria covered healthy individuals aged 18-85 (Phase 1) or ≥12 years (Phase 2/3), including those with stable pre-existing diseases or at higher risk for COVID-19.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.5.2.2.2",
+                    "title": "Exclusion criteria:",
+                    "level": 5,
+                    "start_page": 68,
+                    "end_page": 68,
+                    "summary": "Exclusion criteria for the study included conditions that increased study risk, severe allergic reactions, prior COVID-19 diagnosis, immunocompromised status, pregnancy/breastfeeding, and prior coronavirus vaccination or immunosuppressive therapy.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.5.2.2.3",
+                    "title": "Treatments",
+                    "level": 5,
+                    "start_page": 69,
+                    "end_page": 69,
+                    "summary": "Participants in Phase 2/3 were randomized 1:1 to receive BNT162b2 at 30 µg or placebo via intramuscular injection, with commercial process vaccine data expected soon to support future supply.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "scientific_discussion_2.5.2.3",
+                "title": "Objectives",
+                "level": 4,
+                "start_page": 69,
+                "end_page": 70,
+                "summary": "The study's primary objectives were to evaluate BNT162b2 efficacy against confirmed COVID-19 and define its safety profile in various participant groups, with secondary objectives including efficacy against severe COVID-19 and immunogenicity.",
+                "children": [
+                  {
+                    "node_id": "scientific_discussion_2.5.2.3.1",
+                    "title": "Primary efficacy objectives",
+                    "level": 5,
+                    "start_page": 69,
+                    "end_page": 69,
+                    "summary": "Primary efficacy objectives were to evaluate prophylactic BNT162b2 against confirmed COVID-19 occurring from 7 days after the second dose in participants with and without prior infection.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.5.2.3.2",
+                    "title": "Primary safety objectives",
+                    "level": 5,
+                    "start_page": 69,
+                    "end_page": 69,
+                    "summary": "Primary safety objectives aimed to define the safety profile of prophylactic BNT162b2 in various randomized participant groups, including those aged 12 to 15 years.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.5.2.3.3",
+                    "title": "Secondary efficacy objectives",
+                    "level": 5,
+                    "start_page": 69,
+                    "end_page": 70,
+                    "summary": "Secondary efficacy objectives included evaluating BNT162b2 against confirmed COVID-19 and severe COVID-19 occurring from 14 days after the second dose, both with and without prior infection, and against CDC-defined symptoms.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.5.2.3.4",
+                    "title": "Secondary immunogenicity objectives",
+                    "level": 5,
+                    "start_page": 70,
+                    "end_page": 70,
+                    "summary": "A secondary immunogenicity objective was to demonstrate noninferiority of immune response in participants aged 12-15 years compared to 16-25 years, with data not yet included in this report.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.5.2.3.5",
+                    "title": "Exploratory objectives",
+                    "level": 5,
+                    "start_page": 70,
+                    "end_page": 70,
+                    "summary": "Exploratory objectives included evaluating immune response persistence over time, non-S immune response to SARS-CoV-2, serological responses in various COVID-19 cases, and safety/immunogenicity in HIV-positive individuals and those receiving different manufacturing processes.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "scientific_discussion_2.5.2.4",
+                "title": "Outcomes/endpoints",
+                "level": 4,
+                "start_page": 70,
+                "end_page": 72,
+                "summary": "The study defined primary and secondary efficacy endpoints based on COVID-19 incidence from 7 or 14 days after the second dose, using specific case definitions and serological testing.",
+                "children": [
+                  {
+                    "node_id": "scientific_discussion_2.5.2.4.1",
+                    "title": "Immunogenicity",
+                    "level": 5,
+                    "start_page": 70,
+                    "end_page": 70,
+                    "summary": "Immunogenicity methods used in Phase 1 and 2 of this study are also employed in Phase 3, but results for Phase 3 are not yet available.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.5.2.4.2",
+                    "title": "Primary Efficacy Endpoints",
+                    "level": 5,
+                    "start_page": 70,
+                    "end_page": 70,
+                    "summary": "The primary efficacy endpoints measure COVID-19 incidence from 7 days after Dose 2 in participants without prior infection and in those with or without prior infection.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.5.2.4.3",
+                    "title": "Secondary Efficacy Endpoints",
+                    "level": 5,
+                    "start_page": 70,
+                    "end_page": 71,
+                    "summary": "Secondary efficacy endpoints include COVID-19 incidence from 14 days after Dose 2 and severe COVID-19 incidence from 7 or 14 days after Dose 2, in participants with or without prior infection.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.5.2.4.4",
+                    "title": "COVID-19 Case Definitions",
+                    "level": 5,
+                    "start_page": 71,
+                    "end_page": 72,
+                    "summary": "Confirmed COVID-19 cases were defined by specific symptoms and a positive SARS-CoV-2 NAAT test, with severe cases requiring additional clinical signs or interventions, and prior infection assessed serologically.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "scientific_discussion_2.5.2.5",
+                "title": "Sample size",
+                "level": 4,
+                "start_page": 72,
+                "end_page": 72,
+                "summary": "The Phase 2/3 study aimed to enroll approximately 44,000 participants to achieve 90% power for demonstrating >30% vaccine efficacy, allowing for early stopping if overwhelming efficacy was observed.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.5.2.6",
+                "title": "Randomisation and Blinding (masking)",
+                "level": 4,
+                "start_page": 72,
+                "end_page": 72,
+                "summary": "Participants were randomized 1:1 to vaccine or placebo, stratified by age, and the study was observer-blind, with exceptions for staff involved in study intervention handling.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.5.2.7",
+                "title": "Efficacy Analysis Methods",
+                "level": 4,
+                "start_page": 73,
+                "end_page": 73,
+                "summary": "Interim analyses were pre-specified to declare overwhelming efficacy if primary endpoints were met, with Bayesian methods and posterior probabilities used to assess vaccine efficacy (VE).",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.5.2.8",
+                "title": "Statistical methods",
+                "level": 4,
+                "start_page": 73,
+                "end_page": 74,
+                "summary": "Efficacy objectives were evaluated using evaluable populations, estimating vaccine effect via a Bayesian approach with a beta-binomial model for VE, and controlling for Type I error across interim and final analyses.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.5.2.9",
+                "title": "Results",
+                "level": 4,
+                "start_page": 74,
+                "end_page": 89,
+                "summary": "The study enrolled over 44,000 subjects across multiple countries, demonstrating high vaccine efficacy (95%) against confirmed COVID-19 and showing consistent immunogenicity and subgroup efficacy.",
+                "children": [
+                  {
+                    "node_id": "scientific_discussion_2.5.2.9.1",
+                    "title": "Recruitment",
+                    "level": 5,
+                    "start_page": 76,
+                    "end_page": 76,
+                    "summary": "The study is ongoing, having enrolled 44,822 subjects across 153 centers in 6 countries worldwide by November 2020.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.5.2.9.2",
+                    "title": "Conduct of the study",
+                    "level": 5,
+                    "start_page": 76,
+                    "end_page": 76,
+                    "summary": "The study underwent several protocol amendments, mainly to expand age groups and add secondary efficacy endpoints, which were deemed acceptable and unlikely to affect efficacy conclusions.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.5.2.9.3",
+                    "title": "Baseline data",
+                    "level": 5,
+                    "start_page": 76,
+                    "end_page": 78,
+                    "summary": "Demographic characteristics were well balanced between study groups, with most participants being White (82.8%) and non-Hispanic/non-Latino (72.7%), and 20.5% having comorbidities.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.5.2.9.4",
+                    "title": "Numbers analysed",
+                    "level": 5,
+                    "start_page": 78,
+                    "end_page": 79,
+                    "summary": "An imbalance in excluded subjects between vaccine and placebo groups, primarily due to dosing/administration errors and product suitability, was noted, but sensitivity analysis showed no significant bias to efficacy results.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.5.2.9.5",
+                    "title": "Outcomes and estimation",
+                    "level": 5,
+                    "start_page": 79,
+                    "end_page": 82,
+                    "summary": "Primary efficacy analysis showed 95.0% VE against confirmed COVID-19 from 7 days after Dose 2 in subjects without prior infection, and 94.6% in subjects with or without prior infection.",
+                    "children": [
+                      {
+                        "node_id": "scientific_discussion_2.5.2.9.5.1",
+                        "title": "Primary Efficacy Endpoints – Final Analysis",
+                        "level": 6,
+                        "start_page": 79,
+                        "end_page": 81,
+                        "summary": "The final analysis for the first primary efficacy endpoint showed 95.0% vaccine efficacy against confirmed COVID-19 from 7 days after Dose 2 in subjects without prior infection, meeting success criteria.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "scientific_discussion_2.5.2.9.5.2",
+                        "title": "All Confirmed Cases of COVID-19 After Dose 1",
+                        "level": 6,
+                        "start_page": 81,
+                        "end_page": 82,
+                        "summary": "Analysis of all confirmed COVID-19 cases after Dose 1 showed that most cases in the BNT162b2 group occurred before Dose 2, and cumulative incidence curves diverged around 14 days after Dose 1.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.5.2.9.6",
+                    "title": "Immunogenicity results",
+                    "level": 5,
+                    "start_page": 83,
+                    "end_page": 84,
+                    "summary": "Immunogenicity analyses showed substantial increases in SARS-CoV-2 neutralizing GMTs and S1-binding IgG GMCs one month after Dose 2 of BNT162b2, with higher responses in younger participants.",
+                    "children": [
+                      {
+                        "node_id": "scientific_discussion_2.5.2.9.6.1",
+                        "title": "SARS-CoV-2 Neutralizing Titres and S1-Binding IgG Concentrations GMTs/GMCs",
+                        "level": 6,
+                        "start_page": 83,
+                        "end_page": 84,
+                        "summary": "One month after Dose 2, BNT162b2 recipients exhibited substantial increases in SARS-CoV-2 neutralizing GMTs and S1-binding IgG GMCs, with younger participants showing higher responses than older participants.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.5.2.9.7",
+                    "title": "Ancillary analyses",
+                    "level": 5,
+                    "start_page": 84,
+                    "end_page": 89,
+                    "summary": "Ancillary analyses showed consistent vaccine efficacy across demographic subgroups and risk statuses, with high efficacy observed even in older age groups and those with comorbidities, though severe COVID-19 cases were limited.",
+                    "children": [
+                      {
+                        "node_id": "scientific_discussion_2.5.2.9.7.1",
+                        "title": "Vaccine Efficacy by Subgroup",
+                        "level": 6,
+                        "start_page": 84,
+                        "end_page": 89,
+                        "summary": "Vaccine efficacy was consistently high across various subgroups, including age (even in >75-year-olds), sex, race/ethnicity, country, and individuals with comorbidities, showing no clinically meaningful differences.",
+                        "children": []
+                      },
+                      {
+                        "node_id": "scientific_discussion_2.5.2.9.7.2",
+                        "title": "Vaccine efficacy for Severe COVID-19 cases, Final analysis",
+                        "level": 6,
+                        "start_page": 89,
+                        "end_page": 90,
+                        "summary": "Estimated VE against severe COVID-19 from 7 days after Dose 2 was 66.4% in participants without prior infection, but the small number of cases meant it did not meet pre-specified success criteria for a reliable conclusion.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "node_id": "scientific_discussion_2.5.2.10",
+                "title": "Summary of main study",
+                "level": 4,
+                "start_page": 90,
+                "end_page": 92,
+                "summary": "This table summarizes the efficacy results from the main clinical study C4591001, providing a concise overview of key findings.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.5.3",
+            "title": "2.5.3. Discussion on clinical efficacy",
+            "level": 3,
+            "start_page": 92,
+            "end_page": 97,
+            "summary": "The discussion affirms the pivotal trial's acceptable design and high vaccine efficacy (95%) against symptomatic COVID-19, consistent across subgroups, but notes limitations regarding protection against severe disease, asymptomatic infection, and transmission.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.5.3.1",
+                "title": "Design and conduct of clinical studies",
+                "level": 4,
+                "start_page": 92,
+                "end_page": 94,
+                "summary": "The pivotal study's design, including randomization, blinding, and primary efficacy endpoint, is acceptable and in line with guidelines, supporting its relevance for establishing vaccine efficacy.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.5.3.2",
+                "title": "Baseline data",
+                "level": 4,
+                "start_page": 94,
+                "end_page": 94,
+                "summary": "Baseline demographic characteristics were well balanced, including a representative population with older adults and those with underlying diseases, supporting broad applicability of study findings.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.5.3.3",
+                "title": "Efficacy data and additional analyses",
+                "level": 4,
+                "start_page": 94,
+                "end_page": 97,
+                "summary": "The final efficacy analysis showed 95.0% protective efficacy in subjects without prior SARS-CoV-2 infection, consistent across subgroups, with partial protection noted after the first dose, and ongoing monitoring for long-term efficacy.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.5.3.4",
+                "title": "Additional efficacy data needed in the context of a conditional MA",
+                "level": 4,
+                "start_page": 97,
+                "end_page": 97,
+                "summary": "The final clinical study report for C4591001, providing long-term data, is required no later than December 2023 as a specific obligation under the conditional marketing authorization.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.5.4",
+            "title": "2.5.4. Conclusions on clinical efficacy",
+            "level": 3,
+            "start_page": 97,
+            "end_page": 97,
+            "summary": "Excellent vaccine efficacy was demonstrated against symptomatic COVID-19, consistent across subgroups. While likely to protect against severe COVID-19, long-term efficacy and impact on asymptomatic infection and transmission are unknown and will be addressed post-authorisation.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "scientific_discussion_2.6",
+        "title": "2.6. Clinical safety",
+        "level": 2,
+        "start_page": 98,
+        "end_page": 114,
+        "summary": "This section evaluates the clinical safety of Comirnaty, based on data from two Phase 1 studies and an ongoing Phase 2/3 study, covering patient exposure, reactogenicity, adverse events, and specific populations.",
+        "children": [
+          {
+            "node_id": "scientific_discussion_2.6.1",
+            "title": "2.6.1. Patient exposure",
+            "level": 3,
+            "start_page": 99,
+            "end_page": 101,
+            "summary": "The safety population included ~43,000 participants, with a high exposure rate to both doses and balanced demographics across vaccine and placebo arms, with a median follow-up of 2 months.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.6.2",
+            "title": "2.6.2. Reactogenicity",
+            "level": 3,
+            "start_page": 101,
+            "end_page": 103,
+            "summary": "Reactogenicity was evaluated in a subset of participants, showing injection site pain as the most common local reaction, and headache and fatigue as the most common systemic events, generally mild-to-moderate and more frequent in younger individuals.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.6.2.1",
+                "title": "Local reactions",
+                "level": 4,
+                "start_page": 101,
+                "end_page": 101,
+                "summary": "Pain at the injection site was the most common local reaction in vaccine recipients, occurring more often in younger subjects, with redness and swelling also reported at lower frequencies, all typically mild-to-moderate and transient.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.6.2.2",
+                "title": "Systemic reactions",
+                "level": 4,
+                "start_page": 102,
+                "end_page": 103,
+                "summary": "Systemic events like fatigue, headache, and muscle pain were more frequent and severe in younger individuals and after the second dose, with onset typically within 2-3 days and lasting 1 day.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.6.3",
+            "title": "2.6.3. Adverse events",
+            "level": 3,
+            "start_page": 103,
+            "end_page": 108,
+            "summary": "The vaccine group reported higher rates of overall and related adverse events, primarily due to reactogenicity, with severe AEs, SAEs, discontinuations, and deaths occurring at low and balanced frequencies across groups.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.6.4",
+            "title": "2.6.4. Serious adverse event/deaths/other significant events",
+            "level": 3,
+            "start_page": 108,
+            "end_page": 109,
+            "summary": "Serious adverse events (SAEs) occurred at low, similar rates in both vaccine and placebo groups, with few considered related to study intervention; six deaths were reported, all deemed unrelated to the vaccine.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.6.4.1",
+                "title": "SAEs",
+                "level": 4,
+                "start_page": 108,
+                "end_page": 108,
+                "summary": "SAEs occurred at low frequencies (0.6%) in both vaccine and placebo groups, with similar rates across age, baseline status, ethnicity, race, or sex subgroups, and included few immune system disorders.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.6.4.2",
+                "title": "SAEs related to study intervention",
+                "level": 4,
+                "start_page": 108,
+                "end_page": 109,
+                "summary": "Only four SAEs in the BNT162b2 group were deemed related to study intervention by the investigator (lymphadenopathy, shoulder injury); ventricular arrhythmia and pain events were not convincingly linked.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.6.4.3",
+                "title": "Death",
+                "level": 4,
+                "start_page": 109,
+                "end_page": 109,
+                "summary": "Six deaths (2 in vaccine, 4 in placebo) were reported in the Phase 2/3 study up to the cut-off date, none considered related to study intervention, with one additional death reported post-cut-off.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.6.5",
+            "title": "2.6.5. Laboratory findings",
+            "level": 3,
+            "start_page": 109,
+            "end_page": 109,
+            "summary": "Laboratory results from Phase 1 studies showed no abnormal findings except for a minor, transient decrease in lymphocyte count in some subjects, which is considered acceptable.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.6.6",
+            "title": "2.6.6. Safety in special populations",
+            "level": 3,
+            "start_page": 109,
+            "end_page": 110,
+            "summary": "Safety findings across age, country, ethnicity, gender, and race subgroups showed no clinically meaningful differences. Data are limited for pregnant and immunocompromised individuals.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.6.6.1",
+                "title": "Pregnancy",
+                "level": 4,
+                "start_page": 109,
+                "end_page": 109,
+                "summary": "Twenty-three pregnancies were reported in the safety database, with nine participants withdrawing from vaccination due to pregnancy, and their outcomes are being followed.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.6.6.2",
+                "title": "Elderly",
+                "level": 4,
+                "start_page": 109,
+                "end_page": 109,
+                "summary": "The Phase 2/3 study included over 40% of subjects aged >55 years, showing slightly lower reactogenicity and AE rates in older individuals, indicating no specific safety concerns for the elderly.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.6.6.3",
+                "title": "Immunocompromised individuals",
+                "level": 4,
+                "start_page": 109,
+                "end_page": 109,
+                "summary": "Safety data from 196 participants with stable HIV infection showed reactogenicity-related AEs but no SAEs, indicating no specific safety concern in this subpopulation, though full immunogenicity and efficacy data are pending.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.6.6.4",
+                "title": "Assessment of paediatric data on clinical safety",
+                "level": 4,
+                "start_page": 110,
+                "end_page": 110,
+                "summary": "Safety data for adolescents (16-17 years) are limited but show no meaningful differences from young adults, while participants aged 12-15 years exhibited comparable local reactogenicity but higher systemic reactogenicity.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.6.7",
+            "title": "2.6.7. Safety related to drug-drug interactions and other interactions",
+            "level": 3,
+            "start_page": 110,
+            "end_page": 110,
+            "summary": "Interaction studies with other vaccines were not performed due to the emergency situation, but the applicant will conduct a post-authorisation co-administration study as indicated in the RMP.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.6.8",
+            "title": "2.6.8. Discontinuation due to adverse events",
+            "level": 3,
+            "start_page": 110,
+            "end_page": 110,
+            "summary": "Discontinuation due to adverse events was low (0.2% in vaccine group, 0.1% in placebo group) and showed no clinically meaningful differences across age or other subgroups.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.6.9",
+            "title": "2.6.9. Post marketing experience",
+            "level": 3,
+            "start_page": 110,
+            "end_page": 111,
+            "summary": "Post-marketing data are not yet available, but initial reports from emergency use authorizations in other countries have documented cases of anaphylactoid reactions that resolved with standard therapy.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.6.10",
+            "title": "2.6.10. Discussion on clinical safety",
+            "level": 3,
+            "start_page": 111,
+            "end_page": 114,
+            "summary": "The discussion summarizes the safety profile, highlighting common reactogenicity, low rates of AEs and SAEs, and specific observations like lymphadenopathy and peripheral facial paralysis, which are included in the SmPC.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.6.10.1",
+                "title": "Assessment of paediatric data on clinical safety",
+                "level": 4,
+                "start_page": 114,
+                "end_page": 114,
+                "summary": "Safety data in adolescents aged 16-17 show no meaningful differences from young adults. Participants aged 12-15 exhibit comparable local reactogenicity but higher systemic reactogenicity, with overall safety extrapolated from young adults.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.6.10.2",
+                "title": "Additional safety data needed in the context of a conditional MA",
+                "level": 4,
+                "start_page": 114,
+                "end_page": 114,
+                "summary": "The final clinical study report for C4591001, providing a 2-year follow-up, is a specific obligation for the conditional MA to address missing long-term safety data.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.6.11",
+            "title": "2.6.11. Conclusions on the clinical safety",
+            "level": 3,
+            "start_page": 114,
+            "end_page": 114,
+            "summary": "The safety profile of Comirnaty is considered favorable, despite missing long-term data and data on specific subgroups; the delivery of the final C4951001 study report is a specific obligation for the conditional marketing authorization.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "scientific_discussion_2.7",
+        "title": "2.7. Risk Management Plan",
+        "level": 2,
+        "start_page": 115,
+        "end_page": 126,
+        "summary": "This section details the Risk Management Plan (RMP) for Comirnaty, outlining safety concerns, pharmacovigilance activities, and risk minimization measures.",
+        "children": [
+          {
+            "node_id": "scientific_discussion_2.7.1",
+            "title": "Safety Specification",
+            "level": 3,
+            "start_page": 115,
+            "end_page": 116,
+            "summary": "The safety specification includes a summary of safety concerns, important identified risks like anaphylaxis, and missing information such as use in pregnant/breastfeeding women and long-term safety.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.7.1.1",
+                "title": "Summary of safety concerns",
+                "level": 4,
+                "start_page": 115,
+                "end_page": 115,
+                "summary": "The applicant's RMP includes a table summarizing the safety concerns identified for Comirnaty, covering important identified risks, important potential risks, and missing information.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.7.1.2",
+                "title": "Risks considered important for inclusion of the summary of safety concerns",
+                "level": 4,
+                "start_page": 115,
+                "end_page": 116,
+                "summary": "Anaphylaxis is an important identified risk, to be followed by routine pharmacovigilance and safety studies. Vaccine-associated enhanced respiratory disease (VAED/VAERD) is an important potential risk requiring investigation.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.7.1.3",
+                "title": "Missing information",
+                "level": 4,
+                "start_page": 115,
+                "end_page": 116,
+                "summary": "Missing information includes use during pregnancy and breastfeeding, long-term safety, interaction with other vaccines, and data on frail, autoimmune, or immunocompromised patients, which will be collected post-authorisation.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.7.1.4",
+                "title": "Risks not considered important for inclusion in the summary of safety concerns",
+                "level": 4,
+                "start_page": 116,
+                "end_page": 116,
+                "summary": "Reactogenicity, being in line with expected vaccine reactions, is not considered an important risk for inclusion in the summary of safety concerns.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.7.2",
+            "title": "Pharmacovigilance Plan",
+            "level": 3,
+            "start_page": 116,
+            "end_page": 122,
+            "summary": "The Pharmacovigilance Plan details routine activities, traceability measures, and additional post-approval studies to monitor Comirnaty's safety and effectiveness.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.7.2.1",
+                "title": "Routine pharmacovigilance activities",
+                "level": 4,
+                "start_page": 116,
+                "end_page": 117,
+                "summary": "Routine activities include a web-based AE reporting portal, weekly signal detection, literature review, regulatory alerts monitoring, specific follow-up questionnaires, and monthly summary safety reports to EMA.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.7.2.2",
+                "title": "Traceability",
+                "level": 4,
+                "start_page": 117,
+                "end_page": 118,
+                "summary": "Traceability measures include SmPC labelling, tracking devices on shipping containers, 2-D barcodes on vaccine cartons, and vaccination reminder cards with peel-off labels to facilitate recording and ensure cold-chain maintenance.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.7.2.3",
+                "title": "Additional pharmacovigilance activities",
+                "level": 4,
+                "start_page": 118,
+                "end_page": 122,
+                "summary": "The applicant proposes 11 additional studies, including 6 interventional and 5 non-interventional studies across Europe and the US, to assess real-world safety, immunogenicity in specific populations, and vaccine effectiveness.",
+                "children": [
+                  {
+                    "node_id": "scientific_discussion_2.7.2.3.1",
+                    "title": "Non-Interventional Post Approval Safety Studies (4)",
+                    "level": 5,
+                    "start_page": 121,
+                    "end_page": 121,
+                    "summary": "Four complementary non-interventional studies using multiple data sources (primary data collection in EU, secondary EHR data in Europe and US) are proposed to assess real-world safety of COVID-19 mRNA vaccine.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.7.2.3.2",
+                    "title": "Interventional studies (6)",
+                    "level": 5,
+                    "start_page": 121,
+                    "end_page": 122,
+                    "summary": "Six interventional studies are planned or ongoing, including the pivotal C4591001, BNT162-01 Cohort 13, and new studies assessing safety and immunogenicity in pregnant women, immunocompromised adults, and co-administration with influenza vaccine.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.7.2.3.3",
+                    "title": "Non-Interventional PASS in Pregnancy",
+                    "level": 5,
+                    "start_page": 122,
+                    "end_page": 122,
+                    "summary": "The strategy to assess vaccination during pregnancy will involve initially leveraging real-world safety studies, with findings from interim analyses informing future dedicated pregnancy outcome studies using established EU research recommendations.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.7.2.3.4",
+                    "title": "Non-Interventional Post-Approval Effectiveness study (1)",
+                    "level": 5,
+                    "start_page": 122,
+                    "end_page": 122,
+                    "summary": "One non-interventional study (test negative design) will evaluate the vaccine's effectiveness against laboratory-confirmed COVID-19 requiring ED or hospital admission in real-world settings, across various demographic groups.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "scientific_discussion_2.7.2.4",
+                "title": "Overall conclusions on the Pharmacovigilance Plan",
+                "level": 4,
+                "start_page": 122,
+                "end_page": 122,
+                "summary": "The proposed post-authorisation pharmacovigilance development plan is deemed sufficient to identify and characterize the risks of the product, with routine pharmacovigilance adequate for monitoring risk minimization measures.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.7.3",
+            "title": "Risk minimisation measures",
+            "level": 3,
+            "start_page": 123,
+            "end_page": 126,
+            "summary": "This section outlines the routine risk minimisation measures, including medication error mitigation strategies and the conclusion that these are sufficient to manage product risks.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.7.3.1",
+                "title": "Routine Risk Minimisation Measures",
+                "level": 4,
+                "start_page": 123,
+                "end_page": 123,
+                "summary": "Routine risk minimization strategies, such as clear SmPC instructions, educational materials, and traceability cards, aim to mitigate potential medication errors related to reconstitution, administration, and storage during mass vaccination campaigns.",
+                "children": [
+                  {
+                    "node_id": "scientific_discussion_2.7.3.1.1",
+                    "title": "Potential Medication Errors",
+                    "level": 5,
+                    "start_page": 123,
+                    "end_page": 123,
+                    "summary": "Mass vaccination campaigns present risks of medication errors related to reconstitution, administration, and storage, which are mitigated by detailed SmPC instructions, posters, brochures, and traceability tools.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "scientific_discussion_2.7.3.2",
+                "title": "Summary of additional risk minimisation measures",
+                "level": 4,
+                "start_page": 123,
+                "end_page": 126,
+                "summary": "No additional risk minimisation measures beyond routine activities are proposed by the applicant, who deems existing routine measures sufficient to manage safety concerns.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.7.3.3",
+                "title": "Overall conclusions on risk minimisation measures",
+                "level": 4,
+                "start_page": 126,
+                "end_page": 126,
+                "summary": "The proposed risk minimisation measures are considered sufficient to effectively minimize the product's risks in its intended indication(s).",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.7.4",
+            "title": "Summary of the risk management plan",
+            "level": 3,
+            "start_page": 127,
+            "end_page": 127,
+            "summary": "The public summary of the Risk Management Plan (RMP) is deemed acceptable.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.7.5",
+            "title": "Conclusion on the RMP",
+            "level": 3,
+            "start_page": 127,
+            "end_page": 127,
+            "summary": "The CHMP and PRAC have concluded that Risk Management Plan version 1.0 is acceptable.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "scientific_discussion_2.8",
+        "title": "2.8. Pharmacovigilance",
+        "level": 2,
+        "start_page": 127,
+        "end_page": 127,
+        "summary": "This section confirms that the pharmacovigilance system meets regulatory requirements and outlines the submission requirements for Periodic Safety Update Reports.",
+        "children": [
+          {
+            "node_id": "scientific_discussion_2.8.1",
+            "title": "Pharmacovigilance system",
+            "level": 3,
+            "start_page": 127,
+            "end_page": 127,
+            "summary": "The CHMP determined that the applicant's pharmacovigilance system summary fulfills the requirements of Article 8(3) of Directive 2001/83/EC.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.8.2",
+            "title": "Periodic Safety Update Reports submission requirements",
+            "level": 3,
+            "start_page": 127,
+            "end_page": 127,
+            "summary": "Periodic safety update reports are required as per Annex II, Section C of the CHMP Opinion, with monthly summary safety reports to be submitted during the pandemic.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "scientific_discussion_2.9",
+        "title": "2.9. Product information",
+        "level": 2,
+        "start_page": 127,
+        "end_page": 129,
+        "summary": "This section details the user consultation for the package leaflet, granted labelling and serialization exemptions, and the inclusion of a QR code and additional monitoring status for Comirnaty.",
+        "children": [
+          {
+            "node_id": "scientific_discussion_2.9.1",
+            "title": "2.9.1. User consultation",
+            "level": 3,
+            "start_page": 127,
+            "end_page": 127,
+            "summary": "User consultation results confirm that the package leaflet meets readability criteria outlined in the relevant guideline.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.9.2",
+            "title": "2.9.2. Labelling exemptions",
+            "level": 3,
+            "start_page": 127,
+            "end_page": 128,
+            "summary": "Several temporary labelling exemptions were granted for US and EU packaging to facilitate rapid deployment, with a transition to EU-compliant labelling planned.",
+            "children": [
+              {
+                "node_id": "scientific_discussion_2.9.2.1",
+                "title": "Labelling exemptions",
+                "level": 4,
+                "start_page": 127,
+                "end_page": 127,
+                "summary": "The following exemptions from labelling and serialization requirements have been granted on the basis of Article 63.3 of Directive 2001/83/EC.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.9.2.2",
+                "title": "US packaging specific derogations (valid for December '20 and January '21)",
+                "level": 4,
+                "start_page": 127,
+                "end_page": 128,
+                "summary": "Temporary exemption allows US packaging in the EU market until February '21, provided a QR code offers access to the national language package leaflet, and separate printed leaflets are supplied to specific Member States.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.9.2.3",
+                "title": "EU packaging specific derogations (from February '21 onwards)",
+                "level": 4,
+                "start_page": 128,
+                "end_page": 128,
+                "summary": "From February '21, EU packaging will have English-only labels and a QR code for national language PLs, with full EU language labelling and printed PLs expected by Q2 2022.",
+                "children": []
+              },
+              {
+                "node_id": "scientific_discussion_2.9.2.4",
+                "title": "Exemption from the obligation of serialisation",
+                "level": 4,
+                "start_page": 128,
+                "end_page": 129,
+                "summary": "Temporary exemptions from serialisation were granted for both US and initial EU packaging, with progress reports and mitigating measures required to ensure future compliance.",
+                "children": [
+                  {
+                    "node_id": "scientific_discussion_2.9.2.4.1",
+                    "title": "US packaging specific derogations (valid for December '20 and January '21)",
+                    "level": 5,
+                    "start_page": 128,
+                    "end_page": 128,
+                    "summary": "US packaging is temporarily exempt from EU serialisation, allowing placement in the EU market with only a Global Trade Item Number (GTIN) printed on the pack.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "scientific_discussion_2.9.2.4.2",
+                    "title": "EU packaging specific derogations (from February until March '21)",
+                    "level": 5,
+                    "start_page": 128,
+                    "end_page": 129,
+                    "summary": "EU packaging is temporarily exempt from serialisation from February until the end of March 2021, with the MAH required to submit progress reports and implement mitigating measures.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "scientific_discussion_2.9.3",
+            "title": "2.9.3. Quick Response (QR) code",
+            "level": 3,
+            "start_page": 129,
+            "end_page": 129,
+            "summary": "Inclusion of a QR code on labelling and the package leaflet has been approved to provide healthcare professionals and vaccine recipients access to comprehensive product information and resources.",
+            "children": []
+          },
+          {
+            "node_id": "scientific_discussion_2.9.4",
+            "title": "2.9.4. Additional monitoring",
+            "level": 3,
+            "start_page": 129,
+            "end_page": 129,
+            "summary": "Comirnaty is subject to additional monitoring as a new active substance and conditional marketing authorization, indicated by an inverted black triangle in the product information to facilitate safety data collection.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "node_id": "benefit_risk_balance_3",
+    "title": "3. Benefit-Risk Balance",
+    "level": 1,
+    "start_page": 130,
+    "end_page": 138,
+    "summary": "This section evaluates the benefit-risk balance of Comirnaty, considering the therapeutic context, favorable and unfavorable effects, associated uncertainties, and the rationale for a conditional marketing authorization.",
+    "children": [
+      {
+        "node_id": "benefit_risk_balance_3.1",
+        "title": "3.1. Therapeutic Context",
+        "level": 2,
+        "start_page": 130,
+        "end_page": 131,
+        "summary": "This subsection describes COVID-19 as a global pandemic with high morbidity and mortality, the urgent unmet medical need for a vaccine, and summarizes the main clinical studies supporting Comirnaty's development.",
+        "children": [
+          {
+            "node_id": "benefit_risk_balance_3.1.1",
+            "title": "3.1.1. Disease or condition",
+            "level": 3,
+            "start_page": 130,
+            "end_page": 130,
+            "summary": "COVID-19, caused by SARS-CoV-2, is a global pandemic marked by respiratory infections ranging from asymptomatic to severe, with widespread thrombosis and ongoing challenges to public health.",
+            "children": []
+          },
+          {
+            "node_id": "benefit_risk_balance_3.1.2",
+            "title": "3.1.2. Available therapies and unmet medical need",
+            "level": 3,
+            "start_page": 130,
+            "end_page": 130,
+            "summary": "Currently, there is no approved vaccine in the EU to prevent COVID-19, highlighting a high global demand and urgent unmet medical need for effective vaccines to curb the pandemic.",
+            "children": []
+          },
+          {
+            "node_id": "benefit_risk_balance_3.1.3",
+            "title": "3.1.3. Main clinical studies",
+            "level": 3,
+            "start_page": 130,
+            "end_page": 131,
+            "summary": "The clinical development includes a Phase 1 dose-finding study (BNT162-01) and a pivotal Phase 1/2/3 study (C4591001) evaluating BNT162b2 at 30 µg, administered as two intramuscular injections, for efficacy, safety, and immunogenicity.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "benefit_risk_balance_3.2",
+        "title": "3.2. Favourable effects",
+        "level": 2,
+        "start_page": 131,
+        "end_page": 132,
+        "summary": "Comirnaty demonstrated excellent vaccine efficacy (95%) against symptomatic laboratory-confirmed COVID-19, consistent across various demographic subgroups and individuals with comorbidities, with robust humoral and T cell-mediated immune responses.",
+        "children": []
+      },
+      {
+        "node_id": "benefit_risk_balance_3.3",
+        "title": "3.3. Uncertainties and limitations about favourable effects",
+        "level": 2,
+        "start_page": 132,
+        "end_page": 132,
+        "summary": "Uncertainties persist regarding the vaccine's efficacy against severe COVID-19, asymptomatic infection, and viral transmission, as well as the duration of protection. Data in immunocompromised, pregnant, and SARS-CoV-2 seropositive individuals are limited.",
+        "children": []
+      },
+      {
+        "node_id": "benefit_risk_balance_3.4",
+        "title": "3.4. Unfavourable effects",
+        "level": 2,
+        "start_page": 132,
+        "end_page": 133,
+        "summary": "Common adverse reactions included injection site pain, fatigue, and headache, usually mild-to-moderate and transient. Lymphadenopathy, nausea, insomnia, injection site pruritus, pain in extremity, and acute peripheral paralysis were also reported with higher incidence in the vaccine group.",
+        "children": []
+      },
+      {
+        "node_id": "benefit_risk_balance_3.5",
+        "title": "Uncertainties and limitations about unfavourable effects",
+        "level": 3,
+        "start_page": 133,
+        "end_page": 134,
+        "summary": "Long-term safety data are not yet available; data are limited for immunocompromised, pregnant, and very elderly individuals. While no autoimmune events were causally linked, rare events cannot be excluded. A theoretical risk of vaccine-associated enhanced disease (VAED) exists, though clinical studies do not indicate this.",
+        "children": []
+      },
+      {
+        "node_id": "benefit_risk_balance_3.6",
+        "title": "3.6. Effects Table",
+        "level": 2,
+        "start_page": 134,
+        "end_page": 135,
+        "summary": "This table summarizes the efficacy and safety outcomes for Comirnaty, providing a concise overview of the key effects observed in clinical trials up to the data cut-off date.",
+        "children": []
+      },
+      {
+        "node_id": "benefit_risk_balance_3.7",
+        "title": "3.7. Benefit-risk assessment and discussion",
+        "level": 2,
+        "start_page": 136,
+        "end_page": 138,
+        "summary": "The overall benefit-risk balance is overwhelmingly positive, particularly for high-risk individuals, despite some uncertainties regarding product characterization and long-term safety, justifying a conditional marketing authorization.",
+        "children": [
+          {
+            "node_id": "benefit_risk_balance_3.7.1",
+            "title": "3.7.1. Importance of favourable and unfavourable effects",
+            "level": 3,
+            "start_page": 136,
+            "end_page": 136,
+            "summary": "Substantial efficacy against symptomatic COVID-19 and an acceptable safety profile have been demonstrated. The benefit-risk balance is positive, especially for high-risk subjects, with uncertainties in product characterization and long-term safety addressed post-authorization.",
+            "children": []
+          },
+          {
+            "node_id": "benefit_risk_balance_3.7.2",
+            "title": "3.7.2. Balance of benefits and risks",
+            "level": 3,
+            "start_page": 136,
+            "end_page": 136,
+            "summary": "Overall, the available data strongly support a positive benefit-risk balance for Comirnaty in its proposed indication.",
+            "children": []
+          },
+          {
+            "node_id": "benefit_risk_balance_3.7.3",
+            "title": "3.7.3. Additional considerations on the benefit-risk balance",
+            "level": 3,
+            "start_page": 137,
+            "end_page": 137,
+            "summary": "Identified uncertainties regarding product characterization and long-term data can be addressed post-authorisation within the context of a conditional MA, given the urgent public health emergency.",
+            "children": []
+          },
+          {
+            "node_id": "benefit_risk_balance_3.7.3.1",
+            "title": "Conditional marketing authorisation",
+            "level": 3,
+            "start_page": 137,
+            "end_page": 138,
+            "summary": "A conditional marketing authorization is justified due to Comirnaty's positive benefit-risk balance, the applicant's commitment to provide comprehensive data, the unmet medical need, and public health benefits outweighing data limitations during the emergency.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "benefit_risk_balance_3.8",
+        "title": "3.8. Conclusions",
+        "level": 2,
+        "start_page": 138,
+        "end_page": 138,
+        "summary": "The overall benefit-risk balance of Comirnaty is positive, and a conditional marketing authorization is relevant and supported given the available data and the provisions of Regulation (EC) No 726/2004.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "recommendations_4",
+    "title": "4. Recommendations",
+    "level": 1,
+    "start_page": 139,
+    "end_page": 140,
+    "summary": "This section outlines the CHMP's recommendations, including the outcome of the assessment, conditions for supply and use, batch release, other marketing authorization requirements, and specific obligations for post-authorisation measures.",
+    "children": [
+      {
+        "node_id": "recommendations_4.1",
+        "title": "Outcome",
+        "level": 3,
+        "start_page": 139,
+        "end_page": 139,
+        "summary": "The CHMP recommends granting a conditional marketing authorization for Comirnaty for active immunisation against COVID-19 in individuals 16 years and older, given its favourable benefit-risk balance.",
+        "children": []
+      },
+      {
+        "node_id": "recommendations_4.2",
+        "title": "Conditions or restrictions regarding supply and use",
+        "level": 3,
+        "start_page": 139,
+        "end_page": 139,
+        "summary": "Comirnaty is subject to medical prescription and requires a time-limited exemption allowing reliance on batch control testing in a third country until 31 August 2021.",
+        "children": []
+      },
+      {
+        "node_id": "recommendations_4.3",
+        "title": "Official batch release",
+        "level": 3,
+        "start_page": 139,
+        "end_page": 139,
+        "summary": "In accordance with Article 114 Directive 2001/83/EC, official batch release will be conducted by a state laboratory or a designated laboratory.",
+        "children": []
+      },
+      {
+        "node_id": "recommendations_4.4",
+        "title": "Other conditions and requirements of the marketing authorisation",
+        "level": 3,
+        "start_page": 139,
+        "end_page": 140,
+        "summary": "This section specifies requirements for Periodic Safety Update Reports and conditions/restrictions regarding the safe and effective use of the medicinal product.",
+        "children": [
+          {
+            "node_id": "recommendations_4.4.1",
+            "title": "Periodic Safety Update Reports",
+            "level": 4,
+            "start_page": 139,
+            "end_page": 139,
+            "summary": "Requirements for submitting Periodic Safety Update Reports (PSURs) for Comirnaty are outlined in the EURD list, with the first report due within 6 months of authorization.",
+            "children": []
+          },
+          {
+            "node_id": "recommendations_4.4.2",
+            "title": "Conditions or restrictions with regard to the safe and effective use of the medicinal product",
+            "level": 4,
+            "start_page": 140,
+            "end_page": 140,
+            "summary": "The MAH must perform pharmacovigilance activities and interventions detailed in the agreed Risk Management Plan (RMP).",
+            "children": [
+              {
+                "node_id": "recommendations_4.4.2.1",
+                "title": "Risk Management Plan (RMP)",
+                "level": 5,
+                "start_page": 140,
+                "end_page": 140,
+                "summary": "The MAH is obligated to execute pharmacovigilance activities and interventions outlined in the approved Risk Management Plan (RMP) and its subsequent updates.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "recommendations_4.5",
+        "title": "Specific Obligation to complete post-authorisation measures for the conditional marketing authorisation",
+        "level": 3,
+        "start_page": 140,
+        "end_page": 140,
+        "summary": "As a conditional marketing authorization, the MAH is specifically obligated to complete stated post-authorisation measures within defined timeframes, ensuring comprehensive data collection.",
+        "children": []
+      },
+      {
+        "node_id": "recommendations_4.6",
+        "title": "New Active Substance Status",
+        "level": 3,
+        "start_page": 140,
+        "end_page": 140,
+        "summary": "The CHMP recognizes the mRNA component of Comirnaty as a new active substance, not previously authorized within the European Union.",
+        "children": []
+      }
+    ]
+  }
+]

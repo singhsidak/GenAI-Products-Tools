@@ -1,0 +1,48 @@
+\documentclass[12pt, a4paper]{article}
+\usepackage{fontspec}
+\usepackage[margin=1in, left=1.25in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{parskip}
+\usepackage{needspace}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{amsmath}
+\usepackage{calc}
+\usepackage{ragged2e}
+
+% Allow longtable to break across pages naturally
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+
+% Wrap text in table cells
+\newcolumntype{L}[1]{>{\RaggedRight\arraybackslash}p{#1}}
+
+\setmainfont{TeX Gyre Termes}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue,
+    bookmarks=true,
+    bookmarksnumbered=true,
+    bookmarksdepth=3,
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\setcounter{secnumdepth}{0}
+
+\begin{document}
+
+$body$
+\end{document}

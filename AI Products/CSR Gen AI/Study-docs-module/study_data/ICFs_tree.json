@@ -1,0 +1,412 @@
+[
+  {
+    "node_id": "cover_letter_1",
+    "title": "PARTICIPANT INFORMATION SHEET AND CONSENT DOCUMENT COVER LETTER",
+    "level": 1,
+    "start_page": 1,
+    "end_page": 2,
+    "summary": "This document is a cover letter for the Participant Information Sheet and Consent Document, inviting individuals to consider joining a study with their unborn baby. It emphasizes voluntary participation, ensures standard care will not be affected, and encourages discussion with healthcare providers before signing the consent form.",
+    "children": []
+  },
+  {
+    "node_id": "main_doc_2",
+    "title": "PARTICIPANT INFORMATION SHEET AND CONSENT DOCUMENT TO TAKE PART IN STUDY",
+    "level": 1,
+    "start_page": 2,
+    "end_page": 36,
+    "summary": "This is the main participant information sheet and consent document that details the purpose, procedures, risks, benefits, and privacy considerations for participating in a clinical study involving a SARS-CoV-2 RNA vaccine for healthy pregnant women and their babies.",
+    "children": [
+      {
+        "node_id": "main_doc_2.1",
+        "title": "Table of Contents",
+        "level": 2,
+        "start_page": 2,
+        "end_page": 3,
+        "summary": "This section serves as a Table of Contents, outlining the various parts of the information sheet and consent document to guide participants through the detailed study information.",
+        "children": []
+      },
+      {
+        "node_id": "main_doc_2.2",
+        "title": "1. Key Study Information and Contact Information",
+        "level": 2,
+        "start_page": 3,
+        "end_page": 4,
+        "summary": "This section provides essential contact details for the study team, including the principal investigators and PALS, along with key study identifiers such as the name, sponsor, and various registration numbers, to ensure participants have access to support and information.",
+        "children": []
+      },
+      {
+        "node_id": "main_doc_2.3",
+        "title": "2. Brief Summary of this Study",
+        "level": 2,
+        "start_page": 4,
+        "end_page": 6,
+        "summary": "This section offers a concise overview of the study, detailing the investigational COVID-19 vaccine's development, its emergency use authorization for non-pregnant individuals, and the study's aim to assess its safety and benefits for pregnant women and their babies, including the placebo-controlled, two-dose design.",
+        "children": []
+      },
+      {
+        "node_id": "main_doc_2.4",
+        "title": "3. What is the purpose of this study?",
+        "level": 2,
+        "start_page": 6,
+        "end_page": 7,
+        "summary": "The primary purpose of this study is to investigate the safety and immunogenicity of the COVID-19 vaccine in pregnant women and their unborn babies, and to assess its effectiveness in preventing COVID-19 in this population.",
+        "children": []
+      },
+      {
+        "node_id": "main_doc_2.5",
+        "title": "4. How long will my baby and I be in the study?",
+        "level": 2,
+        "start_page": 7,
+        "end_page": 7,
+        "summary": "Participants will be in the study for approximately 7-10 months, while their babies will be followed for up to 6 months, with the exact duration depending on the timing of birth and whether the mother received the investigational vaccine or placebo during pregnancy.",
+        "children": []
+      },
+      {
+        "node_id": "main_doc_2.6",
+        "title": "5. How many people will take part in this study?",
+        "level": 2,
+        "start_page": 7,
+        "end_page": 7,
+        "summary": "Approximately 700 healthy pregnant women and their unborn babies will participate in this study globally, with about 62 women enrolled in the United Kingdom.",
+        "children": []
+      },
+      {
+        "node_id": "main_doc_2.7",
+        "title": "6. What will happen during this study?",
+        "level": 2,
+        "start_page": 7,
+        "end_page": 19,
+        "summary": "This section details the entire study process, outlining the scheduled visits, injections, and assessments for both mothers and babies, from screening through post-delivery follow-up, and explains potential additional visits for health monitoring.",
+        "children": [
+          {
+            "node_id": "main_doc_2.7.1",
+            "title": "Study Vaccines – When you are pregnant",
+            "level": 3,
+            "start_page": 9,
+            "end_page": 9,
+            "summary": "Pregnant participants will be randomly assigned to receive either the investigational COVID-19 vaccine or a placebo through an observer-blind injection into the upper arm, with two doses administered approximately three weeks apart, followed by a 30-minute observation period.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.7.2",
+            "title": "Study Vaccines – After your baby is born",
+            "level": 3,
+            "start_page": 9,
+            "end_page": 9,
+            "summary": "After birth, participants will be informed if they received the vaccine or placebo during pregnancy; those who received the placebo will then be given two doses of the investigational COVID-19 vaccine about one month postpartum.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.7.3",
+            "title": "Overview of Study Procedures and Assessments",
+            "level": 3,
+            "start_page": 10,
+            "end_page": 14,
+            "summary": "This section introduces a series of tables that summarize all planned study visits, tests, and procedures for both pregnant women and their babies, also mentioning the possibility of extra visits if health concerns arise.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.7.4",
+            "title": "Your blood samples for antibody testing",
+            "level": 3,
+            "start_page": 14,
+            "end_page": 14,
+            "summary": "Participants will provide 5-6 blood samples (20mL each) from their arm during clinic visits and potentially extra samples if they experience COVID-19-like symptoms, to test for coronavirus antibodies.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.7.5",
+            "title": "Your Baby's Blood samples for antibody testing",
+            "level": 3,
+            "start_page": 14,
+            "end_page": 15,
+            "summary": "Blood samples will be collected from the baby's umbilical cord at birth and from the baby at 6 months old (up to 5mL), with additional samples taken if the baby develops COVID-19-like symptoms, to test for antibodies.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.7.6",
+            "title": "E-Diary",
+            "level": 3,
+            "start_page": 15,
+            "end_page": 16,
+            "summary": "Participants will use an electronic diary (e-Diary) to record weekly COVID-19 symptoms for themselves and their babies, and to track vaccination-related side effects daily for seven days post-injection, using provided thermometer and measuring device.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.7.7",
+            "title": "If You Get COVID-19 Symptoms",
+            "level": 3,
+            "start_page": 16,
+            "end_page": 17,
+            "summary": "Participants must immediately contact the study doctor if they develop specific COVID-19 symptoms, leading to telephone, video, or in-person consultations, nose swabs for testing, and a follow-up blood test about one month later.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.7.8",
+            "title": "What happens if I have a positive nose swab test result?",
+            "level": 3,
+            "start_page": 17,
+            "end_page": 18,
+            "summary": "This section clarifies that a positive nose swab result before the second vaccination will not prevent receiving it, and that placebo recipients with a positive test will still receive the COVID-19 vaccine after birth; all positive results are reported to NHS track and trace.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.7.9",
+            "title": "If Your Baby Gets COVID-19 Symptoms",
+            "level": 3,
+            "start_page": 18,
+            "end_page": 19,
+            "summary": "Parents must contact the study doctor immediately if their baby shows COVID-19 symptoms, initiating consultations, potential nose swabs, and a follow-up blood test about a month later to check antibody levels.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.7.10",
+            "title": "Leaving the Study Early",
+            "level": 3,
+            "start_page": 19,
+            "end_page": 19,
+            "summary": "Participation is entirely voluntary; participants or their babies can withdraw at any time without needing to provide a reason, or may be withdrawn from the study by the investigator for safety or compliance reasons.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.7.11",
+            "title": "After the study",
+            "level": 3,
+            "start_page": 19,
+            "end_page": 19,
+            "summary": "The investigational vaccine is only available during the study; however, participants may be able to receive it as part of standard care if it has been granted emergency use authorization for non-pregnant adults.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "main_doc_2.8",
+        "title": "7. Are there any special instructions to follow for this study?",
+        "level": 2,
+        "start_page": 19,
+        "end_page": 20,
+        "summary": "Participants must follow all instructions from the study team, report any health changes, medication use, technical issues with the e-diary, or participation in other studies, and inform other healthcare providers of their study involvement.",
+        "children": []
+      },
+      {
+        "node_id": "main_doc_2.9",
+        "title": "8. What are the possible risks and discomforts of this study?",
+        "level": 2,
+        "start_page": 20,
+        "end_page": 23,
+        "summary": "This section outlines the potential risks and discomforts for both the mother and baby, covering vaccine-related side effects and risks associated with study procedures, emphasizing the importance of reporting all symptoms.",
+        "children": [
+          {
+            "node_id": "main_doc_2.9.1",
+            "title": "Study Vaccine Risks",
+            "level": 3,
+            "start_page": 20,
+            "end_page": 22,
+            "summary": "Details known risks of the BNT162b2 vaccine, categorized by frequency (very common to rare), including injection site pain, fatigue, fever, and rare occurrences of myocarditis/pericarditis, advising immediate medical attention for heart-related symptoms.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.9.2",
+            "title": "If I catch COVID-19 disease, could the vaccine make it worse?",
+            "level": 3,
+            "start_page": 22,
+            "end_page": 22,
+            "summary": "Addresses concerns that the vaccine might exacerbate COVID-19 illness, noting that while this has been observed with some other vaccines in animals, it has not been seen with BNT162b2 to date.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.9.3",
+            "title": "Placebo Risks",
+            "level": 3,
+            "start_page": 22,
+            "end_page": 22,
+            "summary": "Explains that the placebo injection, a saline solution, carries a lower risk of side effects compared to the active vaccine, with reported discomforts limited to minor injection site reactions like pain or bruising.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.9.4",
+            "title": "Risks from Study Procedures",
+            "level": 3,
+            "start_page": 22,
+            "end_page": 23,
+            "summary": "Outlines potential discomforts and minor risks associated with study procedures, such as pain, bruising, or infection from blood samples, and pain, discomfort, or nosebleeds from nose swabs.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.9.5",
+            "title": "What will happen to our blood and nose swab samples?",
+            "level": 3,
+            "start_page": 23,
+            "end_page": 23,
+            "summary": "Blood and nose swab samples will be used for research, coded for anonymity, and some may be stored for up to 15 years for future product development; participants can request destruction of identifiable samples.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "main_doc_2.10",
+        "title": "9. What are possible benefits of this study?",
+        "level": 2,
+        "start_page": 23,
+        "end_page": 23,
+        "summary": "While the investigational vaccine has shown efficacy in other populations, its benefits for pregnant women and their babies are still being evaluated, so participants are advised to continue following local COVID-19 prevention guidelines.",
+        "children": []
+      },
+      {
+        "node_id": "main_doc_2.11",
+        "title": "10. What other choices do I have if my baby and I do not join this study?",
+        "level": 2,
+        "start_page": 23,
+        "end_page": 23,
+        "summary": "The main alternative to participating in this research study is not to join, with the option to receive a COVID-19 vaccine through standard medical care if and when one becomes available for pregnant women.",
+        "children": []
+      },
+      {
+        "node_id": "main_doc_2.12",
+        "title": "11. What happens if my baby and I are injured during this study?",
+        "level": 2,
+        "start_page": 23,
+        "end_page": 24,
+        "summary": "Emergency medical treatment for any research-related injury will be provided free of charge, and compensation may be available, assessed according to the Association of the British Pharmaceutical Industry (ABPI) guidelines.",
+        "children": []
+      },
+      {
+        "node_id": "main_doc_2.13",
+        "title": "12. What if I join this study and then change my mind?",
+        "level": 2,
+        "start_page": 24,
+        "end_page": 25,
+        "summary": "Participants are free to withdraw themselves or their baby from the study at any time, though some data collection may continue; the study team or sponsor may also withdraw participants under certain circumstances.",
+        "children": []
+      },
+      {
+        "node_id": "main_doc_2.14",
+        "title": "13. What will I have to pay for taking part in this study?",
+        "level": 2,
+        "start_page": 25,
+        "end_page": 25,
+        "summary": "Participants will not incur any costs for the study vaccines (investigational or placebo), study-related procedures, or scheduled study visits.",
+        "children": []
+      },
+      {
+        "node_id": "main_doc_2.15",
+        "title": "14. Will I be paid for taking part in this study?",
+        "level": 2,
+        "start_page": 25,
+        "end_page": 26,
+        "summary": "Participants will not receive direct payment for participation but will be reimbursed for reasonable study-related expenses (e.g., travel, meals) through an optional Greenphire program, which involves the processing of personal data.",
+        "children": [
+          {
+            "node_id": "main_doc_2.15.1",
+            "title": "ClinCard",
+            "level": 3,
+            "start_page": 25,
+            "end_page": 25,
+            "summary": "Explains that reimbursement for study expenses is managed via a Greenphire ClinCard, a debit card that requires personal information like patient ID, name, address, and date of birth for issuance and fund loading.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.15.2",
+            "title": "Email and/or Text Messaging",
+            "level": 3,
+            "start_page": 25,
+            "end_page": 26,
+            "summary": "Participants have the option to receive study-related updates, such as appointment reminders and payment alerts, via text message or email, which requires providing a mobile phone number and/or email address.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "main_doc_2.16",
+        "title": "15. Will the confidentiality of mine and my baby's medical records be maintained?",
+        "level": 2,
+        "start_page": 26,
+        "end_page": 27,
+        "summary": "Confidentiality of medical records will be maintained by replacing identifying information with a unique code before sharing with BioNTech/Pfizer and regulatory authorities; direct identification information may leave the site under specific, limited circumstances to support study logistics.",
+        "children": []
+      },
+      {
+        "node_id": "main_doc_2.17",
+        "title": "16. Where can I find additional information about this study or the study results?",
+        "level": 2,
+        "start_page": 27,
+        "end_page": 28,
+        "summary": "Participants can find information about the clinical trial and its results on public websites like ClinicalTrials.gov, pfizer.com, and clinicaltrialsregister.eu; individual study results may be shared with participants or their doctors as per applicable law.",
+        "children": []
+      },
+      {
+        "node_id": "main_doc_2.18",
+        "title": "17. Consent Form",
+        "level": 2,
+        "start_page": 28,
+        "end_page": 30,
+        "summary": "This section is the formal consent form for participants to sign, acknowledging their understanding of the study and agreement to participate, including the transfer of their information outside the UK and EEA.",
+        "children": []
+      },
+      {
+        "node_id": "main_doc_2.19",
+        "title": "Privacy Supplement",
+        "level": 2,
+        "start_page": 31,
+        "end_page": 36,
+        "summary": "This supplement details how BioNTech/Pfizer will process personal and sensitive information gathered during the study, outlining data collection, use, sharing, and retention in compliance with privacy laws.",
+        "children": [
+          {
+            "node_id": "main_doc_2.19.1",
+            "title": "A. What information may be collected about you/your baby during this study?",
+            "level": 3,
+            "start_page": 31,
+            "end_page": 32,
+            "summary": "This section lists the types of personal and sensitive information, including demographics, medical history, study data, and biological samples, that will be collected and accessed by the study team, sponsors, and regulatory authorities to conduct the study.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.19.2",
+            "title": "B. What happens to my/my baby's information that is sent outside the study site?",
+            "level": 3,
+            "start_page": 32,
+            "end_page": 34,
+            "summary": "Coded information will be shared with BioNTech/Pfizer and other entities, including those in countries with different data privacy laws, for study conduct, regulatory compliance, and publication, with safeguards in place to protect privacy.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.19.3",
+            "title": "C. How are my/my baby's biological samples and images handled?",
+            "level": 3,
+            "start_page": 34,
+            "end_page": 34,
+            "summary": "Data derived from biological samples and images collected from participants and their babies during the study will be handled in the same confidential manner as other coded information, in compliance with applicable laws.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.19.4",
+            "title": "D. Can my/my baby's personal information be used for other research?",
+            "level": 3,
+            "start_page": 34,
+            "end_page": 35,
+            "summary": "BioNTech/Pfizer has a legitimate interest in using coded information for future scientific research beyond this study's objectives to advance public health and improve medicines, with specific safeguards applied to protect participant data.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.19.5",
+            "title": "E. What are my data protection rights?",
+            "level": 3,
+            "start_page": 35,
+            "end_page": 35,
+            "summary": "Participants have rights to access, change, move, delete, or object to the use of their or their baby's information, with instructions on how to exercise these rights or file complaints with data protection authorities.",
+            "children": []
+          },
+          {
+            "node_id": "main_doc_2.19.6",
+            "title": "F. What happens to my/my baby's information if I do not wish to continue with the study?",
+            "level": 3,
+            "start_page": 35,
+            "end_page": 36,
+            "summary": "Upon withdrawal, no new information or samples will be collected, but BioNTech/Pfizer may continue to use previously collected coded and anonymized data to comply with legal obligations and maintain study integrity.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

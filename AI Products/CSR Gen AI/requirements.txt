@@ -1,0 +1,10 @@
+mistralai
+google-genai
+python-dotenv
+pydantic
+google-adk
+pypandoc
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-multipart

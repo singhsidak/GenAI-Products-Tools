@@ -1,0 +1,1651 @@
+[
+  {
+    "node_id": "1",
+    "title": "VERSION HISTORY",
+    "level": 1,
+    "start_page": 9,
+    "end_page": 9,
+    "summary": "This section provides a summary of all changes made to the Statistical Analysis Plan (SAP) over its various versions, detailing modifications to the document.",
+    "children": []
+  },
+  {
+    "node_id": "2",
+    "title": "INTRODUCTION",
+    "level": 1,
+    "start_page": 9,
+    "end_page": 24,
+    "summary": "This section introduces the Statistical Analysis Plan for Study C4591001, outlining the detailed methodology for data summary and statistical analyses. It also specifies that any major modifications to primary endpoints or their analyses will be reflected in a protocol amendment.",
+    "children": [
+      {
+        "node_id": "2.1",
+        "title": "Study Objectives, Endpoints, and Estimands",
+        "level": 2,
+        "start_page": 9,
+        "end_page": 17,
+        "summary": "This subsection details the primary, secondary, and tertiary/exploratory objectives, their corresponding endpoints, and estimands for both Phase 1 and Phase 2/3 of the study. It also outlines conventions for handling missing data in safety, immunogenicity, and efficacy evaluations.",
+        "children": []
+      },
+      {
+        "node_id": "2.2",
+        "title": "Study Design",
+        "level": 2,
+        "start_page": 18,
+        "end_page": 24,
+        "summary": "This section describes the overall design of the multicenter, multinational, Phase 1/2/3 study, including randomization, placebo control, observer-blinding, and dose-finding aspects. It also provides details on the progression between study phases and amendments related to booster doses and emerging SARS-CoV-2 variants.",
+        "children": [
+          {
+            "node_id": "2.2.1",
+            "title": "Overall Design",
+            "level": 3,
+            "start_page": 18,
+            "end_page": 18,
+            "summary": "This section outlines the overarching structure of the Phase 1/2/3 study, including its randomized, placebo-controlled, observer-blind, and dose-finding nature. It details the evaluation of two SARS-CoV-2 RNA vaccine candidates and the efficacy of one candidate across different dose levels and age groups.",
+            "children": []
+          },
+          {
+            "node_id": "2.2.2",
+            "title": "Phase 1",
+            "level": 3,
+            "start_page": 19,
+            "end_page": 20,
+            "summary": "This subsection describes the Phase 1 design, focusing on identifying preferred vaccine candidates and dose levels through evaluation of 13 groups of 15 participants each. It details safety assessments, controlled enrollment procedures, stopping rules, and the selection process for progression to Phase 2/3.",
+            "children": []
+          },
+          {
+            "node_id": "2.2.3",
+            "title": "Phase 2/3",
+            "level": 3,
+            "start_page": 21,
+            "end_page": 24,
+            "summary": "This section outlines the expanded Phase 2/3 cohort and efficacy part of the study, describing the selection of BNT162b2 at 30 µg, the target participant population (≥12 years, stratified by age), and the event-driven nature of efficacy assessment. It also details sample size calculations, immunogenicity bridging assessments, and various protocol amendments related to booster doses and variant strains.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "node_id": "3",
+    "title": "ENDPOINTS AND BASELINE VARIABLES: DEFINITIONS AND CONVENTIONS",
+    "level": 1,
+    "start_page": 25,
+    "end_page": 39,
+    "summary": "This section provides comprehensive definitions and conventions for all endpoints and baseline variables used in the study, covering safety, immunogenicity, and vaccine efficacy. It details how data will be collected, graded, and processed for analysis.",
+    "children": [
+      {
+        "node_id": "3.1",
+        "title": "Primary Endpoints",
+        "level": 2,
+        "start_page": 25,
+        "end_page": 34,
+        "summary": "This subsection defines the primary safety, immunogenicity, and vaccine efficacy endpoints for various phases and subsets of the study. It specifies the timing and type of data collection for each endpoint, ranging from local reactions to COVID-19 incidence.",
+        "children": [
+          {
+            "node_id": "3.1.1",
+            "title": "Safety Endpoints",
+            "level": 3,
+            "start_page": 25,
+            "end_page": 33,
+            "summary": "This section outlines primary safety endpoints including local reactions, systemic events, adverse events (AEs), serious adverse events (SAEs), and hematology/chemistry parameters. It specifies collection periods, definitions, and grading scales for these events across different study phases and participant cohorts.",
+            "children": [
+              {
+                "node_id": "3.1.1.1",
+                "title": "Local Reactions",
+                "level": 4,
+                "start_page": 26,
+                "end_page": 27,
+                "summary": "This subsection details the assessment and derivation of local reactions (redness, swelling, pain) at the injection site within 7 days post-vaccination. It describes the methods for determining presence, maximum severity, duration, and onset day of these reactions using an e-diary and a specific grading scale.",
+                "children": []
+              },
+              {
+                "node_id": "3.1.1.2",
+                "title": "Systemic Events (Systemic Event Symptoms and Fever)",
+                "level": 4,
+                "start_page": 28,
+                "end_page": 29,
+                "summary": "This section defines systemic events (vomiting, diarrhea, headache, fatigue, chills, muscle/joint pain) and fever, assessed via e-diary for 7 days post-vaccination. It outlines how presence, severity, duration, and onset day are derived, along with a grading scale for symptoms and temperature ranges for fever.",
+                "children": []
+              },
+              {
+                "node_id": "3.1.1.3",
+                "title": "Use of Antipyretic Medication",
+                "level": 4,
+                "start_page": 30,
+                "end_page": 30,
+                "summary": "This section describes the recording and derivation of variables related to the use of antipyretic medication within 7 days after each vaccine dose. It includes presence (yes/no), duration, and onset day, with summaries to be included in systemic event tables but not considered systemic events themselves.",
+                "children": []
+              },
+              {
+                "node_id": "3.1.1.4",
+                "title": "Adverse Events",
+                "level": 4,
+                "start_page": 30,
+                "end_page": 30,
+                "summary": "This subsection defines the collection periods for Adverse Events (AEs), which vary depending on the study phase and participant cohort. It specifies that AEs will be collected from informed consent through specific time points after the last dose, with a 3-tier classification approach for Phase 2/3 analyses.",
+                "children": []
+              },
+              {
+                "node_id": "3.1.1.5",
+                "title": "Serious Adverse Events",
+                "level": 4,
+                "start_page": 31,
+                "end_page": 31,
+                "summary": "This section details the collection periods for Serious Adverse Events (SAEs), extending from informed consent up to 6 months after the second dose or other specified periods for booster doses. It clarifies that SAEs will be summarized by System Organ Class (SOC) and Preferred Term (PT) at the participant level.",
+                "children": []
+              },
+              {
+                "node_id": "3.1.1.6",
+                "title": "Hematology and Chemistry Laboratory Parameters (for Phase 1 Only)",
+                "level": 4,
+                "start_page": 32,
+                "end_page": 33,
+                "summary": "This section outlines additional primary safety endpoints specific to Phase 1, focusing on abnormal hematology and chemistry laboratory values and grading shifts. It specifies assessment time points after Dose 1 and Dose 2, and details the grading scale for clinically significant abnormalities.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "3.1.2",
+            "title": "Immunogenicity Endpoints (for the Phase 2/3 Subset for Evaluation of Boostability and Protection Against Emerging VOCs Only)",
+            "level": 3,
+            "start_page": 34,
+            "end_page": 34,
+            "summary": "This subsection defines primary immunogenicity endpoints for the Phase 2/3 subset evaluating boostability and protection against emerging Variants of Concern (VOCs). These include SARS-CoV-2 reference strain and SA variant neutralizing titers, with provisions for adjusting anti-SA NTs for comparability and handling values below the LLOQ.",
+            "children": []
+          },
+          {
+            "node_id": "3.1.3",
+            "title": "Vaccine Efficacy Endpoints (for Phase 2/3 Only)",
+            "level": 3,
+            "start_page": 34,
+            "end_page": 34,
+            "summary": "This section defines the primary vaccine efficacy endpoints for Phase 2/3, focusing on COVID-19 incidence per 1000 person-years of follow-up. It specifies the counting of cases from 7 days after the second dose, both in participants without prior infection evidence and in the general population.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "3.2",
+        "title": "Secondary Endpoints",
+        "level": 2,
+        "start_page": 34,
+        "end_page": 35,
+        "summary": "This section defines the secondary immunogenicity and vaccine efficacy endpoints for both Phase 1 and Phase 2/3 of the study. It includes various neutralizing titers, IgG levels, and COVID-19 incidence rates under different criteria and follow-up periods.",
+        "children": [
+          {
+            "node_id": "3.2.1",
+            "title": "Immunogenicity Endpoints",
+            "level": 3,
+            "start_page": 34,
+            "end_page": 34,
+            "summary": "This subsection outlines secondary immunogenicity endpoints for Phase 1 and Phase 2/3, including SARS-CoV-2 neutralizing titers, S1-binding IgG, and RBD-binding IgG levels at various time points. For Phase 2/3, it specifically includes reference and SA strain NTs for boostability assessment.",
+            "children": []
+          },
+          {
+            "node_id": "3.2.2",
+            "title": "Vaccine Efficacy Endpoints (for Phase 2/3 Only)",
+            "level": 3,
+            "start_page": 35,
+            "end_page": 35,
+            "summary": "This section defines secondary vaccine efficacy endpoints for Phase 2/3, including COVID-19 incidence based on varying follow-up periods and prior infection status. It also covers confirmed severe COVID-19 incidence, CDC-defined COVID-19 symptoms, and asymptomatic SARS-CoV-2 infection based on antibody seroconversion or NAAT.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "3.3",
+        "title": "Exploratory Endpoints",
+        "level": 2,
+        "start_page": 36,
+        "end_page": 37,
+        "summary": "This section details the exploratory endpoints, encompassing additional safety, vaccine efficacy, and immunogenicity assessments. These endpoints provide further insights beyond the primary and secondary objectives, particularly for boostability, variant protection, and specific participant subgroups.",
+        "children": [
+          {
+            "node_id": "3.3.1",
+            "title": "Safety Endpoints (for Phase 1 Boostability Assessment Only)",
+            "level": 3,
+            "start_page": 36,
+            "end_page": 36,
+            "summary": "This subsection lists exploratory safety endpoints specifically for the Phase 1 boostability assessment, including local reactions, systemic events, AEs, and SAEs following Dose 3 and Dose 4. These are assessed for up to 7 days post-dose or 1 month post-dose.",
+            "children": []
+          },
+          {
+            "node_id": "3.3.2",
+            "title": "Vaccine Efficacy Endpoints (for Phase 2/3 Only)",
+            "level": 3,
+            "start_page": 36,
+            "end_page": 36,
+            "summary": "This section describes exploratory vaccine efficacy endpoints for Phase 2/3, including COVID-19 incidence during blinded follow-up and in participants who received BNT162b2 at initial randomization or subsequently. It also covers asymptomatic SARS-CoV-2 infection in participants with prior serological or virological evidence.",
+            "children": []
+          },
+          {
+            "node_id": "3.3.3",
+            "title": "Immunogenicity Endpoints",
+            "level": 3,
+            "start_page": 37,
+            "end_page": 37,
+            "summary": "This subsection outlines exploratory immunogenicity endpoints for Phase 1 and Phase 2/3, including various SARS-CoV-2 neutralizing titers and S-binding IgG levels at different time points. It specifically covers assessments for boostability and variant-specific responses.",
+            "children": []
+          },
+          {
+            "node_id": "3.3.4",
+            "title": "Additional Endpoints (for Phase 2/3 Only)",
+            "level": 3,
+            "start_page": 37,
+            "end_page": 37,
+            "summary": "This section lists additional exploratory endpoints for Phase 2/3, encompassing separate summaries for HIV-positive participants, identification of SARS-CoV-2 variants, and neutralizing titers for unspecified VOCs. It also includes the assessment of cell-mediated immune responses.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "3.4",
+        "title": "Baseline and Other Variables",
+        "level": 2,
+        "start_page": 37,
+        "end_page": 38,
+        "summary": "This section defines baseline data collected prior to Dose 1 and other variables relevant to participant characteristics and study conduct. It covers demographics, medical history, physical examination findings, e-diary completion, and prior/concomitant medications and vaccines.",
+        "children": [
+          {
+            "node_id": "3.4.1",
+            "title": "Demographics, Medical History, and Physical Examination",
+            "level": 3,
+            "start_page": 38,
+            "end_page": 38,
+            "summary": "This subsection defines demographic variables such as age, sex, race, ethnicity, and BMI (for Phase 2/3), along with their derivation. It also outlines the categorization of medical history according to MedDRA and the scope of physical examinations for Phase 1 and Phase 2/3 participants.",
+            "children": []
+          },
+          {
+            "node_id": "3.4.2",
+            "title": "E-Diary Completion",
+            "level": 3,
+            "start_page": 38,
+            "end_page": 38,
+            "summary": "This section defines criteria for e-diary transmission and completion, crucial for assessing local reactions, systemic events, and antipyretic medication use. An e-diary is considered transmitted if any data is present and complete if all expected data for 7 days are available.",
+            "children": []
+          },
+          {
+            "node_id": "3.4.3",
+            "title": "Prior/Concomitant Vaccines and Concomitant Medications",
+            "level": 3,
+            "start_page": 39,
+            "end_page": 39,
+            "summary": "This subsection specifies the collection of data on prior/concomitant vaccinations and medications. It outlines the recording period for all vaccinations (from 28 days prior to study enrollment) and for prohibited medications, as well as current medications at baseline for Phase 1 participants.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "3.5",
+        "title": "Safety Endpoints",
+        "level": 2,
+        "start_page": 39,
+        "end_page": 39,
+        "summary": "This brief section refers back to the detailed descriptions of local reactions, systemic events, Adverse Events (AEs), and Serious Adverse Events (SAEs) provided earlier in the primary safety endpoints section. It serves as a cross-reference for safety endpoint definitions.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "4",
+    "title": "ANALYSIS SETS (POPULATIONS FOR ANALYSIS)",
+    "level": 1,
+    "start_page": 39,
+    "end_page": 41,
+    "summary": "This section outlines the different populations used for analysis, including the safety, booster safety, evaluable immunogenicity (Dose 1, Dose 2, Dose 3 booster), all-available immunogenicity, evaluable efficacy (7 days, 14 days, seroconversion, asymptomatic surveillance), and all-available efficacy populations. It emphasizes that important protocol deviations will be determined and participants excluded from relevant analysis populations prior to unblinded analysis.",
+    "children": []
+  },
+  {
+    "node_id": "5",
+    "title": "GENERAL METHODOLOGY AND CONVENTIONS",
+    "level": 1,
+    "start_page": 42,
+    "end_page": 51,
+    "summary": "This section details the overarching statistical methodology and conventions applied throughout the study, including blinding protocols, hypothesis testing, sample size considerations, and methods for analyzing binary, count, and continuous data. It also addresses the management of missing data.",
+    "children": [
+      {
+        "node_id": "5.1",
+        "title": "Hypotheses and Decision Rules",
+        "level": 2,
+        "start_page": 42,
+        "end_page": 47,
+        "summary": "This subsection outlines the specific hypotheses for vaccine efficacy and immunogenicity, including noninferiority assessments for age bridging and variant protection. It also details the sample size calculations for each phase and endpoint, along with multiplicity considerations to control Type I error rates.",
+        "children": [
+          {
+            "node_id": "5.1.1",
+            "title": "Vaccine Efficacy Hypothesis",
+            "level": 3,
+            "start_page": 42,
+            "end_page": 42,
+            "summary": "This section defines the primary efficacy endpoints for Phase 2/3, evaluating Vaccine Efficacy (VE) against confirmed COVID-19 using a beta-binomial model. VE is defined as 100 x (1 - IRR) and assessed sequentially, with success declared if VE > 30% with high posterior probability.",
+            "children": []
+          },
+          {
+            "node_id": "5.1.2",
+            "title": "Immunogenicity Hypothesis",
+            "level": 3,
+            "start_page": 43,
+            "end_page": 43,
+            "summary": "This section outlines immunogenicity hypotheses, including noninferiority bridging between age groups and for boostability/protection against emerging VOCs. Noninferiority is assessed based on geometric mean ratios (GMRs) of neutralizing titers with a 1.5-fold margin and differences in seroresponse percentages with a 10% margin.",
+            "children": [
+              {
+                "node_id": "5.1.2.1",
+                "title": "Hypothesis for Immunogenicity Bridging of 12 to 15 Years to 16 to 25 Years",
+                "level": 4,
+                "start_page": 43,
+                "end_page": 43,
+                "summary": "This section details the hypothesis for evaluating noninferiority of immune response in participants aged 12-15 years compared to 16-25 years. Noninferiority is met if the lower limit of the 95% CI for the Geometric Mean Ratio (GMR) of SARS-CoV-2 neutralizing titers is greater than 0.67 (1.5-fold margin).",
+                "children": []
+              },
+              {
+                "node_id": "5.1.2.2",
+                "title": "Hypothesis for Boostability and Protection Against Emerging SARS-CoV-2 VOCs",
+                "level": 4,
+                "start_page": 43,
+                "end_page": 43,
+                "summary": "This section outlines hypotheses for assessing boostability and protection against emerging VOCs based on GMRs of neutralizing titers and differences in seroresponse percentages. Noninferiority is declared if the lower limit of the alpha-adjusted CI for GMR is >0.67 (and point estimate ≥0.8) or for seroresponse difference is > -10%.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "5.1.3",
+            "title": "Sample Size",
+            "level": 3,
+            "start_page": 44,
+            "end_page": 46,
+            "summary": "This section details the sample size calculations for various study phases and endpoints, including Phase 1, efficacy against COVID-19 and asymptomatic infection, immunogenicity bridging, and boostability/VOC protection. It provides the rationale and power analyses for achieving statistical significance for each objective.",
+            "children": [
+              {
+                "node_id": "5.1.3.1",
+                "title": "Phase 1",
+                "level": 4,
+                "start_page": 44,
+                "end_page": 44,
+                "summary": "Phase 1 involves 13 vaccine groups, each comprising 15 participants (12 active vaccine, 3 placebo), totaling 195 participants. This sample size is designed for preliminary safety and immunogenicity assessment.",
+                "children": []
+              },
+              {
+                "node_id": "5.1.3.2",
+                "title": "Efficacy Against COVID-19",
+                "level": 4,
+                "start_page": 44,
+                "end_page": 44,
+                "summary": "For Phase 2/3, a total of approximately 164 confirmed COVID-19 cases are targeted to provide 90% power to conclude Vaccine Efficacy (VE) > 30%. This requires approximately 43,998 participants, considering a 1.3% illness rate and 20% nonevaluable rate.",
+                "children": []
+              },
+              {
+                "node_id": "5.1.3.3",
+                "title": "Efficacy Against Asymptomatic Infection",
+                "level": 4,
+                "start_page": 44,
+                "end_page": 44,
+                "summary": "To assess efficacy against asymptomatic SARS-CoV-2 infection, approximately 53 asymptomatic cases provide 90% power for VE > 20%, assuming a true VE of 70%. If true VE is 50%, 206 cases are needed for the same power.",
+                "children": []
+              },
+              {
+                "node_id": "5.1.3.4",
+                "title": "Immunogenicity Bridging of 12 to 15 Years to 16 to 25 Years",
+                "level": 4,
+                "start_page": 44,
+                "end_page": 44,
+                "summary": "A random sample of 280 participants from each age group (12-15 and 16-25 years) will be selected for immunogenicity bridging. This provides 90.4% power to declare noninferiority in neutralizing antibody Geometric Mean Ratios (GMRs) after the second dose.",
+                "children": []
+              },
+              {
+                "node_id": "5.1.3.5",
+                "title": "Boostability and Protection Against Emerging SARS-CoV-2 VOCs",
+                "level": 4,
+                "start_page": 45,
+                "end_page": 45,
+                "summary": "To assess boostability and VOC protection, approximately 300 participants per group are enrolled, with 240 evaluable participants contributing to immunogenicity evaluation. This sample size provides sufficient power for noninferiority evaluations based on GMR and seroresponse rates, with multiplicity adjustments.",
+                "children": []
+              },
+              {
+                "node_id": "5.1.3.6",
+                "title": "Safety",
+                "level": 4,
+                "start_page": 46,
+                "end_page": 46,
+                "summary": "This section presents a table illustrating the probability of observing at least one Adverse Event (AE) based on assumed true event rates and different sample sizes. For example, with 12 participants and a 10% true AE rate, there is a 72% chance of observing at least one AE.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "5.1.4",
+            "title": "Multiplicity Considerations",
+            "level": 3,
+            "start_page": 47,
+            "end_page": 47,
+            "summary": "This section outlines the strategies for controlling Type I error rates across multiple objectives and populations. It specifies that no hypothesis testing or adjustments are applied in Phase 1, while Bayesian approaches and alpha splitting are used for Phase 2/3 vaccine efficacy and immunogenicity, respectively.",
+            "children": [
+              {
+                "node_id": "5.1.4.1",
+                "title": "Phase 1",
+                "level": 4,
+                "start_page": 47,
+                "end_page": 47,
+                "summary": "For Phase 1 of the study, no formal hypothesis testing is conducted. Therefore, no multiplicity adjustments are applied to the analyses in this phase.",
+                "children": []
+              },
+              {
+                "node_id": "5.1.4.2",
+                "title": "Phase 2/3 Vaccine Efficacy",
+                "level": 4,
+                "start_page": 47,
+                "end_page": 47,
+                "summary": "For Phase 2/3 vaccine efficacy endpoints, a Bayesian approach is used, with boundaries for efficacy and success criteria adjusted to control the overall Type I error at 0.025. This ensures robust statistical inference for the primary efficacy outcomes.",
+                "children": []
+              },
+              {
+                "node_id": "5.1.4.3",
+                "title": "Phase 2/3 Immunogenicity",
+                "level": 4,
+                "start_page": 47,
+                "end_page": 47,
+                "summary": "For Phase 2/3 immunogenicity, Type I error control is managed by evaluating objectives for vaccine-experienced and vaccine-naive participants independently, with no adjustments between these populations. Within each population, the 1-sided alpha of 0.025 is equally split (0.0125) across different estimands (GMR or seroresponse) and tested sequentially.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "5.2",
+        "title": "General Methods",
+        "level": 2,
+        "start_page": 48,
+        "end_page": 50,
+        "summary": "This section details the general statistical methods used for analyzing binary, count, and continuous data. It describes how descriptive statistics, confidence intervals, geometric means, fold rises, ratios, and reverse cumulative distribution curves are computed.",
+        "children": [
+          {
+            "node_id": "5.2.1",
+            "title": "Analyses for Binary Data",
+            "level": 3,
+            "start_page": 48,
+            "end_page": 49,
+            "summary": "This subsection describes the analysis methods for binary data, including descriptive statistics (percentage, numerator, denominator) and 95% Confidence Intervals (CIs). It specifies using the Clopper-Pearson method for exact CIs for single groups, Miettinen and Nurminen for between-group differences, and an adjusted Wald interval for within-group matched proportions.",
+            "children": []
+          },
+          {
+            "node_id": "5.2.2",
+            "title": "Analyses for Count Data",
+            "level": 3,
+            "start_page": 49,
+            "end_page": 49,
+            "summary": "This section describes the analysis of count data, such as the number of events observed, using Poisson distribution. It details how incidence rates are estimated (events divided by person-years of follow-up) and how exact confidence limits for the incidence rate are derived using the chi-square distribution.",
+            "children": []
+          },
+          {
+            "node_id": "5.2.3",
+            "title": "Analyses for Continuous Data",
+            "level": 3,
+            "start_page": 50,
+            "end_page": 50,
+            "summary": "This subsection outlines descriptive statistics for continuous variables (n, mean, median, standard deviation, min, max) and specific methods for immunogenicity data. It covers the calculation of geometric means, geometric mean fold rises, geometric mean ratios, geometric mean fold rise ratios, and reverse cumulative distribution curves.",
+            "children": [
+              {
+                "node_id": "5.2.3.1",
+                "title": "Geometric Means",
+                "level": 4,
+                "start_page": 50,
+                "end_page": 50,
+                "summary": "This section describes the calculation of geometric means (GMTs/GMCs) and their 95% Confidence Intervals (CIs) for immunogenicity results like SARS-CoV-2 neutralizing titers and IgG levels. Values are log-transformed for calculation and then exponentiated back to the original scale.",
+                "children": []
+              },
+              {
+                "node_id": "5.2.3.2",
+                "title": "Geometric Mean Fold Rises",
+                "level": 4,
+                "start_page": 50,
+                "end_page": 50,
+                "summary": "Geometric Mean Fold Rises (GMFRs) are calculated as the ratio of post-vaccination results to pre-vaccination results, limited to participants with nonmissing values at both time points. GMFRs and their 95% CIs are derived by exponentiating the mean difference of logarithmically transformed assay results.",
+                "children": []
+              },
+              {
+                "node_id": "5.2.3.3",
+                "title": "Geometric Mean Ratios",
+                "level": 4,
+                "start_page": 50,
+                "end_page": 50,
+                "summary": "Geometric Mean Ratios (GMRs) and their 95% CIs are provided for SARS-CoV-2 neutralizing titers and IgG levels, limited to participants with nonmissing values. GMRs are calculated by exponentiating the mean difference of logarithmically transformed assay results, used for within-group and between-group comparisons, with noninferiority criteria specified.",
+                "children": []
+              },
+              {
+                "node_id": "5.2.3.4",
+                "title": "Geometric Mean Fold Rise Ratios",
+                "level": 4,
+                "start_page": 51,
+                "end_page": 51,
+                "summary": "This section mentions the potential exploration of ratios of Geometric Mean Fold Rises (GMFRs). Specifically, it refers to the ratio of GMFR A (SARS-CoV-2 neutralizing titer) to GMFR B (S1-binding IgG) and GMFR C (RBD-binding IgG), representing comparative fold rises after vaccination.",
+                "children": []
+              },
+              {
+                "node_id": "5.2.3.5",
+                "title": "Reverse Cumulative Distribution Curves",
+                "level": 4,
+                "start_page": 51,
+                "end_page": 51,
+                "summary": "Reverse Cumulative Distribution Curves (RCDCs) are empirical plots showing the proportion of participants with assay values equal to or exceeding a specified value. These curves use a step function to connect data points, with points on the left side of the step.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "5.3",
+        "title": "Methods to Manage Missing Data",
+        "level": 2,
+        "start_page": 51,
+        "end_page": 51,
+        "summary": "This section outlines the rules for handling missing data, specifying that endpoint-specific rules are described in their respective sections. It notes that Pfizer data standard rules will be applied for imputing partial dates for Adverse Events (AEs) and mentions sensitivity analysis for missing COVID-19 test data in efficacy endpoints.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "6",
+    "title": "ANALYSES AND SUMMARIES",
+    "level": 1,
+    "start_page": 52,
+    "end_page": 83,
+    "summary": "This section provides detailed plans for analyzing and summarizing all primary, secondary, and exploratory endpoints, covering safety, immunogenicity, and vaccine efficacy. It specifies analysis sets, time points, methodologies, handling of missing data, and reporting results, including specific metrics and graphical representations.",
+    "children": [
+      {
+        "node_id": "6.1",
+        "title": "Primary Endpoint(s)",
+        "level": 2,
+        "start_page": 52,
+        "end_page": 60,
+        "summary": "This subsection details the main and supplementary analyses for primary safety, immunogenicity, and vaccine efficacy endpoints. It specifies the estimands, analysis sets, time points, methodologies (e.g., descriptive statistics, GMRs, seroresponse differences, Bayesian models), and reporting results for each endpoint.",
+        "children": [
+          {
+            "node_id": "6.1.1",
+            "title": "Safety Endpoints",
+            "level": 3,
+            "start_page": 52,
+            "end_page": 56,
+            "summary": "This section outlines the primary safety analyses for local reactions, systemic events, Adverse Events (AEs), Serious Adverse Events (SAEs), and hematology/chemistry parameters. It specifies the analysis sets, time points, descriptive statistical methodologies, and reporting formats for each endpoint.",
+            "children": [
+              {
+                "node_id": "6.1.1.1",
+                "title": "Local Reactions",
+                "level": 4,
+                "start_page": 52,
+                "end_page": 52,
+                "summary": "This subsection details the primary analysis of local reactions (redness, swelling, pain) within 7 days after each dose using descriptive statistics on the safety or booster safety populations. It also covers supplementary analyses for duration and onset day, with results presented by maximum severity and cumulatively.",
+                "children": [
+                  {
+                    "node_id": "6.1.1.1.1",
+                    "title": "Main Analysis",
+                    "level": 5,
+                    "start_page": 52,
+                    "end_page": 52,
+                    "summary": "The main analysis focuses on the percentage of participants reporting local reactions within 7 days after each dose. Descriptive statistics, including counts, percentages, and Clopper-Pearson 95% CIs, will be used, presenting results by maximum severity and cumulatively, excluding confirmed e-diary errors.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "6.1.1.1.2",
+                    "title": "Supplementary Analyses",
+                    "level": 5,
+                    "start_page": 52,
+                    "end_page": 52,
+                    "summary": "Supplementary analyses will summarize the duration (days) and onset day of each local reaction after each dose. These continuous endpoints will be presented with descriptive statistics (n, mean, median, standard deviation, minimum, maximum) for each vaccine group, excluding confirmed e-diary errors.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.1.1.2",
+                "title": "Systemic Events",
+                "level": 4,
+                "start_page": 53,
+                "end_page": 53,
+                "summary": "This subsection details the primary analysis of systemic events (fever, fatigue, headache, chills, vomiting, diarrhea, muscle/joint pain) within 7 days after each dose using descriptive statistics. Supplementary analyses cover duration and onset day, with results presented by maximum severity and cumulatively, also including antipyretic medication use.",
+                "children": [
+                  {
+                    "node_id": "6.1.1.2.1",
+                    "title": "Main Analysis",
+                    "level": 5,
+                    "start_page": 53,
+                    "end_page": 53,
+                    "summary": "The main analysis calculates the percentage of participants reporting systemic events within 7 days after each dose using descriptive statistics. Results include counts, percentages, and Clopper-Pearson 95% CIs, presented by maximum severity and cumulatively across severity levels.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "6.1.1.2.2",
+                    "title": "Supplementary Analyses",
+                    "level": 5,
+                    "start_page": 53,
+                    "end_page": 53,
+                    "summary": "Supplementary analyses will summarize the duration and onset day of each systemic event after each dose using descriptive statistics (n, mean, median, standard deviation, minimum, maximum). The use of antipyretic medication will also be summarized similarly, but without severity levels.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.1.1.3",
+                "title": "Adverse Events",
+                "level": 4,
+                "start_page": 54,
+                "end_page": 54,
+                "summary": "This subsection describes the main and supplementary analyses for Adverse Events (AEs) within specified periods (e.g., Dose 1 to 1 month after second dose). It employs descriptive statistics for all phases, with Phase 2/3 utilizing a 3-tier approach and presenting 95% CIs and p-values for risk differences.",
+                "children": [
+                  {
+                    "node_id": "6.1.1.3.1",
+                    "title": "Main Analysis",
+                    "level": 5,
+                    "start_page": 54,
+                    "end_page": 54,
+                    "summary": "The main analysis estimates the percentage of participants reporting AEs during specified periods, using descriptive statistics for all phases and a 3-tier approach for Phase 2/3. For Tier 1 and 2 events, 95% CIs for between-group differences and asymptotic p-values for Tier 1 events will be provided, with partial AE dates imputed.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "6.1.1.3.2",
+                    "title": "Supplementary Analyses",
+                    "level": 5,
+                    "start_page": 55,
+                    "end_page": 55,
+                    "summary": "Supplementary analyses will summarize immediate Adverse Events (AEs) occurring within the first 30 minutes after each dose for each vaccine group. AEs reported after informed consent but prior to the first vaccination will be listed but not included in these analyses.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.1.1.4",
+                "title": "Serious Adverse Events",
+                "level": 4,
+                "start_page": 55,
+                "end_page": 55,
+                "summary": "This section outlines the main analyses for Serious Adverse Events (SAEs), focusing on the percentage of participants reporting SAEs within specified periods after vaccination. Descriptive statistics, including counts, percentages, and Clopper-Pearson 95% CIs, will be provided for each vaccine group, with partial SAE dates imputed.",
+                "children": [
+                  {
+                    "node_id": "6.1.1.4.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 55,
+                    "end_page": 55,
+                    "summary": "The main analyses estimate the percentage of participants reporting SAEs from Dose 1 to 6 months after Dose 2 (or 1 month after last dose for boosters). Descriptive statistics (counts, percentages, Clopper-Pearson 95% CIs) categorized by MedDRA terms will be provided for each vaccine group, with partial SAE dates imputed.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.1.1.5",
+                "title": "Hematology and Chemistry Parameters (for Phase 1 Only)",
+                "level": 4,
+                "start_page": 55,
+                "end_page": 56,
+                "summary": "This subsection details the main analyses for hematology and chemistry laboratory parameters, exclusively for Phase 1 participants. It focuses on the percentage of participants with abnormal values and grading shifts at specific time points after Dose 1 and Dose 2, using descriptive statistics.",
+                "children": [
+                  {
+                    "node_id": "6.1.1.5.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 55,
+                    "end_page": 56,
+                    "summary": "The main analyses for Phase 1 assess the percentage of participants with abnormal hematology and chemistry values and grading shifts at 1 and 7 days after Dose 1, and 7 days after Dose 2. Descriptive statistics, including counts, percentages, and Clopper-Pearson 2-sided 95% CIs, will be provided, with no imputation for missing values.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "6.1.2",
+            "title": "Immunogenicity Endpoints (for the Phase 3 Subset for Evaluation of Boostability and Protection Against Emerging VOCs Only)",
+            "level": 3,
+            "start_page": 56,
+            "end_page": 59,
+            "summary": "This section outlines main analyses for primary immunogenicity endpoints in the Phase 3 subset evaluating boostability and protection against emerging VOCs. It covers SARS-CoV-2 reference strain and SA variant neutralizing titers and seroresponse rates, utilizing GMRs and differences in percentages for noninferiority assessments.",
+            "children": [
+              {
+                "node_id": "6.1.2.1",
+                "title": "SARS-CoV-2 Reference Strain NT and SA NT at 1 Month After Dose 3 vs Reference Strain NT at 1 Month After Dose 2 in BNT162b2-Experienced Participants",
+                "level": 4,
+                "start_page": 56,
+                "end_page": 57,
+                "summary": "This subsection details the main analyses comparing SARS-CoV-2 Reference Strain and SA Variant Neutralizing Titers (NTs) in BNT162b2-experienced participants. It assesses Geometric Mean Ratios (GMRs) at 1 month after Dose 3 versus 1 month after Dose 2, with noninferiority declared if the 2-sided 97.5% CI for GMR is >0.67 and point estimate ≥0.8.",
+                "children": [
+                  {
+                    "node_id": "6.1.2.1.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 56,
+                    "end_page": 57,
+                    "summary": "Main analyses assess GMRs of SARS-CoV-2 reference strain and SA NTs in BNT162b2-experienced participants at 1 month after Dose 3 versus Dose 2. GMRs and 2-sided 97.5% CIs are calculated from logarithmically transformed titers, with noninferiority declared if the lower bound of the CI is >0.67 and the point estimate ≥0.8. Missing data are not imputed, and values below LLOQ are set to 0.5 × LLOQ.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.1.2.2",
+                "title": "Seroresponse to the Reference Strain and SA Strain at 1 Month After Dose 3 vs Seroresponse to the Reference Strain at 1 Month After Dose 2 in BNT162b2-Experienced Participants",
+                "level": 4,
+                "start_page": 57,
+                "end_page": 58,
+                "summary": "This section outlines the main analyses for seroresponse differences to reference and SA strains in BNT162b2-experienced participants at 1 month after Dose 3 versus 1 month after Dose 2. Noninferiority is declared if the lower bound of the 2-sided 97.5% CI for the difference in percentages is > -10%, using the adjusted Wald interval for matched proportions.",
+                "children": [
+                  {
+                    "node_id": "6.1.2.2.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 57,
+                    "end_page": 58,
+                    "summary": "Main analyses assess the difference in seroresponse percentages to reference and SA strains in BNT162b2-experienced participants at 1 month after Dose 3 vs Dose 2. The 2-sided 97.5% CIs for differences are calculated using the adjusted Wald interval for matched proportions. Noninferiority is declared if the lower bound of the CI is > -10%. Missing data are not imputed, and values below LLOQ are set to 0.5 × LLOQ.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.1.2.3",
+                "title": "SARS-CoV-2 SA NT at 1 Month After Dose 2 vs Reference Strain NT at 1 Month After Dose 2 in BNT162b2-Naive Participants",
+                "level": 4,
+                "start_page": 58,
+                "end_page": 59,
+                "summary": "This subsection describes the main analyses comparing SARS-CoV-2 SA Neutralizing Titers (NTs) after two doses of BNT162b2SA to reference strain NTs after two doses of BNT162b2 in BNT162b2-naive participants. It uses Geometric Mean Ratios (GMRs) to assess noninferiority, requiring the lower bound of the 2-sided 97.5% CI for GMR to be >0.67 and the point estimate ≥0.8.",
+                "children": [
+                  {
+                    "node_id": "6.1.2.3.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 58,
+                    "end_page": 59,
+                    "summary": "Main analyses assess the GMR of SA NT at 1 month after 2 doses of BNT162b2SA to reference strain NT at 1 month after 2 doses of BNT162b2 in BNT162b2-naive participants. GMRs and 2-sided 97.5% CIs are derived from logarithmically transformed titers. Noninferiority is declared if the lower bound of the CI is >0.67 and the point estimate ≥0.8. Missing data are not imputed, and values below LLOQ are set to 0.5 × LLOQ.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.1.2.4",
+                "title": "Seroresponse to the SA Strain at 1 Month After Dose 2 vs Seroresponse to the Reference Strain at 1 Month After Dose 2 in BNT162b2-Naive Participants",
+                "level": 4,
+                "start_page": 59,
+                "end_page": 59,
+                "summary": "This subsection outlines the main analyses for comparing seroresponse to the SA strain after two doses of BNT162b2SA versus seroresponse to the reference strain after two doses of BNT162b2 in BNT162b2-naive participants. Noninferiority is declared if the lower bound of the 2-sided 97.5% CI for the difference in percentages is > -10%, calculated using the Miettinen and Nurminen method.",
+                "children": [
+                  {
+                    "node_id": "6.1.2.4.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 59,
+                    "end_page": 59,
+                    "summary": "Main analyses assess the difference in seroresponse percentages to the SA strain at 1 month after 2 doses of BNT162b2SA vs. the reference strain at 1 month after 2 doses of BNT162b2 in BNT162b2-naive participants. 2-sided 97.5% CIs for the difference are calculated using the Miettinen and Nurminen method. Noninferiority is declared if the lower bound of the CI is > -10%. Missing data are not imputed, and values below LLOQ are set to 0.5 × LLOQ.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "6.1.3",
+            "title": "Vaccine Efficacy Endpoints (for Phase 2/3 Only)",
+            "level": 3,
+            "start_page": 59,
+            "end_page": 60,
+            "summary": "This section details the main, sensitivity, and supplemental analyses for primary vaccine efficacy endpoints in Phase 2/3. It focuses on COVID-19 incidence per 1000 person-years of follow-up, using a Bayesian beta-binomial model for assessment, with provisions for missing data imputation and analyses across different time intervals or variant strains.",
+            "children": [
+              {
+                "node_id": "6.1.3.1",
+                "title": "COVID-19 Incidence per 1000 Person-Years of Follow-up",
+                "level": 4,
+                "start_page": 59,
+                "end_page": 60,
+                "summary": "This subsection details the main, sensitivity, and supplemental analyses for COVID-19 incidence per 1000 person-years of follow-up in Phase 2/3. It estimates Vaccine Efficacy (VE) using a Bayesian beta-binomial model for confirmed cases starting 7 days after Dose 2, with provisions for missing data imputation and further analyses over time or for different variants.",
+                "children": [
+                  {
+                    "node_id": "6.1.3.1.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 59,
+                    "end_page": 60,
+                    "summary": "Main analyses for Vaccine Efficacy (VE) against confirmed COVID-19 are performed using a Bayesian beta-binomial model for cases from 7 days after Dose 2. VE is estimated as 100 x (1 - IRR), with posterior probability of VE > 30% reported. Missing efficacy data are not imputed.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "6.1.3.1.2",
+                    "title": "Sensitivity and Supplemental Analyses",
+                    "level": 5,
+                    "start_page": 60,
+                    "end_page": 60,
+                    "summary": "Sensitivity analyses for missing efficacy data will use fully conditional specification or tipping point methods. Supplemental analyses include updated efficacy with accrued data, VE at different follow-up intervals and against variant strains, time-to-event analysis with Kaplan-Meier curves, and methods for crossover adjustment.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "6.2",
+        "title": "Secondary Endpoints",
+        "level": 2,
+        "start_page": 61,
+        "end_page": 74,
+        "summary": "This subsection outlines the statistical analyses for all secondary immunogenicity and vaccine efficacy endpoints. It specifies analysis populations, time points, methodologies (e.g., GMs, GMFRs, percentages of seroresponse, IRR-based VE), and handling of missing data for various outcomes across study phases.",
+        "children": [
+          {
+            "node_id": "6.2.1",
+            "title": "Immunogenicity Endpoints",
+            "level": 3,
+            "start_page": 61,
+            "end_page": 70,
+            "summary": "This section details the statistical analysis of secondary immunogenicity endpoints for Phase 1 and Phase 2/3. It covers SARS-CoV-2 neutralizing titers, S1-binding, and RBD-binding IgG levels, using geometric means, fold rises, and ratios, along with seroresponse percentages. Analyses are based on evaluable populations, with no imputation for missing serology data.",
+            "children": [
+              {
+                "node_id": "6.2.1.1",
+                "title": "SARS-CoV-2 Neutralizing Titers (Phase 1)",
+                "level": 4,
+                "start_page": 61,
+                "end_page": 62,
+                "summary": "This subsection describes the main analyses for SARS-CoV-2 neutralizing titers in Phase 1. It estimates Geometric Mean Titers (GMTs), Geometric Mean Fold Rises (GMFRs), and proportions of participants achieving a ≥4-fold rise from baseline, presenting results with 95% CIs. Data below LLOQ are set to 0.5 × LLOQ.",
+                "children": [
+                  {
+                    "node_id": "6.2.1.1.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 61,
+                    "end_page": 62,
+                    "summary": "Main analyses calculate GMTs, GMFRs (pre- to post-vaccination), and percentages of participants with ≥4-fold rise in SARS-CoV-2 neutralizing titers. GMs and GMFRs are derived from log-transformed data with 2-sided CIs. Percentages use Clopper-Pearson 95% CIs. Missing data are not imputed; values below LLOQ are set to 0.5 × LLOQ.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.2.1.2",
+                "title": "S1-Binding IgG Levels and RBD-Binding IgG Levels (Phase 1)",
+                "level": 4,
+                "start_page": 62,
+                "end_page": 63,
+                "summary": "This subsection describes the main analyses for S1-binding IgG and RBD-binding IgG levels in Phase 1. It estimates Geometric Mean Concentrations (GMCs), Geometric Mean Fold Rises (GMFRs), and proportions of participants achieving a ≥4-fold rise from baseline, presenting results with 95% CIs. Data below LLOQ are set to 0.5 × LLOQ.",
+                "children": [
+                  {
+                    "node_id": "6.2.1.2.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 62,
+                    "end_page": 63,
+                    "summary": "Main analyses calculate GMCs, GMFRs (pre- to post-vaccination), and percentages of participants with ≥4-fold rise in S1-binding and RBD-binding IgG levels. GMs and GMFRs are derived from log-transformed data with 2-sided CIs. Percentages use Clopper-Pearson 95% CIs. Missing data are not imputed; values below LLOQ are set to 0.5 × LLOQ.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.2.1.3",
+                "title": "SARS-CoV-2 Neutralizing Titers vs SARS-CoV-2 S1-Binding IgG Levels and RBD-Binding IgG Levels (Phase 1)",
+                "level": 4,
+                "start_page": 63,
+                "end_page": 64,
+                "summary": "This section outlines the main analyses for comparing SARS-CoV-2 neutralizing titers against S1-binding and RBD-binding IgG levels in Phase 1. It calculates Geometric Mean Ratios (GMRs) and their 2-sided 95% CIs for these comparisons, limiting analyses to participants with nonmissing values for both measures at each time point. Data below LLOQ are set to 0.5 × LLOQ.",
+                "children": [
+                  {
+                    "node_id": "6.2.1.3.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 63,
+                    "end_page": 64,
+                    "summary": "Main analyses calculate GMRs of SARS-CoV-2 neutralizing titers to S1-binding and RBD-binding IgG levels, along with 2-sided 95% CIs. These are derived from logarithmically transformed assay results, limited to participants with nonmissing values for both measures. Missing data are not imputed; values below LLOQ are set to 0.5 × LLOQ.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.2.1.4",
+                "title": "SARS-CoV-2 Neutralizing Titers in Participants 12 to 15 Years of Age vs Those 16 to 25 Years of Age (Phase 2/3)",
+                "level": 4,
+                "start_page": 64,
+                "end_page": 64,
+                "summary": "This subsection details the main and supplemental analyses for SARS-CoV-2 neutralizing titers, comparing participants aged 12-15 years to those 16-25 years in Phase 2/3. It assesses noninferiority based on the Geometric Mean Ratio (GMR) of titers at 1 month after Dose 2, with an additional summary of seroresponse percentages.",
+                "children": [
+                  {
+                    "node_id": "6.2.1.4.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 64,
+                    "end_page": 64,
+                    "summary": "Main analyses compare SARS-CoV-2 neutralizing titers between 12-15 and 16-25 year-olds using GMRs and 2-sided 95% CIs. Noninferiority is declared if the lower bound of the CI for GMR is >0.67. Missing data are not imputed; values below LLOQ are set to 0.5 × LLOQ.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "6.2.1.4.2",
+                    "title": "Supplemental Analyses",
+                    "level": 5,
+                    "start_page": 64,
+                    "end_page": 64,
+                    "summary": "Supplemental analyses will provide counts, percentages, and 2-sided 95% CIs for participants achieving seroresponse (≥4-fold rise from baseline) in each age group. The difference in percentages between the 12-15 year and 16-25 year age groups will also be presented.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.2.1.5",
+                "title": "SARS-CoV-2 SA NT and Reference Strain NT at 1 Month After Dose 3 vs Reference Strain NT at 1 Month After Dose 2 in BNT162b2-Experienced Participants",
+                "level": 4,
+                "start_page": 65,
+                "end_page": 66,
+                "summary": "This section outlines main analyses for secondary immunogenicity endpoints in BNT162b2-experienced participants, comparing SARS-CoV-2 SA and reference strain Neutralizing Titers (NTs) at 1 month after Dose 3 versus reference strain NT at 1 month after Dose 2. Geometric Mean Ratios (GMRs) are calculated for noninferiority assessment, following the establishment of primary immunogenicity endpoints.",
+                "children": [
+                  {
+                    "node_id": "6.2.1.5.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 65,
+                    "end_page": 66,
+                    "summary": "Main analyses calculate GMRs and 2-sided 97.5% CIs for SA NT and reference strain NTs at 1 month after Dose 3 versus reference strain NT at 1 month after Dose 2 in BNT162b2-experienced participants. Noninferiority is assessed sequentially with specific criteria after primary endpoints are met. Missing data are not imputed; values below LLOQ are set to 0.5 × LLOQ.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.2.1.6",
+                "title": "Seroresponse to the SA Strain and Reference Strain at 1 Month After Dose 3 vs Seroresponse to the Reference Strain at 1 Month After Dose 2 in BNT162b2-Experienced Participants",
+                "level": 4,
+                "start_page": 66,
+                "end_page": 66,
+                "summary": "This section outlines main analyses for secondary immunogenicity endpoints, comparing seroresponse to the SA strain and reference strain at 1 month after Dose 3 versus seroresponse to the reference strain at 1 month after Dose 2 in BNT162b2-experienced participants. Differences in percentages of participants with seroresponse are calculated for noninferiority assessment, following the establishment of primary immunogenicity endpoints.",
+                "children": [
+                  {
+                    "node_id": "6.2.1.6.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 66,
+                    "end_page": 66,
+                    "summary": "Main analyses assess the difference in seroresponse percentages to SA and reference strains at 1 month after Dose 3 vs. reference strain at 1 month after Dose 2 in BNT162b2-experienced participants. 2-sided 97.5% CIs for the difference are calculated, and noninferiority is assessed sequentially with specific criteria after primary endpoints are met. Missing data are not imputed; values below LLOQ are set to 0.5 × LLOQ.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.2.1.7",
+                "title": "SARS-CoV-2 SA NT After Dose 3 (BNT162b2-Experienced Participants)",
+                "level": 4,
+                "start_page": 66,
+                "end_page": 67,
+                "summary": "This subsection describes main analyses for SARS-CoV-2 SA Neutralizing Titers (NT) after Dose 3 in BNT162b2-experienced participants, specifically comparing SA NT at 1 month after BNT162b2SA to SA NT at 1 month after BNT162b2. It uses Geometric Mean Ratios (GMRs) and differences in seroresponse percentages for evaluation.",
+                "children": [
+                  {
+                    "node_id": "6.2.1.7.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 66,
+                    "end_page": 67,
+                    "summary": "Main analyses calculate GMRs and differences in seroresponse percentages for SARS-CoV-2 SA NT at 1 month after Dose 3 in BNT162b2-experienced participants. 2-sided 95% CIs are derived, comparing BNT162b2SA to BNT162b2. Missing data are not imputed; values below LLOQ are set to 0.5 × LLOQ.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.2.1.8",
+                "title": "SARS-CoV-2 SA NT at 1 Month After Dose 4 vs Reference Strain NT at 1 Month After Dose 2 in BNT162b2-Experienced Participants",
+                "level": 4,
+                "start_page": 67,
+                "end_page": 68,
+                "summary": "This section outlines main analyses for SARS-CoV-2 SA Neutralizing Titers (NT) at 1 month after Dose 4 versus reference strain NT at 1 month after Dose 2 in BNT162b2-experienced participants. It evaluates Geometric Mean Ratios (GMRs) and differences in seroresponse percentages, with 2-sided 95% CIs.",
+                "children": [
+                  {
+                    "node_id": "6.2.1.8.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 67,
+                    "end_page": 68,
+                    "summary": "Main analyses calculate GMRs and differences in seroresponse percentages for SARS-CoV-2 SA NT at 1 month after Dose 4 versus reference strain NT at 1 month after Dose 2 in BNT162b2-experienced participants. 2-sided 95% CIs are derived. Missing data are not imputed; values below LLOQ are set to 0.5 × LLOQ.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.2.1.9",
+                "title": "SARS-CoV-2 SA NT at 1 Month After Dose 2 (BNT162b2-Naive Participants)",
+                "level": 4,
+                "start_page": 68,
+                "end_page": 69,
+                "summary": "This subsection describes the main analyses for SARS-CoV-2 SA Neutralizing Titers (NT) at 1 month after Dose 2 in BNT162b2-naive participants. It calculates Geometric Mean Ratios (GMRs) and 2-sided 97.5% CIs for comparisons, assessing statistical superiority if primary noninferiority is established.",
+                "children": [
+                  {
+                    "node_id": "6.2.1.9.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 68,
+                    "end_page": 69,
+                    "summary": "Main analyses calculate GMRs and 2-sided 97.5% CIs for SA NT at 1 month after Dose 2 in BNT162b2-naive participants, comparing BNT162b2SA to BNT162b2. Statistical superiority is assessed if primary noninferiority is established (lower bound of CI > 1). Missing data are not imputed; values below LLOQ are set to 0.5 × LLOQ.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.2.1.10",
+                "title": "Seroresponse to the SA Strain at 1 Month After Dose 2 (BNT162b2-Naive Participants)",
+                "level": 4,
+                "start_page": 69,
+                "end_page": 69,
+                "summary": "This subsection outlines the main analyses for seroresponse to the SA strain at 1 month after Dose 2 in BNT162b2-naive participants. It calculates the difference in percentages of participants with seroresponse and 2-sided 97.5% CIs, assessing statistical superiority if primary noninferiority is established.",
+                "children": [
+                  {
+                    "node_id": "6.2.1.10.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 69,
+                    "end_page": 69,
+                    "summary": "Main analyses calculate the difference in seroresponse percentages to the SA strain at 1 month after Dose 2 in BNT162b2-naive participants, comparing BNT162b2SA to BNT162b2. 2-sided 97.5% CIs are derived, and statistical superiority is assessed if primary noninferiority is established (lower bound of CI > 0%). Missing data are not imputed; values below LLOQ are set to 0.5 × LLOQ.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.2.1.11",
+                "title": "Reference Strain NT at 1 Month After Dose 2 (BNT162b2-Naive Participants)",
+                "level": 4,
+                "start_page": 69,
+                "end_page": 70,
+                "summary": "This section details the main analyses for reference strain Neutralizing Titers (NT) at 1 month after Dose 2 in BNT162b2-naive participants. It calculates Geometric Mean Ratios (GMRs) and differences in seroresponse percentages, with associated 2-sided 95% CIs, comparing BNT162b2SA to BNT162b2.",
+                "children": [
+                  {
+                    "node_id": "6.2.1.11.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 69,
+                    "end_page": 70,
+                    "summary": "Main analyses calculate GMRs and differences in seroresponse percentages for reference strain NT at 1 month after Dose 2 in BNT162b2-naive participants. 2-sided 95% CIs are derived. Missing data are not imputed; values below LLOQ are set to 0.5 × LLOQ.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "6.2.2",
+            "title": "Vaccine Efficacy Endpoints (for Phase 2/3 Only)",
+            "level": 3,
+            "start_page": 70,
+            "end_page": 74,
+            "summary": "This section outlines the main and supplemental analyses for secondary vaccine efficacy endpoints in Phase 2/3. It covers COVID-19 incidence (overall, severe, and CDC-defined symptoms) and asymptomatic SARS-CoV-2 infection based on N-binding antibody seroconversion or central laboratory-confirmed NAAT, estimated as 100 x (1 - IRR) with 95% CIs.",
+            "children": [
+              {
+                "node_id": "6.2.2.1",
+                "title": "COVID-19 Incidence per 1000 Person-Years of Follow-up",
+                "level": 4,
+                "start_page": 70,
+                "end_page": 71,
+                "summary": "This subsection describes the main analyses for COVID-19 incidence per 1000 person-years of follow-up from 14 days after Dose 2. It estimates Vaccine Efficacy (VE) using the same methods as primary VE endpoints, covering participants with and without prior infection evidence, with missing efficacy data not imputed.",
+                "children": [
+                  {
+                    "node_id": "6.2.2.1.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 70,
+                    "end_page": 71,
+                    "summary": "Main analyses for COVID-19 incidence per 1000 person-years of follow-up from 14 days after Dose 2 will apply the same methods as primary VE endpoints. Missing efficacy data will not be imputed in these analyses.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.2.2.2",
+                "title": "Confirmed Severe COVID-19 Incidence per 1000 Person-Years of Follow-up",
+                "level": 4,
+                "start_page": 71,
+                "end_page": 72,
+                "summary": "This subsection details main and supplemental analyses for confirmed severe COVID-19 incidence per 1000 person-years of follow-up in Phase 2/3. It estimates Vaccine Efficacy (VE) from 7 and 14 days after Dose 2, in populations with and without prior infection, and includes descriptive summaries and supportive analyses using CDC definitions.",
+                "children": [
+                  {
+                    "node_id": "6.2.2.2.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 71,
+                    "end_page": 71,
+                    "summary": "Main analyses for confirmed severe COVID-19 incidence from 7 and 14 days after Dose 2 will use the same method as primary VE endpoints. Missing efficacy data will not be imputed in these analyses.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "6.2.2.2.2",
+                    "title": "Supplemental Analyses",
+                    "level": 5,
+                    "start_page": 71,
+                    "end_page": 72,
+                    "summary": "Supplemental analyses will descriptively summarize all severe COVID-19 cases after Dose 1. Updated efficacy analyses will be performed after final efficacy analyses, providing point estimates of VE, 2-sided 95% CIs adjusted for surveillance time, and posterior probabilities, along with supportive analyses using the CDC definition of severe COVID-19.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.2.2.3",
+                "title": "Confirmed COVID-19 Incidence per 1000 Person-Years of Follow-up (According to the CDC-Defined Symptoms)",
+                "level": 4,
+                "start_page": 72,
+                "end_page": 73,
+                "summary": "This subsection outlines the main analyses for confirmed COVID-19 incidence per 1000 person-years of follow-up, specifically according to CDC-defined symptoms. Vaccine Efficacy (VE) is estimated from 7 and 14 days after Dose 2, in populations with and without prior infection, using the Clopper-Pearson method adjusted for surveillance time.",
+                "children": [
+                  {
+                    "node_id": "6.2.2.3.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 72,
+                    "end_page": 73,
+                    "summary": "Main analyses estimate VE for confirmed COVID-19 incidence based on CDC-defined symptoms from 7 and 14 days after Dose 2. VE is calculated as 100 x (1 - IRR) with 2-sided 95% CIs derived using the Clopper-Pearson method adjusted for surveillance time. Missing efficacy data are not imputed.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.2.2.4",
+                "title": "Incidence of Asymptomatic SARS-CoV-2 Infection per 1000 Person-Years of Follow-up (According to the N-Binding Antibody Seroconversion)",
+                "level": 4,
+                "start_page": 73,
+                "end_page": 73,
+                "summary": "This subsection details the main and supplemental analyses for asymptomatic SARS-CoV-2 infection incidence based on N-binding antibody seroconversion. Vaccine Efficacy (VE) is estimated as 100 x (1 - IRR) with 95% CIs, in participants without prior infection, and demonstrated if the lower bound of VE is >20%.",
+                "children": [
+                  {
+                    "node_id": "6.2.2.4.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 73,
+                    "end_page": 73,
+                    "summary": "Main analyses estimate VE for asymptomatic SARS-CoV-2 infection based on N-binding antibody seroconversion, defined as a positive N-binding antibody post-Dose 2 without prior infection evidence. VE is calculated as 100 x (1 - IRR) with 2-sided 95% CIs (Clopper-Pearson, adjusted for surveillance time). Success requires VE > 20% lower bound. Missing efficacy data are not imputed.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "6.2.2.4.2",
+                    "title": "Supplemental Analyses",
+                    "level": 5,
+                    "start_page": 73,
+                    "end_page": 73,
+                    "summary": "Supplemental analyses will provide descriptive summaries of Vaccine Efficacy (VE) against asymptomatic infection over different time intervals, such as prior to 1 month after Dose 2 and from 1 month after Dose 2 onward. These summaries will include associated 2-sided 95% CIs, calculated using the same method as the main analyses.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.2.2.5",
+                "title": "Incidence of Asymptomatic SARS-CoV-2 Infection per 1000 Person-Years of Follow-up (According to the Central Laboratory-Confirmed NAAT)",
+                "level": 4,
+                "start_page": 74,
+                "end_page": 74,
+                "summary": "This subsection details the main analyses for asymptomatic SARS-CoV-2 infection incidence based on central laboratory-confirmed NAAT. Vaccine Efficacy (VE) is estimated as 100 x (1 - IRR) with 95% CIs, in participants without prior infection evidence who consented to surveillance. Success requires the lower bound of VE to be >20%.",
+                "children": [
+                  {
+                    "node_id": "6.2.2.5.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 74,
+                    "end_page": 74,
+                    "summary": "Main analyses estimate VE for asymptomatic SARS-CoV-2 infection based on central laboratory-confirmed NAAT in consented participants without prior infection. VE is calculated as 100 x (1 - IRR) with 2-sided 95% CIs (Clopper-Pearson, adjusted for surveillance time). Success requires VE > 20% lower bound. Missing efficacy data are not imputed.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "6.3",
+        "title": "Exploratory Endpoints",
+        "level": 2,
+        "start_page": 74,
+        "end_page": 83,
+        "summary": "This subsection details the analyses for all exploratory endpoints, covering safety, vaccine efficacy, and immunogenicity, as well as additional analyses. It specifies the estimands, analysis sets, time points, methodologies (e.g., descriptive statistics, GMRs, seroresponse percentages), and handling of missing data for various outcomes across study phases.",
+        "children": [
+          {
+            "node_id": "6.3.1",
+            "title": "Safety Endpoints (for Phase 1 Boostability Assessment Only)",
+            "level": 3,
+            "start_page": 74,
+            "end_page": 77,
+            "summary": "This section outlines the main and supplementary analyses for exploratory safety endpoints in Phase 1 boostability assessment. It covers local reactions, systemic events, Adverse Events (AEs), and Serious Adverse Events (SAEs) following Dose 3 and Dose 4, using descriptive statistics to summarize outcomes.",
+            "children": [
+              {
+                "node_id": "6.3.1.1",
+                "title": "Local Reactions",
+                "level": 4,
+                "start_page": 74,
+                "end_page": 75,
+                "summary": "This subsection details the main and supplementary analyses for local reactions after Dose 3 in Phase 1 participants. It focuses on the percentage of participants reporting reactions within 7 days, along with duration and onset day, using descriptive statistics and Clopper-Pearson 95% CIs, excluding e-diary errors.",
+                "children": [
+                  {
+                    "node_id": "6.3.1.1.1",
+                    "title": "Main Analysis",
+                    "level": 5,
+                    "start_page": 74,
+                    "end_page": 75,
+                    "summary": "The main analysis estimates the percentage of Phase 1 participants reporting local reactions within 7 days after Dose 3. Descriptive statistics, including counts, percentages, and Clopper-Pearson 2-sided 95% CIs, will be presented by maximum severity and cumulatively, excluding confirmed e-diary errors.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "6.3.1.1.2",
+                    "title": "Supplementary Analyses",
+                    "level": 5,
+                    "start_page": 75,
+                    "end_page": 75,
+                    "summary": "Supplementary analyses will summarize the duration (days) and onset day of each local reaction after Dose 3. These continuous endpoints will be presented with descriptive statistics (n, mean, median, standard deviation, minimum, and maximum) for each initial vaccine and age group, excluding confirmed e-diary errors.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.3.1.2",
+                "title": "Systemic Events",
+                "level": 4,
+                "start_page": 75,
+                "end_page": 76,
+                "summary": "This subsection details the main and supplementary analyses for systemic events after Dose 3 in Phase 1 participants. It covers the percentage of participants reporting events within 7 days, along with duration, onset day, and the use of antipyretic medication, using descriptive statistics and Clopper-Pearson 95% CIs.",
+                "children": [
+                  {
+                    "node_id": "6.3.1.2.1",
+                    "title": "Main Analysis",
+                    "level": 5,
+                    "start_page": 75,
+                    "end_page": 76,
+                    "summary": "The main analysis estimates the percentage of Phase 1 participants reporting systemic events within 7 days after Dose 3. Descriptive statistics, including counts, percentages, and Clopper-Pearson 2-sided 95% CIs, will be presented by maximum severity and cumulatively.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "6.3.1.2.2",
+                    "title": "Supplementary Analyses",
+                    "level": 5,
+                    "start_page": 76,
+                    "end_page": 76,
+                    "summary": "Supplementary analyses will summarize the duration and onset day of each systemic event after Dose 3 using descriptive statistics. The use of antipyretic medication will also be summarized similarly, but without severity levels, for each initial vaccine and age group.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.3.1.3",
+                "title": "Adverse Events",
+                "level": 4,
+                "start_page": 76,
+                "end_page": 77,
+                "summary": "This subsection describes the main and supplementary analyses for Adverse Events (AEs) from Dose 3 to 1 month after Dose 3, and from Dose 4 to 1 month after Dose 4, in Phase 1 participants. Descriptive statistics, including counts, percentages, and Clopper-Pearson 95% CIs, will be used, with imputation for partial AE dates.",
+                "children": [
+                  {
+                    "node_id": "6.3.1.3.1",
+                    "title": "Main Analysis",
+                    "level": 5,
+                    "start_page": 76,
+                    "end_page": 77,
+                    "summary": "The main analysis estimates the percentage of Phase 1 participants reporting AEs from Dose 3 to 1 month after Dose 3, and from Dose 4 to 1 month after Dose 4. AEs will be categorized by MedDRA terms, and descriptive statistics (counts, percentages, Clopper-Pearson 95% CIs) will be provided for each initial vaccine and age group, with partial AE dates imputed.",
+                    "children": []
+                  },
+                  {
+                    "node_id": "6.3.1.3.2",
+                    "title": "Supplementary Analyses",
+                    "level": 5,
+                    "start_page": 77,
+                    "end_page": 77,
+                    "summary": "Supplementary analyses will summarize immediate Adverse Events (AEs) occurring within the first 30 minutes after Dose 3 and Dose 4. These summaries will be provided for each initial vaccine and age group.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.3.1.4",
+                "title": "Serious Adverse Events",
+                "level": 4,
+                "start_page": 77,
+                "end_page": 77,
+                "summary": "This subsection outlines the main analyses for Serious Adverse Events (SAEs) from Dose 3 to 1 month after Dose 3, and from Dose 4 to 1 month after Dose 4, in Phase 1 participants. Descriptive statistics, including counts, percentages, and Clopper-Pearson 95% CIs, will be provided for each initial vaccine and age group, with imputation for partial SAE dates.",
+                "children": [
+                  {
+                    "node_id": "6.3.1.4.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 77,
+                    "end_page": 77,
+                    "summary": "The main analyses estimate the percentage of Phase 1 participants reporting SAEs from Dose 3 to 1 month after Dose 3, and from Dose 4 to 1 month after Dose 4. SAEs will be categorized by MedDRA terms, and descriptive statistics (counts, percentages, Clopper-Pearson 95% CIs) will be provided for each initial vaccine and age group, with partial SAE dates imputed.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "6.3.2",
+            "title": "Vaccine Efficacy Endpoints (for Phase 2/3 Only)",
+            "level": 3,
+            "start_page": 77,
+            "end_page": 79,
+            "summary": "This section outlines the main analyses for exploratory vaccine efficacy endpoints in Phase 2/3. It covers COVID-19 incidence (blinded follow-up and overall) and asymptomatic SARS-CoV-2 infection based on central laboratory-confirmed NAAT, estimated as 100 x (1 - IRR).",
+            "children": [
+              {
+                "node_id": "6.3.2.1",
+                "title": "COVID-19 Incidence per 1000 Person-Years of Blinded Follow-up",
+                "level": 4,
+                "start_page": 77,
+                "end_page": 78,
+                "summary": "This subsection details the main analyses for COVID-19 incidence per 1000 person-years of blinded follow-up. It estimates Vaccine Efficacy (VE) based on confirmed COVID-19 from 7 days after Dose 2, in populations with and without prior infection, after primary objectives are met.",
+                "children": [
+                  {
+                    "node_id": "6.3.2.1.1",
+                    "title": "Main Analyses",
+                    "level": 5,
+                    "start_page": 77,
+                    "end_page": 78,
+                    "summary": "Main analyses estimate VE for confirmed COVID-19 incidence based on central laboratory or locally confirmed NAAT from 7 days after Dose 2 through the blinded follow-up period. VE is calculated as 100 x (1 - IRR) for participants with and without evidence of infection, after primary objectives are met.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "node_id": "6.3.2.2",
+                "title": "COVID-19 Incidence per 1000 Person-Years of Follow-up",
+                "level": 4,
+                "start_page": 78,
+                "end_page": 79,
+                "summary": "This section covers the main analyses for COVID-19 incidence per 1000 person-years of follow-up in Phase 2/3 participants who received BNT162b2 at initial randomization or subsequently. It estimates Vaccine Efficacy (VE) based on central laboratory or locally confirmed NAAT.",
+                "children": []
+              },
+              {
+                "node_id": "6.3.2.3",
+                "title": "Incidence of Asymptomatic SARS-CoV-2 Infection per 1000 Person-Years of Follow-up (According to the Central Laboratory-Confirmed NAAT).",
+                "level": 4,
+                "start_page": 79,
+                "end_page": 79,
+                "summary": "This subsection describes the main analyses for the incidence of asymptomatic SARS-CoV-2 infection per 1000 person-years of follow-up, based on central laboratory-confirmed NAAT. This assessment is for participants with serological or virological evidence of past SARS-CoV-2 infection (up to the start of the asymptomatic surveillance period).",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "6.3.3",
+            "title": "Immunogenicity Endpoints",
+            "level": 3,
+            "start_page": 80,
+            "end_page": 83,
+            "summary": "This section outlines the analyses for exploratory immunogenicity endpoints in Phase 1 (boostability assessment) and Phase 2/3. It includes SARS-CoV-2 reference-strain and SA-variant neutralizing titers, S-binding IgG levels, and serological responses in various participant groups, including those receiving booster doses or with confirmed COVID-19.",
+            "children": [
+              {
+                "node_id": "6.3.3.1",
+                "title": "SARS-CoV-2 Reference-Strain Neutralizing Titers, SARS-CoV-2 SA-Variant Neutralizing Titers, and Full-Length S-Binding or S1-Binding IgG Levels (Phase 1)",
+                "level": 4,
+                "start_page": 80,
+                "end_page": 81,
+                "summary": "This section details the exploratory immunogenicity analyses in Phase 1 participants for boostability assessment. It covers SARS-CoV-2 reference-strain and SA-variant neutralizing titers, along with full-length S-binding or S1-binding IgG levels, assessed at various time points after Dose 3 and 12 months after Dose 2.",
+                "children": []
+              },
+              {
+                "node_id": "6.3.3.2",
+                "title": "SARS-CoV-2 Reference-Strain Neutralizing Titers and SARS-CoV-2 SA-Variant Neutralizing Titers at 1 Month After Dose 3 vs SARS-CoV-2 Reference-Strain Neutralizing Titers at 1 Month After Dose 2 (Phase 1)",
+                "level": 4,
+                "start_page": 81,
+                "end_page": 81,
+                "summary": "This section describes the exploratory immunogenicity analyses comparing SARS-CoV-2 reference-strain and SA-variant neutralizing titers at 1 month after Dose 3 versus reference-strain titers at 1 month after Dose 2, specifically in Phase 1 participants. This assessment contributes to understanding boostability and variant protection.",
+                "children": []
+              },
+              {
+                "node_id": "6.3.3.3",
+                "title": "SARS-CoV-2 Neutralizing Titers, and Full-length S-Binding or S1-Binding IgG Levels (Phase 2/3)",
+                "level": 4,
+                "start_page": 81,
+                "end_page": 82,
+                "summary": "This section outlines exploratory immunogenicity endpoints for Phase 2/3 participants. It includes SARS-CoV-2 neutralizing titers and full-length S-binding or S1-binding IgG levels, assessed at baseline, 1 month, and 6 months after Dose 2.",
+                "children": []
+              },
+              {
+                "node_id": "6.3.3.4",
+                "title": "SARS-CoV-2 Neutralizing Titers in Participants Receiving Booster Doses (Phase 3)",
+                "level": 4,
+                "start_page": 82,
+                "end_page": 82,
+                "summary": "This section details exploratory analyses for SARS-CoV-2 neutralizing titers in Phase 3 participants who received booster doses. It assesses responses to a third dose of BNT162b2 (at 30 µg or lower doses of 5 or 10 µg) or a third or fourth dose of BNT162b2SA.",
+                "children": []
+              },
+              {
+                "node_id": "6.3.3.5",
+                "title": "Serological Responses in Participants With Confirmed COVID-19, Confirmed Severe COVID-19, and SARS-CoV-2 Infection Without Confirmed COVID-19",
+                "level": 4,
+                "start_page": 83,
+                "end_page": 83,
+                "summary": "This section describes exploratory analyses of serological responses in participants with varying COVID-19 statuses. It includes those with confirmed COVID-19, confirmed severe COVID-19, and SARS-CoV-2 infection without confirmed COVID-19.",
+                "children": []
+              },
+              {
+                "node_id": "6.3.3.6",
+                "title": "SARS-CoV-2 NTs for Any VOCs (Phase 3, Boostability and Protection Against Emerging VOCs)",
+                "level": 4,
+                "start_page": 83,
+                "end_page": 83,
+                "summary": "This section outlines exploratory analyses for SARS-CoV-2 Neutralizing Titers (NTs) for any Variants of Concern (VOCs) not already specified. These analyses are conducted in the Phase 3 subset for boostability and protection against emerging VOCs.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "6.3.4",
+            "title": "Additional Analysis",
+            "level": 3,
+            "start_page": 83,
+            "end_page": 83,
+            "summary": "This section outlines additional exploratory analyses, including separate summaries of all safety, immunogenicity, and efficacy endpoints for participants with confirmed stable HIV. It also covers the identification of SARS-CoV-2 variants, SARS-CoV-2 NTs for any unspecified VOCs, and cell-mediated immune response endpoints.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "6.4",
+        "title": "Subgroup Analysis",
+        "level": 2,
+        "start_page": 84,
+        "end_page": 84,
+        "summary": "This section outlines plans for conducting subgroup analyses. The specific details regarding the subgroups to be analyzed are not provided in this excerpt but imply further stratification of the study population.",
+        "children": []
+      },
+      {
+        "node_id": "6.5",
+        "title": "Baseline and Other Summaries and Analyses",
+        "level": 2,
+        "start_page": 84,
+        "end_page": 85,
+        "summary": "This section details the summaries and analyses for baseline characteristics and other study-related variables. It includes demographic characteristics, medical history, study conduct (participant disposition, blood samples, e-diaries), study vaccination exposure, and prior/concomitant vaccinations and medications.",
+        "children": [
+          {
+            "node_id": "6.5.1",
+            "title": "Baseline Summaries",
+            "level": 3,
+            "start_page": 84,
+            "end_page": 84,
+            "summary": "This subsection describes the summarization of participant characteristics at baseline. It includes demographic data and medical history, providing an overview of the study population before intervention.",
+            "children": [
+              {
+                "node_id": "6.5.1.1",
+                "title": "Demographic Characteristics",
+                "level": 4,
+                "start_page": 84,
+                "end_page": 84,
+                "summary": "This section outlines the summarization of demographic characteristics, including age, sex, race, and ethnicity. For Phase 2/3, BMI will also be included, providing a comprehensive profile of the study participants.",
+                "children": []
+              },
+              {
+                "node_id": "6.5.1.2",
+                "title": "Medical History",
+                "level": 4,
+                "start_page": 84,
+                "end_page": 84,
+                "summary": "This section describes the summarization of medical history data, categorized according to MedDRA terms. It includes comorbidities that might increase the risk for severe COVID-19 illness, providing essential baseline health information.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "6.5.2",
+            "title": "Study Conduct and Participant Disposition",
+            "level": 3,
+            "start_page": 84,
+            "end_page": 85,
+            "summary": "This subsection details summaries related to the conduct of the study and the disposition of participants. It includes participant disposition, collection of blood samples for assays, and e-diary completion rates.",
+            "children": [
+              {
+                "node_id": "6.5.2.1",
+                "title": "Participant Disposition",
+                "level": 4,
+                "start_page": 84,
+                "end_page": 84,
+                "summary": "This section describes the summarization of participant disposition, tracking enrollment, randomization, completion, and discontinuation from the study. This provides an overview of participant flow and retention.",
+                "children": []
+              },
+              {
+                "node_id": "6.5.2.2",
+                "title": "Blood Samples for Assay",
+                "level": 4,
+                "start_page": 84,
+                "end_page": 84,
+                "summary": "This section outlines the summarization of data related to blood sample collection for assays. This includes information on the number of samples collected and their utilization in the study analyses.",
+                "children": []
+              },
+              {
+                "node_id": "6.5.2.3",
+                "title": "E-Diaries",
+                "level": 4,
+                "start_page": 85,
+                "end_page": 85,
+                "summary": "This section describes the summarization of e-diary completion rates. This provides insight into participant adherence for recording local reactions, systemic events, and antipyretic medication use.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "6.5.3",
+            "title": "Study Vaccination Exposure",
+            "level": 3,
+            "start_page": 85,
+            "end_page": 85,
+            "summary": "This subsection describes the summarization of data related to participants' exposure to study vaccination. It specifically covers vaccination timing and administration details.",
+            "children": [
+              {
+                "node_id": "6.5.3.1",
+                "title": "Vaccination Timing and Administration",
+                "level": 4,
+                "start_page": 85,
+                "end_page": 85,
+                "summary": "This section details the summarization of vaccination timing and administration data. It includes information on when vaccinations were given and how they were administered to study participants.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node_id": "6.5.4",
+            "title": "Prior/Concomitant Vaccination and Concomitant Medications",
+            "level": 3,
+            "start_page": 85,
+            "end_page": 85,
+            "summary": "This subsection describes the summarization of prior and concomitant vaccinations and medications. This data provides context for potential interactions or confounding factors affecting study outcomes.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "node_id": "6.6",
+        "title": "Safety Summaries and Analyses",
+        "level": 2,
+        "start_page": 85,
+        "end_page": 85,
+        "summary": "This section provides a general reference to the detailed safety summaries and analyses, indicating that local reactions, systemic events, Adverse Events (AEs), and Serious Adverse Events (SAEs) are described within the primary safety endpoints section.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "node_id": "7",
+    "title": "ANALYSES TIMING",
+    "level": 1,
+    "start_page": 85,
+    "end_page": 89,
+    "summary": "This section specifies the timing of various analyses throughout the study, particularly focusing on the introduction and execution of interim analyses. It also details the role of the Data Monitoring Committee (DMC) in reviewing data and making recommendations.",
+    "children": [
+      {
+        "node_id": "7.1",
+        "title": "Introduction of Interim Analysis",
+        "level": 2,
+        "start_page": 85,
+        "end_page": 88,
+        "summary": "This section describes the introduction of interim analyses within the study, detailing the plan and boundaries for assessing efficacy and futility. It includes tables illustrating the statistical design operating characteristics for probability of success or failure at interim and final analyses.",
+        "children": []
+      },
+      {
+        "node_id": "7.2",
+        "title": "Interim Analyses and Summaries",
+        "level": 2,
+        "start_page": 88,
+        "end_page": 89,
+        "summary": "This subsection outlines the procedures for interim analyses and summaries, emphasizing their role in providing periodic data review. It also defines the function and responsibilities of the Data Monitoring Committee (DMC) in overseeing these analyses.",
+        "children": [
+          {
+            "node_id": "7.2.1",
+            "title": "Data Monitoring Committee",
+            "level": 3,
+            "start_page": 89,
+            "end_page": 89,
+            "summary": "This section briefly introduces the Data Monitoring Committee (DMC), highlighting its role in overseeing interim analyses and summaries. The DMC is responsible for reviewing unblinded data to ensure participant safety and study integrity.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "node_id": "8",
+    "title": "REFERENCES",
+    "level": 1,
+    "start_page": 89,
+    "end_page": 89,
+    "summary": "This section lists all references cited within the Statistical Analysis Plan. These references provide supporting information and methodologies for the analyses described in the document.",
+    "children": []
+  },
+  {
+    "node_id": "9",
+    "title": "APPENDICES",
+    "level": 1,
+    "start_page": 90,
+    "end_page": 100,
+    "summary": "This section introduces the appendices, which provide supplementary information and detailed explanations that support the main body of the Statistical Analysis Plan. These include lists of abbreviations, details on Bayesian design, and derivations for key metrics.",
+    "children": [
+      {
+        "node_id": "Appendix 1",
+        "title": "List of Abbreviations.",
+        "level": 2,
+        "start_page": 90,
+        "end_page": 91,
+        "summary": "This appendix provides a comprehensive list of all abbreviations used throughout the document. It ensures clarity and consistency in understanding the terminology within the Statistical Analysis Plan.",
+        "children": []
+      },
+      {
+        "node_id": "Appendix 2",
+        "title": "Details for Bayesian Design.",
+        "level": 2,
+        "start_page": 92,
+        "end_page": 93,
+        "summary": "This appendix provides detailed information regarding the Bayesian statistical design employed in the study. It includes specifics on the beta-binomial model and minimally informative prior distribution used for vaccine efficacy primary endpoints.",
+        "children": []
+      },
+      {
+        "node_id": "Appendix 3",
+        "title": "IRR and VE Derivation.",
+        "level": 2,
+        "start_page": 94,
+        "end_page": 98,
+        "summary": "This appendix provides detailed derivations for the Incidence Rate Ratio (IRR) and Vaccine Efficacy (VE). It explains the formulas and assumptions used to calculate these key metrics, particularly in the context of COVID-19 illness rates.",
+        "children": []
+      },
+      {
+        "node_id": "Appendix 4",
+        "title": "Asymptomatic Case Based on N-Binding Antibody Seroconversion.",
+        "level": 2,
+        "start_page": 99,
+        "end_page": 99,
+        "summary": "This appendix details the definition of an asymptomatic case based on N-binding antibody seroconversion. It specifies the criteria for identifying asymptomatic infections in participants without prior serological or virological evidence of SARS-CoV-2 infection.",
+        "children": []
+      },
+      {
+        "node_id": "Appendix 5",
+        "title": "Asymptomatic Case Based on Central Laboratory-Confirmed NAAT.",
+        "level": 2,
+        "start_page": 100,
+        "end_page": 100,
+        "summary": "This appendix provides the definition of an asymptomatic case based on central laboratory-confirmed Nucleic Acid Amplification Test (NAAT) results. It outlines the specific criteria for identifying asymptomatic infections using molecular testing.",
+        "children": []
+      }
+    ]
+  }
+]
